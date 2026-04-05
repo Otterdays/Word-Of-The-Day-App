@@ -1,0 +1,42 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local SDK / machine-specific
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/caches/
+.idea/workspace.xml
+.idea/deploymentTargetSelector.xml
+.idea/deviceManager.xml
+.idea/libraries/
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin
+.kotlin/
+
+# JVM / stray build output at repo root
+bin/
+*.class
+*.hprof
+
+# Stray sample at repo root (Android module is app/)
+/src/
+
+# Captures / outputs
+captures/
+*.apk
+*.aab
+*.ap_
+
+# NDK
+.externalNativeBuild
+.cxx/
