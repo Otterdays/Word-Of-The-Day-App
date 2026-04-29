@@ -156,6 +156,8 @@ Checklist-style plan from **current Gradle sample** to a **successful** phone + 
 
 `[2026-03-31]` Roadmap **status snapshot** added; §1–4, §6, and §8c annotated to match bootable `:app` (emulator-ready Word of the Day).
 
+`[2026-04-29]` Roadmap **§0–8** checklist closure (engineering): §§**4–6** shipped markers (**`LocalActivity`**, **`lintDebug`**, **JUnit**, **GitHub Actions**); §**8** pipeline/docs (**§8a–c**, §**8d** tooling, §**8e** criteria documented); §**8d** **30×90** word volume row stays open—see **[CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md)**.
+
 `[2026-04-29]` Roadmap: added **Status snapshot — 2026-04-29**; synced **§1–4**, **§8–9**, **§10e** checkboxes with current **`WordOfDayApp`**, **`JsonWordDataSource`**, DataStore; **`My_Thoughts.md`** closes **“today”** policy for v1; preserved historical § snapshot §2026-03-31.
 
 ## 8. Content system — Grade levels & themed categories
@@ -261,7 +263,7 @@ Move from hardcoded Kotlin list to structured JSON bundled in the APK.
   `[NOTE 2026-04-29]:` **`gradeLevel`** may be omitted per file; **`JsonWordDataSource`** applies the file’s **`GradeLevel`** on load.
 - [x] Build `JsonWordDataSource` using `kotlinx.serialization` to parse asset files.
 - [x] Update `WordRepository` to load from `JsonWordDataSource` instead of hardcoded list.
-- [x] Add fallback logic: if a grade×category combo has <7 words, borrow from adjacent grade. `[AMENDED 2026-04-29]:` **`WordRepository.gradeSearchOrder`** walks **ordinal ± spread** when pools empty.
+- [x] Add fallback logic: if a grade×category combo has <7 words, borrow from adjacent grade. `[AMENDED 2026-04-29]:` **`gradeSearchOrder`** (**`GradeSearchOrder.kt`**) walks **ordinal ± spread** when pools empty.
 - [x] Cache parsed word lists in memory (parse once at launch, not on every access). `[AMENDED 2026-04-29]:` **`JsonWordDataSource`** caches per grade after first load.
 
 ### 8d. Content volume targets

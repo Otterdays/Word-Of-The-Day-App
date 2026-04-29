@@ -6,7 +6,8 @@
 
 Software Bill of Materials for the planned **Kotlin + Jetpack Compose** Android app. Versions below are the **target baseline** for the first Android module; lock exact transitive versions in this file after the first successful Gradle resolve.
 
-**Last reviewed:** 2026-03-30
+**Last reviewed:** 2026-03-30  
+`[AMENDED 2026-04-29]:` Toolchain pin refreshed — **`gradle/libs.versions.toml`** declares **`agp = "9.2.0"`** (**Android Gradle Plugin** rows below).
 
 ---
 
@@ -17,12 +18,14 @@ Software Bill of Materials for the planned **Kotlin + Jetpack Compose** Android 
 | **Kotlin** | `2.3.20` | Language + standard library | [GitHub release v2.3.20](https://github.com/JetBrains/kotlin/releases/tag/v2.3.20) · [Kotlin repo (source)](https://github.com/JetBrains/kotlin) · [What’s new in 2.3.20](https://kotlinlang.org/docs/whatsnew2320.html) · [Release blog](https://blog.jetbrains.com/kotlin/2026/03/kotlin-2-3-20-released/) |
 | **Kotlin Gradle Plugin** (`org.jetbrains.kotlin.*`) | `2.3.20` | Android + JVM compilation in Gradle | [Plugin Portal: org.jetbrains.kotlin.android](https://plugins.gradle.org/plugin/org.jetbrains.kotlin.android/2.3.20) |
 
-`[AMENDED 2026-03-30]:` The `org.jetbrains.kotlin.android` plugin has been **removed** from both root and `:app` build files — AGP **9.1.0** handles Kotlin compilation internally. The Compose Compiler plugin (`org.jetbrains.kotlin.plugin.compose`) and Serialization plugin remain.
-| **Android Gradle Plugin (AGP)** | `9.1.0` | Android packaging, R8, resources | [AGP 9.1.0 release notes](https://developer.android.com/build/releases/agp-9-1-0-release-notes) · [About AGP](https://developer.android.com/build/releases/about-agp) |
-| **Gradle** | ≥ `9.3.1` (wrapper may use newer, e.g. 9.6.x) | Build orchestration | [Gradle releases](https://gradle.org/releases/) · [Compatibility (AGP ↔ Gradle)](https://developer.android.com/build/releases/gradle-plugin) |
+`[AMENDED 2026-03-30]:` The `org.jetbrains.kotlin.android` plugin has been **removed** from both root and `:app` build files — AGP **9.2.0** handles Kotlin compilation internally. `[NOTE]:` Was **9.1.0** when plugin removal landed; catalog now **`agp = "9.2.0"`**. The Compose Compiler plugin (`org.jetbrains.kotlin.plugin.compose`) and Serialization plugin remain.
+| **Android Gradle Plugin (AGP)** | `9.2.0` | Android packaging, R8, resources | [AGP 9.2.0 release notes](https://developer.android.com/build/releases/agp-9-2-0-release-notes) · [About AGP](https://developer.android.com/build/releases/about-agp) |
+| **Gradle** | ≥ `9.4.1` for AGP **9.2.x** (wrapper uses newer snapshot below — **≥ minimum**) | Build orchestration | [Gradle releases](https://gradle.org/releases/) · [Compatibility (AGP ↔ Gradle)](https://developer.android.com/build/releases/gradle-plugin) |
 | **JDK** | `17` (AGP default; `21` OK if team standardizes) | Toolchain for Kotlin/AGP | [AGP JDK guidance](https://developer.android.com/studio/intro/studio-config#jdk) · [Eclipse Temurin](https://adoptium.net/) |
 
-`[AMENDED 2026-03-30]:` The **Gradle** row is the **AGP 9.1.x minimum** (9.3.1+). **This repository does not use only that minimum** — it pins the **Gradle 9.6 nightly** snapshot below in **Gradle wrapper (pinned nightly)**.
+`[AMENDED 2026-03-30]:` **Pin:** Wrapper uses **Gradle 9.6 nightly** (see section below), above every AGP-required minimum.
+
+`[AMENDED 2026-04-29]:` **Compatibility:** **AGP 9.2.x** needs **Gradle ≥ 9.4.1** ([compatibility](https://developer.android.com/build/releases/gradle-plugin)); nightly **9.6.x** qualifies. Historical: **AGP 9.1.x** paired with Gradle **9.3.1+**.
 
 ---
 
@@ -89,6 +92,8 @@ Add rows here when dependencies are declared in Gradle. Each link points at the 
 | **androidx.window:window** (optional) | TBD | Foldable / large-screen helpers | [Window releases](https://developer.android.com/jetpack/androidx/releases/window) |
 
 `[2026-03-31]:` Root **`gradle.properties`** added with `org.gradle.jvmargs=-Xmx2048m` to avoid D8 heap exhaustion on `assembleDebug` with extended icon set.
+
+`[AMENDED 2026-04-29]:` **`junit:junit`** **`4.13.2`** — JVM unit tests (**`GradeSearchOrderTest`**); declared in **`gradle/libs.versions.toml`** as **`libs.junit`**.
 
 ---
 

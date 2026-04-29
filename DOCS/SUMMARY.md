@@ -45,6 +45,8 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 
 ## Status
 
+`[2026-04-29]` ROADMAP §**0–8** engineering items synced (§**8d** volume row + reading-level audit remain open); CI (**`.github/workflows/android-ci.yml`**), **`lintDebug`**, JVM **`GradeSearchOrder`** tests, **`LocalActivity`** + lemma **`heading()`**.
+
 `[2026-04-29]` Edge-to-edge inset pass: **`WindowInsets.safeDrawing`** on **Material3 `Scaffold`** (home/settings/onboarding) + **`calculateWindowSizeClass`** for adaptive home layout; catalog alias **`compose-material3-window-size`** (`material3-window-size-class`).
 
 `[2026-03-30]` `:app` Android module created — AGP 9.1.0, Kotlin 2.3.20, Compose BOM 2026.03.01. MVVM shell with HomeScreen, ViewModel, Repository (14 bundled words), M3 theme. Bootable.  

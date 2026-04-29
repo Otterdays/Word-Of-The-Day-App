@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 
+- `[2026-04-29]` **Roadmap §0–8 engineering closure:** **`GradeSearchOrder.kt`** + **`GradeSearchOrderTest`** (JUnit **4.13.2**); **`HomeScreen`** lemma **`heading()`** semantics + **`LocalActivity`** (lint **`ContextCastToActivity`**); **`.github/workflows/android-ci.yml`** (**`testDebugUnitTest`**, **`lintDebug`**, **`assembleDebug`**). [ROADMAP.md](./ROADMAP.md) §§**4–6**, **8** checkboxes synced; [SBOM.md](./SBOM.md) **JUnit** row.
+
 - `:app` Android module: `build.gradle.kts` with AGP **9.1.0**, Kotlin **2.3.20**, Compose BOM **2026.03.01**.
 - Gradle version catalog (`gradle/libs.versions.toml`) — centralizes all dependency versions.
 - `MainActivity` with edge-to-edge Compose shell.
@@ -23,6 +25,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Android resources: `strings.xml`, `themes.xml`.
 
 ### Changed
+
+- `[2026-04-29]` **Toolchain:** [SBOM](./SBOM.md) — **Android Gradle Plugin** **`9.2.0`** (**`gradle/libs.versions.toml`** **`agp`**); [AGP 9.2.0 release notes](https://developer.android.com/build/releases/agp-9-2-0-release-notes); Gradle compatibility (**≥ 9.4.1** for AGP 9.2.x), repo wrapper **9.6.x** nightly.
 
 - `[2026-04-29]` **Adaptive layout + edge-to-edge insets:** Material3 **`calculateWindowSizeClass`** (`compose-material3-window-size` / `material3-window-size-class`) on **`HomeScreen`**; **`Scaffold(contentWindowInsets = WindowInsets.safeDrawing)`** on home/settings/onboarding; removed redundant **`safeDrawingPadding`** where scaffold applies insets; loading spinner uses **`safeDrawingPadding`**. [SBOM](../SBOM.md) updated. [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md), **`scripts/inventory_word_assets.py`** (matrix + gap sum), **`scripts/ensure_general_category.py`** (GENERAL tag helper); [ROADMAP.md](./ROADMAP.md) §8d checklist rows + snapshot table pointer; **Pre-K** sample TECH lemmas (**screen**, **plug**). checkboxes updated for **`WordOfDayApp`** navigation, **`JsonWordDataSource`** / per-grade assets, refresh/share, onboarding/settings/DataStore, partial tablet/wide layout; **`My_Thoughts.md`** documents **“today”** (device default zone + **`dayOfYear`**).
 - `[2026-04-29]` Expanded bundled **`assets/words/*.json`** with multi-topic sample words per grade (Pre-K through Adult) aligned to MVP categories; appended six adult-tier topic samples.
