@@ -40,3 +40,7 @@ captures/
 # NDK
 .externalNativeBuild
 .cxx/
+
+# IDEs
+.idea/
+.vscode/

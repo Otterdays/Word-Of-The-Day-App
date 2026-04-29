@@ -62,8 +62,8 @@ This app follows modern Android development best practices with a clean, layered
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd gradle-9.6-sample
+   git clone https://github.com/Otterdays/Word-Of-The-Day-App.git
+   cd Word-Of-The-Day-App
    ```
 
 2. **Open in Android Studio**
@@ -80,13 +80,13 @@ This app follows modern Android development best practices with a clean, layered
    - Click the "Run" button (▶️) in Android Studio
    - Or use the command line:
      ```bash
-     ./gradlew installDebug
+     ./gradlew :app:installDebug
      ```
 
 ## 📂 Project Structure
 
 ```
-gradle-9.6-sample/
+Word-Of-The-Day-App/
 ├── app/
 │   └── src/main/
 │       ├── java/com/example/wordofday/
@@ -132,7 +132,7 @@ gradle-9.6-sample/
 
 ## 🧪 Testing
 
-The project includes comprehensive testing setup:
+The Gradle test tasks are configured, but there are currently no test sources committed.
 
 ```bash
 # Run unit tests

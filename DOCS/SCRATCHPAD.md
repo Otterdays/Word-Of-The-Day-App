@@ -23,6 +23,7 @@
 8. `[2026-03-30]` Added full MVVM app shell: `MainActivity`, `HomeViewModel`, `HomeScreen` (staggered animations), `WordRepository` (14 bundled words), Material 3 theme (ink/gold palette + dynamic color), sealed `HomeUiState`, adaptive launcher icon.
 9. `[2026-03-30]` SBOM: pinned **Gradle 9.6 nightly** `9.6.0-20260330000154+0000` documented; verified `gradle-wrapper.properties` uses `distributions-snapshots` URL.
 10. `[2026-03-29]` Added DOCS: SBOM, SUMMARY, ROADMAP, ARCHITECTURE, STYLE_GUIDE, CHANGELOG, My_Thoughts; verified Kotlin 2.3.20 and AGP 9.1.0 references via official pages.
+11. `[2026-04-29]` **Hygiene/docs/metadata:** tightened `.gitignore` (ignore `.idea/` + `.vscode/`), untracked committed IDE noise, fixed README clone/run commands, amended `DOCS/SUMMARY.md`, added `LICENSE` + GitHub issue/PR templates.
 
 ## Next steps
 

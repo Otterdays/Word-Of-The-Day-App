@@ -14,6 +14,8 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 
 `[AMENDED 2026-03-30]:` Replaced vague “9.6 snapshot” wording with the exact version string above.
 
+`[AMENDED 2026-04-29]:` Root Java sample is not tracked anymore; the repo is an Android multi-module project where the actual app lives in `:app`.
+
 ### Module layout
 
 | Module | Purpose |
@@ -45,3 +47,5 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 `[2026-03-30]` `:app` Android module created — AGP 9.1.0, Kotlin 2.3.20, Compose BOM 2026.03.01. MVVM shell with HomeScreen, ViewModel, Repository (14 bundled words), M3 theme. Bootable.  
 `[2026-03-30]` SBOM documents Gradle 9.6 nightly pin; Android module still not added.  
 `[2026-03-29]` Documentation and SBOM baseline created; Android app module and dependencies not yet implemented.
+
+`[2026-04-29]` Initial repo hygiene + metadata update pushed; `:app` is buildable with SDKs `min/target/compile = 26/36/36`.
