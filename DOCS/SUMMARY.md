@@ -49,3 +49,5 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 `[2026-03-29]` Documentation and SBOM baseline created; Android app module and dependencies not yet implemented.
 
 `[2026-04-29]` Initial repo hygiene + metadata update pushed; `:app` is buildable with SDKs `min/target/compile = 26/36/36`.
+
+`[AMENDED 2026-04-29]:` Word lists ship as **`assets/words/<grade>.json`** (see `GradeLevel.bundledWordsAssetPath`, `JsonWordDataSource`) instead of a single `words.json`.

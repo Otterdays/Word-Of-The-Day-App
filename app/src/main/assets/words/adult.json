@@ -1,22 +1,11 @@
 [
   {
-    "word": "brave",
-    "partOfSpeech": "adjective",
-    "pronunciation": "/brāv/",
-    "definition": "Showing courage; ready to face hard or dangerous things.",
-    "example": "The brave student asked a question even though the room was quiet.",
-    "etymology": "From Italian and French words for bold and wild.",
-    "gradeLevel": "GRADE_3",
-    "categories": ["GENERAL", "EMOTIONS"]
-  },
-  {
     "word": "serendipity",
     "partOfSpeech": "noun",
     "pronunciation": "/ˌserənˈdipədē/",
     "definition": "The occurrence and development of events by chance in a happy or beneficial way",
     "example": "A fortunate stroke of serendipity brought the two old friends together after decades apart.",
     "etymology": "Coined by Horace Walpole in 1754, from the Persian fairy tale 'The Three Princes of Serendip'",
-    "gradeLevel": "ADULT",
     "categories": ["GENERAL"]
   },
   {
@@ -26,7 +15,6 @@
     "definition": "Lasting for a very short time",
     "example": "The beauty of cherry blossoms is ephemeral, lasting only a few weeks each spring.",
     "etymology": "From Greek ephēmeros 'lasting only a day', from epi 'upon' + hēmera 'day'",
-    "gradeLevel": "ADULT",
     "categories": ["SCIENCE", "GENERAL"]
   },
   {
@@ -36,7 +24,6 @@
     "definition": "Sweet or musical; pleasant to hear",
     "example": "The mellifluous voice of the narrator made the audiobook a delight to listen to.",
     "etymology": "From Latin mellifluus, from mel 'honey' + fluere 'to flow'",
-    "gradeLevel": "ADULT",
     "categories": ["FOOD", "GENERAL"]
   },
   {
@@ -46,7 +33,6 @@
     "definition": "Present, appearing, or found everywhere",
     "example": "Smartphones have become ubiquitous in modern society.",
     "etymology": "From Latin ubiquitas, from ubique 'everywhere'",
-    "gradeLevel": "ADULT",
     "categories": ["TECH"]
   },
   {
@@ -56,7 +42,6 @@
     "definition": "Having a ready insight into and understanding of things",
     "example": "The perspicacious detective noticed the small clue that everyone else had missed.",
     "etymology": "From Latin perspicax, from perspicere 'to see through', from per- 'through' + specere 'to look'",
-    "gradeLevel": "ADULT",
     "categories": ["GENERAL"]
   },
   {
@@ -66,7 +51,6 @@
     "definition": "Too great or extreme to be expressed or described in words",
     "example": "The ineffable beauty of the sunset left everyone speechless.",
     "etymology": "From Latin ineffabilis, from in- 'not' + effabilis 'utterable', from effari 'to speak out'",
-    "gradeLevel": "ADULT",
     "categories": ["GENERAL"]
   },
   {
@@ -76,7 +60,6 @@
     "definition": "Extremely idealistic and unrealistic",
     "example": "His quixotic quest to eliminate all poverty was noble but impractical.",
     "etymology": "From Don Quixote, hero of Cervantes' novel, known for his impractical idealism",
-    "gradeLevel": "ADULT",
     "categories": ["SPORTS", "GENERAL"]
   },
   {
@@ -86,7 +69,6 @@
     "definition": "Optimistic or positive, especially in a difficult situation",
     "example": "Despite the setbacks, she remained sanguine about the project's eventual success.",
     "etymology": "From Latin sanguineus 'of blood', from sanguis 'blood'; in medieval physiology, blood was associated with a cheerful temperament",
-    "gradeLevel": "ADULT",
     "categories": ["SPORTS", "GENERAL"]
   },
   {
@@ -96,7 +78,6 @@
     "definition": "Little known; abstruse; difficult to understand",
     "example": "The professor's recondite theories were understood only by his most advanced students.",
     "etymology": "From Latin reconditus 'hidden, put away', past participle of recondere 'to put back, store up', from re- 'back' + condere 'to put, store'",
-    "gradeLevel": "ADULT",
     "categories": ["SCIENCE"]
   },
   {
@@ -106,7 +87,6 @@
     "definition": "The pleasant, earthy smell produced when rain falls on dry ground",
     "example": "After weeks of drought, the petrichor filled the air as the first drops of rain began to fall.",
     "etymology": "Coined in 1964 from Greek petros 'stone' + ichor 'the fluid that flows in the veins of the gods'",
-    "gradeLevel": "ADULT",
     "categories": ["SCIENCE", "ANIMALS"]
   }
 ]

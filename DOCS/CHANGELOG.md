@@ -24,6 +24,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+- `[2026-04-29]` Bundled vocabulary split into **`assets/words/<grade>.json`** (15 files). `GradeLevel` defines each file base name; [`JsonWordDataSource`](../app/src/main/java/com/example/wordofday/data/source/JsonWordDataSource.kt) parses and caches per grade; [`WordRepository`](../app/src/main/java/com/example/wordofday/data/repository/WordRepository.kt) loads only the requested grade for counts and searches **outward by grade** when a grade file is empty. Removed monolithic `assets/words.json`.
 - ROADMAP §8–10 fully rewritten: **per-grade granularity** (15 levels: Pre-K through Adult), 14 themed categories, JSON data store schema, content volume targets (~2,700 words MVP), content quality guidelines per grade band, onboarding UX flow, engagement features (history, favorites, quiz, streaks, sharing).
 - Converted root project from single-module Java app to multi-module Android parent (`settings.gradle.kts` + `build.gradle.kts`).
 - SBOM: documented **pinned Gradle 9.6 nightly** snapshot `9.6.0-20260330000154+0000` (wrapper `distributionUrl` on [distribution snapshots](https://services.gradle.org/distributions-snapshots/)); amended generic Gradle row with AGP-minimum vs. repo-pin note.
