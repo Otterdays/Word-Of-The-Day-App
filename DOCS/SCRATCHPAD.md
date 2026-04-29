@@ -11,7 +11,7 @@
 
 - None documented.
 
-## Last actions (most recent first)
+## Last actions (most recent LAST, AVOID MANY EDITS)
 
 1. `[2026-04-29]` **SBOM / AGP 9.2.0:** **`gradle/libs.versions.toml`** **`agp = "9.2.0"`** — [SBOM](./SBOM.md) toolchain row + Gradle minimum (**≥ 9.4.1**); [CHANGELOG](./CHANGELOG.md).
 
