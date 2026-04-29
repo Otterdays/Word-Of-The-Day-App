@@ -1,1 +1,61 @@
-[]
+[
+  {
+    "word": "cardiovascular",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˌkärdēōˈvaskyələr/",
+    "definition": "Relating to the heart and blood vessels.",
+    "example": "Running improves cardiovascular fitness.",
+    "categories": [
+      "SPORTS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pixel",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈpiksəl/",
+    "definition": "One tiny dot of color on a screen; millions make an image.",
+    "example": "That icon looks blurry when pixels are stretched.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "predator",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈpredədər/",
+    "definition": "An animal that hunts other animals for food.",
+    "example": "The shark is an apex predator in its reef habitat.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fermentation",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌfərmənˈtāSHən/",
+    "definition": "A chemical change microbes cause in food, like bread rising.",
+    "example": "Yogurt forms through fermentation of milk.",
+    "categories": [
+      "FOOD",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "momentum",
+    "partOfSpeech": "noun",
+    "pronunciation": "/mōˈmentəm/",
+    "definition": "Mass in motion; idea that keeps teams rolling forward.",
+    "example": "Early goals gave the team momentum.",
+    "categories": [
+      "SPORTS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  }
+]

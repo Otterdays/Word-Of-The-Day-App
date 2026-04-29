@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "word": "tournament",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈto͝ornəmənt/",
+    "definition": "A series of games where winners advance until one champion remains.",
+    "example": "The chess tournament lasted all weekend.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "enzyme",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈenzīm/",
+    "definition": "A natural helper in cells that speeds chemical reactions.",
+    "example": "Saliva contains enzymes that begin digestion.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "browser",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈbrouzər/",
+    "definition": "Software used to visit websites on the internet.",
+    "example": "She cleared cookies in her browser settings.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "marinate",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈmerəˌnāt/",
+    "definition": "To soak food in a flavored liquid before cooking.",
+    "example": "Let the tofu marinate for one hour.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nocturnal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/näkˈtərnl/",
+    "definition": "Active mostly at night.",
+    "example": "Owls are nocturnal hunters.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  }
+]

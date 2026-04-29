@@ -1,1 +1,123 @@
-[]
+[
+  {
+    "word": "drought",
+    "partOfSpeech": "noun",
+    "pronunciation": "/droud/",
+    "definition": "A long time with almost no rain.",
+    "example": "Farmers worried during the summer drought.",
+    "etymology": "From Old English drūgath.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stadium",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈstādēəm/",
+    "definition": "A large building where crowds watch sports.",
+    "example": "Fans filled the stadium before kickoff.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "download",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈdounˌlōd/",
+    "definition": "To copy a file from the internet onto your device.",
+    "example": "We download maps before a road trip.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seasoning",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈsēzəniNG/",
+    "definition": "Salt, herbs, or spices that add flavor to food.",
+    "example": "A pinch of seasoning improved the soup.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "migration",
+    "partOfSpeech": "noun",
+    "pronunciation": "/mīˈɡrāSHən/",
+    "definition": "When animals travel long distances each season.",
+    "example": "Bird migration follows warmer weather.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hurricane",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈhərəˌkān/",
+    "definition": "A huge spinning storm with powerful wind and rain.",
+    "example": "Families boarded windows before the hurricane arrived.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "overtime",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈōvərˌtīm/",
+    "definition": "Extra playing time when a game is tied at the buzzer.",
+    "example": "The hockey match went to overtime.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "firewall",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈfī(ə)rˌwôl/",
+    "definition": "Software that blocks unsafe traffic on a network.",
+    "example": "The school firewall filters unknown downloads.",
+    "categories": ["TECH", "GENERAL"]
+  },
+  {
+    "word": "quinoa",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkēnwä/",
+    "definition": "Tiny grain-like seeds cooked like rice for salads or bowls.",
+    "example": "She tossed quinoa with roasted vegetables.",
+    "categories": ["FOOD", "GENERAL"]
+  },
+  {
+    "word": "larvae",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈlärvē/",
+    "definition": "Young insects before they become adults, like caterpillars.",
+    "example": "Ladybug larvae eat many garden pests.",
+    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "asteroid",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈastəˌroid/",
+    "definition": "A rocky object orbiting the Sun, smaller than a planet.",
+    "example": "Telescopes tracked a distant asteroid.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "cleats",
+    "partOfSpeech": "noun",
+    "pronunciation": "/klēts/",
+    "definition": "Sports shoes with studs that grip grass or turf.",
+    "example": "He tied his cleats tight before kickoff.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "simmer",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈsimər/",
+    "definition": "To cook gently below a boil so flavors blend.",
+    "example": "Let the chili simmer for thirty minutes.",
+    "categories": ["FOOD", "GENERAL"]
+  }
+]

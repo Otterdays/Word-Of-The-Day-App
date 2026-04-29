@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "word": "sprint",
+    "partOfSpeech": "verb",
+    "pronunciation": "/sprint/",
+    "definition": "To run very fast for a short time.",
+    "example": "Athletes sprint toward the finish line.",
+    "etymology": "From Scandinavian roots meaning to jump.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "magnet",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈmaɡnət/",
+    "definition": "A metal object that pulls iron toward itself.",
+    "example": "The magnet picked up paper clips.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "recipe",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈresəpē/",
+    "definition": "Steps that tell you how to cook something.",
+    "example": "We followed the recipe for muffins.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "keyboard",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkēˌbôrd/",
+    "definition": "Keys you press to type letters on a screen or computer.",
+    "example": "She practiced typing on the keyboard.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "herd",
+    "partOfSpeech": "noun",
+    "pronunciation": "/hərd/",
+    "definition": "A large group of animals that stay together.",
+    "example": "A herd of deer crossed the field.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "otter",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈätər/",
+    "definition": "A playful mammal that swims well and eats fish.",
+    "example": "The otter floated on its back while cracking a shell.",
+    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "pancake",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈpanˌkāk/",
+    "definition": "A flat breakfast cake cooked on a griddle.",
+    "example": "We flipped pancakes on Saturday morning.",
+    "categories": ["FOOD", "GENERAL"]
+  },
+  {
+    "word": "dodgeball",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈdäjˌbôl/",
+    "definition": "A gym game where you throw soft balls and dodge throws.",
+    "example": "His team won dodgeball by catching the last throw.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "cursor",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkərsər/",
+    "definition": "The blinking line or arrow that shows where you type.",
+    "example": "She moved the cursor to fix the typo.",
+    "categories": ["TECH", "GENERAL"]
+  },
+  {
+    "word": "volcano",
+    "partOfSpeech": "noun",
+    "pronunciation": "/välˈkānō/",
+    "definition": "A mountain that can melt rock and shoot ash into the air.",
+    "example": "Scientists studied gases above the quiet volcano.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "peanut",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈpēˌnət/",
+    "definition": "A salty legume snack; check allergy rules before sharing.",
+    "example": "Trail mix included raisins and peanuts.",
+    "categories": ["FOOD", "GENERAL"]
+  },
+  {
+    "word": "relay",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈrēˌlā/",
+    "definition": "A race where each runner covers part of the distance.",
+    "example": "They practiced baton passes for the relay.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "dolphin",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈdälfən/",
+    "definition": "A smart ocean mammal that swims in pods.",
+    "example": "The dolphin leaped beside the tour boat.",
+    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+  }
+]

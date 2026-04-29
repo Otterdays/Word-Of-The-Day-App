@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "word": "mitigate",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈmidəˌɡāt/",
+    "definition": "To make something harmful less severe.",
+    "example": "Trees planted near streams mitigate flooding.",
+    "categories": [
+      "GENERAL",
+      "SCIENCE"
+    ]
+  },
+  {
+    "word": "biome",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈbīˌōm/",
+    "definition": "A large region with similar climate, plants, and animals.",
+    "example": "The taiga is a cold forest biome.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "latency",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈladənsē/",
+    "definition": "Delay between a request and a response, especially in networks.",
+    "example": "Gamers notice latency when pings spike.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "periodization",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌpirēədīˈzāSHən/",
+    "definition": "Planning training in phases to peak at the right time.",
+    "example": "Coaches use periodization before championship season.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "macronutrient",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌmakrōˈno͞otrēənt/",
+    "definition": "Carbohydrates, fats, and proteins—the body’s main fuel types.",
+    "example": "Athletes balance macronutrients around workouts.",
+    "categories": [
+      "FOOD",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  }
+]

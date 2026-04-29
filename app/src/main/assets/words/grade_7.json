@@ -1,1 +1,60 @@
-[]
+[
+  {
+    "word": "algorithm",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈalɡəˌriT͟Hm/",
+    "definition": "A clear step-by-step set of rules to solve a problem or task.",
+    "example": "Route apps use an algorithm to pick the fastest road.",
+    "categories": [
+      "TECH",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "carbohydrate",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌkärbōˈhīdrāt/",
+    "definition": "A nutrient from grains, fruit, and starch that gives quick energy.",
+    "example": "Oats contain fiber-rich carbohydrates.",
+    "categories": [
+      "FOOD",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "relay",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈrēˌlā/",
+    "definition": "A race where teammates take turns; also an electrical switch.",
+    "example": "She anchored the four-by-one-hundred relay.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ecosystem",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈēkōˌsistəm/",
+    "definition": "Living things and their environment working as one system.",
+    "example": "Removing wolves changed the whole forest ecosystem.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "catalyst",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkatləst/",
+    "definition": "Something that speeds a reaction without being used up.",
+    "example": "Enzymes act as catalysts inside cells.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  }
+]

@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "word": "goal",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ɡōl/",
+    "definition": "What you try to score in a game or what you hope to do.",
+    "example": "Her goal was to read ten pages tonight.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seed",
+    "partOfSpeech": "noun",
+    "pronunciation": "/sēd/",
+    "definition": "A tiny package that can grow into a plant.",
+    "example": "We planted a seed in damp soil.",
+    "etymology": "From Old English sæd.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ant",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ant/",
+    "definition": "A tiny insect that lives in a group.",
+    "example": "An ant carried a crumb across the sidewalk.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "code",
+    "partOfSpeech": "noun",
+    "pronunciation": "/kōd/",
+    "definition": "Secret symbols or rules; also instructions for a computer.",
+    "example": "They used a simple code for notes.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "juicy",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈjo͞osē/",
+    "definition": "Full of tasty liquid, like fruit.",
+    "example": "The peach was juicy and sweet.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lake",
+    "partOfSpeech": "noun",
+    "pronunciation": "/lāk/",
+    "definition": "A large body of water surrounded by land.",
+    "example": "We skipped stones across the calm lake.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "worm",
+    "partOfSpeech": "noun",
+    "pronunciation": "/wərm/",
+    "definition": "A small creature that crawls in soil and helps gardens.",
+    "example": "The robin pulled up a worm after rain.",
+    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "soccer",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈsäkər/",
+    "definition": "A team sport played by kicking a ball into a goal.",
+    "example": "Practice ended when the soccer coach blew the whistle.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "pear",
+    "partOfSpeech": "noun",
+    "pronunciation": "/per/",
+    "definition": "A sweet fruit shaped like a drop with thin skin.",
+    "example": "She packed a juicy pear for lunch.",
+    "categories": ["FOOD", "GENERAL"]
+  },
+  {
+    "word": "charger",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈCHärjər/",
+    "definition": "A cord and plug that fills a battery with power.",
+    "example": "Remember your charger before the trip.",
+    "categories": ["TECH", "GENERAL"]
+  },
+  {
+    "word": "compass",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkəmpəs/",
+    "definition": "A tool that points north using Earth’s magnetism.",
+    "example": "The compass needle spun near the metal fence.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "medal",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈmedl/",
+    "definition": "A metal award for winning or bravery.",
+    "example": "She earned a medal in the swim meet.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "sparrow",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈsparō/",
+    "definition": "A small brown bird common in yards and parks.",
+    "example": "A sparrow landed on the feeder.",
+    "categories": ["ANIMALS", "GENERAL"]
+  }
+]

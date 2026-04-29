@@ -1,1 +1,59 @@
-[]
+[
+  {
+    "word": "endurance",
+    "partOfSpeech": "noun",
+    "pronunciation": "/inˈdo͝orəns/",
+    "definition": "The ability to keep going through fatigue or difficulty.",
+    "example": "Marathon training builds mental and physical endurance.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bandwidth",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈbandˌwiTH/",
+    "definition": "How much data can travel through a network at once.",
+    "example": "Video calls need more bandwidth than email.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "galaxy",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈɡaləksē/",
+    "definition": "A huge collection of stars, gas, and dust held by gravity.",
+    "example": "The Milky Way is the galaxy we live in.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "umami",
+    "partOfSpeech": "noun",
+    "pronunciation": "/o͞oˈmämē/",
+    "definition": "A savory taste found in broth, mushrooms, and aged cheese.",
+    "example": "Soy sauce adds umami to stir-fry.",
+    "categories": [
+      "FOOD",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "camouflage",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkaməˌfläZH/",
+    "definition": "Colors or patterns that help animals hide in plain sight.",
+    "example": "The octopus changed skin texture for camouflage.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  }
+]

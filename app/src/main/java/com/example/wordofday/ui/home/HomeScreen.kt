@@ -1,5 +1,6 @@
 package com.example.wordofday.ui.home
 
+import androidx.activity.compose.LocalActivity
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.slideInVertically
@@ -7,6 +8,8 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.BoxWithConstraints
+import androidx.compose.foundation.layout.WindowInsets
+import androidx.compose.foundation.layout.safeDrawing
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Row
@@ -39,6 +42,9 @@ import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBarDefaults
+import androidx.compose.material3.windowsizeclass.ExperimentalMaterial3WindowSizeClassApi
+import androidx.compose.material3.windowsizeclass.WindowWidthSizeClass
+import androidx.compose.material3.windowsizeclass.calculateWindowSizeClass
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.collectAsState
@@ -48,6 +54,8 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
+import androidx.compose.ui.semantics.heading
+import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
@@ -60,7 +68,7 @@ import com.example.wordofday.data.model.UserPreferences
 import com.example.wordofday.data.model.WordEntry
 import kotlinx.coroutines.delay
 
-@OptIn(ExperimentalMaterial3Api::class)
+@OptIn(ExperimentalMaterial3Api::class, ExperimentalMaterial3WindowSizeClassApi::class)
 @Composable
 fun HomeScreen(
     viewModel: HomeViewModel,
@@ -81,6 +89,7 @@ fun HomeScreen(
             .fillMaxSize()
             .background(gradient),
         containerColor = Color.Transparent,
+        contentWindowInsets = WindowInsets.safeDrawing,
         topBar = {
             CenterAlignedTopAppBar(
                 title = { Text("Word of the Day") },
@@ -103,13 +112,20 @@ fun HomeScreen(
                 .fillMaxSize()
                 .padding(padding),
         ) {
+            val activity = LocalActivity.current
+            val wideLayout = if (activity != null) {
+                val wc = calculateWindowSizeClass(activity)
+                wc.widthSizeClass != WindowWidthSizeClass.Compact
+            } else {
+                maxWidth >= 600.dp
+            }
             when (val state = uiState) {
                 is HomeUiState.Loading -> LoadingState()
                 is HomeUiState.Success -> WordContent(
                     word = state.word,
                     formattedDate = state.formattedDate,
                     preferences = state.preferences,
-                    wideLayout = maxWidth >= 600.dp,
+                    wideLayout = wideLayout,
                     onOpenSettings = onOpenSettings,
                     onRefresh = viewModel::refresh,
                     onShare = viewModel::shareCurrentWord,
@@ -296,6 +312,7 @@ private fun WordHeading(
     Column(modifier, horizontalAlignment = Alignment.CenterHorizontally) {
         Text(
             text = word.word,
+            modifier = Modifier.semantics { heading() },
             style = MaterialTheme.typography.displayMedium,
             fontWeight = FontWeight.Bold,
             color = MaterialTheme.colorScheme.onSurface,

@@ -63,7 +63,10 @@ On Windows, same command with `gradlew.bat`.
 | --- | --- | --- | --- |
 | **Compose BOM** | `2026.03.01` | Aligns all `androidx.compose.*` artifacts | [Use a BOM](https://developer.android.com/develop/ui/compose/bom) · [BOM ↔ library mapping](https://developer.android.com/develop/ui/compose/bom/bom-mapping) · [Compose overview / per-group versions](https://developer.android.com/jetpack/androidx/releases/compose) |
 | **Compose Material 3** | Via BOM | Theming, components, Material You | [compose-material3 releases](https://developer.android.com/jetpack/androidx/releases/compose-material3) |
+| **Compose Material 3 – Window Size Class** | Via BOM | Breakpoints for adaptive layout (`calculateWindowSizeClass`) | [compose-material3 releases](https://developer.android.com/jetpack/androidx/releases/compose-material3) · artifact `material3-window-size-class` |
 | **Compose UI / Foundation / Runtime** | Via BOM | Layout, gestures, core runtime | [compose-ui](https://developer.android.com/jetpack/androidx/releases/compose-ui) · [compose-foundation](https://developer.android.com/jetpack/androidx/releases/compose-foundation) · [compose-runtime](https://developer.android.com/jetpack/androidx/releases/compose-runtime) |
+
+`[AMENDED 2026-04-29]:` **`material3-window-size-class`** declared in `gradle/libs.versions.toml` as **`compose-material3-window-size`** (Gradle catalog aliases cannot end with reserved substring **`class`**).
 
 `[AMENDED 2026-03-30]:` Compose BOM **2026.03.01** now declared in `gradle/libs.versions.toml`.
 

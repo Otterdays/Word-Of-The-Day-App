@@ -1,1 +1,69 @@
-[]
+[
+  {
+    "word": "hypothesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "/hīˈpäTHəsəs/",
+    "definition": "A testable prediction you check with experiments.",
+    "example": "Her hypothesis predicted faster growth with more light.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "offside",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈôfˈsīd/",
+    "definition": "A rule violation when a player is ahead of the ball in soccer.",
+    "example": "The referee waved offside on the scoring play.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "encryption",
+    "partOfSpeech": "noun",
+    "pronunciation": "/inˈkripSHən/",
+    "definition": "Scrambling data so only authorized people can read it.",
+    "example": "Messengers use encryption to protect chats.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "oxidation",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌäksəˈdāSHən/",
+    "definition": "A reaction where a substance loses electrons, often with oxygen.",
+    "example": "Rust forms when iron undergoes oxidation.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "symbiosis",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌsimbēˈōsəs/",
+    "definition": "A close relationship between two different species.",
+    "example": "Clownfish and sea anemones live in symbiosis.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "palate",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈpalət/",
+    "definition": "The roof of the mouth; also your sense of taste.",
+    "example": "The chef trained diners to broaden their palate.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  }
+]

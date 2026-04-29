@@ -29,6 +29,7 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 | --- | --- |
 | [SBOM.md](./SBOM.md) | Bill of materials + **version page links** for Kotlin, AGP, Compose, AndroidX |
 | [ROADMAP.md](./ROADMAP.md) | **Sectioned checklist** from empty repo → shippable app (phone + tablet) |
+| [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md) | §**8d** MVP corpus coverage vs targets + inventory scripts |
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | Planned layers and boundaries |
 | [STYLE_GUIDE.md](./STYLE_GUIDE.md) | Naming, structure, trace tags for this project |
 | [CHANGELOG.md](./CHANGELOG.md) | Human-readable history |
@@ -44,9 +45,15 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 
 ## Status
 
+`[2026-04-29]` Edge-to-edge inset pass: **`WindowInsets.safeDrawing`** on **Material3 `Scaffold`** (home/settings/onboarding) + **`calculateWindowSizeClass`** for adaptive home layout; catalog alias **`compose-material3-window-size`** (`material3-window-size-class`).
+
 `[2026-03-30]` `:app` Android module created — AGP 9.1.0, Kotlin 2.3.20, Compose BOM 2026.03.01. MVVM shell with HomeScreen, ViewModel, Repository (14 bundled words), M3 theme. Bootable.  
 `[2026-03-30]` SBOM documents Gradle 9.6 nightly pin; Android module still not added.  
 `[2026-03-29]` Documentation and SBOM baseline created; Android app module and dependencies not yet implemented.
+
+`[2026-04-29]` §**8d** tracker: [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md) + `scripts/inventory_word_assets.py`; cumulative gap vs 30-per-cell snapshot logged there.
+
+`[AMENDED 2026-04-29]:` Roadmap **[ROADMAP.md](./ROADMAP.md)** checklist synced with shipping **Nav**, **DataStore**, **per-grade JSON**, **timezone** decision in **[My_Thoughts.md](./My_Thoughts.md)**; §**8d** content volume and §**9c**/§**10** polish remain backlog.
 
 `[2026-04-29]` Initial repo hygiene + metadata update pushed; `:app` is buildable with SDKs `min/target/compile = 26/36/36`.
 

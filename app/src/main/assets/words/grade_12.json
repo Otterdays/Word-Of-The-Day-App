@@ -1,1 +1,58 @@
-[]
+[
+  {
+    "word": "juxtaposition",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌjəkstəpəˈziSHən/",
+    "definition": "Placing two ideas side by side to highlight contrast.",
+    "example": "The poem’s power comes from juxtaposition of silence and noise.",
+    "categories": [
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stoichiometry",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌstɔykēˈämətrē/",
+    "definition": "Calculating amounts in chemical reactions from balanced equations.",
+    "example": "Stoichiometry converts moles of reactants to grams of product.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ergonomics",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌərˈɡänəmiks/",
+    "definition": "Designing tools and spaces to fit the human body safely.",
+    "example": "Her ergonomic chair reduced neck strain.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "carbo-loading",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkärbō ˈlōdiNG/",
+    "definition": "Eating extra starch before endurance events to store glycogen.",
+    "example": "Runners often carbo-load days before a marathon.",
+    "categories": [
+      "SPORTS",
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "keystone",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkēˌstōn/",
+    "definition": "A central species whose removal sharply changes an ecosystem.",
+    "example": "Sea otters are a keystone in kelp forests.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  }
+]

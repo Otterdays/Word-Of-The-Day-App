@@ -1,1 +1,121 @@
-[]
+[
+  {
+    "word": "bird",
+    "partOfSpeech": "noun",
+    "pronunciation": "/bərd/",
+    "definition": "An animal with wings that can fly.",
+    "example": "The bird sang in the tree.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "team",
+    "partOfSpeech": "noun",
+    "pronunciation": "/tēm/",
+    "definition": "People who play or work together.",
+    "example": "Our team shared the ball.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "milk",
+    "partOfSpeech": "noun",
+    "pronunciation": "/milk/",
+    "definition": "White drink that helps bones grow strong.",
+    "example": "She drank milk with breakfast.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sun",
+    "partOfSpeech": "noun",
+    "pronunciation": "/sən/",
+    "definition": "The bright star that warms our daytime.",
+    "example": "The sun came out after the rain.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tap",
+    "partOfSpeech": "verb",
+    "pronunciation": "/tap/",
+    "definition": "To touch lightly; what you do on a screen.",
+    "example": "Tap the green button to start.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bear",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ber/",
+    "definition": "A big furry animal that may sleep through winter.",
+    "example": "We read a story about a shy bear.",
+    "categories": ["ANIMALS", "GENERAL"]
+  },
+  {
+    "word": "cookie",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈko͝okē/",
+    "definition": "A small baked sweet treat, sometimes with chips.",
+    "example": "She earned a cookie after cleanup.",
+    "categories": ["FOOD", "GENERAL"]
+  },
+  {
+    "word": "race",
+    "partOfSpeech": "noun",
+    "pronunciation": "/rās/",
+    "definition": "A contest to see who is fastest.",
+    "example": "Our school held a friendly race on field day.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "robot",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈrōˌbät/",
+    "definition": "A machine that can move or talk like it thinks.",
+    "example": "The toy robot rolled across the rug.",
+    "categories": ["TECH", "GENERAL"]
+  },
+  {
+    "word": "rainbow",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈrānˌbō/",
+    "definition": "A curved band of colors after sunlight meets rain.",
+    "example": "We counted the colors in the rainbow.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "block",
+    "partOfSpeech": "noun",
+    "pronunciation": "/bläk/",
+    "definition": "A wooden or plastic piece you stack to build.",
+    "example": "He lined up blocks to make a tower.",
+    "categories": ["GENERAL"]
+  },
+  {
+    "word": "shell",
+    "partOfSpeech": "noun",
+    "pronunciation": "/SHel/",
+    "definition": "A hard cover some ocean animals carry on their backs.",
+    "example": "She found a spiral shell at the beach.",
+    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "helmet",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈhelmət/",
+    "definition": "Hard headgear that keeps you safer when you ride or play.",
+    "example": "Always snap your helmet before you scooter.",
+    "categories": ["SPORTS", "GENERAL"]
+  }
+]

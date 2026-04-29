@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "word": "paradigm",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈperəˌdīm/",
+    "definition": "A typical example or pattern of thinking in a field.",
+    "example": "Smartphones shifted the paradigm of personal computing.",
+    "categories": [
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "debugger",
+    "partOfSpeech": "noun",
+    "pronunciation": "/dēˈbəɡər/",
+    "definition": "A tool that helps programmers find mistakes in code.",
+    "example": "He set a breakpoint in the debugger.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "photosynthesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌfōdōˈsinTHəsəs/",
+    "definition": "How plants use sunlight to make sugar from water and carbon dioxide.",
+    "example": "Chloroplasts carry out photosynthesis in leaves.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "draft",
+    "partOfSpeech": "noun",
+    "pronunciation": "/draft/",
+    "definition": "When pro teams pick new players; also the first rough version of writing.",
+    "example": "She improved her essay after peer review of the draft.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "forage",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈfôrij/",
+    "definition": "To search widely for food.",
+    "example": "Bees forage nectar across miles of fields.",
+    "categories": [
+      "ANIMALS",
+      "FOOD",
+      "GENERAL"
+    ]
+  }
+]

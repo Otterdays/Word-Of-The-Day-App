@@ -14,7 +14,9 @@
 
 ## Word-of-the-day semantics
 
-- **Open decision:** Define “today” in local timezone vs. UTC before implementing repository caching.
+- **Open decision:** Define “today” in local timezone vs. UTC before implementing repository caching. `[NOTE 2026-04-29]:` **Closed for v1** — default described below; revisit for sync/streak edge cases.
+
+`[AMENDED 2026-04-29]:` **“Today” policy (v1):** Use **`java.time.LocalDate.now()`** on the JVM default calendar (`Clock.systemDefaultZone()` semantics). On Android this tracks the **device time zone** the user selected (unless tests/host override defaults). **`WordRepository`** picks `dayOfYear % pool.size` from that date—no separate UTC “calendar day” layer. **Revisit if:** remote API schedules words by UTC, explicit **`ZoneId`** handling for travel/streaks, or historical replay by civil date.
 
 ## Content strategy — grade levels + themed categories
 
@@ -27,7 +29,7 @@
 
 ## Data storage evolution
 
-- **Decision:** Move from hardcoded Kotlin list → bundled `assets/words.json` → remote API (later).
+- **Decision:** Move from hardcoded Kotlin list → bundled JSON under **`assets/words/`** (per-grade files) → remote API (later). `[AMENDED 2026-04-29]:` Monolithic **`words.json`** removed; see Roadmap §8c / **`GradeLevel.bundledWordsAssetPath`**.
 - **Rationale:** JSON in assets is version-controlled, easily editable by non-developers, and requires no backend infrastructure. Kotlin serialization (already a dependency) handles parsing. Remote API only needed when content volume exceeds what's reasonable to bundle in the APK (~8K+ words, or when dynamic updates are needed without app releases).
 - **Why not Room immediately:** Room is overkill for read-only bundled content. Add Room later for favorites, history, and offline caching of remote API responses.
 

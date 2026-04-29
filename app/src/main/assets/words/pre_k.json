@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "word": "cat",
+    "partOfSpeech": "noun",
+    "pronunciation": "/kat/",
+    "definition": "A soft pet that says meow.",
+    "example": "We fed the cat in the morning.",
+    "categories": ["ANIMALS", "GENERAL"]
+  },
+  {
+    "word": "ball",
+    "partOfSpeech": "noun",
+    "pronunciation": "/bôl/",
+    "definition": "Something round you kick, catch, or roll.",
+    "example": "She rolled the ball across the floor.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "yum",
+    "partOfSpeech": "interjection",
+    "pronunciation": "/yəm/",
+    "definition": "You say this when food tastes good.",
+    "example": "Yum, this apple is sweet!",
+    "categories": ["FOOD", "GENERAL"]
+  },
+  {
+    "word": "star",
+    "partOfSpeech": "noun",
+    "pronunciation": "/stär/",
+    "definition": "A tiny light in the night sky.",
+    "example": "We counted stars before bed.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "screen",
+    "partOfSpeech": "noun",
+    "pronunciation": "/skrēn/",
+    "definition": "The flat glowing part of a TV or tablet.",
+    "example": "We tapped shapes on the bright screen.",
+    "categories": ["TECH", "GENERAL"]
+  },
+  {
+    "word": "plug",
+    "partOfSpeech": "noun",
+    "pronunciation": "/pləɡ/",
+    "definition": "The piece that fits into the wall to give power.",
+    "example": "We plugged the charger into the wall.",
+    "categories": ["TECH", "GENERAL"]
+  },
+  {
+    "word": "dog",
+    "partOfSpeech": "noun",
+    "pronunciation": "/dôɡ/",
+    "definition": "A friendly pet that barks and wags its tail.",
+    "example": "The dog fetched the bright ball.",
+    "categories": ["ANIMALS", "GENERAL"]
+  },
+  {
+    "word": "apple",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈapəl/",
+    "definition": "A round fruit that can be red, green, or yellow.",
+    "example": "She took a crunchy bite of apple.",
+    "categories": ["FOOD", "GENERAL"]
+  },
+  {
+    "word": "run",
+    "partOfSpeech": "verb",
+    "pronunciation": "/rən/",
+    "definition": "To move fast on your feet.",
+    "example": "We run across the grass at recess.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "moon",
+    "partOfSpeech": "noun",
+    "pronunciation": "/mo͞on/",
+    "definition": "The bright circle we see in the night sky.",
+    "example": "The moon looked silver behind thin clouds.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "camera",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkamərə/",
+    "definition": "The part of a phone that takes pictures.",
+    "example": "Mom opened the camera for a photo.",
+    "categories": ["TECH", "GENERAL"]
+  },
+  {
+    "word": "bread",
+    "partOfSpeech": "noun",
+    "pronunciation": "/bred/",
+    "definition": "Soft food made from flour that we slice or toast.",
+    "example": "He dipped bread into warm soup.",
+    "categories": ["FOOD", "GENERAL"]
+  },
+  {
+    "word": "frog",
+    "partOfSpeech": "noun",
+    "pronunciation": "/frôɡ/",
+    "definition": "A small animal that hops and lives near water.",
+    "example": "The frog sat on a lily pad.",
+    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "jump",
+    "partOfSpeech": "verb",
+    "pronunciation": "/jəmp/",
+    "definition": "To push off the ground into the air.",
+    "example": "They jump when the coach blows the whistle.",
+    "categories": ["SPORTS", "GENERAL"]
+  }
+]

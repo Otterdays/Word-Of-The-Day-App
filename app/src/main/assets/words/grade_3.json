@@ -6,6 +6,130 @@
     "definition": "Showing courage; ready to face hard or dangerous things.",
     "example": "The brave student asked a question even though the room was quiet.",
     "etymology": "From Italian and French words for bold and wild.",
-    "categories": ["GENERAL", "EMOTIONS"]
+    "categories": [
+      "GENERAL",
+      "EMOTIONS"
+    ]
+  },
+  {
+    "word": "orbit",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈôrbət/",
+    "definition": "The curved path one object takes around another in space.",
+    "example": "Earth stays in orbit around the Sun.",
+    "etymology": "From Latin orbita 'wheel track'.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tablet",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈtablət/",
+    "definition": "A thin flat screen computer you hold in your hands.",
+    "example": "She read the comic on her tablet.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rival",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈrīvəl/",
+    "definition": "A person or team you compete against.",
+    "example": "The two rival schools played a fair game.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "crunchy",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ˈkrənCHē/",
+    "definition": "Making a crisp noise when you bite it.",
+    "example": "The carrot was crunchy and fresh.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "habitat",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈhabəˌtat/",
+    "definition": "The natural place where a plant or animal lives.",
+    "example": "The pond is a habitat for frogs and ducks.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "glacier",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈɡlāSHər/",
+    "definition": "A slow river of ice that carves valleys over thousands of years.",
+    "example": "The glacier glowed blue where it cracked.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "goalie",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈɡōlē/",
+    "definition": "The player who guards the net in hockey or soccer.",
+    "example": "The goalie blocked the penalty kick.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "emoji",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ēˈmōjē/",
+    "definition": "Tiny pictures in messages that show feelings or ideas.",
+    "example": "She picked a smiling emoji to say thanks.",
+    "categories": ["TECH", "GENERAL"]
+  },
+  {
+    "word": "tortilla",
+    "partOfSpeech": "noun",
+    "pronunciation": "/tôrˈtēə/",
+    "definition": "A thin flat bread made from corn or flour.",
+    "example": "We warmed tortillas for bean tacos.",
+    "categories": ["FOOD", "GENERAL"]
+  },
+  {
+    "word": "coral",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈkôrəl/",
+    "definition": "Tiny animals that build reefs where fish hide.",
+    "example": "Snorkelers floated above bright coral.",
+    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "marathon",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈmerəˌTHän/",
+    "definition": "A very long race; about twenty-six miles.",
+    "example": "Runners trained months before the marathon.",
+    "categories": ["SPORTS", "GENERAL"]
+  },
+  {
+    "word": "phytoplankton",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌfīdōˈplaNGktən/",
+    "definition": "Microscopic plants drifting in water that feed ocean life.",
+    "example": "Whales depend on food chains starting with phytoplankton.",
+    "categories": ["SCIENCE", "GENERAL"]
+  },
+  {
+    "word": "wifi",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈwīˌfī/",
+    "definition": "Wireless internet inside homes, schools, and cafés.",
+    "example": "The tablet joined wifi before the video lesson.",
+    "categories": ["TECH", "GENERAL"]
   }
 ]

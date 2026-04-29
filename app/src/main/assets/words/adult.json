@@ -6,7 +6,9 @@
     "definition": "The occurrence and development of events by chance in a happy or beneficial way",
     "example": "A fortunate stroke of serendipity brought the two old friends together after decades apart.",
     "etymology": "Coined by Horace Walpole in 1754, from the Persian fairy tale 'The Three Princes of Serendip'",
-    "categories": ["GENERAL"]
+    "categories": [
+      "GENERAL"
+    ]
   },
   {
     "word": "ephemeral",
@@ -15,7 +17,10 @@
     "definition": "Lasting for a very short time",
     "example": "The beauty of cherry blossoms is ephemeral, lasting only a few weeks each spring.",
     "etymology": "From Greek ephēmeros 'lasting only a day', from epi 'upon' + hēmera 'day'",
-    "categories": ["SCIENCE", "GENERAL"]
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
   },
   {
     "word": "mellifluous",
@@ -24,7 +29,10 @@
     "definition": "Sweet or musical; pleasant to hear",
     "example": "The mellifluous voice of the narrator made the audiobook a delight to listen to.",
     "etymology": "From Latin mellifluus, from mel 'honey' + fluere 'to flow'",
-    "categories": ["FOOD", "GENERAL"]
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
   },
   {
     "word": "ubiquitous",
@@ -33,7 +41,10 @@
     "definition": "Present, appearing, or found everywhere",
     "example": "Smartphones have become ubiquitous in modern society.",
     "etymology": "From Latin ubiquitas, from ubique 'everywhere'",
-    "categories": ["TECH"]
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
   },
   {
     "word": "perspicacious",
@@ -42,7 +53,9 @@
     "definition": "Having a ready insight into and understanding of things",
     "example": "The perspicacious detective noticed the small clue that everyone else had missed.",
     "etymology": "From Latin perspicax, from perspicere 'to see through', from per- 'through' + specere 'to look'",
-    "categories": ["GENERAL"]
+    "categories": [
+      "GENERAL"
+    ]
   },
   {
     "word": "ineffable",
@@ -51,7 +64,9 @@
     "definition": "Too great or extreme to be expressed or described in words",
     "example": "The ineffable beauty of the sunset left everyone speechless.",
     "etymology": "From Latin ineffabilis, from in- 'not' + effabilis 'utterable', from effari 'to speak out'",
-    "categories": ["GENERAL"]
+    "categories": [
+      "GENERAL"
+    ]
   },
   {
     "word": "quixotic",
@@ -60,7 +75,10 @@
     "definition": "Extremely idealistic and unrealistic",
     "example": "His quixotic quest to eliminate all poverty was noble but impractical.",
     "etymology": "From Don Quixote, hero of Cervantes' novel, known for his impractical idealism",
-    "categories": ["SPORTS", "GENERAL"]
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
   },
   {
     "word": "sanguine",
@@ -69,7 +87,10 @@
     "definition": "Optimistic or positive, especially in a difficult situation",
     "example": "Despite the setbacks, she remained sanguine about the project's eventual success.",
     "etymology": "From Latin sanguineus 'of blood', from sanguis 'blood'; in medieval physiology, blood was associated with a cheerful temperament",
-    "categories": ["SPORTS", "GENERAL"]
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
   },
   {
     "word": "recondite",
@@ -78,7 +99,10 @@
     "definition": "Little known; abstruse; difficult to understand",
     "example": "The professor's recondite theories were understood only by his most advanced students.",
     "etymology": "From Latin reconditus 'hidden, put away', past participle of recondere 'to put back, store up', from re- 'back' + condere 'to put, store'",
-    "categories": ["SCIENCE"]
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
   },
   {
     "word": "petrichor",
@@ -87,6 +111,79 @@
     "definition": "The pleasant, earthy smell produced when rain falls on dry ground",
     "example": "After weeks of drought, the petrichor filled the air as the first drops of rain began to fall.",
     "etymology": "Coined in 1964 from Greek petros 'stone' + ichor 'the fluid that flows in the veins of the gods'",
-    "categories": ["SCIENCE", "ANIMALS"]
+    "categories": [
+      "SCIENCE",
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scalability",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌskāləˈbilədē/",
+    "definition": "How well a system can grow to handle more work without breaking.",
+    "example": "Cloud architects test scalability before holiday traffic spikes.",
+    "etymology": "From Latin scala 'ladder' + English ability suffix.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "relegation",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌreləˈɡāSHən/",
+    "definition": "Moving a sports club to a lower league after poor results.",
+    "example": "Fans dreaded relegation after the losing streak.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "confit",
+    "partOfSpeech": "noun",
+    "pronunciation": "/kônˈfē/",
+    "definition": "Food cooked slowly while submerged in fat until tender.",
+    "example": "Duck confit melts off the bone after hours of gentle cooking.",
+    "etymology": "From French confire 'to preserve'.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "homeostasis",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌhōmēōˈstāsəs/",
+    "definition": "Stable internal conditions living things maintain despite change.",
+    "example": "Sweating helps restore homeostasis on hot days.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "biodiversity",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌbīōdiˈvərsədē/",
+    "definition": "The variety of life in one place—genes, species, and ecosystems.",
+    "example": "Coral reefs rank among Earth’s highest biodiversity hotspots.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "laconic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/ləˈkänik/",
+    "definition": "Using very few words; terse.",
+    "example": "Her laconic reply ended the debate.",
+    "etymology": "From Laconia in Greece, where Spartans were famously brief.",
+    "categories": [
+      "GENERAL"
+    ]
   }
 ]
