@@ -19,6 +19,14 @@
 - Trace tag format: `// [TRACE: DOCS/filename.md]` only when linking non-obvious behavior to documentation.
 - Comments explain **why**, not what.
 
+## Constants and ownership
+
+- Keep route string constants only in `ui/navigation/AppDestinations.kt`.
+- Keep taxonomy constants in enums (`GradeLevel`, `Category`) instead of scattered strings.
+- Keep dependency version constants only in `gradle/libs.versions.toml` (not duplicated in docs/code).
+- Keep DataStore key constants private to `UserPreferencesRepository`.
+- If a constant/source-of-truth location moves, update `DOCS/AGENT_WORKMAP.md` in the same change.
+
 ## Limits (project targets)
 
 - Aim for **≤ 100** characters per line where practical.
@@ -29,3 +37,5 @@
 - ViewModel tests use **coroutine test** dispatchers; fake repositories over mocks when possible.
 
 `[2026-03-29]` Initial style guide for Kotlin/Compose Android work.
+
+`[2026-04-30]` Added constants ownership rules and pointer to `DOCS/AGENT_WORKMAP.md` for future-agent handoffs.

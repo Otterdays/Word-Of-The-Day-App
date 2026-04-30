@@ -32,6 +32,7 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 | [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md) | §**8d** MVP corpus coverage vs targets + inventory scripts |
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | Planned layers and boundaries |
 | [STYLE_GUIDE.md](./STYLE_GUIDE.md) | Naming, structure, trace tags for this project |
+| [AGENT_WORKMAP.md](./AGENT_WORKMAP.md) | Fast "where to edit" map for routes, constants, data, config, and CI |
 | [CHANGELOG.md](./CHANGELOG.md) | Human-readable history |
 | [SCRATCHPAD.md](./SCRATCHPAD.md) | Active tasks and last actions |
 | [My_Thoughts.md](./My_Thoughts.md) | Decisions log |
@@ -60,3 +61,5 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 `[2026-04-29]` Initial repo hygiene + metadata update pushed; `:app` is buildable with SDKs `min/target/compile = 26/36/36`.
 
 `[AMENDED 2026-04-29]:` Word lists ship as **`assets/words/<grade>.json`** (see `GradeLevel.bundledWordsAssetPath`, `JsonWordDataSource`) instead of a single `words.json`.
+
+`[2026-04-30]` Documentation audit pass: added **[AGENT_WORKMAP.md](./AGENT_WORKMAP.md)** to centralize change locations (navigation routes, model constants, DataStore keys/defaults, dependency pins, CI paths, and content tooling) for faster future-agent handoffs.

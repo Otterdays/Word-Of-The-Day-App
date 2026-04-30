@@ -132,7 +132,8 @@ Word-Of-The-Day-App/
 
 ## 🧪 Testing
 
-The Gradle test tasks are configured, but there are currently no test sources committed.
+The project includes JVM unit tests (for example, grade search-order behavior) and CI runs
+unit tests + lint + debug assemble on pushes/PRs.
 
 ```bash
 # Run unit tests
@@ -149,6 +150,8 @@ Detailed project documentation is available in the `DOCS/` directory:
 - **[ARCHITECTURE.md](DOCS/ARCHITECTURE.md)**: Technical architecture details
 - **[ROADMAP.md](DOCS/ROADMAP.md)**: Development roadmap and feature planning
 - **[STYLE_GUIDE.md](DOCS/STYLE_GUIDE.md)**: Coding standards and conventions
+- **[AGENT_WORKMAP.md](DOCS/AGENT_WORKMAP.md)**: Fast "where to edit what" map (constants,
+  routes, config, content pipeline, CI)
 - **[CHANGELOG.md](DOCS/CHANGELOG.md)**: Version history and changes
 
 ## 🤝 Contributing

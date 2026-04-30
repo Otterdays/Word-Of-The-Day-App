@@ -10,6 +10,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 
+- `[2026-04-30]` Added **`DOCS/AGENT_WORKMAP.md`**: a future-agent handoff index mapping exact edit locations for navigation routes, enum/constants ownership (`GradeLevel`, `Category`, `AppDestinations`), DataStore keys/defaults (`UserPreferencesRepository`), build/dependency pins (`gradle/libs.versions.toml`), content assets/scripts, and CI/template files.
+
 - `[2026-04-29]` **Roadmap §0–8 engineering closure:** **`GradeSearchOrder.kt`** + **`GradeSearchOrderTest`** (JUnit **4.13.2**); **`HomeScreen`** lemma **`heading()`** semantics + **`LocalActivity`** (lint **`ContextCastToActivity`**); **`.github/workflows/android-ci.yml`** (**`testDebugUnitTest`**, **`lintDebug`**, **`assembleDebug`**). [ROADMAP.md](./ROADMAP.md) §§**4–6**, **8** checkboxes synced; [SBOM.md](./SBOM.md) **JUnit** row.
 
 - `:app` Android module: `build.gradle.kts` with AGP **9.1.0**, Kotlin **2.3.20**, Compose BOM **2026.03.01**.
@@ -25,6 +27,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Android resources: `strings.xml`, `themes.xml`.
 
 ### Changed
+
+- `[2026-04-30]` `README.md` docs accuracy pass: replaced stale testing note ("no test sources") with current status and added `DOCS/AGENT_WORKMAP.md` under documentation links for faster onboarding.
 
 - `[2026-04-29]` **Toolchain:** [SBOM](./SBOM.md) — **Android Gradle Plugin** **`9.2.0`** (**`gradle/libs.versions.toml`** **`agp`**); [AGP 9.2.0 release notes](https://developer.android.com/build/releases/agp-9-2-0-release-notes); Gradle compatibility (**≥ 9.4.1** for AGP 9.2.x), repo wrapper **9.6.x** nightly.
 
