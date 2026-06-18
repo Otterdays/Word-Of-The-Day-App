@@ -13,6 +13,16 @@ object AppReleaseCatalog {
     /** Newest first. Add a row for every shipped user-facing release. */
     val releases: List<AppRelease> = listOf(
         AppRelease(
+            versionCode = 12,
+            versionName = "0.3.5",
+            editionName = "Daily Habit",
+            highlights = listOf(
+                "Opt-in daily word notifications at your chosen reminder time",
+                "WorkManager schedules the next reminder after each delivery and after reboot",
+                "Settings debug build button sends an instant test notification",
+            ),
+        ),
+        AppRelease(
             versionCode = 11,
             versionName = "0.3.4",
             editionName = "Bright UI",

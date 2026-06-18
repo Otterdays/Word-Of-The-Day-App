@@ -8,11 +8,16 @@ import androidx.lifecycle.viewModelScope
 import com.example.wordofday.data.model.Category
 import com.example.wordofday.data.model.GradeLevel
 import com.example.wordofday.data.model.LexiconPreferences
+import com.example.wordofday.data.model.NotificationPreferences
 import com.example.wordofday.data.model.UserPreferences
+import com.example.wordofday.data.preferences.NotificationPreferencesRepository
 import com.example.wordofday.data.preferences.UserPreferencesRepository
 import com.example.wordofday.data.repository.LearningRepository
 import com.example.wordofday.data.repository.WordRepository
+import com.example.wordofday.notification.DailyNotificationScheduler
+import com.example.wordofday.notification.WordNotificationHelper
 import com.example.wordofday.ui.preferences.toggleCategorySelection
+import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
@@ -23,6 +28,7 @@ import kotlinx.coroutines.launch
 class SettingsViewModel(application: Application) : AndroidViewModel(application) {
 
     private val prefsRepo = UserPreferencesRepository(application)
+    private val notificationRepo = NotificationPreferencesRepository(application)
     private val wordRepository = WordRepository(application)
     private val learningRepository = LearningRepository(application)
 
@@ -31,6 +37,17 @@ class SettingsViewModel(application: Application) : AndroidViewModel(application
         SharingStarted.WhileSubscribed(5_000),
         UserPreferences.settingsDefault(),
     )
+
+    val notificationPreferences: StateFlow<NotificationPreferences> =
+        notificationRepo.preferences.stateIn(
+            viewModelScope,
+            SharingStarted.WhileSubscribed(5_000),
+            NotificationPreferences(
+                enabled = false,
+                hour = NotificationPreferencesRepository.DEFAULT_HOUR,
+                minute = NotificationPreferencesRepository.DEFAULT_MINUTE,
+            ),
+        )
 
     private val _matchingWordCount = MutableStateFlow<Int?>(null)
     val matchingWordCount: StateFlow<Int?> = _matchingWordCount.asStateFlow()
@@ -61,6 +78,44 @@ class SettingsViewModel(application: Application) : AndroidViewModel(application
 
     fun resetPreferences() {
         viewModelScope.launch { prefsRepo.resetPreferences() }
+    }
+
+    fun setNotificationsEnabled(enabled: Boolean) {
+        viewModelScope.launch {
+            notificationRepo.setEnabled(enabled)
+            val reminder = notificationRepo.preferences.first()
+            if (enabled) {
+                DailyNotificationScheduler.scheduleNext(
+                    getApplication(),
+                    reminder.hour,
+                    reminder.minute,
+                )
+            } else {
+                DailyNotificationScheduler.cancel(getApplication())
+            }
+        }
+    }
+
+    fun setReminderTime(hour: Int, minute: Int) {
+        viewModelScope.launch {
+            notificationRepo.setReminderTime(hour, minute)
+            val reminder = notificationRepo.preferences.first()
+            if (reminder.enabled) {
+                DailyNotificationScheduler.scheduleNext(
+                    getApplication(),
+                    reminder.hour,
+                    reminder.minute,
+                )
+            }
+        }
+    }
+
+    fun sendTestNotification() {
+        viewModelScope.launch {
+            val userPrefs = prefsRepo.preferences.first()
+            val word = wordRepository.getWordForDate(preferences = userPrefs)
+            WordNotificationHelper.showDailyWord(getApplication(), word, isTest = true)
+        }
     }
 
     fun setLexiconWordNet(enabled: Boolean) = updateLexicon { it.copy(includeWordNet = enabled) }

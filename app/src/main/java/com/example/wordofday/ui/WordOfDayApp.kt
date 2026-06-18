@@ -23,9 +23,11 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import androidx.navigation.navArgument
 import com.example.wordofday.BuildConfig
+import com.example.wordofday.data.preferences.NotificationPreferencesRepository
 import com.example.wordofday.data.preferences.ReleaseNotesRepository
 import com.example.wordofday.data.preferences.UserPreferencesRepository
 import com.example.wordofday.data.release.AppRelease
+import com.example.wordofday.notification.DailyNotificationScheduler
 import com.example.wordofday.ui.explore.ExploreScreen
 import com.example.wordofday.ui.explore.ExploreViewModel
 import com.example.wordofday.ui.home.HomeScreen
@@ -72,6 +74,18 @@ fun WordOfDayApp(
         val first = prefsRepo.preferences.first()
         startAtHome = first.onboardingComplete
         ready = true
+    }
+
+    LaunchedEffect(ready) {
+        if (!ready) return@LaunchedEffect
+        val notificationPrefs = NotificationPreferencesRepository(app).preferences.first()
+        if (notificationPrefs.enabled) {
+            DailyNotificationScheduler.scheduleNext(
+                app,
+                notificationPrefs.hour,
+                notificationPrefs.minute,
+            )
+        }
     }
 
     LaunchedEffect(ready, startAtHome) {

@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Word of the Day</string>
+    <string name="notification_channel_name">Daily word reminders</string>
+    <string name="notification_channel_description">Morning reminders with your word of the day</string>
+    <string name="notification_daily_title">Word of the Day</string>
+    <string name="notification_test_title">Word of the Day (test)</string>
+    <string name="notification_daily_body">%1$s — %2$s</string>
 </resources>

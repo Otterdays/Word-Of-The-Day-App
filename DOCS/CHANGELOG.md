@@ -12,6 +12,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+## [0.3.5] - 2026-06-18
+
+### Added
+
+- **Daily word notifications** — opt-in reminder in Settings with time picker (default **8:00 AM**).
+- **WorkManager scheduler** — chains one-time work to the next reminder; reschedules on app launch and after device reboot.
+- **Debug test notification** — Settings → **Send test notification** (debug builds only).
+- **`NotificationPreferencesRepository`**, **`WordNotificationHelper`**, **`DailyWordNotificationWorker`**.
+
+### Changed
+
+- App version **`0.3.5`** (versionCode **12**).
+
 ## [0.3.4] - 2026-06-18
 
 ### Fixed

@@ -4,9 +4,9 @@
 
 Multi-edition master plan for **huge update waves**. This doc complements [ROADMAP.md](./ROADMAP.md) (engineering checklist) with **product editions**, release themes, success metrics, and dependency ordering.
 
-**Current app version:** `0.3.4` (versionCode **11**) — **Bright UI** patch: More words refresh fix.
+**Current app version:** `0.3.5` (versionCode **12**) — **Daily Habit** start: opt-in daily notifications + debug test button.
 
-`[AMENDED 2026-06-18]:` Was `0.3.3` (versionCode **10**) after bright theme toggle.
+`[AMENDED 2026-06-18]:` Was `0.3.4` (versionCode **11**) after More words refresh fix.
 `[AMENDED 2026-06-17]:` Was `0.2.4` (versionCode **6**) after Zen UI; prior `0.2.3` (versionCode **5**) after open lexicon.
 
 **Related:** [CHANGELOG.md](./CHANGELOG.md) · [AppReleaseCatalog.kt](../app/src/main/java/com/example/wordofday/data/release/AppReleaseCatalog.kt) (in-app What's New) · [AGENTS.md](../AGENTS.md) (release sync rules).
@@ -21,7 +21,7 @@ Multi-edition master plan for **huge update waves**. This doc complements [ROADM
 | **E2** | Substance & Discovery | `0.2.x` | Quiz, library, rich words, engagement, What's New | **Shipped** (`0.2.4`) |
 | **E3** | Content Scale | `0.3.x` | ~2,700 MVP words, 8 more categories, QA pipeline | **MVP matrix shipped**; flow polish **`0.3.2`** |
 | **E4** | Classroom & Family | `0.4.x` | Profiles, assignments, parent dashboard | Planned |
-| **E5** | Daily Habit | `0.5.x` | Widget, notifications, Wear, streak economy | Planned |
+| **E5** | Daily Habit | `0.5.x` | Widget, notifications, Wear, streak economy | **Partial** — daily notification **`0.3.5`** |
 | **E6** | Adaptive Learning | `0.6.x` | Spaced repetition, weak-word drill, Room history | **Partially shipped** in **`0.3.0`** (SM-2, review deck, progress) |
 | **E7** | Social & Share | `0.7.x` | Leaderboards, friend streaks, export decks | Planned |
 | **E8** | Platform & Polish | `1.0.x` | Play release, i18n, accessibility certification | Planned |
@@ -133,7 +133,7 @@ Multi-edition master plan for **huge update waves**. This doc complements [ROADM
 ### Scope
 
 - [ ] **Home screen widget** — today's word + tap to open app
-- [ ] **Daily notification** (WorkManager, opt-in time picker)
+- [x] **Daily notification** (WorkManager, opt-in time picker) `[AMENDED 2026-06-18]: shipped in **0.3.5**`
 - [ ] Notification actions: Share, Open quiz, Mark read
 - [ ] **Wear OS** tile / complication (word + streak)
 - [ ] Streak **freeze** (1/month) and recovery nudge after miss

@@ -185,7 +185,9 @@ internal fun selectionIndex(
     salt: Int = 0,
 ): Int {
     if (poolSize <= 0) return 0
-    var hash = dayOfYear xor (rotationOffset * 0x9E3779B9) xor (salt * 0x85EBCA6B)
+    var hash = dayOfYear xor
+        (rotationOffset * 0x9E3779B9.toInt()) xor
+        (salt * 0x85EBCA6B.toInt())
     hash = hash xor (hash shl 16)
     hash = hash xor (hash ushr 16)
     hash *= 0x7FEB352D
