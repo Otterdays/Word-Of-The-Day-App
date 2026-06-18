@@ -13,7 +13,8 @@ Instructions for AI agents and contributors working in this repository.
 
 - Android `:app` — Kotlin **2.3.20**, Jetpack Compose, Material 3, MVVM
 - Version catalog: `gradle/libs.versions.toml`
-- Words: `app/src/main/assets/words/*.json`
+- Words: `app/src/main/assets/words/*.json` (curated corpus)
+- Opt-in lexicon: `app/src/main/assets/lexicon/` — see `DOCS/CONTENT_SOURCES.md`
 
 ---
 

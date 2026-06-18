@@ -54,3 +54,5 @@ flowchart LR
 ```
 
 `[2026-03-29]` Initial architecture notes.
+
+`[2026-06-17]` **Data (shipped):** Bundled JSON only — no remote API. **`JsonWordDataSource`** loads **`assets/words/<grade>.json`** (curated corpus) and optionally merges **`assets/lexicon/`** when **`LexiconPreferences`** opt-in flags are set (WordNet per-grade files + myth/sacred/literary packs). **`WordRepository`** applies grade/category filters and adjacent-grade fallback. **`UserPreferencesRepository`** (DataStore) persists grade, categories, and lexicon toggles. See [CONTENT_SOURCES.md](./CONTENT_SOURCES.md).

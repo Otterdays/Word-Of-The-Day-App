@@ -35,11 +35,17 @@ Purpose: fast handoff for future agents. Use this first when a task says "update
   `app/src/main/java/com/example/wordofday/data/model/Category.kt`
 - Word schema model:
   `app/src/main/java/com/example/wordofday/data/model/WordEntry.kt`
+- Lexicon opt-in prefs, content source, age rating:
+  `LexiconPreferences.kt`, `ContentSource.kt` (incl. `ContentRating`)
+- Extended category enum values (`MYTHOLOGY`, `LITERATURE`, `PHILOSOPHY`, `SACRED`):
+  `Category.kt` → `ExtendedCategories`
 
 ### Data and fallback behavior
 
-- JSON loader and in-memory per-grade cache:
+- JSON loader and in-memory per-grade cache (core + optional lexicon merge):
   `app/src/main/java/com/example/wordofday/data/source/JsonWordDataSource.kt`
+- Age/category preference filters for supplemental rows:
+  `app/src/main/java/com/example/wordofday/data/repository/WordContentFilters.kt`
 - Word selection, filtering, deterministic date indexing, adjacent-grade fallback:
   `app/src/main/java/com/example/wordofday/data/repository/WordRepository.kt`
 - Grade spread order helper:
@@ -76,8 +82,12 @@ Purpose: fast handoff for future agents. Use this first when a task says "update
 ### Content assets and tooling
 
 - Bundled words per grade: `app/src/main/assets/words/*.json`
+- Opt-in lexicon (WordNet + packs): `app/src/main/assets/lexicon/`
+- Open-source import policy: `DOCS/CONTENT_SOURCES.md`
 - Inventory coverage script: `scripts/inventory_word_assets.py`
 - Gap-fill corpus wave: `scripts/fill_word_gaps.py` + `scripts/corpus/lemma_banks.py`
+- Extended topic lexicons: `scripts/corpus/extended_lexicons.py`
+- Open lexicon import: `scripts/import_open_lexicon.py` + `scripts/corpus/import_packs_data.py`
 - Category normalization helper script: `scripts/ensure_general_category.py`
 - Coverage tracker doc: `DOCS/CONTENT_8D_PROGRESS.md`
 
@@ -106,6 +116,9 @@ Purpose: fast handoff for future agents. Use this first when a task says "update
   `data/preferences/UserPreferencesRepository.kt`.
 - "Change daily pick logic/fallback": `data/repository/WordRepository.kt` and
   `data/repository/GradeSearchOrder.kt`.
+- "Change extended sources / WordNet / myth packs": `LexiconPreferences` +
+  `UserPreferencesRepository` (DataStore keys `lexicon_*`), `SettingsScreen` toggles,
+  `scripts/import_open_lexicon.py`, assets under `assets/lexicon/`.
 - "Change dependency versions": `gradle/libs.versions.toml`, then update `DOCS/SBOM.md`.
 - "Content volume progress": run script in `scripts/inventory_word_assets.py`, then update
   `DOCS/CONTENT_8D_PROGRESS.md` and `DOCS/SCRATCHPAD.md`.
@@ -123,6 +136,9 @@ Purpose: fast handoff for future agents. Use this first when a task says "update
   `assets/words/*.json` as current truth.
 - AGP references may differ between old notes and current catalog; treat
   `gradle/libs.versions.toml` as source of truth.
+
+`[2026-06-17]` Open lexicon handoff: `assets/lexicon/`, `import_open_lexicon.py`,
+`CONTENT_SOURCES.md`, Settings extended-source toggles documented above.
 
 `[2026-04-30]` Created as a fast handoff map to reduce agent search time and prevent
 constant-location mistakes.

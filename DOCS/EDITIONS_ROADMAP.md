@@ -42,7 +42,20 @@ Multi-edition master plan for **huge update waves**. This doc complements [ROADM
 - [x] Streak milestone messages (7 / 30 / 100 days)
 - [x] Expanded grade 5–6 corpus (15 words each, full metadata)
 
-### E2 remainder (`0.2.1` – `0.2.9`)
+### Shipped in `0.2.3` — Open Lexicon
+
+- [x] WordNet import (**10,351** definitions + synonyms) via `scripts/import_open_lexicon.py`
+- [x] Myth & lore, sacred reference, literary/historical curated packs
+- [x] Settings → **Extended sources** toggles (off by default)
+- [x] `ContentRating` age gates by grade; source attribution on word detail
+- [x] `DOCS/CONTENT_SOURCES.md` licensing policy
+
+### Shipped in `0.2.2` — Mega Corpus
+
+- [x] **11,667** curated rows; **60** per (grade × category) across **13** topics
+- [x] `extended_lexicons.py` for CARS, SPACE, MUSIC, HISTORY, MATH, HEALTH, WEATHER, EMOTIONS
+
+### E2 remainder (`0.2.4` – `0.2.9`)
 
 - [ ] Quiz modes: reverse (definition → word), timed blitz, grade-only pool picker
 - [ ] Library: sort favorites (A–Z, date, grade); search/filter
@@ -62,12 +75,16 @@ Multi-edition master plan for **huge update waves**. This doc complements [ROADM
 
 ### Scope
 
-- [ ] **~2,700 words** (30 × 15 grades × 6 MVP categories) — track [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md)
-- [ ] Enable remaining 8 categories in onboarding/settings (CARS, SPACE, MUSIC, HISTORY, MATH, HEALTH, WEATHER, EMOTIONS)
+- [x] **~2,700 words** (30 × 15 grades × 6 MVP categories) — **exceeded** (11,667 curated rows) — [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md)
+- [x] **8 additional topic categories** in corpus (CARS, SPACE, MUSIC, HISTORY, MATH, HEALTH, WEATHER, EMOTIONS) — data shipped; UI picker still MVP **6**
+- [x] Open lexicon supplemental pipeline (WordNet + packs) — **`0.2.3`**
+- [ ] Enable remaining categories + extended sources in **onboarding** picker UI
 - [ ] Content QA pipeline: reading-level lint script + spot-check checklist (§8e)
 - [ ] Optional CDN/asset-pack delivery for large corpus (Play Asset Delivery)
 - [ ] Duplicate-lemma CI gate on every PR touching `assets/words/`
 - [ ] Category icons + accent colors for all 14
+
+`[AMENDED 2026-06-17]:` MVP matrix and mega corpus rows marked done; open lexicon shipped at **`0.2.3`**.
 
 ### Milestones
 

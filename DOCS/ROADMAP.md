@@ -9,6 +9,25 @@ Checklist-style plan from **current Gradle sample** to a **successful** phone + 
 
 ---
 
+## Status snapshot — 2026-06-17
+
+**Version:** **`0.2.3`** (versionCode **5**) — see [CHANGELOG.md](./CHANGELOG.md) · [EDITIONS_ROADMAP.md](./EDITIONS_ROADMAP.md).
+
+**Curated corpus:** **11,667** rows in **`assets/words/`** (60 × 13 categories × 15 grades; gap **0** — [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md)).
+
+**Open lexicon (opt-in):** **10,351** WordNet + **118** pack rows under **`assets/lexicon/`**; Settings → **Extended sources**; age gates via **`ContentRating`** — [CONTENT_SOURCES.md](./CONTENT_SOURCES.md).
+
+**Engagement shipped:** Quiz, library (calendar/list/favorites), home quick-switch / easier-harder / category swipe, streaks, favorites, update modal.
+
+| Track | Done | Not yet |
+| --- | --- | --- |
+| **§8d curated volume** | Mega matrix complete (**11,667** rows) | §**8e** line-by-line reading-level audit |
+| **§8d supplemental** | WordNet + myth/sacred/literary opt-in pipeline | Expand curated packs; Play Asset Delivery if APK grows |
+| **§9c / §10** | Quick-switch, easier/harder, swipe, streak, quiz, library, share | Long-term quiz streaks; Room history migration |
+| **§6** | CI, ProGuard, versioning | Release signing & Play data safety |
+
+---
+
 ## Status snapshot — 2026-04-29
 
 **Build:** `:app` **`assembleDebug`** green; toolchain per [SBOM.md](./SBOM.md) (Kotlin **2.3.20**, AGP **9.1.0**, Compose BOM).

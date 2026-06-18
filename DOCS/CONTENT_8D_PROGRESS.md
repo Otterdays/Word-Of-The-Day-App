@@ -11,8 +11,26 @@ Targets are defined in [ROADMAP.md](./ROADMAP.md) §**8d**: **~30 words per (gra
 | [scripts/inventory_word_assets.py](../scripts/inventory_word_assets.py) | Prints markdown-friendly coverage matrix + gap sum vs target **30** per cell; detects duplicate lemmas **within** the same grade file. |
 | [scripts/ensure_general_category.py](../scripts/ensure_general_category.py) | One-time / maintenance helper: appends **GENERAL** when missing so GENERAL-only picker selections surface vocabulary rows. |
 | [scripts/fill_word_gaps.py](../scripts/fill_word_gaps.py) | Fills each (grade × MVP category) to **30** from tiered **`scripts/corpus/lemma_banks.py`**; idempotent (skips duplicate lemmas). |
+| [scripts/import_open_lexicon.py](../scripts/import_open_lexicon.py) | Builds **`assets/lexicon/`** from NLTK WordNet + **`scripts/corpus/import_packs_data.py`** (myth, sacred, literary packs). |
 
 Run from repo root (UTF-8 console recommended on Windows: `python -X utf8 scripts/inventory_word_assets.py`).
+
+## Snapshot — `[2026-06-17]` — **Open lexicon** (opt-in, `0.2.3`)
+
+Supplemental vocabulary **merged at runtime** when enabled in **Settings → Extended sources**. Not counted in §8d MVP matrix (curated `assets/words/` only).
+
+| Pack | Path | Rows | License / basis |
+| --- | --- | --- | --- |
+| WordNet | `assets/lexicon/wordnet/<grade>.json` | **10,351** | Princeton WordNet (NLTK import) |
+| Myth & lore | `assets/lexicon/packs/mythology.json` | **62** | PD mythology + curated editorial |
+| Sacred reference | `assets/lexicon/packs/sacred_reference.json` | **28** | PD scripture vocabulary (KJV-era examples) |
+| Literary & historical | `assets/lexicon/packs/literary_historical.json` | **28** | PD literature/history; teen/adult ratings |
+
+- **Regenerate:** `python -X utf8 scripts/import_open_lexicon.py` (requires `pip install nltk`)
+- **Policy:** [CONTENT_SOURCES.md](./CONTENT_SOURCES.md)
+- **Loader:** `JsonWordDataSource` + `LexiconPreferences` DataStore keys in `UserPreferencesRepository`
+
+**Combined ceiling (all packs on, Adult grade):** ~**22,100+** distinct lemmas (11,667 curated + ~10.5k WordNet + packs; deduped by lemma at merge).
 
 ## Snapshot — `[2026-06-17]` — **Mega corpus** (60 × 13 × 15)
 

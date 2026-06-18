@@ -18,9 +18,11 @@
 
 ## Last actions (most recent LAST, AVOID MANY EDITS)
 
-1. `[2026-06-17]` **Open lexicon (`0.2.3`):** WordNet + myth/sacred/literary import script; Settings toggles; **`CONTENT_SOURCES.md`**; version **0.2.3** / code **5**.
+1. `[2026-06-17]` **Docs sync:** SUMMARY, CONTENT_8D_PROGRESS, AGENT_WORKMAP, ARCHITECTURE, ROADMAP, README updated for open lexicon **`0.2.3`**.
 
-2. `[2026-06-17]` **Mega corpus (`0.2.2`):** `--target 60` + **13** categories + **`extended_lexicons.py`** → **+9,449** rows (**11,667** total); version **0.2.2** / code **4**; build green.
+2. `[2026-06-17]` **Open lexicon (`0.2.3`):** WordNet + myth/sacred/literary import script; Settings toggles; **`CONTENT_SOURCES.md`**; version **0.2.3** / code **5**; build green.
+
+3. `[2026-06-17]` **Mega corpus (`0.2.2`):** `--target 60` + **13** categories + **`extended_lexicons.py`** → **+9,449** rows (**11,667** total); version **0.2.2** / code **4**; build green.
 
 2. `[2026-06-17]` **§8d corpus fill + `0.2.1`:** `scripts/fill_word_gaps.py` + `lemma_banks.py` → **+2,047** rows (**2,218** total); gap **0**; version **0.2.1** / code **3**; **`AppReleaseCatalog`** updated; build green.
 
@@ -64,6 +66,7 @@
 8. ~~Implement Compose shell + first Word of the Day screen.~~ DONE
 9. `[2026-04-29]` **Roadmap follow-through:** drive **[ROADMAP.md](./ROADMAP.md)** backlog — §**8d** corpus volume (~2,700 MVP words), §**8e** reading-level QA, §**9c** quick-switch / easier-harder / swipe, **`WindowSizeClass`** + inset polish, tests + CI (keep snapshot §2026-04-29 updated when items ship).
 10. `[2026-04-30]` Keep `DOCS/AGENT_WORKMAP.md` current whenever constants, route names, dependency pins, or source-of-truth file paths move.
+11. `[2026-06-17]` Expand myth/sacred/literary **pack** row counts in `import_packs_data.py` (WordNet already ~10k); optional Play Asset Delivery if APK size becomes an issue.
 
 ## Out-of-scope observations
 

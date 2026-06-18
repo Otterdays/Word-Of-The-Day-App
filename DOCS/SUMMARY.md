@@ -30,6 +30,7 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 | [SBOM.md](./SBOM.md) | Bill of materials + **version page links** for Kotlin, AGP, Compose, AndroidX |
 | [ROADMAP.md](./ROADMAP.md) | **Sectioned checklist** from empty repo → shippable app (phone + tablet) |
 | [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md) | §**8d** MVP corpus coverage vs targets + inventory scripts |
+| [CONTENT_SOURCES.md](./CONTENT_SOURCES.md) | **Open lexicon** licensing, opt-in packs (WordNet, myth, sacred, literary), age gates |
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | Planned layers and boundaries |
 | [STYLE_GUIDE.md](./STYLE_GUIDE.md) | Naming, structure, trace tags for this project |
 | [AGENT_WORKMAP.md](./AGENT_WORKMAP.md) | Fast "where to edit" map for routes, constants, data, config, and CI |
@@ -47,6 +48,10 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 - [Android Gradle plugin releases](https://developer.android.com/build/releases/gradle-plugin)
 
 ## Status
+
+`[2026-06-17]` **Open lexicon (`0.2.3`)** shipped: **10,351** WordNet rows + myth/sacred/literary packs under **`assets/lexicon/`**; Settings **Extended sources** opt-in; age-rated filters; **`CONTENT_SOURCES.md`**. App **0.2.3** / versionCode **5**.
+
+`[2026-06-17]` **Mega corpus (`0.2.2`)**: **11,667** curated rows in **`assets/words/`**; **60** per (grade × category) across **13** topics.
 
 `[2026-06-17]` **Edition 2 (`0.2.0`)** shipped: quiz, library (calendar/list/favorites), update modal, **`EDITIONS_ROADMAP.md`**, release-sync rules in **`AGENTS.md`**.
 

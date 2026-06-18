@@ -1,187 +1,198 @@
-# 📚 Word of the Day
-
 <div align="center">
 
-![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)
-![Kotlin](https://img.shields.io/badge/Language-Kotlin-blue?logo=kotlin)
-![Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-purple?logo=jetpackcompose)
-![Gradle](https://img.shields.io/badge/Build-Gradle%209.6-blue?logo=gradle)
-![API](https://img.shields.io/badge/API-26%2B-brightgreen)
+# Word of the Day
 
-*A beautiful Android app that delivers a new word every day to expand your vocabulary*
+**Expand your vocabulary every day — from Pre-K to Adult, on phone or tablet.**
+
+[![Android CI](https://github.com/Otterdays/Word-Of-The-Day-App/actions/workflows/android-ci.yml/badge.svg)](https://github.com/Otterdays/Word-Of-The-Day-App/actions/workflows/android-ci.yml)
+[![Version](https://img.shields.io/badge/version-0.2.3-7C4DFF?style=flat-square)](https://github.com/Otterdays/Word-Of-The-Day-App/releases)
+[![Kotlin](https://img.shields.io/badge/Kotlin-2.3.20-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![API](https://img.shields.io/badge/API-26%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/about/versions/nougat)
+[![License](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)](LICENSE)
+[![Words](https://img.shields.io/badge/Vocabulary-22k%2B-F59E0B?style=flat-square)](#-vocabulary-at-a-glance)
+[![Offline](https://img.shields.io/badge/Offline-first-6366F1?style=flat-square)](#-features)
+
+[Features](#-features) · [Screenshots](#-screenshots) · [Quick start](#-quick-start) · [Docs](#-documentation) · [Contributing](#-contributing)
 
 </div>
 
+---
+
 ## ✨ Features
 
-- 🎯 **Daily Word Delivery**: Get a curated word every day with comprehensive information
-- 📱 **Modern UI**: Built with Jetpack Compose for a smooth, responsive experience
-- 🎨 **Material Design 3**: Follows latest Android design guidelines with adaptive layouts
-- 📖 **Rich Content**: Each word includes definition, pronunciation, examples, and etymology
-- 🏗️ **Clean Architecture**: MVVM pattern with separation of concerns
-- 🔄 **Offline Ready**: Designed to work seamlessly with local data persistence
+| | |
+| --- | --- |
+| **Daily word** | Curated lemma each day with definition, pronunciation, example, etymology, synonyms, and usage tips |
+| **15 grade levels** | Pre-K through Adult — age-appropriate pools with easier/harder session shifts |
+| **Themed interests** | Technology, sports, food, science, animals, and more — swipe categories on the home screen |
+| **Quiz mode** | Five multiple-choice questions drawn from your grade + topic pool |
+| **Library** | History calendar, list view, favorites, and rich word detail screens |
+| **Streaks & share** | Daily streak milestones, TTS listen, and grade-aware share cards |
+| **Extended sources** | Opt-in WordNet dictionary/thesaurus + myth, sacred reference, and literary/historical packs (age-gated) |
+| **Offline-first** | Bundled JSON corpus — no account, no network required for daily use |
 
-## 🏗️ Architecture
+Built with **MVVM**, **Jetpack Compose**, **Material 3**, **DataStore**, and **Kotlinx Serialization**.
 
-This app follows modern Android development best practices with a clean, layered architecture:
+---
 
-```
-┌─────────────────┐
-│   UI Layer      │  ← Jetpack Compose Screens
-├─────────────────┤
-│ Presentation    │  ← ViewModels with UI State
-├─────────────────┤
-│   Domain        │  ← Business Logic (when needed)
-├─────────────────┤
-│    Data Layer   │  ← Repository Pattern
-└─────────────────┘
-```
+## 📊 Vocabulary at a glance
 
-### Key Components
+| Corpus | Rows | Notes |
+| --- | ---: | --- |
+| **Curated** (`assets/words/`) | **11,667** | 60 words × 13 topics × 15 grades |
+| **WordNet** (opt-in) | **10,351** | Princeton definitions + synonyms |
+| **Myth & lore** (opt-in) | 62 | Public-domain mythology references |
+| **Sacred reference** (opt-in) | 28 | Scripture vocabulary (PD examples) |
+| **Literary & historical** (opt-in) | 28 | Philosophy, literature, mature history |
 
-- **Single Activity Architecture**: Modern navigation with Compose Navigation
-- **MVVM Pattern**: ViewModels manage UI state and business logic
-- **Repository Pattern**: Clean data layer abstraction
-- **Coroutines**: Asynchronous operations handled efficiently
-- **Serialization**: Kotlinx Serialization for data models
+Enable supplemental packs in **Settings → Extended sources**. See [CONTENT_SOURCES.md](DOCS/CONTENT_SOURCES.md) for licensing.
+
+---
 
 ## 📱 Screenshots
 
-*(Add screenshots here when the app is ready)*
+> Placeholder — add phone + tablet captures here.
 
-## 🚀 Getting Started
+| Home | Quiz | Library |
+| :---: | :---: | :---: |
+| *coming soon* | *coming soon* | *coming soon* |
+
+---
+
+## 🚀 Quick start
 
 ### Prerequisites
 
-- **Android Studio**: Hedgehog | 2023.1.1 or newer
-- **JDK**: 21 or newer
-- **Android SDK**: API level 26 (Android 8.0) minimum
-- **Gradle**: 9.6
+- **Android Studio** Ladybug or newer  
+- **JDK 21+**  
+- **Android SDK** — API 26 minimum, API 36 target  
 
-### Installation
+### Clone & run
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Otterdays/Word-Of-The-Day-App.git
-   cd Word-Of-The-Day-App
-   ```
+```bash
+git clone https://github.com/Otterdays/Word-Of-The-Day-App.git
+cd Word-Of-The-Day-App
+./gradlew :app:installDebug
+```
 
-2. **Open in Android Studio**
-   - Open Android Studio
-   - Select "Open an existing project"
-   - Navigate to the project directory
+On Windows:
 
-3. **Sync the project**
-   - Android Studio will automatically sync the Gradle files
-   - Wait for the build to complete
+```bat
+gradlew.bat :app:installDebug
+```
 
-4. **Run the app**
-   - Connect an Android device or start an emulator
-   - Click the "Run" button (▶️) in Android Studio
-   - Or use the command line:
-     ```bash
-     ./gradlew :app:installDebug
-     ```
+### Verify
 
-## 📂 Project Structure
+```bash
+./gradlew testDebugUnitTest assembleDebug
+```
+
+---
+
+## 🏗️ Architecture
+
+```
+┌──────────────────────────────────────────────┐
+│  Compose UI  —  Home · Quiz · Library · …    │
+├──────────────────────────────────────────────┤
+│  ViewModels  —  UiState · user intents       │
+├──────────────────────────────────────────────┤
+│  Repository  —  WordRepository · prefs       │
+├──────────────────────────────────────────────┤
+│  Data        —  JsonWordDataSource · DataStore│
+│              —  assets/words + assets/lexicon │
+└──────────────────────────────────────────────┘
+```
+
+**Entry points:** `MainActivity` → `WordOfDayApp` → `NavHost` (onboarding → home → settings / quiz / library).
+
+---
+
+## 📂 Project structure
 
 ```
 Word-Of-The-Day-App/
-├── app/
-│   └── src/main/
-│       ├── java/com/example/wordofday/
-│       │   ├── data/
-│       │   │   ├── model/          # Data models
-│       │   │   └── repository/     # Data repositories
-│       │   ├── ui/
-│       │   │   ├── home/           # Main screen components
-│       │   │   └── theme/          # Material 3 theming
-│       │   └── MainActivity.kt     # Single entry point
-│       └── res/                    # Android resources
-├── DOCS/                           # Project documentation
-├── build.gradle.kts               # Root build configuration
-├── settings.gradle.kts            # Gradle settings
-└── gradle.properties              # Gradle properties
+├── app/src/main/
+│   ├── java/com/example/wordofday/
+│   │   ├── data/          # models, repository, JsonWordDataSource
+│   │   └── ui/            # Compose screens + theme
+│   └── assets/
+│       ├── words/         # Curated per-grade vocabulary (always on)
+│       └── lexicon/       # Opt-in WordNet + specialty packs
+├── scripts/               # Corpus fill + open lexicon import
+├── DOCS/                  # Architecture, roadmap, changelog
+└── gradle/libs.versions.toml
 ```
 
-## 🛠️ Tech Stack
+---
 
-### Core Technologies
-- **Kotlin**: Primary programming language
-- **Jetpack Compose**: Modern UI toolkit
-- **AndroidX**: Core Android libraries
-- **Material 3**: Design system and components
+## 🛠️ Tech stack
 
-### Architecture & Libraries
-- **Compose Navigation**: Screen navigation
-- **ViewModel**: UI state management
-- **Coroutines**: Asynchronous programming
-- **Kotlinx Serialization**: JSON parsing
-- **Compose BOM**: Aligned Compose dependencies
+| Layer | Choices |
+| --- | --- |
+| Language | Kotlin **2.3.20** |
+| UI | Jetpack Compose · Material 3 · Window size classes |
+| Architecture | MVVM · single-activity · Navigation Compose |
+| Persistence | DataStore Preferences |
+| Serialization | Kotlinx Serialization (bundled JSON) |
+| Build | Gradle **9.6** · AGP **9.2.0** · version catalog |
+| CI | GitHub Actions — unit tests, lint, `assembleDebug` |
 
-### Build Tools
-- **Gradle 9.6**: Build automation
-- **Kotlin DSL**: Build script configuration
-- **Version Catalogs**: Centralized dependency management
-
-## 📋 Requirements
-
-- **Minimum SDK**: API 26 (Android 8.0)
-- **Target SDK**: API 36 (Android 15)
-- **Compile SDK**: API 36
+---
 
 ## 🧪 Testing
 
-The project includes JVM unit tests (for example, grade search-order behavior) and CI runs
-unit tests + lint + debug assemble on pushes/PRs.
-
 ```bash
-# Run unit tests
-./gradlew test
-
-# Run instrumented tests
-./gradlew connectedAndroidTest
+./gradlew testDebugUnitTest    # JVM unit tests (quiz engine, grade order, …)
+./gradlew lintDebug            # Android lint
+./gradlew connectedAndroidTest # Instrumented (device/emulator required)
 ```
+
+---
 
 ## 📖 Documentation
 
-Detailed project documentation is available in the `DOCS/` directory:
+| Doc | Purpose |
+| --- | --- |
+| [ARCHITECTURE.md](DOCS/ARCHITECTURE.md) | Layers, data flow, bundled assets |
+| [ROADMAP.md](DOCS/ROADMAP.md) | Engineering checklist |
+| [EDITIONS_ROADMAP.md](DOCS/EDITIONS_ROADMAP.md) | Product editions E1–E8 |
+| [CONTENT_SOURCES.md](DOCS/CONTENT_SOURCES.md) | Open lexicon licensing & regeneration |
+| [CONTENT_8D_PROGRESS.md](DOCS/CONTENT_8D_PROGRESS.md) | Corpus coverage snapshots |
+| [CHANGELOG.md](DOCS/CHANGELOG.md) | Version history |
+| [AGENT_WORKMAP.md](DOCS/AGENT_WORKMAP.md) | Where to edit routes, models, scripts |
 
-- **[ARCHITECTURE.md](DOCS/ARCHITECTURE.md)**: Technical architecture details
-- **[ROADMAP.md](DOCS/ROADMAP.md)**: Development roadmap and feature planning
-- **[STYLE_GUIDE.md](DOCS/STYLE_GUIDE.md)**: Coding standards and conventions
-- **[AGENT_WORKMAP.md](DOCS/AGENT_WORKMAP.md)**: Fast "where to edit what" map (constants,
-  routes, config, content pipeline, CI)
-- **[CHANGELOG.md](DOCS/CHANGELOG.md)**: Version history and changes
+Regenerate supplemental lexicon:
+
+```bash
+pip install nltk
+python -X utf8 scripts/import_open_lexicon.py
+```
+
+---
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
+PRs welcome. For larger changes, open an issue first.
 
-### Development Guidelines
+1. Fork the repo and create a feature branch (`feature/…` or `fix/…`)
+2. Match existing MVVM + Compose patterns
+3. Run `./gradlew testDebugUnitTest assembleDebug`
+4. Update `DOCS/SCRATCHPAD.md` (and `CHANGELOG.md` for user-facing releases)
 
-- Follow the existing code style and architecture patterns
-- Write unit tests for new functionality
-- Update documentation as needed
-- Ensure all tests pass before submitting
+---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🔗 Links
-
-- [Android Developer Documentation](https://developer.android.com/)
-- [Jetpack Compose Documentation](https://developer.android.com/jetpack/compose)
-- [Kotlin Documentation](https://kotlinlang.org/docs/)
-- [Material Design 3](https://m3.material.io/)
+[MIT](LICENSE) — see [LICENSE](LICENSE) for details.
 
 ---
 
 <div align="center">
 
-**Built with ❤️ using modern Android development practices**
+**Word of the Day** · Kotlin · Jetpack Compose · Material 3
 
-Made with [Jetpack Compose](https://developer.android.com/jetpack/compose) & [Kotlin](https://kotlinlang.org/)
+[Report a bug](https://github.com/Otterdays/Word-Of-The-Day-App/issues) · [Request a feature](https://github.com/Otterdays/Word-Of-The-Day-App/issues)
 
 </div>
