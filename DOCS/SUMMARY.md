@@ -33,6 +33,8 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 | [ARCHITECTURE.md](./ARCHITECTURE.md) | Planned layers and boundaries |
 | [STYLE_GUIDE.md](./STYLE_GUIDE.md) | Naming, structure, trace tags for this project |
 | [AGENT_WORKMAP.md](./AGENT_WORKMAP.md) | Fast "where to edit" map for routes, constants, data, config, and CI |
+| [EDITIONS_ROADMAP.md](./EDITIONS_ROADMAP.md) | **Multi-edition** product plan (E1–E8) + release discipline |
+| [AGENTS.md](../AGENTS.md) | Agent init + **urgent release sync** (CHANGELOG + update modal) |
 | [CHANGELOG.md](./CHANGELOG.md) | Human-readable history |
 | [SCRATCHPAD.md](./SCRATCHPAD.md) | Active tasks and last actions |
 | [My_Thoughts.md](./My_Thoughts.md) | Decisions log |
@@ -45,6 +47,8 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 - [Android Gradle plugin releases](https://developer.android.com/build/releases/gradle-plugin)
 
 ## Status
+
+`[2026-06-17]` **Edition 2 (`0.2.0`)** shipped: quiz, library (calendar/list/favorites), update modal, **`EDITIONS_ROADMAP.md`**, release-sync rules in **`AGENTS.md`**.
 
 `[2026-04-29]` ROADMAP §**0–8** engineering items synced (§**8d** volume row + reading-level audit remain open); CI (**`.github/workflows/android-ci.yml`**), **`lintDebug`**, JVM **`GradeSearchOrder`** tests, **`LocalActivity`** + lemma **`heading()`**.
 

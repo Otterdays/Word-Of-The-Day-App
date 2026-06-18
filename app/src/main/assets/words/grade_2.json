@@ -61,7 +61,11 @@
     "pronunciation": "/ˈätər/",
     "definition": "A playful mammal that swims well and eats fish.",
     "example": "The otter floated on its back while cracking a shell.",
-    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
   },
   {
     "word": "pancake",
@@ -69,7 +73,10 @@
     "pronunciation": "/ˈpanˌkāk/",
     "definition": "A flat breakfast cake cooked on a griddle.",
     "example": "We flipped pancakes on Saturday morning.",
-    "categories": ["FOOD", "GENERAL"]
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
   },
   {
     "word": "dodgeball",
@@ -77,7 +84,10 @@
     "pronunciation": "/ˈdäjˌbôl/",
     "definition": "A gym game where you throw soft balls and dodge throws.",
     "example": "His team won dodgeball by catching the last throw.",
-    "categories": ["SPORTS", "GENERAL"]
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
   },
   {
     "word": "cursor",
@@ -85,7 +95,10 @@
     "pronunciation": "/ˈkərsər/",
     "definition": "The blinking line or arrow that shows where you type.",
     "example": "She moved the cursor to fix the typo.",
-    "categories": ["TECH", "GENERAL"]
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
   },
   {
     "word": "volcano",
@@ -93,7 +106,10 @@
     "pronunciation": "/välˈkānō/",
     "definition": "A mountain that can melt rock and shoot ash into the air.",
     "example": "Scientists studied gases above the quiet volcano.",
-    "categories": ["SCIENCE", "GENERAL"]
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
   },
   {
     "word": "peanut",
@@ -101,7 +117,10 @@
     "pronunciation": "/ˈpēˌnət/",
     "definition": "A salty legume snack; check allergy rules before sharing.",
     "example": "Trail mix included raisins and peanuts.",
-    "categories": ["FOOD", "GENERAL"]
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
   },
   {
     "word": "relay",
@@ -109,7 +128,10 @@
     "pronunciation": "/ˈrēˌlā/",
     "definition": "A race where each runner covers part of the distance.",
     "example": "They practiced baton passes for the relay.",
-    "categories": ["SPORTS", "GENERAL"]
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
   },
   {
     "word": "dolphin",
@@ -117,6 +139,1495 @@
     "pronunciation": "/ˈdälfən/",
     "definition": "A smart ocean mammal that swims in pods.",
     "example": "The dolphin leaped beside the tour boat.",
-    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wifi",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wifi in the tech domain.",
+    "example": "We used the wifi in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "email",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for email in the tech domain.",
+    "example": "We used the email in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mouse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mouse in the tech domain.",
+    "example": "We used the mouse in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "password",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for password in the tech domain.",
+    "example": "We used the password in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "browser",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for browser in the tech domain.",
+    "example": "We used the browser in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "download",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To download as an action or process.",
+    "example": "We used the download in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "upload",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To upload as an action or process.",
+    "example": "We used the upload in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "software",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for software in the tech domain.",
+    "example": "We used the software in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hardware",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hardware in the tech domain.",
+    "example": "We used the hardware in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "network",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for network in the tech domain.",
+    "example": "We used the network in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "server",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for server in the tech domain.",
+    "example": "We used the server in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "database",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for database in the tech domain.",
+    "example": "We used the database in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "algorithm",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A step-by-step procedure for solving a problem.",
+    "example": "We used the algorithm in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "debug",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To debug as an action or process.",
+    "example": "We used the debug in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "variable",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for variable in the tech domain.",
+    "example": "We used the variable in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "function",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for function in the tech domain.",
+    "example": "We used the function in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "encryption",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Scrambling data so only authorized readers understand it.",
+    "example": "We used the encryption in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "firewall",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for firewall in the tech domain.",
+    "example": "We used the firewall in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bandwidth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bandwidth in the tech domain.",
+    "example": "We used the bandwidth in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "API",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for API in the tech domain.",
+    "example": "We used the API in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "framework",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for framework in the tech domain.",
+    "example": "We used the framework in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "deployment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for deployment in the tech domain.",
+    "example": "We used the deployment in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "latency",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for latency in the tech domain.",
+    "example": "We used the latency in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "microservice",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for microservice in the tech domain.",
+    "example": "We used the microservice in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blockchain",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A shared tamper-resistant ledger of linked records.",
+    "example": "We used the blockchain in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "authentication",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for authentication in the tech domain.",
+    "example": "We used the authentication in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scalability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Ability to handle growth without failing.",
+    "example": "We used the scalability in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "abstraction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Hiding complex details behind a simpler interface.",
+    "example": "We used the abstraction in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "team",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "People who play together toward a shared goal.",
+    "example": "We practice team at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "net",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for net in the sports domain.",
+    "example": "We practice net at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bat in the sports domain.",
+    "example": "We practice bat at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hit",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To hit as an action or process.",
+    "example": "We practice hit at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "swim",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To swim as an action or process.",
+    "example": "We practice swim at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dive",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To dive as an action or process.",
+    "example": "We practice dive at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "skate",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To skate as an action or process.",
+    "example": "We practice skate at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bike",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To bike as an action or process.",
+    "example": "We practice bike at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "toss",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To toss as an action or process.",
+    "example": "We practice toss at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pass",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To pass as an action or process.",
+    "example": "We practice pass at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shoot",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To shoot as an action or process.",
+    "example": "We practice shoot at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "score",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To score as an action or process.",
+    "example": "We practice score at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "win",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To win as an action or process.",
+    "example": "We practice win at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lose",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To lose as an action or process.",
+    "example": "We practice lose at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "coach",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for coach in the sports domain.",
+    "example": "We practice coach at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "field",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for field in the sports domain.",
+    "example": "We practice field at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "court",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for court in the sports domain.",
+    "example": "We practice court at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "helmet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for helmet in the sports domain.",
+    "example": "We practice helmet at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "glove",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for glove in the sports domain.",
+    "example": "We practice glove at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stretch",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To stretch as an action or process.",
+    "example": "We practice stretch at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "marathon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A long-distance running race.",
+    "example": "We practice marathon at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "foul",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for foul in the sports domain.",
+    "example": "We practice foul at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "referee",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for referee in the sports domain.",
+    "example": "We practice referee at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "timeout",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for timeout in the sports domain.",
+    "example": "We practice timeout at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "halftime",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for halftime in the sports domain.",
+    "example": "We practice halftime at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tournament",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A structured series of contests producing a winner.",
+    "example": "We practice tournament at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "champion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for champion in the sports domain.",
+    "example": "We practice champion at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lunch",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lunch in the food domain.",
+    "example": "We tasted lunch at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "breakfast",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for breakfast in the food domain.",
+    "example": "We tasted breakfast at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dinner",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dinner in the food domain.",
+    "example": "We tasted dinner at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "spoon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for spoon in the food domain.",
+    "example": "We tasted spoon at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fork",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fork in the food domain.",
+    "example": "We tasted fork at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "plate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for plate in the food domain.",
+    "example": "We tasted plate at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bowl",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bowl in the food domain.",
+    "example": "We tasted bowl at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cup",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cup in the food domain.",
+    "example": "We tasted cup at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "salt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for salt in the food domain.",
+    "example": "We tasted salt at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sugar",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sugar in the food domain.",
+    "example": "We tasted sugar at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "honey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for honey in the food domain.",
+    "example": "We tasted honey at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "butter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for butter in the food domain.",
+    "example": "We tasted butter at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "toast",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for toast in the food domain.",
+    "example": "We tasted toast at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "salad",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for salad in the food domain.",
+    "example": "We tasted salad at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pasta",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pasta in the food domain.",
+    "example": "We tasted pasta at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pizza",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pizza in the food domain.",
+    "example": "We tasted pizza at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "taco",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for taco in the food domain.",
+    "example": "We tasted taco at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sushi",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sushi in the food domain.",
+    "example": "We tasted sushi at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bake",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To bake as an action or process.",
+    "example": "Mom helped us bake before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "boil",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To boil as an action or process.",
+    "example": "Mom helped us boil before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "grill",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To grill as an action or process.",
+    "example": "Mom helped us grill before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "steam",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To steam as an action or process.",
+    "example": "Mom helped us steam before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chop",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To chop as an action or process.",
+    "example": "Mom helped us chop before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "slice",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To slice as an action or process.",
+    "example": "Mom helped us slice before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "peel",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To peel as an action or process.",
+    "example": "Mom helped us peel before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "season",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To season as an action or process.",
+    "example": "Mom helped us season before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "marinate",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To soak food in seasoned liquid before cooking.",
+    "example": "Mom helped us marinate before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "soil",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for soil in the science domain.",
+    "example": "We saw soil during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "water",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for water in the science domain.",
+    "example": "We saw water during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ice",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ice in the science domain.",
+    "example": "We saw ice during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heat in the science domain.",
+    "example": "We saw heat during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "light",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for light in the science domain.",
+    "example": "We saw light during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shadow",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for shadow in the science domain.",
+    "example": "We saw shadow during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "battery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for battery in the science domain.",
+    "example": "We saw battery during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pulse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pulse in the science domain.",
+    "example": "We saw pulse during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "germs",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for germs in the science domain.",
+    "example": "We saw germs during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "habitat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for habitat in the science domain.",
+    "example": "We saw habitat during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fossil",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fossil in the science domain.",
+    "example": "We saw fossil during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "earthquake",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for earthquake in the science domain.",
+    "example": "We saw earthquake during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ecosystem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ecosystem in the science domain.",
+    "example": "We saw ecosystem during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gravity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gravity in the science domain.",
+    "example": "We saw gravity during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "orbit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for orbit in the science domain.",
+    "example": "We saw orbit during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "phase",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for phase in the science domain.",
+    "example": "We saw phase during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "atom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for atom in the science domain.",
+    "example": "We saw atom during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "molecule",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for molecule in the science domain.",
+    "example": "We saw molecule during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "element",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for element in the science domain.",
+    "example": "We saw element during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "compound",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for compound in the science domain.",
+    "example": "We saw compound during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "reaction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for reaction in the science domain.",
+    "example": "We saw reaction during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "energy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for energy in the science domain.",
+    "example": "We saw energy during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "force",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for force in the science domain.",
+    "example": "We saw force during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "motion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for motion in the science domain.",
+    "example": "We saw motion during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "friction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for friction in the science domain.",
+    "example": "We saw friction during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "density",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for density in the science domain.",
+    "example": "We saw density during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sheep",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sheep in the animals domain.",
+    "example": "The sheep lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "goat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for goat in the animals domain.",
+    "example": "The goat lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chicken",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chicken in the animals domain.",
+    "example": "The chicken lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rabbit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rabbit in the animals domain.",
+    "example": "The rabbit lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bear",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bear in the animals domain.",
+    "example": "The bear lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lion in the animals domain.",
+    "example": "The lion lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tiger",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tiger in the animals domain.",
+    "example": "The tiger lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "elephant",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for elephant in the animals domain.",
+    "example": "The elephant lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "giraffe",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for giraffe in the animals domain.",
+    "example": "The giraffe lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "zebra",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for zebra in the animals domain.",
+    "example": "The zebra lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "monkey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for monkey in the animals domain.",
+    "example": "The monkey lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "snake",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for snake in the animals domain.",
+    "example": "The snake lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "turtle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for turtle in the animals domain.",
+    "example": "The turtle lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "whale",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for whale in the animals domain.",
+    "example": "The whale lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shark",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for shark in the animals domain.",
+    "example": "The shark lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "octopus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for octopus in the animals domain.",
+    "example": "The octopus lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "penguin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for penguin in the animals domain.",
+    "example": "The penguin lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "owl",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for owl in the animals domain.",
+    "example": "The owl lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "eagle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for eagle in the animals domain.",
+    "example": "The eagle lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "parrot",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for parrot in the animals domain.",
+    "example": "The parrot lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "deer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for deer in the animals domain.",
+    "example": "The deer lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wolf",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wolf in the animals domain.",
+    "example": "The wolf lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fox",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fox in the animals domain.",
+    "example": "The fox lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "raccoon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for raccoon in the animals domain.",
+    "example": "The raccoon lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "squirrel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for squirrel in the animals domain.",
+    "example": "The squirrel lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hedgehog",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hedgehog in the animals domain.",
+    "example": "The hedgehog lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "kangaroo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for kangaroo in the animals domain.",
+    "example": "The kangaroo lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
   }
 ]

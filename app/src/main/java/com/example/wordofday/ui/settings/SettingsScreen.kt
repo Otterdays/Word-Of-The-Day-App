@@ -41,6 +41,7 @@ import com.example.wordofday.data.model.GradeLevel
 @Composable
 fun SettingsScreen(
     onBack: () -> Unit,
+    onShowWhatsNew: () -> Unit = {},
     modifier: Modifier = Modifier,
     viewModel: SettingsViewModel = viewModel(
         factory = SettingsViewModel.Factory(LocalContext.current.applicationContext as Application),
@@ -128,6 +129,13 @@ fun SettingsScreen(
                 color = MaterialTheme.colorScheme.onSurfaceVariant,
             )
             Spacer(modifier = Modifier.height(32.dp))
+            OutlinedButton(
+                onClick = onShowWhatsNew,
+                modifier = Modifier.fillMaxWidth(),
+            ) {
+                Text("What's new")
+            }
+            Spacer(modifier = Modifier.height(12.dp))
             OutlinedButton(
                 onClick = { viewModel.resetPreferences() },
                 modifier = Modifier.fillMaxWidth(),

@@ -65,5 +65,2293 @@
       "FOOD",
       "GENERAL"
     ]
+  },
+  {
+    "word": "Fourier transform",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Fourier transform in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained Fourier transform clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Fourier",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "speculative execution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for speculative execution in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained speculative execution clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "speculative",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "linearizability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for linearizability in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained linearizability clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "linearizability",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "event sourcing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for event sourcing in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained event sourcing clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "event",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "zero-knowledge proof",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for zero knowledge proof in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained zero-knowledge proof clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "zero-knowledge",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "post-quantum cryptography",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for post quantum cryptography in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained post-quantum cryptography clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "post-quantum",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "WebAssembly",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for WebAssembly in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained WebAssembly clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "WebAssembly",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "computational irreducibility",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for computational irreducibility in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained computational irreducibility clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "computational",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "alignment problem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for alignment problem in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained alignment problem clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "alignment",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "Goodhart's law",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Goodhart's law in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained Goodhart's law clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Goodhart's",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "Moore's law",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Observation that chip density historically doubled on a cadence, often assessed on exams.",
+    "example": "Our textbook chapter explained Moore's law clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Moore's",
+      "related term"
+    ],
+    "usageNote": "Use cautiously; physical limits now complicate the trend."
+  },
+  {
+    "word": "surveillance capitalism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Profit model based on predicting and shaping behavior, often assessed on exams.",
+    "example": "Our textbook chapter explained surveillance capitalism clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "surveillance",
+      "related term"
+    ],
+    "usageNote": "Term popularized by scholar Shoshana Zuboff."
+  },
+  {
+    "word": "digital sovereignty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for digital sovereignty in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained digital sovereignty clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "digital",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "platform engineering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for platform engineering in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained platform engineering clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "platform",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "privacy by design",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for privacy by design in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained privacy by design clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "privacy",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "technological singularity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for technological singularity in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained technological singularity clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "technological",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "path dependence",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for path dependence in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained path dependence clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "path",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "vendor lock-in",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vendor lock in in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained vendor lock-in clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "vendor",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "interoperability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for interoperability in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained interoperability clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "interoperability",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "edge computing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for edge computing in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained edge computing clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "edge",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "machine learning",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for machine learning in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained machine learning clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "machine",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "neural network",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for neural network in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained neural network clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "neural",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "technical debt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for technical debt in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained technical debt clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "technical",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "Infrastructure as Code",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Infrastructure as Code in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained Infrastructure as Code clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Infrastructure",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "quantum",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to quantum, often assessed on exams.",
+    "example": "Our textbook chapter explained quantum clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "quantum",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "avatar",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for avatar in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained avatar clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "avatar",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "pixel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pixel in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained pixel clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "pixel",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "cache",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cache in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained cache clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cache",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "cookie",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cookie in the tech domain, often assessed on exams.",
+    "example": "Our textbook chapter explained cookie clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cookie",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "upset",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for upset in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained upset clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "upset",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "seed",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seed in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained seed clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "seed",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "bracket",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bracket in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained bracket clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "bracket",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "podium",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for podium in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained podium clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "podium",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "medal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for medal in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained medal clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "medal",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "record",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for record in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained record clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "record",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "doping",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for doping in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained doping clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "doping",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "biomechanics",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Science of forces and motion in athletic movement, often assessed on exams.",
+    "example": "Our textbook chapter explained biomechanics clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "biomechanics",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "periodization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for periodization in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained periodization clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "periodization",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "VO2 max",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for VO2 max in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained VO2 max clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "VO2",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "lactate threshold",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lactate threshold in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained lactate threshold clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "lactate",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "proprioception",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for proprioception in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained proprioception clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "proprioception",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "plyometrics",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for plyometrics in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained plyometrics clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "plyometrics",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "salary cap",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for salary cap in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained salary cap clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "salary",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "free agency",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for free agency in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained free agency clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "free",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "match fixing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for match fixing in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained match fixing clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "match",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "sportsmanship",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Fair and respectful conduct in competition, often assessed on exams.",
+    "example": "Our textbook chapter explained sportsmanship clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "sportsmanship",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "hooliganism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hooliganism in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained hooliganism clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "hooliganism",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "paralympic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to paralympic, often assessed on exams.",
+    "example": "Our textbook chapter explained paralympic clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "paralympic",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "decathlon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for decathlon in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained decathlon clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "decathlon",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "triathlon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for triathlon in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained triathlon clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "triathlon",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "regatta",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for regatta in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained regatta clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "regatta",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "slalom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for slalom in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained slalom clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "slalom",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "bobsled",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bobsled in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained bobsled clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "bobsled",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "curling",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for curling in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained curling clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "curling",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "fencing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fencing in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained fencing clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "fencing",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "archery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for archery in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained archery clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "archery",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "equestrian",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to equestrian, often assessed on exams.",
+    "example": "Our textbook chapter explained equestrian clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "equestrian",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "somersault",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for somersault in the sports domain, often assessed on exams.",
+    "example": "Our textbook chapter explained somersault clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "somersault",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "pickle",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To pickle as an action or process, often assessed on exams.",
+    "example": "Our textbook chapter explained pickle clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "pickle",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "allergy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for allergy in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained allergy clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "allergy",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "nutrition",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nutrition in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained nutrition clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "nutrition",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "calorie",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for calorie in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained calorie clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "calorie",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "protein",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for protein in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained protein clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "protein",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "carbohydrate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for carbohydrate in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained carbohydrate clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "carbohydrate",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "vitamin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vitamin in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained vitamin clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "vitamin",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "fiber",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fiber in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained fiber clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "fiber",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "organic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to organic, often assessed on exams.",
+    "example": "Our textbook chapter explained organic clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "organic",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "preservative",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for preservative in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained preservative clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "preservative",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "additive",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for additive in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained additive clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "additive",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "sustainable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to sustainable, often assessed on exams.",
+    "example": "Our textbook chapter explained sustainable clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "sustainable",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "farm-to-table",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to farm to table, often assessed on exams.",
+    "example": "Our textbook chapter explained farm-to-table clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "farm-to-table",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "umami",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A savory fifth basic taste, often assessed on exams.",
+    "example": "Our textbook chapter explained umami clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "umami",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "astringent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to astringent, often assessed on exams.",
+    "example": "Our textbook chapter explained astringent clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "astringent",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "mouthfeel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mouthfeel in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained mouthfeel clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "mouthfeel",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "terroir",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for terroir in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained terroir clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "terroir",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "mise en place",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mise en place in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained mise en place clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "mise",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "haute cuisine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for haute cuisine in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained haute cuisine clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "haute",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "street food",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for street food in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained street food clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "street",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "food insecurity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for food insecurity in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained food insecurity clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "food",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "food desert",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "An area with limited access to affordable nutritious food, often assessed on exams.",
+    "example": "Our textbook chapter explained food desert clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "food",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "locavore",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for locavore in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained locavore clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "locavore",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "flexitarian",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flexitarian in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained flexitarian clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "flexitarian",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "macrobiotic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to macrobiotic, often assessed on exams.",
+    "example": "Our textbook chapter explained macrobiotic clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "macrobiotic",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "probiotic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to probiotic, often assessed on exams.",
+    "example": "Our textbook chapter explained probiotic clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "probiotic",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "gluten",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gluten in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained gluten clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "gluten",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "lactose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lactose in the food domain, often assessed on exams.",
+    "example": "Our textbook chapter explained lactose clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "lactose",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "halal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to halal, often assessed on exams.",
+    "example": "Our textbook chapter explained halal clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "halal",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "tissue",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tissue in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained tissue clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "tissue",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "organ",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for organ in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained organ clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "organ",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "DNA",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for DNA in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained DNA clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "DNA",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "gene",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gene in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained gene clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "gene",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "evolution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for evolution in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained evolution clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "evolution",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "adaptation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for adaptation in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained adaptation clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "adaptation",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "mutation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mutation in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained mutation clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "mutation",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "photosynthesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Process plants use to convert light into chemical energy, often assessed on exams.",
+    "example": "Our textbook chapter explained photosynthesis clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "photosynthesis",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "respiration",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for respiration in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained respiration clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "respiration",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "digestion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for digestion in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained digestion clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "digestion",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "immune",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to immune, often assessed on exams.",
+    "example": "Our textbook chapter explained immune clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "immune",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "vaccine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vaccine in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained vaccine clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "vaccine",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "bacteria",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bacteria in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained bacteria clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "bacteria",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "virus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for virus in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained virus clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "virus",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "fungus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fungus in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained fungus clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "fungus",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "parasite",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for parasite in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained parasite clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "parasite",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "biodiversity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for biodiversity in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained biodiversity clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "variety of life",
+      "species richness"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "climate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for climate in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained climate clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "climate",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "greenhouse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for greenhouse in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained greenhouse clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "greenhouse",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "carbon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for carbon in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained carbon clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "carbon",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "oxygen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for oxygen in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained oxygen clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "oxygen",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "nitrogen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nitrogen in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained nitrogen clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "nitrogen",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "periodic table",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for periodic table in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained periodic table clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "periodic",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "ion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ion in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained ion clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "ion",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "catalyst",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for catalyst in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained catalyst clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "catalyst",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "enzyme",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for enzyme in the science domain, often assessed on exams.",
+    "example": "Our textbook chapter explained enzyme clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "enzyme",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "homeostasis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Maintaining stable internal conditions in living systems, often assessed on exams.",
+    "example": "Our textbook chapter explained homeostasis clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "balance",
+      "equilibrium"
+    ],
+    "usageNote": "Failure of homeostasis often signals illness."
+  },
+  {
+    "word": "jellyfish",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for jellyfish in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained jellyfish clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "jellyfish",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "coral",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for coral in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained coral clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "coral",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "butterfly",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for butterfly in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained butterfly clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "butterfly",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "moth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for moth in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained moth clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "moth",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "dragonfly",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dragonfly in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained dragonfly clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "dragonfly",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "spider",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for spider in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained spider clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "spider",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "scorpion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for scorpion in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained scorpion clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "scorpion",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "lizard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lizard in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained lizard clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "lizard",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "gecko",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gecko in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained gecko clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "gecko",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "chameleon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chameleon in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained chameleon clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "chameleon",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "iguana",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for iguana in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained iguana clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "iguana",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "salamander",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for salamander in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained salamander clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "salamander",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "newt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for newt in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained newt clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "newt",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "toad",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for toad in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained toad clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "toad",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "heron",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heron in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained heron clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "heron",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "flamingo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flamingo in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained flamingo clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "flamingo",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "pelican",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pelican in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained pelican clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "pelican",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "swan",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for swan in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained swan clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "swan",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "goose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for goose in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained goose clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "goose",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "turkey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for turkey in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained turkey clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "turkey",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "rooster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rooster in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained rooster clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "rooster",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "hamster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hamster in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained hamster clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "hamster",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "guinea pig",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for guinea pig in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained guinea pig clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "guinea",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "ferret",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ferret in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained ferret clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "ferret",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "chinchilla",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chinchilla in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained chinchilla clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "chinchilla",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "alpaca",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for alpaca in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained alpaca clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "alpaca",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "llama",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for llama in the animals domain, often assessed on exams.",
+    "example": "Our textbook chapter explained llama clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "llama",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "migratory",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to migratory, often assessed on exams.",
+    "example": "Our textbook chapter explained migratory clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "migratory",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "nocturnal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to nocturnal, often assessed on exams.",
+    "example": "Our textbook chapter explained nocturnal clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "nocturnal",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
   }
 ]

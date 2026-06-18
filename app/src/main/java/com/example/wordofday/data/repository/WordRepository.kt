@@ -1,6 +1,7 @@
 package com.example.wordofday.data.repository
 
 import android.content.Context
+import com.example.wordofday.data.model.Category
 import com.example.wordofday.data.model.GradeLevel
 import com.example.wordofday.data.model.UserPreferences
 import com.example.wordofday.data.model.WordEntry
@@ -21,8 +22,10 @@ class WordRepository(context: Context) {
     suspend fun getWordForDate(
         date: LocalDate = LocalDate.now(),
         preferences: UserPreferences,
+        gradeLevelOverride: GradeLevel? = null,
     ): WordEntry = withContext(Dispatchers.IO) {
-        for (grade in gradeSearchOrder(preferences.gradeLevel)) {
+        val primaryGrade = gradeLevelOverride ?: preferences.gradeLevel
+        for (grade in gradeSearchOrder(primaryGrade)) {
             val words = dataSource.loadWordsForGrade(grade)
             val pool = words.filterForPreferencesInGrade(preferences)
             if (pool.isNotEmpty()) {
@@ -31,6 +34,69 @@ class WordRepository(context: Context) {
         }
         FALLBACK_WORD
     }
+
+    /** One word per selected category for horizontal swipe (Roadmap §9c). */
+    suspend fun getWordsByCategory(
+        date: LocalDate,
+        preferences: UserPreferences,
+        gradeLevelOverride: GradeLevel? = null,
+    ): List<CategoryWord> = withContext(Dispatchers.IO) {
+        val grade = gradeLevelOverride ?: preferences.gradeLevel
+        preferences.selectedCategories
+            .sortedBy { it.ordinal }
+            .map { category ->
+                val scoped = preferences.copy(
+                    gradeLevel = grade,
+                    selectedCategories = setOf(category),
+                )
+                CategoryWord(
+                    category = category,
+                    word = getWordForDate(date, scoped, gradeLevelOverride = grade),
+                )
+            }
+    }
+
+    fun favoriteKey(entry: WordEntry): String =
+        "${entry.gradeLevel.name}|${entry.word.lowercase()}"
+
+    fun parseFavoriteKey(key: String): Pair<GradeLevel, String>? {
+        val idx = key.indexOf('|')
+        if (idx <= 0) return null
+        val grade = runCatching { GradeLevel.valueOf(key.substring(0, idx)) }.getOrNull() ?: return null
+        val lemma = key.substring(idx + 1)
+        if (lemma.isBlank()) return null
+        return grade to lemma
+    }
+
+    suspend fun resolveKey(key: String): WordEntry? = withContext(Dispatchers.IO) {
+        val (grade, lemma) = parseFavoriteKey(key) ?: return@withContext null
+        findWord(grade, lemma)
+    }
+
+    suspend fun findWord(grade: GradeLevel, lemma: String): WordEntry? =
+        withContext(Dispatchers.IO) {
+            val normalized = lemma.lowercase()
+            dataSource.loadWordsForGrade(grade).find { it.word.lowercase() == normalized }
+        }
+
+    /** All words at user's grade (± adjacent fallback) matching category prefs — for quiz pool. */
+    suspend fun getQuizPool(preferences: UserPreferences, minSize: Int = 4): List<WordEntry> =
+        withContext(Dispatchers.IO) {
+            for (grade in gradeSearchOrder(preferences.gradeLevel)) {
+                val words = dataSource.loadWordsForGrade(grade)
+                val pool = words.filterForPreferencesInGrade(preferences).distinctBy { it.word.lowercase() }
+                if (pool.size >= minSize) return@withContext pool
+            }
+            val all = gradeSearchOrder(preferences.gradeLevel)
+                .flatMap { dataSource.loadWordsForGrade(it) }
+                .distinctBy { it.word.lowercase() }
+            all.filterForPreferencesInGrade(preferences).ifEmpty { all }
+        }
+
+    data class CategoryWord(
+        val category: Category,
+        val word: WordEntry,
+    )
 
     suspend fun countWordsMatching(preferences: UserPreferences): Int =
         withContext(Dispatchers.IO) {

@@ -10,6 +10,48 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Added
 
+### Changed
+
+## [0.2.1] - 2026-06-17
+
+### Added
+
+- **§8d MVP corpus complete:** **2,218** word rows across **15** grade files (**+2,047** this wave); **30** words per **TECH / SPORTS / FOOD / SCIENCE / ANIMALS** cell (gap sum **0**).
+- Tooling: **`scripts/fill_word_gaps.py`** + **`scripts/corpus/lemma_banks.py`** (tiered definitions Pre-K → Adult; idempotent gap fill).
+
+### Changed
+
+- App version **`0.2.1`** (versionCode **3**).
+
+## [0.2.0] - 2026-06-17
+
+### Added
+
+- **Edition 2 — Substance & Discovery:** **`QuizEngine`** + **`QuizScreen`**; **`LibraryScreen`** (calendar, list, favorites → **`WordDetailScreen`**); **`WordEntry.synonyms`** / **`usageNote`**; **`WordDetailContent`** shared cards.
+- **Home engagement:** **`QuickSwitchSheet`**, easier/harder grade shift, category **`HorizontalPager`**, favorites, streak UI + milestone messages (7/30/100), pull-to-refresh, TTS, **`ShareFormatter`**, **`CategoryAccent`**.
+- **Update modal:** **`AppReleaseCatalog`**, **`ReleaseNotesRepository`**, **`UpdateModal`** (auto on version bump; Settings → What's new).
+- **Planning & agent rules:** **`DOCS/EDITIONS_ROADMAP.md`** (E1–E8 editions); root **`AGENTS.md`** + **`.cursor/rules/release-sync.mdc`** (urgent CHANGELOG/modal sync).
+- **Content:** **`grade_5.json`** / **`grade_6.json`** → 15 rich entries each; **`grade_7.json`** / **`grade_8.json`** → 12 entries with synonyms/usage tips.
+- JVM tests: **`GradeLevelOffsetTest`**, **`ShareFormatterTest`**, **`QuizEngineTest`**.
+
+### Changed
+
+- App version **`0.2.0`** (versionCode **2**); **`buildConfig`** enabled for modal gating.
+
+---
+
+<!-- Prior unreleased items shipped in 0.2.0 above. Historical Added entries below. -->
+
+## [Unreleased] — archive pointer
+
+`[NOTE 2026-06-17]:` Items below were logged under `[Unreleased]` before the **0.2.0** cut; see **0.2.0** section for the consolidated release.
+
+### Added (pre-0.2.0 log)
+
+- `[2026-06-17]` **Learning substance (Roadmap §10a/§10c + richer content):** **`QuizEngine`** + **`QuizScreen`** (5 multiple-choice questions, lifetime accuracy/best streak); **`LibraryScreen`** (90-day word history + browsable favorites → **`WordDetailScreen`**); **`WordEntry`** optional **`synonyms`** + **`usageNote`**; shared **`WordDetailContent`**; **`grade_5.json`** / **`grade_6.json`** expanded to 15 entries with full metadata; **`QuizEngineTest`**.
+
+- `[2026-06-17]` **Home engagement wave (Roadmap §9c + §10 partial):** **`QuickSwitchSheet`** (grade/category without leaving home); **Easier / Harder** session grade shift; **HorizontalPager** category swipe; **`EngagementRepository`** (daily streak + favorites via DataStore); pull-to-refresh; TTS pronunciation button; **`ShareFormatter`** grade-tier share text; **`CategoryAccent`** chip colors; JVM tests **`GradeLevelOffsetTest`**, **`ShareFormatterTest`**.
+
 - `[2026-04-30]` Added **`DOCS/AGENT_WORKMAP.md`**: a future-agent handoff index mapping exact edit locations for navigation routes, enum/constants ownership (`GradeLevel`, `Category`, `AppDestinations`), DataStore keys/defaults (`UserPreferencesRepository`), build/dependency pins (`gradle/libs.versions.toml`), content assets/scripts, and CI/template files.
 
 - `[2026-04-29]` **Roadmap §0–8 engineering closure:** **`GradeSearchOrder.kt`** + **`GradeSearchOrderTest`** (JUnit **4.13.2**); **`HomeScreen`** lemma **`heading()`** semantics + **`LocalActivity`** (lint **`ContextCastToActivity`**); **`.github/workflows/android-ci.yml`** (**`testDebugUnitTest`**, **`lintDebug`**, **`assembleDebug`**). [ROADMAP.md](./ROADMAP.md) §§**4–6**, **8** checkboxes synced; [SBOM.md](./SBOM.md) **JUnit** row.

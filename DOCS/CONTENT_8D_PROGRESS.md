@@ -10,8 +10,18 @@ Targets are defined in [ROADMAP.md](./ROADMAP.md) §**8d**: **~30 words per (gra
 | --- | --- |
 | [scripts/inventory_word_assets.py](../scripts/inventory_word_assets.py) | Prints markdown-friendly coverage matrix + gap sum vs target **30** per cell; detects duplicate lemmas **within** the same grade file. |
 | [scripts/ensure_general_category.py](../scripts/ensure_general_category.py) | One-time / maintenance helper: appends **GENERAL** when missing so GENERAL-only picker selections surface vocabulary rows. |
+| [scripts/fill_word_gaps.py](../scripts/fill_word_gaps.py) | Fills each (grade × MVP category) to **30** from tiered **`scripts/corpus/lemma_banks.py`**; idempotent (skips duplicate lemmas). |
 
 Run from repo root (UTF-8 console recommended on Windows: `python -X utf8 scripts/inventory_word_assets.py`).
+
+## Snapshot — `[2026-06-17]` — MVP matrix **COMPLETE**
+
+- **Total word rows (all grade files):** **2,218** (**+2,047** vs prior **171**)
+- **Gap score:** **0** (all **90** MVP cells at **30**)
+- **Wave tooling:** `scripts/fill_word_gaps.py` + `scripts/corpus/lemma_banks.py`
+- **Per-grade row counts:** ~141–152 rows/file (GENERAL column higher because every row tags GENERAL)
+
+Run `python -X utf8 scripts/inventory_word_assets.py` to regenerate the matrix.
 
 ## Snapshot — `[2026-04-29]`
 

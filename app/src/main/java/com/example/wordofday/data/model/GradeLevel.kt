@@ -28,4 +28,14 @@ enum class GradeLevel(
 
     /** Path relative to `assets/` for this grade’s word list. */
     val bundledWordsAssetPath: String get() = "words/$wordsAssetBaseName.json"
+
+    /** Shift by [offset] steps within enum bounds (used for session-only easier/harder). */
+    fun withOffset(offset: Int): GradeLevel {
+        val target = (ordinal + offset).coerceIn(0, entries.lastIndex)
+        return entries[target]
+    }
+
+    fun canShiftEasier(): Boolean = ordinal > 0
+
+    fun canShiftHarder(): Boolean = ordinal < entries.lastIndex
 }

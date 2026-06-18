@@ -55,5 +55,2293 @@
       "SCIENCE",
       "GENERAL"
     ]
+  },
+  {
+    "word": "digital sovereignty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for digital sovereignty in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how digital sovereignty affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "digital",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "platform engineering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for platform engineering in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how platform engineering affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "platform",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "privacy by design",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for privacy by design in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how privacy by design affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "privacy",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "technological singularity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for technological singularity in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how technological singularity affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "technological",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "path dependence",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for path dependence in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how path dependence affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "path",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "vendor lock-in",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vendor lock in in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how vendor lock-in affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "vendor",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "interoperability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for interoperability in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how interoperability affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "interoperability",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "edge computing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for edge computing in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how edge computing affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "edge",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "machine learning",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for machine learning in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how machine learning affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "machine",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "neural network",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for neural network in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how neural network affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "neural",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "technical debt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for technical debt in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how technical debt affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "technical",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "Infrastructure as Code",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Infrastructure as Code in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how Infrastructure as Code affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Infrastructure",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "quantum",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to quantum, frequent in advanced coursework.",
+    "example": "Engineers debated how quantum affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "quantum",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "avatar",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for avatar in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how avatar affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "avatar",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "pixel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pixel in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how pixel affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "pixel",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "cache",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cache in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how cache affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cache",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "cookie",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cookie in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how cookie affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cookie",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "malware",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for malware in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how malware affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "malware",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "phishing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for phishing in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how phishing affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "phishing",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "prototype",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for prototype in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how prototype affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "prototype",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "sensor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sensor in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how sensor affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "sensor",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "compiler",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for compiler in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how compiler affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "compiler",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "repository",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for repository in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how repository affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "repository",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "patch",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for patch in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how patch affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "patch",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "router",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for router in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how router affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "router",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "cloud",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cloud in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how cloud affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cloud",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "settings",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for settings in the tech domain, frequent in advanced coursework.",
+    "example": "Engineers debated how settings affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "settings",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "update",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To update as an action or process, frequent in advanced coursework.",
+    "example": "Engineers debated how update affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "update",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "login",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To login as an action or process, frequent in advanced coursework.",
+    "example": "Engineers debated how login affects system design.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "login",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "proprioception",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for proprioception in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked proprioception to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "proprioception",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "plyometrics",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for plyometrics in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked plyometrics to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "plyometrics",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "salary cap",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for salary cap in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked salary cap to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "salary",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "free agency",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for free agency in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked free agency to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "free",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "match fixing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for match fixing in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked match fixing to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "match",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "sportsmanship",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Fair and respectful conduct in competition, frequent in advanced coursework.",
+    "example": "Analysts linked sportsmanship to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "sportsmanship",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "hooliganism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hooliganism in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked hooliganism to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "hooliganism",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "paralympic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to paralympic, frequent in advanced coursework.",
+    "example": "Analysts linked paralympic to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "paralympic",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "decathlon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for decathlon in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked decathlon to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "decathlon",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "triathlon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for triathlon in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked triathlon to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "triathlon",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "regatta",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for regatta in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked regatta to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "regatta",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "slalom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for slalom in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked slalom to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "slalom",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "bobsled",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bobsled in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked bobsled to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "bobsled",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "curling",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for curling in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked curling to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "curling",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "fencing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fencing in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked fencing to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "fencing",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "archery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for archery in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked archery to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "archery",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "equestrian",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to equestrian, frequent in advanced coursework.",
+    "example": "Analysts linked equestrian to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "equestrian",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "somersault",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for somersault in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked somersault to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "somersault",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "cartwheel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cartwheel in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked cartwheel to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cartwheel",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "handstand",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for handstand in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked handstand to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "handstand",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "warm-up",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for warm up in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked warm-up to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "warm-up",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "cool-down",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cool down in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked cool-down to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cool-down",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "hydration",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hydration in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked hydration to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "hydration",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "cramp",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cramp in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked cramp to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cramp",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "concussion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for concussion in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked concussion to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "concussion",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "rehab",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rehab in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked rehab to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "rehab",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "scout",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for scout in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked scout to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "scout",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "playbook",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for playbook in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked playbook to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "playbook",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "huddle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for huddle in the sports domain, frequent in advanced coursework.",
+    "example": "Analysts linked huddle to the team's late-season surge.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "huddle",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "farm-to-table",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to farm to table, frequent in advanced coursework.",
+    "example": "The chef explained how farm-to-table shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "farm-to-table",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "umami",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A savory fifth basic taste, frequent in advanced coursework.",
+    "example": "The chef explained how umami shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "umami",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "astringent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to astringent, frequent in advanced coursework.",
+    "example": "The chef explained how astringent shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "astringent",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "palate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for palate in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how palate shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "palate",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "mouthfeel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mouthfeel in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how mouthfeel shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "mouthfeel",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "terroir",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for terroir in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how terroir shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "terroir",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "mise en place",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mise en place in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how mise en place shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "mise",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "haute cuisine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for haute cuisine in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how haute cuisine shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "haute",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "street food",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for street food in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how street food shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "street",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "food insecurity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for food insecurity in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how food insecurity shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "food",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "food desert",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "An area with limited access to affordable nutritious food, frequent in advanced coursework.",
+    "example": "The chef explained how food desert shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "food",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "locavore",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for locavore in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how locavore shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "locavore",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "flexitarian",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flexitarian in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how flexitarian shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "flexitarian",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "macrobiotic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to macrobiotic, frequent in advanced coursework.",
+    "example": "The chef explained how macrobiotic shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "macrobiotic",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "probiotic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to probiotic, frequent in advanced coursework.",
+    "example": "The chef explained how probiotic shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "probiotic",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "gluten",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gluten in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how gluten shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "gluten",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "lactose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lactose in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how lactose shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "lactose",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "halal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to halal, frequent in advanced coursework.",
+    "example": "The chef explained how halal shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "halal",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "kosher",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to kosher, frequent in advanced coursework.",
+    "example": "The chef explained how kosher shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "kosher",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "vegan",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to vegan, frequent in advanced coursework.",
+    "example": "The chef explained how vegan shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "vegan",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "vegetarian",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to vegetarian, frequent in advanced coursework.",
+    "example": "The chef explained how vegetarian shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "vegetarian",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "pescatarian",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to pescatarian, frequent in advanced coursework.",
+    "example": "The chef explained how pescatarian shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "pescatarian",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "sous vide",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sous vide in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how sous vide shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "sous",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "molecular gastronomy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for molecular gastronomy in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how molecular gastronomy shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "molecular",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "fermentation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fermentation in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how fermentation shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "fermentation",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "Maillard reaction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Browning reaction between amino acids and sugars when heated, frequent in advanced coursework.",
+    "example": "The chef explained how Maillard reaction shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Maillard",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "sanitation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sanitation in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how sanitation shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "sanitation",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "HACCP",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for HACCP in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how HACCP shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "HACCP",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "cross-contamination",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cross contamination in the food domain, frequent in advanced coursework.",
+    "example": "The chef explained how cross-contamination shapes the menu's identity.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cross-contamination",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "vaccine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vaccine in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled vaccine across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "vaccine",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "bacteria",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bacteria in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled bacteria across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "bacteria",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "virus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for virus in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled virus across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "virus",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "fungus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fungus in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled fungus across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "fungus",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "parasite",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for parasite in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled parasite across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "parasite",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "biodiversity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for biodiversity in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled biodiversity across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "variety of life",
+      "species richness"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "climate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for climate in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled climate across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "climate",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "greenhouse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for greenhouse in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled greenhouse across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "greenhouse",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "carbon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for carbon in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled carbon across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "carbon",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "oxygen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for oxygen in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled oxygen across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "oxygen",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "nitrogen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nitrogen in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled nitrogen across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "nitrogen",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "periodic table",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for periodic table in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled periodic table across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "periodic",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "ion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ion in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled ion across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "ion",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "catalyst",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for catalyst in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled catalyst across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "catalyst",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "enzyme",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for enzyme in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled enzyme across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "enzyme",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "homeostasis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Maintaining stable internal conditions in living systems, frequent in advanced coursework.",
+    "example": "The paper modeled homeostasis across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "balance",
+      "equilibrium"
+    ],
+    "usageNote": "Failure of homeostasis often signals illness."
+  },
+  {
+    "word": "entropy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Measure of disorder or spread of energy in a system, frequent in advanced coursework.",
+    "example": "The paper modeled entropy across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "entropy",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "relativity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for relativity in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled relativity across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "relativity",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "neutron",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for neutron in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled neutron across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "neutron",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "proton",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for proton in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled proton across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "proton",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "electron",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for electron in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled electron across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "electron",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "isotope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for isotope in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled isotope across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "isotope",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "radiation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for radiation in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled radiation across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "radiation",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "spectrum",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for spectrum in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled spectrum across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "spectrum",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "wavelength",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wavelength in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled wavelength across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "wavelength",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "frequency",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for frequency in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled frequency across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "frequency",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "amplitude",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for amplitude in the science domain, frequent in advanced coursework.",
+    "example": "The paper modeled amplitude across multiple datasets.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "amplitude",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "newt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for newt in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for newt in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "newt",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "toad",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for toad in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for toad in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "toad",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "heron",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heron in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for heron in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "heron",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "flamingo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flamingo in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for flamingo in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "flamingo",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "pelican",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pelican in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for pelican in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "pelican",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "swan",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for swan in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for swan in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "swan",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "goose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for goose in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for goose in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "goose",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "turkey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for turkey in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for turkey in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "turkey",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "rooster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rooster in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for rooster in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "rooster",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "hamster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hamster in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for hamster in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "hamster",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "guinea pig",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for guinea pig in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for guinea pig in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "guinea",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "ferret",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ferret in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for ferret in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "ferret",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "chinchilla",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chinchilla in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for chinchilla in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "chinchilla",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "alpaca",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for alpaca in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for alpaca in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "alpaca",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "llama",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for llama in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for llama in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "llama",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "migratory",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to migratory, frequent in advanced coursework.",
+    "example": "Conservation plans must account for migratory in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "migratory",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "nocturnal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to nocturnal, frequent in advanced coursework.",
+    "example": "Conservation plans must account for nocturnal in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "nocturnal",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "diurnal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to diurnal, frequent in advanced coursework.",
+    "example": "Conservation plans must account for diurnal in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "diurnal",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "carnivore",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for carnivore in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for carnivore in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "carnivore",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "herbivore",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for herbivore in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for herbivore in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "herbivore",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "omnivore",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for omnivore in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for omnivore in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "omnivore",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "predator",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for predator in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for predator in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "predator",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "prey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for prey in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for prey in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "prey",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "camouflage",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Coloration or behavior that helps an animal blend in, frequent in advanced coursework.",
+    "example": "Conservation plans must account for camouflage in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "disguise",
+      "concealment"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "hibernation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hibernation in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for hibernation in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "hibernation",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "migration",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Seasonal movement of animals to find resources, frequent in advanced coursework.",
+    "example": "Conservation plans must account for migration in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "migration",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "metamorphosis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for metamorphosis in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for metamorphosis in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "metamorphosis",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "ecosystem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ecosystem in the animals domain, frequent in advanced coursework.",
+    "example": "Conservation plans must account for ecosystem in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "ecosystem",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "endangered",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to endangered, frequent in advanced coursework.",
+    "example": "Conservation plans must account for endangered in the region.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "endangered",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
   }
 ]

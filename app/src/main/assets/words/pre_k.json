@@ -5,7 +5,10 @@
     "pronunciation": "/kat/",
     "definition": "A soft pet that says meow.",
     "example": "We fed the cat in the morning.",
-    "categories": ["ANIMALS", "GENERAL"]
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
   },
   {
     "word": "ball",
@@ -13,7 +16,10 @@
     "pronunciation": "/bôl/",
     "definition": "Something round you kick, catch, or roll.",
     "example": "She rolled the ball across the floor.",
-    "categories": ["SPORTS", "GENERAL"]
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
   },
   {
     "word": "yum",
@@ -21,7 +27,10 @@
     "pronunciation": "/yəm/",
     "definition": "You say this when food tastes good.",
     "example": "Yum, this apple is sweet!",
-    "categories": ["FOOD", "GENERAL"]
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
   },
   {
     "word": "star",
@@ -29,7 +38,10 @@
     "pronunciation": "/stär/",
     "definition": "A tiny light in the night sky.",
     "example": "We counted stars before bed.",
-    "categories": ["SCIENCE", "GENERAL"]
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
   },
   {
     "word": "screen",
@@ -37,7 +49,10 @@
     "pronunciation": "/skrēn/",
     "definition": "The flat glowing part of a TV or tablet.",
     "example": "We tapped shapes on the bright screen.",
-    "categories": ["TECH", "GENERAL"]
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
   },
   {
     "word": "plug",
@@ -45,7 +60,10 @@
     "pronunciation": "/pləɡ/",
     "definition": "The piece that fits into the wall to give power.",
     "example": "We plugged the charger into the wall.",
-    "categories": ["TECH", "GENERAL"]
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
   },
   {
     "word": "dog",
@@ -53,7 +71,10 @@
     "pronunciation": "/dôɡ/",
     "definition": "A friendly pet that barks and wags its tail.",
     "example": "The dog fetched the bright ball.",
-    "categories": ["ANIMALS", "GENERAL"]
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
   },
   {
     "word": "apple",
@@ -61,7 +82,10 @@
     "pronunciation": "/ˈapəl/",
     "definition": "A round fruit that can be red, green, or yellow.",
     "example": "She took a crunchy bite of apple.",
-    "categories": ["FOOD", "GENERAL"]
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
   },
   {
     "word": "run",
@@ -69,7 +93,10 @@
     "pronunciation": "/rən/",
     "definition": "To move fast on your feet.",
     "example": "We run across the grass at recess.",
-    "categories": ["SPORTS", "GENERAL"]
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
   },
   {
     "word": "moon",
@@ -77,7 +104,10 @@
     "pronunciation": "/mo͞on/",
     "definition": "The bright circle we see in the night sky.",
     "example": "The moon looked silver behind thin clouds.",
-    "categories": ["SCIENCE", "GENERAL"]
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
   },
   {
     "word": "camera",
@@ -85,7 +115,10 @@
     "pronunciation": "/ˈkamərə/",
     "definition": "The part of a phone that takes pictures.",
     "example": "Mom opened the camera for a photo.",
-    "categories": ["TECH", "GENERAL"]
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
   },
   {
     "word": "bread",
@@ -93,7 +126,10 @@
     "pronunciation": "/bred/",
     "definition": "Soft food made from flour that we slice or toast.",
     "example": "He dipped bread into warm soup.",
-    "categories": ["FOOD", "GENERAL"]
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
   },
   {
     "word": "frog",
@@ -101,7 +137,11 @@
     "pronunciation": "/frôɡ/",
     "definition": "A small animal that hops and lives near water.",
     "example": "The frog sat on a lily pad.",
-    "categories": ["ANIMALS", "SCIENCE", "GENERAL"]
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
   },
   {
     "word": "jump",
@@ -109,6 +149,1494 @@
     "pronunciation": "/jəmp/",
     "definition": "To push off the ground into the air.",
     "example": "They jump when the coach blows the whistle.",
-    "categories": ["SPORTS", "GENERAL"]
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tap",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You tap when you move or act this way.",
+    "example": "We used the tap in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "click",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You click when you move or act this way.",
+    "example": "We used the click in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "phone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about phone: a handheld device for calls and apps.",
+    "example": "We used the phone in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tablet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about tablet: a portable touch-screen computer.",
+    "example": "We used the tablet in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "button",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about button: a control you press to trigger an action.",
+    "example": "We used the button in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "game",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about game: interactive software meant for play.",
+    "example": "We used the game in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "robot",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about robot: a machine that moves and follows instructions.",
+    "example": "We used the robot in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "charger",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about charger: a term for charger in the tech domain.",
+    "example": "We used the charger in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cable",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about cable: a term for cable in the tech domain.",
+    "example": "We used the cable in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wifi",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about wifi: a term for wifi in the tech domain.",
+    "example": "We used the wifi in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "email",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about email: a term for email in the tech domain.",
+    "example": "We used the email in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "keyboard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about keyboard: a term for keyboard in the tech domain.",
+    "example": "We used the keyboard in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mouse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about mouse: a term for mouse in the tech domain.",
+    "example": "We used the mouse in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "password",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about password: a term for password in the tech domain.",
+    "example": "We used the password in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "browser",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about browser: a term for browser in the tech domain.",
+    "example": "We used the browser in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "download",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You download when you move or act this way.",
+    "example": "We used the download in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "upload",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You upload when you move or act this way.",
+    "example": "We used the upload in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "software",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about software: a term for software in the tech domain.",
+    "example": "We used the software in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hardware",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about hardware: a term for hardware in the tech domain.",
+    "example": "We used the hardware in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "network",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about network: a term for network in the tech domain.",
+    "example": "We used the network in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "server",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about server: a term for server in the tech domain.",
+    "example": "We used the server in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "database",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about database: a term for database in the tech domain.",
+    "example": "We used the database in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "algorithm",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about algorithm: a step-by-step procedure for solving a problem.",
+    "example": "We used the algorithm in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "debug",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You debug when you move or act this way.",
+    "example": "We used the debug in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "variable",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about variable: a term for variable in the tech domain.",
+    "example": "We used the variable in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "function",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about function: a term for function in the tech domain.",
+    "example": "We used the function in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "encryption",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about encryption: scrambling data so only authorized readers understand it.",
+    "example": "We used the encryption in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "kick",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You kick when you move or act this way.",
+    "example": "We practice kick at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "throw",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You throw when you move or act this way.",
+    "example": "We practice throw at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "catch",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You catch when you move or act this way.",
+    "example": "We practice catch at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tag",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about tag: a term for tag in the sports domain.",
+    "example": "We practice tag at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hop",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You hop when you move or act this way.",
+    "example": "We practice hop at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "skip",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You skip when you move or act this way.",
+    "example": "We practice skip at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "race",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about race: a term for race in the sports domain.",
+    "example": "We practice race at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "goal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about goal: a term for goal in the sports domain.",
+    "example": "We practice goal at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "team",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about team: people who play together toward a shared goal.",
+    "example": "We practice team at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "net",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about net: a term for net in the sports domain.",
+    "example": "We practice net at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about bat: a term for bat in the sports domain.",
+    "example": "We practice bat at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hit",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You hit when you move or act this way.",
+    "example": "We practice hit at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "swim",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You swim when you move or act this way.",
+    "example": "We practice swim at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dive",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You dive when you move or act this way.",
+    "example": "We practice dive at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "skate",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You skate when you move or act this way.",
+    "example": "We practice skate at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bike",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You bike when you move or act this way.",
+    "example": "We practice bike at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "toss",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You toss when you move or act this way.",
+    "example": "We practice toss at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pass",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You pass when you move or act this way.",
+    "example": "We practice pass at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shoot",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You shoot when you move or act this way.",
+    "example": "We practice shoot at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "score",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You score when you move or act this way.",
+    "example": "We practice score at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "win",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You win when you move or act this way.",
+    "example": "We practice win at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lose",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You lose when you move or act this way.",
+    "example": "We practice lose at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "coach",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about coach: a term for coach in the sports domain.",
+    "example": "We practice coach at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "field",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about field: a term for field in the sports domain.",
+    "example": "We practice field at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "court",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about court: a term for court in the sports domain.",
+    "example": "We practice court at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "helmet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about helmet: a term for helmet in the sports domain.",
+    "example": "We practice helmet at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "glove",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about glove: a term for glove in the sports domain.",
+    "example": "We practice glove at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "milk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about milk: a nutritious white liquid from mammals.",
+    "example": "We tasted milk at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "egg",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about egg: a term for egg in the food domain.",
+    "example": "We tasted egg at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rice",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about rice: a term for rice in the food domain.",
+    "example": "We tasted rice at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "soup",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about soup: a term for soup in the food domain.",
+    "example": "We tasted soup at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cookie",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about cookie: a term for cookie in the food domain.",
+    "example": "We tasted cookie at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "juice",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about juice: a term for juice in the food domain.",
+    "example": "We tasted juice at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "banana",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about banana: a term for banana in the food domain.",
+    "example": "We tasted banana at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cheese",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about cheese: a term for cheese in the food domain.",
+    "example": "We tasted cheese at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "water",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about water: a term for water in the food domain.",
+    "example": "We tasted water at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "snack",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about snack: a term for snack in the food domain.",
+    "example": "We tasted snack at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lunch",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about lunch: a term for lunch in the food domain.",
+    "example": "We tasted lunch at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "breakfast",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about breakfast: a term for breakfast in the food domain.",
+    "example": "We tasted breakfast at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dinner",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about dinner: a term for dinner in the food domain.",
+    "example": "We tasted dinner at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "spoon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about spoon: a term for spoon in the food domain.",
+    "example": "We tasted spoon at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fork",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about fork: a term for fork in the food domain.",
+    "example": "We tasted fork at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "plate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about plate: a term for plate in the food domain.",
+    "example": "We tasted plate at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bowl",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about bowl: a term for bowl in the food domain.",
+    "example": "We tasted bowl at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cup",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about cup: a term for cup in the food domain.",
+    "example": "We tasted cup at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "salt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about salt: a term for salt in the food domain.",
+    "example": "We tasted salt at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sugar",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about sugar: a term for sugar in the food domain.",
+    "example": "We tasted sugar at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "honey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about honey: a term for honey in the food domain.",
+    "example": "We tasted honey at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "butter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about butter: a term for butter in the food domain.",
+    "example": "We tasted butter at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "toast",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about toast: a term for toast in the food domain.",
+    "example": "We tasted toast at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "salad",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about salad: a term for salad in the food domain.",
+    "example": "We tasted salad at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pasta",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about pasta: a term for pasta in the food domain.",
+    "example": "We tasted pasta at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pizza",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about pizza: a term for pizza in the food domain.",
+    "example": "We tasted pizza at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "taco",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about taco: a term for taco in the food domain.",
+    "example": "We tasted taco at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sun",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about sun: a term for sun in the science domain.",
+    "example": "We saw sun during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rain",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about rain: a term for rain in the science domain.",
+    "example": "We saw rain during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cloud",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about cloud: a term for cloud in the science domain.",
+    "example": "We saw cloud during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wind",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about wind: a term for wind in the science domain.",
+    "example": "We saw wind during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rock",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about rock: a term for rock in the science domain.",
+    "example": "We saw rock during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seed",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about seed: a term for seed in the science domain.",
+    "example": "We saw seed during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "plant",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about plant: a term for plant in the science domain.",
+    "example": "We saw plant during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "leaf",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about leaf: a term for leaf in the science domain.",
+    "example": "We saw leaf during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "root",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about root: a term for root in the science domain.",
+    "example": "We saw root during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "soil",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about soil: a term for soil in the science domain.",
+    "example": "We saw soil during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ice",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about ice: a term for ice in the science domain.",
+    "example": "We saw ice during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about heat: a term for heat in the science domain.",
+    "example": "We saw heat during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "light",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about light: a term for light in the science domain.",
+    "example": "We saw light during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shadow",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about shadow: a term for shadow in the science domain.",
+    "example": "We saw shadow during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "magnet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about magnet: a term for magnet in the science domain.",
+    "example": "We saw magnet during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "battery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about battery: a term for battery in the science domain.",
+    "example": "We saw battery during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pulse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about pulse: a term for pulse in the science domain.",
+    "example": "We saw pulse during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "germs",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about germs: a term for germs in the science domain.",
+    "example": "We saw germs during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "habitat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about habitat: a term for habitat in the science domain.",
+    "example": "We saw habitat during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fossil",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about fossil: a term for fossil in the science domain.",
+    "example": "We saw fossil during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "volcano",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about volcano: a term for volcano in the science domain.",
+    "example": "We saw volcano during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "earthquake",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about earthquake: a term for earthquake in the science domain.",
+    "example": "We saw earthquake during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ecosystem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about ecosystem: a term for ecosystem in the science domain.",
+    "example": "We saw ecosystem during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gravity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about gravity: a term for gravity in the science domain.",
+    "example": "We saw gravity during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "orbit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about orbit: a term for orbit in the science domain.",
+    "example": "We saw orbit during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "phase",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about phase: a term for phase in the science domain.",
+    "example": "We saw phase during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "atom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about atom: a term for atom in the science domain.",
+    "example": "We saw atom during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bird",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about bird: a term for bird in the animals domain.",
+    "example": "The bird lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fish",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about fish: a term for fish in the animals domain.",
+    "example": "The fish lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bug",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about bug: a term for bug in the animals domain.",
+    "example": "The bug lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bee",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about bee: a term for bee in the animals domain.",
+    "example": "The bee lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "worm",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about worm: a term for worm in the animals domain.",
+    "example": "The worm lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "duck",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about duck: a term for duck in the animals domain.",
+    "example": "The duck lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cow",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about cow: a term for cow in the animals domain.",
+    "example": "The cow lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pig",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about pig: a term for pig in the animals domain.",
+    "example": "The pig lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "horse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about horse: a term for horse in the animals domain.",
+    "example": "The horse lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sheep",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about sheep: a term for sheep in the animals domain.",
+    "example": "The sheep lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "goat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about goat: a term for goat in the animals domain.",
+    "example": "The goat lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chicken",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about chicken: a term for chicken in the animals domain.",
+    "example": "The chicken lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rabbit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about rabbit: a term for rabbit in the animals domain.",
+    "example": "The rabbit lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bear",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about bear: a term for bear in the animals domain.",
+    "example": "The bear lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about lion: a term for lion in the animals domain.",
+    "example": "The lion lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tiger",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about tiger: a term for tiger in the animals domain.",
+    "example": "The tiger lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "elephant",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about elephant: a term for elephant in the animals domain.",
+    "example": "The elephant lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "giraffe",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about giraffe: a term for giraffe in the animals domain.",
+    "example": "The giraffe lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "zebra",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about zebra: a term for zebra in the animals domain.",
+    "example": "The zebra lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "monkey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about monkey: a term for monkey in the animals domain.",
+    "example": "The monkey lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "snake",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about snake: a term for snake in the animals domain.",
+    "example": "The snake lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "turtle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about turtle: a term for turtle in the animals domain.",
+    "example": "The turtle lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "whale",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about whale: a term for whale in the animals domain.",
+    "example": "The whale lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dolphin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about dolphin: a term for dolphin in the animals domain.",
+    "example": "The dolphin lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shark",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about shark: a term for shark in the animals domain.",
+    "example": "The shark lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "octopus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about octopus: a term for octopus in the animals domain.",
+    "example": "The octopus lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "penguin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A simple word about penguin: a term for penguin in the animals domain.",
+    "example": "The penguin lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
   }
 ]

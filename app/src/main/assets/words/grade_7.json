@@ -5,6 +5,12 @@
     "pronunciation": "/ˈalɡəˌriT͟Hm/",
     "definition": "A clear step-by-step set of rules to solve a problem or task.",
     "example": "Route apps use an algorithm to pick the fastest road.",
+    "synonyms": [
+      "procedure",
+      "method",
+      "routine"
+    ],
+    "usageNote": "Algorithms appear in coding, cooking, and even morning routines — any ordered steps.",
     "categories": [
       "TECH",
       "SCIENCE",
@@ -17,6 +23,12 @@
     "pronunciation": "/ˌkärbōˈhīdrāt/",
     "definition": "A nutrient from grains, fruit, and starch that gives quick energy.",
     "example": "Oats contain fiber-rich carbohydrates.",
+    "synonyms": [
+      "carbs",
+      "starch",
+      "sugar"
+    ],
+    "usageNote": "Complex carbs (whole grains) digest slower than simple sugars.",
     "categories": [
       "FOOD",
       "SCIENCE",
@@ -29,6 +41,11 @@
     "pronunciation": "/ˈrēˌlā/",
     "definition": "A race where teammates take turns; also an electrical switch.",
     "example": "She anchored the four-by-one-hundred relay.",
+    "synonyms": [
+      "handoff",
+      "transfer"
+    ],
+    "usageNote": "In track, dropping the baton disqualifies the team — precision matters.",
     "categories": [
       "SPORTS",
       "GENERAL"
@@ -40,6 +57,12 @@
     "pronunciation": "/ˈēkōˌsistəm/",
     "definition": "Living things and their environment working as one system.",
     "example": "Removing wolves changed the whole forest ecosystem.",
+    "synonyms": [
+      "biome",
+      "habitat",
+      "environment"
+    ],
+    "usageNote": "Keystone species hold ecosystems together; losing one can collapse the web.",
     "categories": [
       "ANIMALS",
       "SCIENCE",
@@ -52,9 +75,2256 @@
     "pronunciation": "/ˈkatləst/",
     "definition": "Something that speeds a reaction without being used up.",
     "example": "Enzymes act as catalysts inside cells.",
+    "synonyms": [
+      "accelerator",
+      "trigger"
+    ],
+    "usageNote": "Metaphorically, a person or event can be a catalyst for social change.",
     "categories": [
       "SCIENCE",
       "GENERAL"
     ]
+  },
+  {
+    "word": "hypothesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "/hīˈpäTHəsis/",
+    "definition": "A testable prediction based on observation before an experiment.",
+    "example": "Our hypothesis was that warmer soil would sprout seeds faster.",
+    "synonyms": [
+      "theory",
+      "prediction"
+    ],
+    "usageNote": "If experiments reject a hypothesis, scientists revise — failure is data.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bandwidth",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈbandˌwidTH/",
+    "definition": "How much data a network can carry at once; also mental capacity for tasks.",
+    "example": "Video calls need more bandwidth than text messages.",
+    "synonyms": [
+      "capacity",
+      "throughput"
+    ],
+    "usageNote": "Saying 'I don't have bandwidth' means you're overloaded, not talking about Wi-Fi only.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "endurance",
+    "partOfSpeech": "noun",
+    "pronunciation": "/inˈd(y)o͝orəns/",
+    "definition": "Stamina to keep performing despite fatigue.",
+    "example": "Rowers build endurance with long steady sessions.",
+    "synonyms": [
+      "stamina",
+      "resilience"
+    ],
+    "usageNote": "Endurance training differs from sprint power — both matter in team sports.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "symbiosis",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌsimbēˈōsis/",
+    "definition": "A close relationship where two species benefit from living together.",
+    "example": "Clownfish and sea anemones show symbiosis on reefs.",
+    "synonyms": [
+      "partnership",
+      "mutualism"
+    ],
+    "usageNote": "Not all symbiosis is friendly — parasites also live in close contact.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "marinate",
+    "partOfSpeech": "verb",
+    "pronunciation": "/ˈmerəˌnāt/",
+    "definition": "To soak food in seasoned liquid before cooking.",
+    "example": "Marinate the chicken overnight for deeper flavor.",
+    "synonyms": [
+      "soak",
+      "steep"
+    ],
+    "usageNote": "Acidic marinades can 'cook' fish ceviche without heat.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "debug",
+    "partOfSpeech": "verb",
+    "pronunciation": "/dēˈbəɡ/",
+    "definition": "To locate and fix errors in software.",
+    "example": "We debugged the loop that skipped every other row.",
+    "synonyms": [
+      "troubleshoot",
+      "fix"
+    ],
+    "usageNote": "Rubber-duck debugging — explaining code aloud — often reveals the bug.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "velocity",
+    "partOfSpeech": "noun",
+    "pronunciation": "/vəˈläsədē/",
+    "definition": "Speed with direction; how fast and which way something moves.",
+    "example": "The pitcher's velocity peaked in the late innings.",
+    "synonyms": [
+      "speed",
+      "pace"
+    ],
+    "usageNote": "Velocity is a vector; speed alone has no direction.",
+    "categories": [
+      "SPORTS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sharding",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sharding in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained sharding clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "sharding",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "observability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for observability in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained observability clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "observability",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "heuristic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heuristic in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained heuristic clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "heuristic",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "deterministic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to deterministic; important in intermediate study.",
+    "example": "Our textbook chapter explained deterministic clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "deterministic",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "memoization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for memoization in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained memoization clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "memoization",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "consensus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for consensus in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained consensus clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "consensus",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "CRDT",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for CRDT in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained CRDT clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "CRDT",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "homomorphic encryption",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for homomorphic encryption in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained homomorphic encryption clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "homomorphic",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "chaos engineering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chaos engineering in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained chaos engineering clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "chaos",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "SRE",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for SRE in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained SRE clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "SRE",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "Halting problem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Halting problem in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained Halting problem clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Halting",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "lambda calculus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lambda calculus in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained lambda calculus clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "lambda",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "Fourier transform",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Fourier transform in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained Fourier transform clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Fourier",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "speculative execution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for speculative execution in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained speculative execution clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "speculative",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "linearizability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for linearizability in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained linearizability clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "linearizability",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "event sourcing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for event sourcing in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained event sourcing clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "event",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "zero-knowledge proof",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for zero knowledge proof in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained zero-knowledge proof clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "zero-knowledge",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "post-quantum cryptography",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for post quantum cryptography in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained post-quantum cryptography clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "post-quantum",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "WebAssembly",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for WebAssembly in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained WebAssembly clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "WebAssembly",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "computational irreducibility",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for computational irreducibility in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained computational irreducibility clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "computational",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "alignment problem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for alignment problem in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained alignment problem clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "alignment",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "Goodhart's law",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Goodhart's law in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained Goodhart's law clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Goodhart's",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "Moore's law",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Observation that chip density historically doubled on a cadence; important in intermediate study.",
+    "example": "Our textbook chapter explained Moore's law clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "Moore's",
+      "related term"
+    ],
+    "usageNote": "Use cautiously; physical limits now complicate the trend."
+  },
+  {
+    "word": "surveillance capitalism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Profit model based on predicting and shaping behavior; important in intermediate study.",
+    "example": "Our textbook chapter explained surveillance capitalism clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "surveillance",
+      "related term"
+    ],
+    "usageNote": "Term popularized by scholar Shoshana Zuboff."
+  },
+  {
+    "word": "digital sovereignty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for digital sovereignty in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained digital sovereignty clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "digital",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "platform engineering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for platform engineering in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained platform engineering clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "platform",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "privacy by design",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for privacy by design in the tech domain; important in intermediate study.",
+    "example": "Our textbook chapter explained privacy by design clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "privacy",
+      "related term"
+    ],
+    "usageNote": "Common in tech topics at this reading level."
+  },
+  {
+    "word": "strategy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for strategy in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained strategy clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "strategy",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "offense",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for offense in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained offense clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "offense",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "defense",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for defense in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained defense clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "defense",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "lineup",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lineup in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained lineup clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "lineup",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "draft",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for draft in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained draft clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "draft",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "relegation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for relegation in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained relegation clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "relegation",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "promotion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for promotion in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained promotion clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "promotion",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "aggregate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for aggregate in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained aggregate clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "aggregate",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "penalty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for penalty in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained penalty clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "penalty",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "overtime",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for overtime in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained overtime clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "overtime",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "comeback",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for comeback in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained comeback clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "comeback",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "upset",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for upset in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained upset clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "upset",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "seed",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seed in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained seed clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "seed",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "bracket",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bracket in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained bracket clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "bracket",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "podium",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for podium in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained podium clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "podium",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "medal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for medal in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained medal clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "medal",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "record",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for record in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained record clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "record",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "doping",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for doping in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained doping clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "doping",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "biomechanics",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Science of forces and motion in athletic movement; important in intermediate study.",
+    "example": "Our textbook chapter explained biomechanics clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "biomechanics",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "periodization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for periodization in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained periodization clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "periodization",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "VO2 max",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for VO2 max in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained VO2 max clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "VO2",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "lactate threshold",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lactate threshold in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained lactate threshold clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "lactate",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "proprioception",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for proprioception in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained proprioception clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "proprioception",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "plyometrics",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for plyometrics in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained plyometrics clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "plyometrics",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "salary cap",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for salary cap in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained salary cap clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "salary",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "free agency",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for free agency in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained free agency clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "free",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "match fixing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for match fixing in the sports domain; important in intermediate study.",
+    "example": "Our textbook chapter explained match fixing clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "match",
+      "related term"
+    ],
+    "usageNote": "Common in sports topics at this reading level."
+  },
+  {
+    "word": "dessert",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dessert in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained dessert clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "dessert",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "garnish",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for garnish in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained garnish clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "garnish",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "broth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for broth in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained broth clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "broth",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "stock",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for stock in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained stock clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "stock",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "roux",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for roux in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained roux clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "roux",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "confit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Food preserved by slow cooking in fat; important in intermediate study.",
+    "example": "Our textbook chapter explained confit clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "confit",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "julienne",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To julienne as an action or process; important in intermediate study.",
+    "example": "Our textbook chapter explained julienne clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "julienne",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "blanch",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To blanch as an action or process; important in intermediate study.",
+    "example": "Our textbook chapter explained blanch clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "blanch",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "caramelize",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To caramelize as an action or process; important in intermediate study.",
+    "example": "Our textbook chapter explained caramelize clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "caramelize",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "emulsify",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To emulsify as an action or process; important in intermediate study.",
+    "example": "Our textbook chapter explained emulsify clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "emulsify",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "deglaze",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To deglaze as an action or process; important in intermediate study.",
+    "example": "Our textbook chapter explained deglaze clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "deglaze",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "brine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for brine in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained brine clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "brine",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "pickle",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To pickle as an action or process; important in intermediate study.",
+    "example": "Our textbook chapter explained pickle clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "pickle",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "allergy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for allergy in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained allergy clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "allergy",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "nutrition",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nutrition in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained nutrition clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "nutrition",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "calorie",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for calorie in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained calorie clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "calorie",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "protein",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for protein in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained protein clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "protein",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "vitamin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vitamin in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained vitamin clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "vitamin",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "fiber",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fiber in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained fiber clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "fiber",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "organic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to organic; important in intermediate study.",
+    "example": "Our textbook chapter explained organic clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "organic",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "preservative",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for preservative in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained preservative clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "preservative",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "additive",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for additive in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained additive clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "additive",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "sustainable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to sustainable; important in intermediate study.",
+    "example": "Our textbook chapter explained sustainable clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "sustainable",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "farm-to-table",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to farm to table; important in intermediate study.",
+    "example": "Our textbook chapter explained farm-to-table clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "farm-to-table",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "umami",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A savory fifth basic taste; important in intermediate study.",
+    "example": "Our textbook chapter explained umami clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "umami",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "astringent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to astringent; important in intermediate study.",
+    "example": "Our textbook chapter explained astringent clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "astringent",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "palate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for palate in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained palate clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "palate",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "mouthfeel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mouthfeel in the food domain; important in intermediate study.",
+    "example": "Our textbook chapter explained mouthfeel clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "mouthfeel",
+      "related term"
+    ],
+    "usageNote": "Common in food topics at this reading level."
+  },
+  {
+    "word": "circuit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for circuit in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained circuit clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "circuit",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "current",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for current in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained current clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "current",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "experiment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for experiment in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained experiment clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "experiment",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "variable",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for variable in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained variable clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "variable",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "control",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for control in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained control clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "control",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "data",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for data in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained data clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "data",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "graph",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for graph in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained graph clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "graph",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "microscope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for microscope in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained microscope clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "microscope",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "telescope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for telescope in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained telescope clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "telescope",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "cell",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cell in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained cell clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "cell",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "tissue",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tissue in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained tissue clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "tissue",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "organ",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for organ in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained organ clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "organ",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "DNA",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for DNA in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained DNA clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "DNA",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "gene",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gene in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained gene clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "gene",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "evolution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for evolution in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained evolution clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "evolution",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "adaptation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for adaptation in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained adaptation clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "adaptation",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "mutation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mutation in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained mutation clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "mutation",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "photosynthesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Process plants use to convert light into chemical energy; important in intermediate study.",
+    "example": "Our textbook chapter explained photosynthesis clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "photosynthesis",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "respiration",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for respiration in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained respiration clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "respiration",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "digestion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for digestion in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained digestion clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "digestion",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "immune",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to immune; important in intermediate study.",
+    "example": "Our textbook chapter explained immune clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "immune",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "vaccine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vaccine in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained vaccine clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "vaccine",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "bacteria",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bacteria in the science domain; important in intermediate study.",
+    "example": "Our textbook chapter explained bacteria clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "bacteria",
+      "related term"
+    ],
+    "usageNote": "Common in science topics at this reading level."
+  },
+  {
+    "word": "leopard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for leopard in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained leopard clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "leopard",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "hyena",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hyena in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained hyena clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "hyena",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "antelope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for antelope in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained antelope clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "antelope",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "bison",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bison in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained bison clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "bison",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "moose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for moose in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained moose clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "moose",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "elk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for elk in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained elk clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "elk",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "beaver",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for beaver in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained beaver clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "beaver",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "otter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for otter in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained otter clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "otter",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "seal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seal in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained seal clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "seal",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "walrus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for walrus in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained walrus clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "walrus",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "crab",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for crab in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained crab clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "crab",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "lobster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lobster in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained lobster clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "lobster",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "jellyfish",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for jellyfish in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained jellyfish clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "jellyfish",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "coral",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for coral in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained coral clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "coral",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "butterfly",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for butterfly in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained butterfly clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "butterfly",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "moth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for moth in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained moth clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "moth",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "dragonfly",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dragonfly in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained dragonfly clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "dragonfly",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "spider",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for spider in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained spider clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "spider",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "scorpion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for scorpion in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained scorpion clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "scorpion",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "lizard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lizard in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained lizard clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "lizard",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "gecko",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gecko in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained gecko clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "gecko",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "chameleon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chameleon in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained chameleon clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "chameleon",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "iguana",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for iguana in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained iguana clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "iguana",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "salamander",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for salamander in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained salamander clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "salamander",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "newt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for newt in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained newt clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "newt",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "toad",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for toad in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained toad clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "toad",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "heron",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heron in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained heron clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "heron",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
+  },
+  {
+    "word": "flamingo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flamingo in the animals domain; important in intermediate study.",
+    "example": "Our textbook chapter explained flamingo clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "synonyms": [
+      "flamingo",
+      "related term"
+    ],
+    "usageNote": "Common in animals topics at this reading level."
   }
 ]

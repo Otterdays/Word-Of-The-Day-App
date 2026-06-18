@@ -2,11 +2,14 @@ package com.example.wordofday.ui.home
 
 import android.app.Application
 import android.content.Intent
+import android.speech.tts.TextToSpeech
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import com.example.wordofday.data.model.UserPreferences
+import com.example.wordofday.data.model.WordEntry
+import com.example.wordofday.data.preferences.EngagementRepository
 import com.example.wordofday.data.preferences.UserPreferencesRepository
 import com.example.wordofday.data.repository.WordRepository
 import java.time.LocalDate
@@ -24,15 +27,30 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
 
     private val repository = WordRepository(application)
     private val preferencesRepository = UserPreferencesRepository(application)
+    private val engagementRepository = EngagementRepository(application)
 
     private val _uiState = MutableStateFlow<HomeUiState>(HomeUiState.Loading)
     val uiState: StateFlow<HomeUiState> = _uiState.asStateFlow()
 
+    private val _quickSwitchVisible = MutableStateFlow(false)
+    val quickSwitchVisible: StateFlow<Boolean> = _quickSwitchVisible.asStateFlow()
+
+    private var sessionGradeOffset = 0
+    private var activeCategoryIndex = 0
+    private var tts: TextToSpeech? = null
+
     init {
+        viewModelScope.launch {
+            engagementRepository.recordDailyOpen()
+        }
         viewModelScope.launch {
             preferencesRepository.preferences
                 .distinctUntilChanged()
-                .collect { prefs -> loadWord(prefs) }
+                .collect { prefs ->
+                    sessionGradeOffset = 0
+                    activeCategoryIndex = 0
+                    loadWord(prefs)
+                }
         }
     }
 
@@ -43,19 +61,74 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
         }
     }
 
-    fun shareCurrentWord() {
-        val state = _uiState.value
-        if (state !is HomeUiState.Success) return
-        val w = state.word
-        val text = buildString {
-            append(w.word)
-            append(" (${w.partOfSpeech})\n\n")
-            append(w.definition)
-            if (w.example.isNotBlank()) {
-                append("\n\nExample: ")
-                append(w.example)
-            }
+    fun showQuickSwitch() {
+        _quickSwitchVisible.value = true
+    }
+
+    fun hideQuickSwitch() {
+        _quickSwitchVisible.value = false
+    }
+
+    fun applyQuickSwitch(grade: com.example.wordofday.data.model.GradeLevel, categories: Set<com.example.wordofday.data.model.Category>) {
+        viewModelScope.launch {
+            preferencesRepository.setGradeLevel(grade)
+            preferencesRepository.setSelectedCategories(categories)
+            hideQuickSwitch()
         }
+    }
+
+    fun tryEasierWord() {
+        shiftGrade(-1)
+    }
+
+    fun tryHarderWord() {
+        shiftGrade(+1)
+    }
+
+    fun setActiveCategoryIndex(index: Int) {
+        val state = _uiState.value as? HomeUiState.Success ?: return
+        if (index !in state.categoryWords.indices) return
+        activeCategoryIndex = index
+        val selected = state.categoryWords[index]
+        _uiState.value = state.copy(
+            word = selected.word,
+            activeCategoryIndex = index,
+            isFavorite = false,
+        )
+        viewModelScope.launch {
+            val fav = engagementRepository.isFavorite(repository.favoriteKey(selected.word))
+            val current = _uiState.value as? HomeUiState.Success ?: return@launch
+            _uiState.value = current.copy(isFavorite = fav)
+        }
+    }
+
+    fun toggleFavorite() {
+        val state = _uiState.value as? HomeUiState.Success ?: return
+        viewModelScope.launch {
+            val key = repository.favoriteKey(state.word)
+            val nowFavorite = engagementRepository.toggleFavorite(key)
+            _uiState.value = state.copy(isFavorite = nowFavorite)
+        }
+    }
+
+    fun speakCurrentWord() {
+        val state = _uiState.value as? HomeUiState.Success ?: return
+        val app = getApplication<Application>()
+        if (tts == null) {
+            tts = TextToSpeech(app) { status ->
+                if (status == TextToSpeech.SUCCESS) {
+                    tts?.language = Locale.getDefault()
+                    tts?.speak(state.word.word, TextToSpeech.QUEUE_FLUSH, null, "word")
+                }
+            }
+        } else {
+            tts?.speak(state.word.word, TextToSpeech.QUEUE_FLUSH, null, "word")
+        }
+    }
+
+    fun shareCurrentWord() {
+        val state = _uiState.value as? HomeUiState.Success ?: return
+        val text = ShareFormatter.format(state.word, state.effectiveGrade)
         val intent = Intent(Intent.ACTION_SEND).apply {
             type = "text/plain"
             putExtra(Intent.EXTRA_TEXT, text)
@@ -67,19 +140,52 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
         getApplication<Application>().startActivity(chooser)
     }
 
+    private fun shiftGrade(delta: Int) {
+        val state = _uiState.value as? HomeUiState.Success ?: return
+        val nextOffset = sessionGradeOffset + delta
+        val nextGrade = state.preferences.gradeLevel.withOffset(nextOffset)
+        if (nextGrade == state.effectiveGrade && delta != 0) return
+        sessionGradeOffset = nextOffset
+        viewModelScope.launch {
+            loadWord(state.preferences)
+        }
+    }
+
     private fun loadWord(prefs: UserPreferences) {
         viewModelScope.launch {
             _uiState.value = HomeUiState.Loading
             try {
                 val today = LocalDate.now()
-                val word = repository.getWordForDate(today, prefs)
+                val effectiveGrade = prefs.gradeLevel.withOffset(sessionGradeOffset)
+                val categoryRows = repository.getWordsByCategory(
+                    date = today,
+                    preferences = prefs,
+                    gradeLevelOverride = effectiveGrade,
+                )
+                val safeIndex = activeCategoryIndex.coerceIn(0, (categoryRows.size - 1).coerceAtLeast(0))
+                val activeWord = categoryRows.getOrNull(safeIndex)?.word
+                    ?: repository.getWordForDate(today, prefs, effectiveGrade)
+                val streak = engagementRepository.recordDailyOpen(today)
+                engagementRepository.recordWordView(
+                    date = today,
+                    wordKey = repository.favoriteKey(activeWord),
+                    word = activeWord.word,
+                    gradeLevel = activeWord.gradeLevel,
+                )
+                val fav = engagementRepository.isFavorite(repository.favoriteKey(activeWord))
                 val formatted = today.format(
                     DateTimeFormatter.ofPattern("EEEE, MMMM d, yyyy", Locale.getDefault()),
                 )
                 _uiState.value = HomeUiState.Success(
-                    word = word,
+                    word = activeWord,
                     formattedDate = formatted,
                     preferences = prefs,
+                    effectiveGrade = effectiveGrade,
+                    sessionGradeOffset = sessionGradeOffset,
+                    categoryWords = categoryRows.map { CategoryWordUi(it.category, it.word) },
+                    activeCategoryIndex = safeIndex,
+                    streakDays = streak,
+                    isFavorite = fav,
                 )
             } catch (e: Exception) {
                 _uiState.value = HomeUiState.Error(
@@ -87,6 +193,12 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                 )
             }
         }
+    }
+
+    override fun onCleared() {
+        tts?.shutdown()
+        tts = null
+        super.onCleared()
     }
 
     companion object {

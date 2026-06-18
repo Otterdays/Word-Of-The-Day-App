@@ -1,0 +1,18 @@
+---
+description: URGENT — keep CHANGELOG, AppReleaseCatalog, and version bump in sync on every user-facing release
+alwaysApply: true
+---
+
+# Release sync (URGENT)
+
+When shipping or completing user-facing work in Word of the Day App, you **must** update these together in the **same session**:
+
+1. **`app/build.gradle.kts`** — increment `versionCode`, set `versionName`
+2. **`app/src/main/java/com/example/wordofday/data/release/AppReleaseCatalog.kt`** — add/update `AppRelease` row (modal bullets)
+3. **`DOCS/CHANGELOG.md`** — cut version section from `[Unreleased]`
+4. **`DOCS/EDITIONS_ROADMAP.md`** — edition status + checkboxes
+5. **`DOCS/SCRATCHPAD.md`** — last actions
+
+In-app What's New reads **`AppReleaseCatalog`** only. If catalog and CHANGELOG diverge, the update modal is wrong — **release blocker**.
+
+Full protocol: **`AGENTS.md`** → "URGENT — Release sync protocol".

@@ -14,6 +14,8 @@ data class WordEntry(
     val definition: String,
     val example: String = "",
     val etymology: String = "",
+    val synonyms: List<String> = emptyList(),
+    val usageNote: String = "",
     val gradeLevel: GradeLevel = GradeLevel.ADULT,
     val categories: List<Category> = listOf(Category.GENERAL),
 )

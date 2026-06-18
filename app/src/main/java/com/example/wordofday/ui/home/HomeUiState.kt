@@ -1,5 +1,7 @@
 package com.example.wordofday.ui.home
 
+import com.example.wordofday.data.model.Category
+import com.example.wordofday.data.model.GradeLevel
 import com.example.wordofday.data.model.UserPreferences
 import com.example.wordofday.data.model.WordEntry
 
@@ -14,7 +16,24 @@ sealed interface HomeUiState {
         val word: WordEntry,
         val formattedDate: String,
         val preferences: UserPreferences,
-    ) : HomeUiState
+        val effectiveGrade: GradeLevel,
+        val sessionGradeOffset: Int,
+        val categoryWords: List<CategoryWordUi>,
+        val activeCategoryIndex: Int,
+        val streakDays: Int,
+        val isFavorite: Boolean,
+    ) : HomeUiState {
+        val canTryEasier: Boolean
+            get() = effectiveGrade.canShiftEasier()
+
+        val canTryHarder: Boolean
+            get() = effectiveGrade.canShiftHarder()
+    }
 
     data class Error(val message: String) : HomeUiState
 }
+
+data class CategoryWordUi(
+    val category: Category,
+    val word: WordEntry,
+)

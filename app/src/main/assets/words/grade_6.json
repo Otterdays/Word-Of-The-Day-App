@@ -5,6 +5,12 @@
     "pronunciation": "/ˌkärdēōˈvaskyələr/",
     "definition": "Relating to the heart and blood vessels.",
     "example": "Running improves cardiovascular fitness.",
+    "etymology": "From Latin cardio (heart) + vascular (vessels).",
+    "synonyms": [
+      "heart-related",
+      "circulatory"
+    ],
+    "usageNote": "Cardiovascular exercise raises heart rate safely when paced gradually.",
     "categories": [
       "SPORTS",
       "SCIENCE",
@@ -17,6 +23,12 @@
     "pronunciation": "/ˈpiksəl/",
     "definition": "One tiny dot of color on a screen; millions make an image.",
     "example": "That icon looks blurry when pixels are stretched.",
+    "etymology": "Short for picture element.",
+    "synonyms": [
+      "dot",
+      "picture element"
+    ],
+    "usageNote": "Higher pixel counts usually mean sharper displays, but viewing distance matters too.",
     "categories": [
       "TECH",
       "GENERAL"
@@ -28,6 +40,11 @@
     "pronunciation": "/ˈpredədər/",
     "definition": "An animal that hunts other animals for food.",
     "example": "The shark is an apex predator in its reef habitat.",
+    "synonyms": [
+      "hunter",
+      "carnivore"
+    ],
+    "usageNote": "Predators help control prey populations and keep ecosystems balanced.",
     "categories": [
       "ANIMALS",
       "SCIENCE",
@@ -40,6 +57,12 @@
     "pronunciation": "/ˌfərmənˈtāSHən/",
     "definition": "A chemical change microbes cause in food, like bread rising.",
     "example": "Yogurt forms through fermentation of milk.",
+    "etymology": "From Latin fermentum — leaven or yeast.",
+    "synonyms": [
+      "brewing",
+      "culturing"
+    ],
+    "usageNote": "Fermentation preserves food and creates tangy flavors in pickles and kimchi.",
     "categories": [
       "FOOD",
       "SCIENCE",
@@ -50,11 +73,1570 @@
     "word": "momentum",
     "partOfSpeech": "noun",
     "pronunciation": "/mōˈmentəm/",
-    "definition": "Mass in motion; idea that keeps teams rolling forward.",
+    "definition": "Mass in motion; the tendency to keep moving or growing.",
     "example": "Early goals gave the team momentum.",
+    "etymology": "From Latin movere — to move.",
+    "synonyms": [
+      "drive",
+      "force",
+      "impetus"
+    ],
+    "usageNote": "In physics and sports, momentum describes both literal motion and psychological streaks.",
     "categories": [
       "SPORTS",
       "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ecosystem",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈēkōˌsistəm/",
+    "definition": "All living things and their environment interacting as one system.",
+    "example": "Coral reefs are fragile ecosystems sensitive to warming water.",
+    "synonyms": [
+      "environment",
+      "biome",
+      "habitat"
+    ],
+    "usageNote": "Removing one species can ripple through an entire ecosystem.",
+    "categories": [
+      "SCIENCE",
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "debug",
+    "partOfSpeech": "verb",
+    "pronunciation": "/dēˈbəɡ/",
+    "definition": "To find and fix errors in computer code.",
+    "example": "We debugged the app until the login button worked.",
+    "synonyms": [
+      "troubleshoot",
+      "fix",
+      "repair"
+    ],
+    "usageNote": "Systematic debugging — reproduce, isolate, fix — beats random guessing.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "aerobic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "/eˈrōbik/",
+    "definition": "Requiring oxygen; exercise that raises breathing and heart rate.",
+    "example": "Swimming is an aerobic workout for the whole body.",
+    "synonyms": [
+      "oxygen-using",
+      "cardio"
+    ],
+    "usageNote": "Aerobic activity builds endurance; anaerobic bursts build power.",
+    "categories": [
+      "SPORTS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gluten",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈɡlo͞otn/",
+    "definition": "A protein in wheat that helps bread rise and stay chewy.",
+    "example": "Some bakeries offer gluten-free rolls for celiac customers.",
+    "usageNote": "Gluten gives dough elasticity; over-mixing can make it tough.",
+    "categories": [
+      "FOOD",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "migration",
+    "partOfSpeech": "noun",
+    "pronunciation": "/mīˈɡrāSHən/",
+    "definition": "Seasonal movement of animals from one region to another.",
+    "example": "Geese begin migration south before the first frost.",
+    "etymology": "From Latin migrare — to move from place to place.",
+    "synonyms": [
+      "journey",
+      "trek",
+      "movement"
+    ],
+    "usageNote": "Migration follows food, weather, or breeding cycles — not random travel.",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "encryption",
+    "partOfSpeech": "noun",
+    "pronunciation": "/inˈkripSHən/",
+    "definition": "Scrambling data so only authorized readers can decode it.",
+    "example": "Encryption protects messages sent over public Wi-Fi.",
+    "synonyms": [
+      "encoding",
+      "ciphering"
+    ],
+    "usageNote": "HTTPS uses encryption between your browser and websites.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "offside",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ôfˈsīd/",
+    "definition": "A rule violation when an attacking player is ahead of the ball too early.",
+    "example": "The striker was called offside on the breakaway.",
+    "synonyms": [
+      "infraction",
+      "violation"
+    ],
+    "usageNote": "Offside rules differ slightly between soccer and hockey — context matters.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "photosynthesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˌfōtōˈsinTHəsəs/",
+    "definition": "How plants use sunlight to turn carbon dioxide and water into sugar.",
+    "example": "Photosynthesis is why leaves are green — chlorophyll captures light.",
+    "etymology": "From Greek phōs (light) + synthesis (putting together).",
+    "synonyms": [
+      "light synthesis"
+    ],
+    "usageNote": "Photosynthesis releases oxygen as a byproduct — essential for animal life.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "herbivore",
+    "partOfSpeech": "noun",
+    "pronunciation": "/ˈ(h)ərbəˌvôr/",
+    "definition": "An animal that eats only plants.",
+    "example": "Deer are herbivores that graze on grass and shrubs.",
+    "synonyms": [
+      "plant-eater",
+      "grazer"
+    ],
+    "usageNote": "Contrast with carnivore (meat-eater) and omnivore (both).",
+    "categories": [
+      "ANIMALS",
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "umami",
+    "partOfSpeech": "noun",
+    "pronunciation": "/o͞oˈmämē/",
+    "definition": "A savory taste found in broth, cheese, and soy sauce.",
+    "example": "Mushrooms add umami depth to vegetarian soup.",
+    "etymology": "Japanese for 'pleasant savory taste.'",
+    "synonyms": [
+      "savory",
+      "meaty flavor"
+    ],
+    "usageNote": "Umami is the fifth basic taste alongside sweet, sour, salty, and bitter.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "microservice",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for microservice in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained microservice clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blockchain",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A shared tamper-resistant ledger of linked records, useful in reports and discussions.",
+    "example": "Our textbook chapter explained blockchain clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "authentication",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for authentication in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained authentication clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scalability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Ability to handle growth without failing, useful in reports and discussions.",
+    "example": "Our textbook chapter explained scalability clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "abstraction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Hiding complex details behind a simpler interface, useful in reports and discussions.",
+    "example": "Our textbook chapter explained abstraction clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "recursion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for recursion in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained recursion clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "concurrency",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for concurrency in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained concurrency clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "serialization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for serialization in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained serialization clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "REST",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for REST in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained REST clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "GraphQL",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for GraphQL in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained GraphQL clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "OAuth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for OAuth in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained OAuth clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "TLS",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for TLS in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained TLS clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sharding",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sharding in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained sharding clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "observability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for observability in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained observability clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heuristic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heuristic in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained heuristic clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "deterministic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to deterministic, useful in reports and discussions.",
+    "example": "Our textbook chapter explained deterministic clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "memoization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for memoization in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained memoization clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "consensus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for consensus in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained consensus clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "CRDT",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for CRDT in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained CRDT clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "homomorphic encryption",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for homomorphic encryption in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained homomorphic encryption clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chaos engineering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chaos engineering in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained chaos engineering clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "SRE",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for SRE in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained SRE clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Halting problem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Halting problem in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained Halting problem clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lambda calculus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lambda calculus in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained lambda calculus clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Fourier transform",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Fourier transform in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained Fourier transform clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "speculative execution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for speculative execution in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained speculative execution clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "linearizability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for linearizability in the tech domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained linearizability clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "relay",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for relay in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained relay clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "foul",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for foul in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained foul clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "referee",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for referee in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained referee clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "timeout",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for timeout in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained timeout clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "halftime",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for halftime in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained halftime clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tournament",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A structured series of contests producing a winner, useful in reports and discussions.",
+    "example": "Our textbook chapter explained tournament clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "champion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for champion in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained champion clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "underdog",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for underdog in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained underdog clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rivalry",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rivalry in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained rivalry clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "endurance",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Ability to keep exerting effort over time, useful in reports and discussions.",
+    "example": "Our textbook chapter explained endurance clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stamina",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for stamina in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained stamina clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "strategy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for strategy in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained strategy clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "offense",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for offense in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained offense clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "defense",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for defense in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained defense clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lineup",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lineup in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained lineup clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "draft",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for draft in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained draft clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "relegation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for relegation in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained relegation clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "promotion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for promotion in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained promotion clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "aggregate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for aggregate in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained aggregate clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "penalty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for penalty in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained penalty clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "overtime",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for overtime in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained overtime clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "comeback",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for comeback in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained comeback clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "upset",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for upset in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained upset clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seed",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seed in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained seed clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bracket",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bracket in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained bracket clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "podium",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for podium in the sports domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained podium clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "slice",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To slice as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained slice clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "peel",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To peel as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained peel clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "season",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To season as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained season clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "marinate",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To soak food in seasoned liquid before cooking, useful in reports and discussions.",
+    "example": "Our textbook chapter explained marinate clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "simmer",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To simmer as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained simmer clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "roast",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To roast as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained roast clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "glaze",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To glaze as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained glaze clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "knead",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To knead as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained knead clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ferment",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To ferment as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained ferment clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cuisine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cuisine in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained cuisine clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "appetizer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for appetizer in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained appetizer clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "entree",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for entree in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained entree clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dessert",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dessert in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained dessert clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "garnish",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for garnish in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained garnish clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "broth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for broth in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained broth clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stock",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for stock in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained stock clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "roux",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for roux in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained roux clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "confit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Food preserved by slow cooking in fat, useful in reports and discussions.",
+    "example": "Our textbook chapter explained confit clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "julienne",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To julienne as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained julienne clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blanch",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To blanch as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained blanch clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "caramelize",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To caramelize as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained caramelize clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "emulsify",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To emulsify as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained emulsify clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "deglaze",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To deglaze as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained deglaze clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "brine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for brine in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained brine clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pickle",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To pickle as an action or process, useful in reports and discussions.",
+    "example": "Our textbook chapter explained pickle clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "allergy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for allergy in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained allergy clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nutrition",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nutrition in the food domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained nutrition clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "reaction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for reaction in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained reaction clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "energy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for energy in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained energy clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "force",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for force in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained force clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "motion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for motion in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained motion clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "friction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for friction in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained friction clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "density",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for density in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained density clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "volume",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for volume in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained volume clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mass",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mass in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained mass clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "weight",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for weight in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained weight clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "temperature",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for temperature in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained temperature clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pressure",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pressure in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained pressure clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "circuit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for circuit in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained circuit clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "current",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for current in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained current clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A testable proposed explanation for observations, useful in reports and discussions.",
+    "example": "Our textbook chapter explained hypothesis clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "experiment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for experiment in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained experiment clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "variable",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for variable in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained variable clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "control",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for control in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained control clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "data",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for data in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained data clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "graph",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for graph in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained graph clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "microscope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for microscope in the science domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained microscope clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wolf",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wolf in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained wolf clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fox",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fox in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained fox clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "raccoon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for raccoon in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained raccoon clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "squirrel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for squirrel in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained squirrel clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hedgehog",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hedgehog in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained hedgehog clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "kangaroo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for kangaroo in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained kangaroo clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "koala",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for koala in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained koala clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "panda",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for panda in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained panda clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "camel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for camel in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained camel clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hippo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hippo in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained hippo clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rhino",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rhino in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained rhino clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cheetah",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cheetah in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained cheetah clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "leopard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for leopard in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained leopard clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hyena",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hyena in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained hyena clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "antelope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for antelope in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained antelope clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bison",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bison in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained bison clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "moose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for moose in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained moose clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "elk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for elk in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained elk clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "beaver",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for beaver in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained beaver clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "otter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for otter in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained otter clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seal in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained seal clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "walrus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for walrus in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained walrus clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "crab",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for crab in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained crab clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lobster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lobster in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained lobster clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "jellyfish",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for jellyfish in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained jellyfish clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "coral",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for coral in the animals domain, useful in reports and discussions.",
+    "example": "Our textbook chapter explained coral clearly.",
+    "categories": [
+      "ANIMALS",
       "GENERAL"
     ]
   }

@@ -13,6 +13,14 @@ Purpose: fast handoff for future agents. Use this first when a task says "update
 
 ## Source-of-truth map
 
+### Release notes & editions
+
+- Release modal source of truth: `app/src/main/java/com/example/wordofday/data/release/AppReleaseCatalog.kt`
+- Last-seen version DataStore: `app/src/main/java/com/example/wordofday/data/preferences/ReleaseNotesRepository.kt`
+- Update modal UI: `app/src/main/java/com/example/wordofday/ui/update/UpdateModal.kt`
+- Edition planning: `DOCS/EDITIONS_ROADMAP.md`
+- Agent release-sync rules: `AGENTS.md`, `.cursor/rules/release-sync.mdc`
+
 ### App entry and navigation
 
 - App entry point: `app/src/main/java/com/example/wordofday/MainActivity.kt`
@@ -69,6 +77,7 @@ Purpose: fast handoff for future agents. Use this first when a task says "update
 
 - Bundled words per grade: `app/src/main/assets/words/*.json`
 - Inventory coverage script: `scripts/inventory_word_assets.py`
+- Gap-fill corpus wave: `scripts/fill_word_gaps.py` + `scripts/corpus/lemma_banks.py`
 - Category normalization helper script: `scripts/ensure_general_category.py`
 - Coverage tracker doc: `DOCS/CONTENT_8D_PROGRESS.md`
 
