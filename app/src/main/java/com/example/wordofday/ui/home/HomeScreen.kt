@@ -100,7 +100,11 @@ fun HomeScreen(
 ) {
     val uiState by viewModel.uiState.collectAsState()
     val quickSwitchVisible by viewModel.quickSwitchVisible.collectAsState()
-    val isRefreshing = uiState is HomeUiState.Loading
+    val isRefreshing = when (val state = uiState) {
+        HomeUiState.Loading -> true
+        is HomeUiState.Success -> state.isRefreshing
+        is HomeUiState.Error -> false
+    }
 
     val gradient = Brush.verticalGradient(
         colors = listOf(
@@ -387,9 +391,10 @@ private fun WordContent(
             textAlign = TextAlign.Center,
         )
         Spacer(modifier = Modifier.height(8.dp))
-        Row(
+        FlowRow(
             modifier = Modifier.fillMaxWidth(),
             horizontalArrangement = Arrangement.spacedBy(6.dp, Alignment.CenterHorizontally),
+            verticalArrangement = Arrangement.spacedBy(6.dp),
         ) {
             FilledTonalButton(onClick = onOpenExplore, contentPadding = PaddingValues(horizontal = 10.dp, vertical = 6.dp)) {
                 Text("Explore", style = MaterialTheme.typography.labelLarge)
@@ -414,9 +419,10 @@ private fun WordContent(
 
         Spacer(modifier = Modifier.height(8.dp))
 
-        Row(
+        FlowRow(
             modifier = Modifier.fillMaxWidth(),
             horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally),
+            verticalArrangement = Arrangement.spacedBy(8.dp),
         ) {
             OutlinedButton(
                 onClick = onTryEasier,
@@ -436,15 +442,18 @@ private fun WordContent(
 
         Spacer(modifier = Modifier.height(8.dp))
 
-        Row(
+        FlowRow(
             modifier = Modifier.fillMaxWidth(),
             horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally),
-            verticalAlignment = Alignment.CenterVertically,
+            verticalArrangement = Arrangement.spacedBy(8.dp),
         ) {
-            FilledTonalButton(onClick = onRefresh) {
+            FilledTonalButton(
+                onClick = onRefresh,
+                enabled = !state.isRefreshing,
+            ) {
                 Icon(Icons.Default.Refresh, contentDescription = null, modifier = Modifier.size(18.dp))
                 Spacer(Modifier.width(8.dp))
-                Text("Refresh")
+                Text(if (state.isRefreshing) "Finding..." else "More words")
             }
             FilledTonalButton(onClick = onShare) {
                 Icon(Icons.Default.Share, contentDescription = null, modifier = Modifier.size(18.dp))
@@ -457,6 +466,15 @@ private fun WordContent(
                     contentDescription = if (state.isFavorite) "Remove favorite" else "Add favorite",
                 )
             }
+        }
+        state.refreshErrorMessage?.let { message ->
+            Spacer(modifier = Modifier.height(6.dp))
+            Text(
+                text = message,
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.error,
+                textAlign = TextAlign.Center,
+            )
         }
 
         if (state.categoryWords.size > 1) {

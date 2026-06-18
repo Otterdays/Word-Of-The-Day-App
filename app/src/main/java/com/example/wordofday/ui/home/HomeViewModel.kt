@@ -21,6 +21,7 @@ import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.flow.distinctUntilChanged
 import kotlinx.coroutines.flow.first
+import kotlinx.coroutines.Job
 import kotlinx.coroutines.launch
 
 // [TRACE: DOCS/ARCHITECTURE.md] — Presentation layer: ViewModel + UiState
@@ -39,6 +40,8 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
 
     private var sessionGradeOffset = 0
     private var activeCategoryIndex = 0
+    private var refreshOffset = 0
+    private var loadJob: Job? = null
     private var tts: TextToSpeech? = null
 
     init {
@@ -51,7 +54,8 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                 .collect { prefs ->
                     sessionGradeOffset = 0
                     activeCategoryIndex = 0
-                    loadWord(prefs)
+                    refreshOffset = 0
+                    loadWord(prefs, showFullLoading = true)
                 }
         }
     }
@@ -59,7 +63,8 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
     fun refresh() {
         viewModelScope.launch {
             val prefs = preferencesRepository.preferences.first()
-            loadWord(prefs)
+            refreshOffset += 1
+            loadWord(prefs, showFullLoading = false)
         }
     }
 
@@ -150,13 +155,23 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
         sessionGradeOffset = nextOffset
         viewModelScope.launch {
             learningRepository.recordGradeShiftUsed()
-            loadWord(state.preferences)
+            refreshOffset += 1
+            loadWord(state.preferences, showFullLoading = false)
         }
     }
 
-    private fun loadWord(prefs: UserPreferences) {
-        viewModelScope.launch {
-            _uiState.value = HomeUiState.Loading
+    private fun loadWord(prefs: UserPreferences, showFullLoading: Boolean) {
+        loadJob?.cancel()
+        loadJob = viewModelScope.launch {
+            val previousSuccess = _uiState.value as? HomeUiState.Success
+            if (showFullLoading || previousSuccess == null) {
+                _uiState.value = HomeUiState.Loading
+            } else {
+                _uiState.value = previousSuccess.copy(
+                    isRefreshing = true,
+                    refreshErrorMessage = null,
+                )
+            }
             try {
                 val today = LocalDate.now()
                 val effectiveGrade = prefs.gradeLevel.withOffset(sessionGradeOffset)
@@ -164,10 +179,16 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                     date = today,
                     preferences = prefs,
                     gradeLevelOverride = effectiveGrade,
+                    rotationOffset = refreshOffset,
                 )
                 val safeIndex = activeCategoryIndex.coerceIn(0, (categoryRows.size - 1).coerceAtLeast(0))
                 val activeWord = categoryRows.getOrNull(safeIndex)?.word
-                    ?: repository.getWordForDate(today, prefs, effectiveGrade)
+                    ?: repository.getWordForDate(
+                        date = today,
+                        preferences = prefs,
+                        gradeLevelOverride = effectiveGrade,
+                        rotationOffset = refreshOffset,
+                    )
                 val streak = engagementRepository.recordDailyOpen(today)
                 engagementRepository.recordWordView(
                     date = today,
@@ -196,9 +217,15 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                     masteredCount = dashboard.masteredCount,
                 )
             } catch (e: Exception) {
-                _uiState.value = HomeUiState.Error(
-                    message = e.message ?: "Something went wrong",
-                )
+                val message = e.message ?: "Something went wrong"
+                if (previousSuccess == null) {
+                    _uiState.value = HomeUiState.Error(message = message)
+                } else {
+                    _uiState.value = previousSuccess.copy(
+                        isRefreshing = false,
+                        refreshErrorMessage = message,
+                    )
+                }
             }
         }
     }

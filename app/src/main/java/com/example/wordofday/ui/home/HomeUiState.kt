@@ -24,6 +24,8 @@ sealed interface HomeUiState {
         val isFavorite: Boolean,
         val dueReviewCount: Int = 0,
         val masteredCount: Int = 0,
+        val isRefreshing: Boolean = false,
+        val refreshErrorMessage: String? = null,
     ) : HomeUiState {
         val canTryEasier: Boolean
             get() = effectiveGrade.canShiftEasier()

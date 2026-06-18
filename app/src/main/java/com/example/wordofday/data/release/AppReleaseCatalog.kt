@@ -13,6 +13,17 @@ object AppReleaseCatalog {
     /** Newest first. Add a row for every shipped user-facing release. */
     val releases: List<AppRelease> = listOf(
         AppRelease(
+            versionCode = 9,
+            versionName = "0.3.2",
+            editionName = "Flow Polish",
+            highlights = listOf(
+                "Keep tapping More words to cycle through fresh picks from your grade and interests",
+                "Home refresh now keeps the current card on screen while the next word loads",
+                "Crowded home action buttons wrap cleanly on small phones and large-text settings",
+                "Refresh errors stay local to the home card instead of replacing the whole screen",
+            ),
+        ),
+        AppRelease(
             versionCode = 8,
             versionName = "0.3.1",
             editionName = "Depth & Interests",

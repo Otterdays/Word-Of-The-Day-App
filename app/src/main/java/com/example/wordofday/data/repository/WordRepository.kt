@@ -27,13 +27,15 @@ class WordRepository(context: Context) {
         date: LocalDate = LocalDate.now(),
         preferences: UserPreferences,
         gradeLevelOverride: GradeLevel? = null,
+        rotationOffset: Int = 0,
     ): WordEntry = withContext(Dispatchers.IO) {
         val primaryGrade = gradeLevelOverride ?: preferences.gradeLevel
         for (grade in gradeSearchOrder(primaryGrade)) {
             val words = dataSource.loadWordsForGrade(grade, preferences.lexicon)
             val pool = words.filterForPreferencesInGrade(preferences)
             if (pool.isNotEmpty()) {
-                return@withContext pool[date.dayOfYear % pool.size].present()
+                val index = Math.floorMod(date.dayOfYear + rotationOffset, pool.size)
+                return@withContext pool[index].present()
             }
         }
         FALLBACK_WORD
@@ -44,6 +46,7 @@ class WordRepository(context: Context) {
         date: LocalDate,
         preferences: UserPreferences,
         gradeLevelOverride: GradeLevel? = null,
+        rotationOffset: Int = 0,
     ): List<CategoryWord> = withContext(Dispatchers.IO) {
         val grade = gradeLevelOverride ?: preferences.gradeLevel
         preferences.selectedCategories
@@ -55,7 +58,12 @@ class WordRepository(context: Context) {
                 )
                 CategoryWord(
                     category = category,
-                    word = getWordForDate(date, scoped, gradeLevelOverride = grade),
+                    word = getWordForDate(
+                        date = date,
+                        preferences = scoped,
+                        gradeLevelOverride = grade,
+                        rotationOffset = rotationOffset,
+                    ),
                 )
             }
     }
