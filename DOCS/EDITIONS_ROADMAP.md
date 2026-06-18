@@ -85,7 +85,7 @@ Multi-edition master plan for **huge update waves**. This doc complements [ROADM
 - [x] **~2,700 words** (30 × 15 grades × 6 MVP categories) — **exceeded** (11,667 curated rows) — [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md)
 - [x] **8 additional topic categories** in corpus (CARS, SPACE, MUSIC, HISTORY, MATH, HEALTH, WEATHER, EMOTIONS) — data shipped; UI picker still MVP **6**
 - [x] Open lexicon supplemental pipeline (WordNet + packs) — **`0.2.3`**
-- [x] Home flow polish: repeated **More words** refresh, inline refresh errors, and wrapping action controls — **`0.3.2`**
+- [x] Home flow polish: smarter **More words** randomized rotation across selected topics, inline refresh errors, and wrapping action controls — **`0.3.2`**
 - [ ] Enable remaining categories + extended sources in **onboarding** picker UI
 - [ ] Content QA pipeline: reading-level lint script + spot-check checklist (§8e)
 - [ ] Optional CDN/asset-pack delivery for large corpus (Play Asset Delivery)

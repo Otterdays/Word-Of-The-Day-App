@@ -4,7 +4,7 @@
 
 ## Active focus
 
-- `[2026-06-18]` **Flow Polish (`0.3.2`):** repeated More words refresh rotates through available picks; Home keeps content visible while refreshing; action rows wrap for small screens / large text.
+- `[2026-06-18]` **Flow Polish (`0.3.2`):** repeated More words refresh uses deterministic randomized picks and rotates across selected topics; Home keeps content visible while refreshing; action rows wrap for small screens / large text.
 - `[2026-06-17]` **Depth & Interests (`0.3.1`):** 53 topic picker w/ search; word enrichment for thin rows; compact UI.
 - `[2026-06-17]` **Maturity Edition (`0.3.0`):** Explore search, SM-2 review deck, Progress + achievements, quiz modes (Reverse/Blitz), Room learning layer, word notes, library search, all 14 categories (max 5).
 - `[2026-06-17]` **Zen UI (`0.2.4`):** centered max-width lanes on Home, Settings, Onboarding, Quiz, Library, Word Detail; build green.
@@ -22,7 +22,7 @@
 
 ## Last actions (most recent LAST, AVOID MANY EDITS)
 
-1. `[2026-06-18]` **Flow Polish (`0.3.2`):** Home **More words** increments a word-pool rotation offset; refresh uses inline loading/error state instead of full-screen replacement; learning/action rows now wrap; version **0.3.2** / code **9**; **`testDebugUnitTest assembleDebug`** green.
+1. `[2026-06-18]` **Flow Polish (`0.3.2`):** Home **More words** increments a deterministic randomized word-pool offset and rotates across selected topics; refresh uses inline loading/error state instead of full-screen replacement; learning/action rows now wrap; version **0.3.2** / code **9**; **`testDebugUnitTest assembleDebug`** green.
 
 1. `[2026-06-17]` **Depth & Interests (`0.3.1`):** 53 interests + enrichment layer + compact UI; version **0.3.1** / code **8**; **`testDebugUnitTest assembleDebug`** green.
 

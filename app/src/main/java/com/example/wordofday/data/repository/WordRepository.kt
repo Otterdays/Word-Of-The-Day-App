@@ -28,13 +28,19 @@ class WordRepository(context: Context) {
         preferences: UserPreferences,
         gradeLevelOverride: GradeLevel? = null,
         rotationOffset: Int = 0,
+        categorySalt: Int = 0,
     ): WordEntry = withContext(Dispatchers.IO) {
         val primaryGrade = gradeLevelOverride ?: preferences.gradeLevel
         for (grade in gradeSearchOrder(primaryGrade)) {
             val words = dataSource.loadWordsForGrade(grade, preferences.lexicon)
             val pool = words.filterForPreferencesInGrade(preferences)
             if (pool.isNotEmpty()) {
-                val index = Math.floorMod(date.dayOfYear + rotationOffset, pool.size)
+                val index = selectionIndex(
+                    dayOfYear = date.dayOfYear,
+                    rotationOffset = rotationOffset,
+                    poolSize = pool.size,
+                    salt = categorySalt,
+                )
                 return@withContext pool[index].present()
             }
         }
@@ -63,6 +69,7 @@ class WordRepository(context: Context) {
                         preferences = scoped,
                         gradeLevelOverride = grade,
                         rotationOffset = rotationOffset,
+                        categorySalt = category.ordinal,
                     ),
                 )
             }
@@ -169,4 +176,17 @@ class WordRepository(context: Context) {
             gradeLevel = GradeLevel.ADULT,
         )
     }
+}
+
+internal fun selectionIndex(
+    dayOfYear: Int,
+    rotationOffset: Int,
+    poolSize: Int,
+    salt: Int = 0,
+): Int {
+    if (poolSize <= 0) return 0
+    val seed = dayOfYear.toLong() * 1_103_515_245L +
+        rotationOffset.toLong() * 2_654_435_761L +
+        salt.toLong() * 97_531L
+    return Math.floorMod(seed, poolSize.toLong()).toInt()
 }

@@ -17,10 +17,10 @@ object AppReleaseCatalog {
             versionName = "0.3.2",
             editionName = "Flow Polish",
             highlights = listOf(
-                "Keep tapping More words to cycle through fresh picks from your grade and interests",
+                "Keep tapping More words to cycle through smarter randomized picks from your grade and interests",
+                "Selecting more interests now broadens the visible refresh rotation across topics",
                 "Home refresh now keeps the current card on screen while the next word loads",
                 "Crowded home action buttons wrap cleanly on small phones and large-text settings",
-                "Refresh errors stay local to the home card instead of replacing the whole screen",
             ),
         ),
         AppRelease(

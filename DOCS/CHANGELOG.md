@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 
 - **Home refresh flow:** repeated **More words** taps now advance through the available word pool for the user's selected grade and interests.
+- **Smarter selection spread:** refresh picks use a deterministic hash and per-topic salt so more selected interests produce broader visible variety.
 - **UI responsiveness:** Home keeps the current word visible while the next word loads instead of dropping to a full-screen spinner.
 - **Small-screen resilience:** Home learning/action controls wrap across lines to avoid cramped rows and large-text overflow.
 - **Refresh edge cases:** refresh failures now show inline on Home without replacing the full screen when a valid word is already displayed.
