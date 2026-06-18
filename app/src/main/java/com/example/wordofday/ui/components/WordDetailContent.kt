@@ -16,6 +16,7 @@ import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.wordofday.data.model.ContentSource
 import com.example.wordofday.data.model.WordEntry
 
 // [TRACE: DOCS/ROADMAP.md] — shared rich word detail cards
@@ -44,6 +45,14 @@ fun WordDetailContent(
         if (word.etymology.isNotBlank()) {
             Spacer(modifier = Modifier.height(16.dp))
             DetailCard(label = "Etymology", body = word.etymology, subdued = true)
+        }
+        if (word.source != ContentSource.CURATED) {
+            Spacer(modifier = Modifier.height(16.dp))
+            DetailCard(
+                label = "Source",
+                body = "${word.source.displayLabel} — ${word.source.attribution}",
+                subdued = true,
+            )
         }
     }
 }

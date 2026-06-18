@@ -5,6 +5,10 @@ import kotlinx.serialization.Serializable
 // [TRACE: DOCS/ROADMAP.md] — §8b categories; §8b MVP uses first six
 @Serializable
 enum class Category(val displayLabel: String) {
+    MYTHOLOGY("Myth & Lore"),
+    LITERATURE("Literature"),
+    PHILOSOPHY("Philosophy"),
+    SACRED("Sacred Reference"),
     GENERAL("General"),
     TECH("Technology"),
     SPORTS("Sports"),
@@ -29,6 +33,15 @@ enum class Category(val displayLabel: String) {
             FOOD,
             SCIENCE,
             ANIMALS,
+        )
+
+        /** Opt-in imported packs (Settings → Extended sources). */
+        val ExtendedCategories: List<Category> = listOf(
+            MYTHOLOGY,
+            LITERATURE,
+            PHILOSOPHY,
+            SACRED,
+            HISTORY,
         )
     }
 }

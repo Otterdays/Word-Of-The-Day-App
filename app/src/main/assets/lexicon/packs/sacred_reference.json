@@ -1,0 +1,436 @@
+[
+  {
+    "word": "covenant",
+    "partOfSpeech": "noun",
+    "definition": "A solemn agreement; in scripture, a binding promise between God and people.",
+    "example": "The rainbow signified the covenant after the flood (Genesis 9).",
+    "categories": [
+      "SACRED",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_9",
+    "usageNote": "Example from public-domain King James Bible (1611).",
+    "source": "SACRED_TEXT"
+  },
+  {
+    "word": "parable",
+    "partOfSpeech": "noun",
+    "definition": "A short story teaching a moral or spiritual lesson.",
+    "example": "The parable of the good Samaritan teaches compassion.",
+    "categories": [
+      "SACRED",
+      "LITERATURE",
+      "GENERAL"
+    ],
+    "contentRating": "ALL_AGES",
+    "gradeLevel": "GRADE_6",
+    "source": "SACRED_TEXT"
+  },
+  {
+    "word": "psalm",
+    "partOfSpeech": "noun",
+    "definition": "A sacred song or poem; the biblical book of Psalms contains 150.",
+    "example": "The choir chanted a psalm of thanksgiving.",
+    "categories": [
+      "SACRED",
+      "MUSIC",
+      "GENERAL"
+    ],
+    "contentRating": "ALL_AGES",
+    "gradeLevel": "GRADE_5",
+    "source": "SACRED_TEXT"
+  },
+  {
+    "word": "exodus",
+    "partOfSpeech": "noun",
+    "definition": "A mass departure; the biblical departure of Israel from Egypt.",
+    "example": "Historians compared the migration to an exodus.",
+    "categories": [
+      "SACRED",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_8",
+    "etymology": "Greek exodos — a going out.",
+    "source": "SACRED_TEXT"
+  },
+  {
+    "word": "prodigal",
+    "partOfSpeech": "adjective",
+    "definition": "Recklessly wasteful; from the parable of the prodigal son.",
+    "example": "The prodigal spending left the treasury bare.",
+    "categories": [
+      "SACRED",
+      "LITERATURE",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_10",
+    "source": "SACRED_TEXT"
+  },
+  {
+    "word": "manna",
+    "partOfSpeech": "noun",
+    "definition": "Food miraculously provided in the wilderness; any unexpected provision.",
+    "example": "Aid shipments were manna to the stranded village.",
+    "categories": [
+      "SACRED",
+      "FOOD",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_7",
+    "source": "SACRED_TEXT"
+  },
+  {
+    "word": "leviathan",
+    "partOfSpeech": "noun",
+    "definition": "A vast sea creature in scripture and legend; any huge power.",
+    "example": "The corporation was a leviathan of the industry.",
+    "categories": [
+      "SACRED",
+      "MYTHOLOGY",
+      "GENERAL"
+    ],
+    "contentRating": "ADULT",
+    "gradeLevel": "GRADE_11",
+    "source": "SACRED_TEXT"
+  },
+  {
+    "word": "beatitude",
+    "partOfSpeech": "noun",
+    "definition": "Supreme blessedness; the blessings in the Sermon on the Mount.",
+    "example": "The sermon opened with the Beatitudes.",
+    "categories": [
+      "SACRED",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_10",
+    "source": "SACRED_TEXT"
+  },
+  {
+    "word": "Faith",
+    "partOfSpeech": "noun",
+    "definition": "Firm belief; central theme in many sacred texts.",
+    "example": "The term faith appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Grace",
+    "partOfSpeech": "noun",
+    "definition": "Unmerited divine favor in Christian theology.",
+    "example": "The term grace appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Repentance",
+    "partOfSpeech": "noun",
+    "definition": "Sincere regret and turning from wrongdoing.",
+    "example": "The term repentance appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Redemption",
+    "partOfSpeech": "noun",
+    "definition": "Deliverance from sin; being bought back or saved.",
+    "example": "The term redemption appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Prophet",
+    "partOfSpeech": "noun",
+    "definition": "One who speaks for the divine.",
+    "example": "The term prophet appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Apostle",
+    "partOfSpeech": "noun",
+    "definition": "A messenger; one of the twelve disciples.",
+    "example": "The term apostle appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Disciple",
+    "partOfSpeech": "noun",
+    "definition": "A devoted follower and learner.",
+    "example": "The term disciple appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Sermon",
+    "partOfSpeech": "noun",
+    "definition": "A religious discourse delivered to a congregation.",
+    "example": "The term sermon appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Temple",
+    "partOfSpeech": "noun",
+    "definition": "A building dedicated to worship.",
+    "example": "The term temple appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Tabernacle",
+    "partOfSpeech": "noun",
+    "definition": "A portable sanctuary in ancient Israel.",
+    "example": "The term tabernacle appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Ark",
+    "partOfSpeech": "noun",
+    "definition": "A sacred chest; Noah's vessel in Genesis.",
+    "example": "The term ark appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Gospel",
+    "partOfSpeech": "noun",
+    "definition": "Good news; the teachings of Christ.",
+    "example": "The term gospel appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Epistle",
+    "partOfSpeech": "noun",
+    "definition": "A letter, especially in the New Testament.",
+    "example": "The term epistle appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Revelation",
+    "partOfSpeech": "noun",
+    "definition": "Divine disclosure; the final book of the Bible.",
+    "example": "The term revelation appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Lamentation",
+    "partOfSpeech": "noun",
+    "definition": "Passionate expression of grief.",
+    "example": "The term lamentation appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Righteousness",
+    "partOfSpeech": "noun",
+    "definition": "Moral rightness; living by divine law.",
+    "example": "The term righteousness appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Blasphemy",
+    "partOfSpeech": "noun",
+    "definition": "Speech that shows irreverence toward the sacred.",
+    "example": "The term blasphemy appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "ADULT"
+  },
+  {
+    "word": "Heresy",
+    "partOfSpeech": "noun",
+    "definition": "Belief contrary to established doctrine.",
+    "example": "The term heresy appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "ADULT"
+  },
+  {
+    "word": "Sanctify",
+    "partOfSpeech": "verb",
+    "definition": "To make holy or set apart for sacred use.",
+    "example": "The term sanctify appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Anoint",
+    "partOfSpeech": "verb",
+    "definition": "To consecrate with oil in religious rite.",
+    "example": "The term anoint appears across many sacred and historical texts.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Vocabulary from public-domain scripture references (KJV 1611).",
+    "gradeLevel": "GRADE_8",
+    "categories": [
+      "SACRED",
+      "GENERAL"
+    ],
+    "source": "SACRED_TEXT",
+    "contentRating": "TEEN"
+  }
+]

@@ -12,6 +12,32 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+## [0.2.3] - 2026-06-17
+
+### Added
+
+- **Open lexicon pipeline:** WordNet (dictionary + synonyms), mythology, sacred reference, and literary/historical packs under **`assets/lexicon/`** (opt-in via Settings).
+- **`scripts/import_open_lexicon.py`** + **`scripts/corpus/import_packs_data.py`** — regenerates supplemental JSON from NLTK WordNet and curated PD banks.
+- **`ContentSource`**, **`ContentRating`**, **`LexiconPreferences`**; age gates in **`JsonWordDataSource`** / **`WordContentFilters`**.
+- Settings **Extended sources** toggles; source attribution on **`WordDetailContent`**.
+- **`DOCS/CONTENT_SOURCES.md`** — licensing and what cannot be bulk-imported.
+
+### Changed
+
+- App version **`0.2.3`** (versionCode **5**).
+
+## [0.2.2] - 2026-06-17
+
+### Added
+
+- **Mega corpus wave:** **11,667** word rows (**+9,449**); **60** words per **13** topic categories × **15** grades (gap **0**).
+- **8 new topic lexicons:** CARS, SPACE, MUSIC, HISTORY, MATH, HEALTH, WEATHER, EMOTIONS via **`scripts/corpus/extended_lexicons.py`**.
+- **`fill_word_gaps.py --target 60`** default; tier pools expanded to **72** lemmas.
+
+### Changed
+
+- App version **`0.2.2`** (versionCode **4**).
+
 ## [0.2.1] - 2026-06-17
 
 ### Added

@@ -6,7 +6,23 @@ At least 36 unique lemmas per (category × tier). Tiers:
 """
 from __future__ import annotations
 
-MVP_FILL_CATEGORIES = ("TECH", "SPORTS", "FOOD", "SCIENCE", "ANIMALS")
+from .extended_lexicons import BONUS_MVP_LEMMAS, EXTENDED_LEXICONS
+
+MVP_FILL_CATEGORIES = (
+    "TECH",
+    "SPORTS",
+    "FOOD",
+    "SCIENCE",
+    "ANIMALS",
+    "CARS",
+    "SPACE",
+    "MUSIC",
+    "HISTORY",
+    "MATH",
+    "HEALTH",
+    "WEATHER",
+    "EMOTIONS",
+)
 
 # (word, partOfSpeech) ordered easy → advanced within each category
 _CATEGORY_LEXICON: dict[str, list[tuple[str, str]]] = {
@@ -329,7 +345,7 @@ def _format_example(tier: int, word: str, pos: str, category: str) -> str:
     return f"Our textbook chapter explained {word} clearly."
 
 
-def _tier_slice(words: list[tuple[str, str]], tier: int, size: int = 38) -> list[tuple[str, str]]:
+def _tier_slice(words: list[tuple[str, str]], tier: int, size: int = 72) -> list[tuple[str, str]]:
     if len(words) <= size:
         return list(words)
     step = max(1, (len(words) - size) // 7)
@@ -362,10 +378,38 @@ def _build_entry(category: str, tier: int, word: str, pos: str) -> dict:
     return entry
 
 
+def _merge_lexicons() -> dict[str, list[tuple[str, str]]]:
+    merged: dict[str, list[tuple[str, str]]] = {}
+    for cat, words in _CATEGORY_LEXICON.items():
+        seen: set[str] = set()
+        out: list[tuple[str, str]] = []
+        for word, pos in words + BONUS_MVP_LEMMAS.get(cat, []):
+            key = word.casefold()
+            if key in seen:
+                continue
+            seen.add(key)
+            out.append((word, pos))
+        merged[cat] = out
+    for cat, words in EXTENDED_LEXICONS.items():
+        seen = {w.casefold() for w, _ in merged.get(cat, [])}
+        out = list(merged.get(cat, []))
+        for word, pos in words:
+            key = word.casefold()
+            if key in seen:
+                continue
+            seen.add(key)
+            out.append((word, pos))
+        merged[cat] = out
+    return merged
+
+
+_MERGED_LEXICON = _merge_lexicons()
+
+
 def _build_banks() -> dict[str, dict[int, list[dict]]]:
     banks: dict[str, dict[int, list[dict]]] = {}
     for category in MVP_FILL_CATEGORIES:
-        lexicon = _CATEGORY_LEXICON[category]
+        lexicon = _MERGED_LEXICON.get(category, _CATEGORY_LEXICON.get(category, []))
         banks[category] = {}
         for tier in range(8):
             slice_words = _tier_slice(lexicon, tier)

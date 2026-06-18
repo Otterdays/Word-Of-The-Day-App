@@ -18,4 +18,6 @@ data class WordEntry(
     val usageNote: String = "",
     val gradeLevel: GradeLevel = GradeLevel.ADULT,
     val categories: List<Category> = listOf(Category.GENERAL),
+    val source: ContentSource = ContentSource.CURATED,
+    val contentRating: ContentRating = ContentRating.ALL_AGES,
 )

@@ -6,6 +6,10 @@ import com.example.wordofday.data.model.Category
 // [TRACE: DOCS/ROADMAP.md] — §8b category color accents
 object CategoryAccent {
     fun container(category: Category): Color = when (category) {
+        Category.MYTHOLOGY -> Color(0xFFFFF3E0)
+        Category.LITERATURE -> Color(0xFFF3E5F5)
+        Category.PHILOSOPHY -> Color(0xFFE8EAF6)
+        Category.SACRED -> Color(0xFFFFFDE7)
         Category.GENERAL -> Color(0xFFE8EAF6)
         Category.TECH -> Color(0xFFE3F2FD)
         Category.SPORTS -> Color(0xFFE8F5E9)
@@ -23,6 +27,10 @@ object CategoryAccent {
     }
 
     fun onContainer(category: Category): Color = when (category) {
+        Category.MYTHOLOGY -> Color(0xFFE65100)
+        Category.LITERATURE -> Color(0xFF6A1B9A)
+        Category.PHILOSOPHY -> Color(0xFF283593)
+        Category.SACRED -> Color(0xFFF9A825)
         Category.GENERAL -> Color(0xFF283593)
         Category.TECH -> Color(0xFF1565C0)
         Category.SPORTS -> Color(0xFF2E7D32)

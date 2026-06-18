@@ -5,6 +5,7 @@ data class UserPreferences(
     val onboardingComplete: Boolean,
     val gradeLevel: GradeLevel,
     val selectedCategories: Set<Category>,
+    val lexicon: LexiconPreferences = LexiconPreferences(),
 ) {
     companion object {
         fun firstLaunchPlaceholder(): UserPreferences = UserPreferences(

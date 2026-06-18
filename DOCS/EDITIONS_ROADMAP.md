@@ -4,7 +4,9 @@
 
 Multi-edition master plan for **huge update waves**. This doc complements [ROADMAP.md](./ROADMAP.md) (engineering checklist) with **product editions**, release themes, success metrics, and dependency ordering.
 
-**Current app version:** `0.2.1` (versionCode **3**) — **Edition 2–3 bridge**: Substance shipped; **§8d MVP corpus complete** (2,218 rows).
+**Current app version:** `0.2.3` (versionCode **5**) — **Edition 2–3 bridge**: Mega corpus + **open lexicon** (WordNet, myth, sacred, literary opt-in packs).
+
+`[AMENDED 2026-06-17]:` Was `0.2.1` (versionCode **3**).
 
 **Related:** [CHANGELOG.md](./CHANGELOG.md) · [AppReleaseCatalog.kt](../app/src/main/java/com/example/wordofday/data/release/AppReleaseCatalog.kt) (in-app What's New) · [AGENTS.md](../AGENTS.md) (release sync rules).
 

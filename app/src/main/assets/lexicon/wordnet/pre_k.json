@@ -1,0 +1,3271 @@
+[
+  {
+    "word": "New",
+    "partOfSpeech": "adjective",
+    "definition": "Unfamiliar",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ara",
+    "partOfSpeech": "noun",
+    "definition": "Macaws",
+    "example": "",
+    "synonyms": [
+      "Genus ara"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Zea",
+    "partOfSpeech": "noun",
+    "definition": "Corn",
+    "example": "",
+    "synonyms": [
+      "Genus zea"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Gone",
+    "partOfSpeech": "adjective",
+    "definition": "Dead",
+    "example": "",
+    "synonyms": [
+      "Asleep",
+      "At peace",
+      "At rest",
+      "Deceased",
+      "Departed"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Tart",
+    "partOfSpeech": "adjective",
+    "definition": "Harsh",
+    "example": "",
+    "synonyms": [
+      "Sharp",
+      "Sharp-worded"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Flop",
+    "partOfSpeech": "adverb",
+    "definition": "Exactly",
+    "example": "",
+    "synonyms": [
+      "Right"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bang",
+    "partOfSpeech": "adverb",
+    "definition": "Directly",
+    "example": "",
+    "synonyms": [
+      "Bolt",
+      "Slap",
+      "Slapdash",
+      "Smack"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Slap",
+    "partOfSpeech": "adverb",
+    "definition": "Directly",
+    "example": "",
+    "synonyms": [
+      "Bang",
+      "Bolt",
+      "Slapdash",
+      "Smack"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pica",
+    "partOfSpeech": "noun",
+    "definition": "Magpies",
+    "example": "",
+    "synonyms": [
+      "Genus pica"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Naja",
+    "partOfSpeech": "noun",
+    "definition": "Cobras",
+    "example": "",
+    "synonyms": [
+      "Genus naja"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pavo",
+    "partOfSpeech": "noun",
+    "definition": "Peafowl",
+    "example": "",
+    "synonyms": [
+      "Genus pavo"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Jynx",
+    "partOfSpeech": "noun",
+    "definition": "Wrynecks",
+    "example": "",
+    "synonyms": [
+      "Genus jynx"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Crex",
+    "partOfSpeech": "noun",
+    "definition": "Corncrakes",
+    "example": "",
+    "synonyms": [
+      "Genus crex"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Uria",
+    "partOfSpeech": "noun",
+    "definition": "Murres",
+    "example": "",
+    "synonyms": [
+      "Genus uria"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ovis",
+    "partOfSpeech": "noun",
+    "definition": "Sheep",
+    "example": "",
+    "synonyms": [
+      "Genus ovis"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lama",
+    "partOfSpeech": "noun",
+    "definition": "Llamas",
+    "example": "",
+    "synonyms": [
+      "Genus lama"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lota",
+    "partOfSpeech": "noun",
+    "definition": "Burbot",
+    "example": "",
+    "synonyms": [
+      "Genus lota"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Duce",
+    "partOfSpeech": "noun",
+    "definition": "Leader",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Geum",
+    "partOfSpeech": "noun",
+    "definition": "Avens",
+    "example": "",
+    "synonyms": [
+      "Genus geum"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Defy",
+    "partOfSpeech": "verb",
+    "definition": "Challenge",
+    "example": "",
+    "synonyms": [
+      "Dare"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Doff",
+    "partOfSpeech": "verb",
+    "definition": "Remove",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bide",
+    "partOfSpeech": "verb",
+    "definition": "Dwell",
+    "example": "",
+    "synonyms": [
+      "Abide",
+      "Stay"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Uncut",
+    "partOfSpeech": "adjective",
+    "definition": "Complete",
+    "example": "",
+    "synonyms": [
+      "Full-length"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Utter",
+    "partOfSpeech": "adjective",
+    "definition": "Complete",
+    "example": "",
+    "synonyms": [
+      "Dead"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Sound",
+    "partOfSpeech": "adjective",
+    "definition": "Thorough",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "In",
+    "partOfSpeech": "adjective",
+    "definition": "Currently fashionable",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Algid",
+    "partOfSpeech": "adjective",
+    "definition": "Chilly",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Again",
+    "partOfSpeech": "adverb",
+    "definition": "Anew",
+    "example": "",
+    "synonyms": [
+      "Once again",
+      "Once more",
+      "Over again"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Smack",
+    "partOfSpeech": "adverb",
+    "definition": "Directly",
+    "example": "",
+    "synonyms": [
+      "Bang",
+      "Bolt",
+      "Slap",
+      "Slapdash"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Molto",
+    "partOfSpeech": "adverb",
+    "definition": "Much",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Tinca",
+    "partOfSpeech": "noun",
+    "definition": "Tench",
+    "example": "",
+    "synonyms": [
+      "Genus tinca"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Loxia",
+    "partOfSpeech": "noun",
+    "definition": "Crossbill",
+    "example": "",
+    "synonyms": [
+      "Genus loxia"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Vidua",
+    "partOfSpeech": "noun",
+    "definition": "Whydahs",
+    "example": "",
+    "synonyms": [
+      "Genus vidua"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lunda",
+    "partOfSpeech": "noun",
+    "definition": "Puffins",
+    "example": "",
+    "synonyms": [
+      "Genus lunda"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Capra",
+    "partOfSpeech": "noun",
+    "definition": "Goats",
+    "example": "",
+    "synonyms": [
+      "Genus capra"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Papio",
+    "partOfSpeech": "noun",
+    "definition": "Baboons",
+    "example": "",
+    "synonyms": [
+      "Genus papio"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Aotus",
+    "partOfSpeech": "noun",
+    "definition": "Douroucoulis",
+    "example": "",
+    "synonyms": [
+      "Genus aotus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Nasua",
+    "partOfSpeech": "noun",
+    "definition": "Coatis",
+    "example": "",
+    "synonyms": [
+      "Genus nasua"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Molva",
+    "partOfSpeech": "noun",
+    "definition": "Ling",
+    "example": "",
+    "synonyms": [
+      "Genus molva"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Alosa",
+    "partOfSpeech": "noun",
+    "definition": "Shad",
+    "example": "",
+    "synonyms": [
+      "Genus alosa"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Sarda",
+    "partOfSpeech": "noun",
+    "definition": "Bonitos",
+    "example": "",
+    "synonyms": [
+      "Genus sarda"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Larix",
+    "partOfSpeech": "noun",
+    "definition": "Larches",
+    "example": "",
+    "synonyms": [
+      "Genus larix"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Taxus",
+    "partOfSpeech": "noun",
+    "definition": "Yews",
+    "example": "",
+    "synonyms": [
+      "Genus taxus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Avena",
+    "partOfSpeech": "noun",
+    "definition": "Oats",
+    "example": "",
+    "synonyms": [
+      "Genus avena"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Oryza",
+    "partOfSpeech": "noun",
+    "definition": "Rice",
+    "example": "",
+    "synonyms": [
+      "Genus oryza"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Fagus",
+    "partOfSpeech": "noun",
+    "definition": "Beeches",
+    "example": "",
+    "synonyms": [
+      "Genus fagus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Alnus",
+    "partOfSpeech": "noun",
+    "definition": "Alders",
+    "example": "",
+    "synonyms": [
+      "Genus alnus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Rheum",
+    "partOfSpeech": "noun",
+    "definition": "Rhubarb",
+    "example": "",
+    "synonyms": [
+      "Genus rheum"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ajuga",
+    "partOfSpeech": "noun",
+    "definition": "Bugle",
+    "example": "",
+    "synonyms": [
+      "Genus ajuga"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Apium",
+    "partOfSpeech": "noun",
+    "definition": "Celery",
+    "example": "",
+    "synonyms": [
+      "Genus apium"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Carum",
+    "partOfSpeech": "noun",
+    "definition": "Caraway",
+    "example": "",
+    "synonyms": [
+      "Genus carum"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dg",
+    "partOfSpeech": "noun",
+    "definition": "1/10 gram",
+    "example": "",
+    "synonyms": [
+      "Decigram"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hg",
+    "partOfSpeech": "noun",
+    "definition": "100 grams",
+    "example": "",
+    "synonyms": [
+      "Hectogram"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Calve",
+    "partOfSpeech": "verb",
+    "definition": "Birth",
+    "example": "",
+    "synonyms": [
+      "Have young"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Put in",
+    "partOfSpeech": "verb",
+    "definition": "Introduce",
+    "example": "",
+    "synonyms": [
+      "Enclose",
+      "Inclose",
+      "Insert",
+      "Introduce",
+      "Stick in"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Leg it",
+    "partOfSpeech": "verb",
+    "definition": "Walk",
+    "example": "",
+    "synonyms": [
+      "Foot",
+      "Hoof",
+      "Hoof it"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Asleep",
+    "partOfSpeech": "adjective",
+    "definition": "Dead",
+    "example": "",
+    "synonyms": [
+      "At peace",
+      "At rest",
+      "Deceased",
+      "Departed",
+      "Gone"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "At rest",
+    "partOfSpeech": "adjective",
+    "definition": "Dead",
+    "example": "",
+    "synonyms": [
+      "Asleep",
+      "At peace",
+      "Deceased",
+      "Departed",
+      "Gone"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Wet",
+    "partOfSpeech": "adjective",
+    "definition": "Very drunk",
+    "example": "",
+    "synonyms": [
+      "Besotted",
+      "Blind drunk",
+      "Blotto",
+      "Cockeyed",
+      "Crocked",
+      "Fuddled"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Wee",
+    "partOfSpeech": "adjective",
+    "definition": "Very early",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Caller",
+    "partOfSpeech": "adjective",
+    "definition": "Fresh",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Sad",
+    "partOfSpeech": "adjective",
+    "definition": "Bad; unfortunate",
+    "example": "",
+    "synonyms": [
+      "Deplorable",
+      "Distressing",
+      "Lamentable",
+      "Pitiful",
+      "Sorry"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Slaked",
+    "partOfSpeech": "adjective",
+    "definition": "Allayed",
+    "example": "",
+    "synonyms": [
+      "Quenched",
+      "Satisfied"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Recent",
+    "partOfSpeech": "adjective",
+    "definition": "New",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Fab",
+    "partOfSpeech": "adjective",
+    "definition": "Extremely pleasing",
+    "example": "",
+    "synonyms": [
+      "Fabulous"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Roving",
+    "partOfSpeech": "adjective",
+    "definition": "Migratory",
+    "example": "",
+    "synonyms": [
+      "Mobile",
+      "Nomadic",
+      "Peregrine",
+      "Wandering"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bolshy",
+    "partOfSpeech": "adjective",
+    "definition": "Obstreperous",
+    "example": "",
+    "synonyms": [
+      "Stroppy"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Chaffy",
+    "partOfSpeech": "adjective",
+    "definition": "Value",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Strait",
+    "partOfSpeech": "adjective",
+    "definition": "Narrow",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hugely",
+    "partOfSpeech": "adverb",
+    "definition": "Extremely",
+    "example": "",
+    "synonyms": [
+      "Enormously",
+      "Staggeringly",
+      "Tremendously"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Across",
+    "partOfSpeech": "adverb",
+    "definition": "Transversely",
+    "example": "",
+    "synonyms": [
+      "Crossways",
+      "Crosswise"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Anthus",
+    "partOfSpeech": "noun",
+    "definition": "Pipits",
+    "example": "",
+    "synonyms": [
+      "Genus anthus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pipilo",
+    "partOfSpeech": "noun",
+    "definition": "Towhees",
+    "example": "",
+    "synonyms": [
+      "Genus pipilo"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Uma",
+    "partOfSpeech": "noun",
+    "definition": "Fringe-toed lizard",
+    "example": "",
+    "synonyms": [
+      "Genus uma"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Tom",
+    "partOfSpeech": "noun",
+    "definition": "Male turkey",
+    "example": "",
+    "synonyms": [
+      "Gobbler",
+      "Tom turkey",
+      "Turkey cock"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Mergus",
+    "partOfSpeech": "noun",
+    "definition": "Mergansers",
+    "example": "",
+    "synonyms": [
+      "Genus mergus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pen",
+    "partOfSpeech": "noun",
+    "definition": "Female swan",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Uca",
+    "partOfSpeech": "noun",
+    "definition": "Fiddler crabs",
+    "example": "",
+    "synonyms": [
+      "Genus uca"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Fulica",
+    "partOfSpeech": "noun",
+    "definition": "Coots",
+    "example": "",
+    "synonyms": [
+      "Genus fulica"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Limosa",
+    "partOfSpeech": "noun",
+    "definition": "Godwits",
+    "example": "",
+    "synonyms": [
+      "Genus limosa"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Vulpes",
+    "partOfSpeech": "noun",
+    "definition": "Foxes",
+    "example": "",
+    "synonyms": [
+      "Genus vulpes"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bombus",
+    "partOfSpeech": "noun",
+    "definition": "Bumblebees",
+    "example": "",
+    "synonyms": [
+      "Genus bombus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lemmus",
+    "partOfSpeech": "noun",
+    "definition": "Lemmings",
+    "example": "",
+    "synonyms": [
+      "Genus lemmus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hog",
+    "partOfSpeech": "noun",
+    "definition": "Domestic swine",
+    "example": "",
+    "synonyms": [
+      "Sus scrofa",
+      "Grunter",
+      "Pig",
+      "Squealer"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pig",
+    "partOfSpeech": "noun",
+    "definition": "Domestic swine",
+    "example": "",
+    "synonyms": [
+      "Sus scrofa",
+      "Grunter",
+      "Hog",
+      "Squealer"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ewe",
+    "partOfSpeech": "noun",
+    "definition": "Female sheep",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Teg",
+    "partOfSpeech": "noun",
+    "definition": "Two-year-old sheep",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Kid",
+    "partOfSpeech": "noun",
+    "definition": "Young goat",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Mazama",
+    "partOfSpeech": "noun",
+    "definition": "Brockets",
+    "example": "",
+    "synonyms": [
+      "Genus mazama"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Okapia",
+    "partOfSpeech": "noun",
+    "definition": "Okapis",
+    "example": "",
+    "synonyms": [
+      "Genus okapia"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Martes",
+    "partOfSpeech": "noun",
+    "definition": "Martens",
+    "example": "",
+    "synonyms": [
+      "Genus martes"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Wit",
+    "partOfSpeech": "noun",
+    "definition": "Mental ability",
+    "example": "",
+    "synonyms": [
+      "Brain",
+      "Brainpower",
+      "Learning ability",
+      "Mental capacity",
+      "Mentality"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cahoot",
+    "partOfSpeech": "noun",
+    "definition": "Collusion",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Yes",
+    "partOfSpeech": "noun",
+    "definition": "An affirmative",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Woe",
+    "partOfSpeech": "noun",
+    "definition": "Intense mournfulness",
+    "example": "",
+    "synonyms": [
+      "Woefulness"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Persea",
+    "partOfSpeech": "noun",
+    "definition": "Avocado",
+    "example": "",
+    "synonyms": [
+      "Genus persea"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Nuphar",
+    "partOfSpeech": "noun",
+    "definition": "Spatterdocks",
+    "example": "",
+    "synonyms": [
+      "Genus nuphar"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Actaea",
+    "partOfSpeech": "noun",
+    "definition": "Baneberry",
+    "example": "",
+    "synonyms": [
+      "Genus actaea"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bellis",
+    "partOfSpeech": "noun",
+    "definition": "Daisy",
+    "example": "",
+    "synonyms": [
+      "Genus bellis"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Nepeta",
+    "partOfSpeech": "noun",
+    "definition": "Catmint",
+    "example": "",
+    "synonyms": [
+      "Genus nepeta"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ocimum",
+    "partOfSpeech": "noun",
+    "definition": "Basil",
+    "example": "",
+    "synonyms": [
+      "Genus ocimum"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Atropa",
+    "partOfSpeech": "noun",
+    "definition": "Belladonna",
+    "example": "",
+    "synonyms": [
+      "Genus atropa"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Daucus",
+    "partOfSpeech": "noun",
+    "definition": "Carrot",
+    "example": "",
+    "synonyms": [
+      "Genus daucus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dkg",
+    "partOfSpeech": "noun",
+    "definition": "10 grams",
+    "example": "",
+    "synonyms": [
+      "Dag",
+      "Decagram",
+      "Dekagram"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Work up",
+    "partOfSpeech": "verb",
+    "definition": "Develop",
+    "example": "",
+    "synonyms": [
+      "Get up"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hook on",
+    "partOfSpeech": "verb",
+    "definition": "Adopt",
+    "example": "",
+    "synonyms": [
+      "Fasten on",
+      "Latch on",
+      "Seize on",
+      "Take up"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Devote",
+    "partOfSpeech": "verb",
+    "definition": "Dedicate",
+    "example": "",
+    "synonyms": [
+      "Give",
+      "Pay"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dandle",
+    "partOfSpeech": "verb",
+    "definition": "Pet",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Nab",
+    "partOfSpeech": "verb",
+    "definition": "Seize suddenly",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Retick",
+    "partOfSpeech": "verb",
+    "definition": "Sew",
+    "example": "",
+    "synonyms": [
+      "Tick"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Beat up",
+    "partOfSpeech": "verb",
+    "definition": "Gather",
+    "example": "",
+    "synonyms": [
+      "Drum up",
+      "Rally"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Drum up",
+    "partOfSpeech": "verb",
+    "definition": "Gather",
+    "example": "",
+    "synonyms": [
+      "Beat up",
+      "Rally"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bedeck",
+    "partOfSpeech": "verb",
+    "definition": "Decorate",
+    "example": "",
+    "synonyms": [
+      "Bedight",
+      "Deck"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hoof it",
+    "partOfSpeech": "verb",
+    "definition": "Walk",
+    "example": "",
+    "synonyms": [
+      "Foot",
+      "Hoof",
+      "Leg it"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cock up",
+    "partOfSpeech": "verb",
+    "definition": "Raise",
+    "example": "",
+    "synonyms": [
+      "Prick",
+      "Prick up"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hie",
+    "partOfSpeech": "verb",
+    "definition": "Move fast",
+    "example": "",
+    "synonyms": [
+      "Belt along",
+      "Bucket along",
+      "Cannonball along",
+      "Hasten",
+      "Hotfoot",
+      "Pelt along"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bestow",
+    "partOfSpeech": "verb",
+    "definition": "Present",
+    "example": "",
+    "synonyms": [
+      "Confer"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Rid",
+    "partOfSpeech": "verb",
+    "definition": "Relieve from",
+    "example": "",
+    "synonyms": [
+      "Disembarrass",
+      "Free"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Rife",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively abundant",
+    "example": "",
+    "synonyms": [
+      "Overabundant",
+      "Plethoric"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Rank",
+    "partOfSpeech": "adjective",
+    "definition": "Growing profusely",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Flat",
+    "partOfSpeech": "adjective",
+    "definition": "Commercially inactive",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unsweet",
+    "partOfSpeech": "adjective",
+    "definition": "Distasteful",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "At peace",
+    "partOfSpeech": "adjective",
+    "definition": "Dead",
+    "example": "",
+    "synonyms": [
+      "Asleep",
+      "At rest",
+      "Deceased",
+      "Departed",
+      "Gone"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unstuck",
+    "partOfSpeech": "adjective",
+    "definition": "Free",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "On guard",
+    "partOfSpeech": "adjective",
+    "definition": "Vigilant",
+    "example": "",
+    "synonyms": [
+      "On one's guard",
+      "On your guard",
+      "Upon one's guard"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dozy",
+    "partOfSpeech": "adjective",
+    "definition": "Half asleep",
+    "example": "",
+    "synonyms": [
+      "Drowsing",
+      "Drowsy"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Guarded",
+    "partOfSpeech": "adjective",
+    "definition": "Prudent",
+    "example": "",
+    "synonyms": [
+      "Restrained"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Blue",
+    "partOfSpeech": "adjective",
+    "definition": "Causing dejection",
+    "example": "",
+    "synonyms": [
+      "Dark",
+      "Dingy",
+      "Disconsolate",
+      "Dismal",
+      "Drab",
+      "Drear"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Drab",
+    "partOfSpeech": "adjective",
+    "definition": "Causing dejection",
+    "example": "",
+    "synonyms": [
+      "Blue",
+      "Dark",
+      "Dingy",
+      "Disconsolate",
+      "Dismal",
+      "Drear"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cozy",
+    "partOfSpeech": "adjective",
+    "definition": "Suggesting connivance",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Nude",
+    "partOfSpeech": "adjective",
+    "definition": "Completely unclothed",
+    "example": "",
+    "synonyms": [
+      "Au naturel",
+      "Bare",
+      "Naked"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Thin",
+    "partOfSpeech": "adjective",
+    "definition": "Not dense",
+    "example": "",
+    "synonyms": [
+      "Sparse"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pent",
+    "partOfSpeech": "adjective",
+    "definition": "Closely confined",
+    "example": "",
+    "synonyms": [
+      "Shut up"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Must",
+    "partOfSpeech": "adjective",
+    "definition": "Highly recommended",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Free",
+    "partOfSpeech": "adjective",
+    "definition": "Not literal",
+    "example": "",
+    "synonyms": [
+      "Liberal",
+      "Loose"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Agog",
+    "partOfSpeech": "adjective",
+    "definition": "Highly excited",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Missing",
+    "partOfSpeech": "adjective",
+    "definition": "Nonexistent",
+    "example": "",
+    "synonyms": [
+      "Absent",
+      "Lacking",
+      "Wanting"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Limp",
+    "partOfSpeech": "adjective",
+    "definition": "Not firm",
+    "example": "",
+    "synonyms": [
+      "Wilted"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Void",
+    "partOfSpeech": "adjective",
+    "definition": "Containing nothing",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Vile",
+    "partOfSpeech": "adjective",
+    "definition": "Morally reprehensible",
+    "example": "",
+    "synonyms": [
+      "Despicable",
+      "Slimy",
+      "Ugly",
+      "Unworthy",
+      "Worthless",
+      "Wretched"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Injured",
+    "partOfSpeech": "adjective",
+    "definition": "Harmed",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Tiny",
+    "partOfSpeech": "adjective",
+    "definition": "Very small",
+    "example": "",
+    "synonyms": [
+      "Bantam",
+      "Diminutive",
+      "Flyspeck",
+      "Lilliputian",
+      "Midget",
+      "Petite"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Snub",
+    "partOfSpeech": "adjective",
+    "definition": "Unusually short",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Capital",
+    "partOfSpeech": "adjective",
+    "definition": "Uppercase",
+    "example": "",
+    "synonyms": [
+      "Great",
+      "Majuscule"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ignored",
+    "partOfSpeech": "adjective",
+    "definition": "Disregarded",
+    "example": "",
+    "synonyms": [
+      "Neglected",
+      "Unheeded"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ajar",
+    "partOfSpeech": "adjective",
+    "definition": "Slightly open",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Shut",
+    "partOfSpeech": "adjective",
+    "definition": "Not open",
+    "example": "",
+    "synonyms": [
+      "Closed",
+      "Unopen"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Abiding",
+    "partOfSpeech": "adjective",
+    "definition": "Unceasing",
+    "example": "",
+    "synonyms": [
+      "Enduring",
+      "Imperishable"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Prim",
+    "partOfSpeech": "adjective",
+    "definition": "Exaggeratedly proper",
+    "example": "",
+    "synonyms": [
+      "Priggish",
+      "Prissy",
+      "Prudish",
+      "Puritanical",
+      "Square-toed",
+      "Straight-laced"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bust",
+    "partOfSpeech": "adjective",
+    "definition": "Lacking funds",
+    "example": "",
+    "synonyms": [
+      "Broke",
+      "Skint",
+      "Stone-broke",
+      "Stony-broke"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Iron",
+    "partOfSpeech": "adjective",
+    "definition": "Extremely robust",
+    "example": "",
+    "synonyms": [
+      "Cast-iron"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Nomadic",
+    "partOfSpeech": "adjective",
+    "definition": "Migratory",
+    "example": "",
+    "synonyms": [
+      "Mobile",
+      "Peregrine",
+      "Roving",
+      "Wandering"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Shod",
+    "partOfSpeech": "adjective",
+    "definition": "Wearing footgear",
+    "example": "",
+    "synonyms": [
+      "Shodden",
+      "Shoed"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "None",
+    "partOfSpeech": "adjective",
+    "definition": "Not any",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Stroppy",
+    "partOfSpeech": "adjective",
+    "definition": "Obstreperous",
+    "example": "",
+    "synonyms": [
+      "Bolshy"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Boss",
+    "partOfSpeech": "adjective",
+    "definition": "Exceptionally good",
+    "example": "",
+    "synonyms": [
+      "Brag"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Brag",
+    "partOfSpeech": "adjective",
+    "definition": "Exceptionally good",
+    "example": "",
+    "synonyms": [
+      "Boss"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Beat",
+    "partOfSpeech": "adjective",
+    "definition": "Very tired",
+    "example": "",
+    "synonyms": [
+      "All in",
+      "Bushed",
+      "Dead"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Damp",
+    "partOfSpeech": "adjective",
+    "definition": "Slightly wet",
+    "example": "",
+    "synonyms": [
+      "Dampish",
+      "Moist"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Boiling",
+    "partOfSpeech": "adverb",
+    "definition": "Extremely",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Also",
+    "partOfSpeech": "adverb",
+    "definition": "In addition",
+    "example": "",
+    "synonyms": [
+      "As well",
+      "Besides",
+      "Likewise",
+      "Too"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "No doubt",
+    "partOfSpeech": "adverb",
+    "definition": "Admittedly",
+    "example": "",
+    "synonyms": [
+      "To be sure",
+      "Without doubt"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "At a time",
+    "partOfSpeech": "adverb",
+    "definition": "Simultaneously",
+    "example": "",
+    "synonyms": [
+      "At once",
+      "At one time"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Abed",
+    "partOfSpeech": "adverb",
+    "definition": "In bed",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cruelly",
+    "partOfSpeech": "adverb",
+    "definition": "Excessively",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "On it",
+    "partOfSpeech": "adverb",
+    "definition": "On that",
+    "example": "",
+    "synonyms": [
+      "On that",
+      "Thereon"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "To it",
+    "partOfSpeech": "adverb",
+    "definition": "To that",
+    "example": "",
+    "synonyms": [
+      "Thereto",
+      "To that"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Zizz",
+    "partOfSpeech": "noun",
+    "definition": "A nap",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hand",
+    "partOfSpeech": "noun",
+    "definition": "Physical assistance",
+    "example": "",
+    "synonyms": [
+      "Helping hand"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Rutilus",
+    "partOfSpeech": "noun",
+    "definition": "Roaches",
+    "example": "",
+    "synonyms": [
+      "Genus rutilus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Gracula",
+    "partOfSpeech": "noun",
+    "definition": "Mynas",
+    "example": "",
+    "synonyms": [
+      "Genus gracula"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ophidia",
+    "partOfSpeech": "noun",
+    "definition": "Snakes",
+    "example": "",
+    "synonyms": [
+      "Serpentes",
+      "Suborder ophidia",
+      "Suborder serpentes"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Coluber",
+    "partOfSpeech": "noun",
+    "definition": "Racers",
+    "example": "",
+    "synonyms": [
+      "Genus coluber"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Araneae",
+    "partOfSpeech": "noun",
+    "definition": "Spiders",
+    "example": "",
+    "synonyms": [
+      "Araneida",
+      "Order araneae",
+      "Order araneida"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lagopus",
+    "partOfSpeech": "noun",
+    "definition": "Ptarmigans",
+    "example": "",
+    "synonyms": [
+      "Genus lagopus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ortalis",
+    "partOfSpeech": "noun",
+    "definition": "Chachalacas",
+    "example": "",
+    "synonyms": [
+      "Genus ortalis"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Apus",
+    "partOfSpeech": "noun",
+    "definition": "Type genus",
+    "example": "",
+    "synonyms": [
+      "Genus apus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Picidae",
+    "partOfSpeech": "noun",
+    "definition": "Woodpeckers",
+    "example": "",
+    "synonyms": [
+      "Family picidae"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Tadorna",
+    "partOfSpeech": "noun",
+    "definition": "Sheldrakes",
+    "example": "",
+    "synonyms": [
+      "Genus tadorna"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Blarina",
+    "partOfSpeech": "noun",
+    "definition": "Shrews",
+    "example": "",
+    "synonyms": [
+      "Genus blarina"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cestoda",
+    "partOfSpeech": "noun",
+    "definition": "Tapeworms",
+    "example": "",
+    "synonyms": [
+      "Class cestoda"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Myaceae",
+    "partOfSpeech": "noun",
+    "definition": "Clams",
+    "example": "",
+    "synonyms": [
+      "Order myaceae"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Isopoda",
+    "partOfSpeech": "noun",
+    "definition": "Woodlice",
+    "example": "",
+    "synonyms": [
+      "Order isopoda"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Gruidae",
+    "partOfSpeech": "noun",
+    "definition": "Cranes",
+    "example": "",
+    "synonyms": [
+      "Family gruidae"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Capella",
+    "partOfSpeech": "noun",
+    "definition": "Snipes",
+    "example": "",
+    "synonyms": [
+      "Gallinago",
+      "Genus capella",
+      "Genus gallinago"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Genetta",
+    "partOfSpeech": "noun",
+    "definition": "Genets",
+    "example": "",
+    "synonyms": [
+      "Genus genetta"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Apoidea",
+    "partOfSpeech": "noun",
+    "definition": "Bees",
+    "example": "",
+    "synonyms": [
+      "Superfamily apoidea"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Spyeria",
+    "partOfSpeech": "noun",
+    "definition": "Fritillaries",
+    "example": "",
+    "synonyms": [
+      "Genus spyeria"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ondatra",
+    "partOfSpeech": "noun",
+    "definition": "Muskrats",
+    "example": "",
+    "synonyms": [
+      "Genus ondatra"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Neotoma",
+    "partOfSpeech": "noun",
+    "definition": "Packrats",
+    "example": "",
+    "synonyms": [
+      "Genus neotoma"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Jaculus",
+    "partOfSpeech": "noun",
+    "definition": "Jerboas",
+    "example": "",
+    "synonyms": [
+      "Genus jaculus"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Eliomys",
+    "partOfSpeech": "noun",
+    "definition": "Lerots",
+    "example": "",
+    "synonyms": [
+      "Genus eliomys"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Marmota",
+    "partOfSpeech": "noun",
+    "definition": "Marmots",
+    "example": "",
+    "synonyms": [
+      "Genus marmota"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Jack",
+    "partOfSpeech": "noun",
+    "definition": "Male donkey",
+    "example": "",
+    "synonyms": [
+      "Jackass"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lamb",
+    "partOfSpeech": "noun",
+    "definition": "Young sheep",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dama",
+    "partOfSpeech": "noun",
+    "definition": "Fallow deer",
+    "example": "",
+    "synonyms": [
+      "Genus dama"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cacajao",
+    "partOfSpeech": "noun",
+    "definition": "Uakaris",
+    "example": "",
+    "synonyms": [
+      "Genus cacajao"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Sardina",
+    "partOfSpeech": "noun",
+    "definition": "Pilchards",
+    "example": "",
+    "synonyms": [
+      "Genus sardina",
+      "Genus sardinia"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pomoxis",
+    "partOfSpeech": "noun",
+    "definition": "Crappies",
+    "example": "",
+    "synonyms": [
+      "Genus pomoxis"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lepomis",
+    "partOfSpeech": "noun",
+    "definition": "Bream",
+    "example": "",
+    "synonyms": [
+      "Genus lepomis"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "PRE_K",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  }
+]

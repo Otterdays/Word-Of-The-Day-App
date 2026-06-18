@@ -1638,5 +1638,6935 @@
       "ANIMALS",
       "GENERAL"
     ]
+  },
+  {
+    "word": "firewall",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for firewall in the tech domain, in a simple way for little learners.",
+    "example": "We used the firewall in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bandwidth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bandwidth in the tech domain, in a simple way for little learners.",
+    "example": "We used the bandwidth in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "API",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for API in the tech domain, in a simple way for little learners.",
+    "example": "We used the API in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "framework",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for framework in the tech domain, in a simple way for little learners.",
+    "example": "We used the framework in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "deployment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for deployment in the tech domain, in a simple way for little learners.",
+    "example": "We used the deployment in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "latency",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for latency in the tech domain, in a simple way for little learners.",
+    "example": "We used the latency in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "microservice",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for microservice in the tech domain, in a simple way for little learners.",
+    "example": "We used the microservice in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blockchain",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A shared tamper-resistant ledger of linked records, in a simple way for little learners.",
+    "example": "We used the blockchain in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "authentication",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for authentication in the tech domain, in a simple way for little learners.",
+    "example": "We used the authentication in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scalability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Ability to handle growth without failing, in a simple way for little learners.",
+    "example": "We used the scalability in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "abstraction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Hiding complex details behind a simpler interface, in a simple way for little learners.",
+    "example": "We used the abstraction in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "recursion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for recursion in the tech domain, in a simple way for little learners.",
+    "example": "We used the recursion in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "concurrency",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for concurrency in the tech domain, in a simple way for little learners.",
+    "example": "We used the concurrency in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "serialization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for serialization in the tech domain, in a simple way for little learners.",
+    "example": "We used the serialization in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "REST",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for REST in the tech domain, in a simple way for little learners.",
+    "example": "We used the REST in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "GraphQL",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for GraphQL in the tech domain, in a simple way for little learners.",
+    "example": "We used the GraphQL in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "OAuth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for OAuth in the tech domain, in a simple way for little learners.",
+    "example": "We used the OAuth in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "TLS",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for TLS in the tech domain, in a simple way for little learners.",
+    "example": "We used the TLS in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sharding",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sharding in the tech domain, in a simple way for little learners.",
+    "example": "We used the sharding in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "observability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for observability in the tech domain, in a simple way for little learners.",
+    "example": "We used the observability in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heuristic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heuristic in the tech domain, in a simple way for little learners.",
+    "example": "We used the heuristic in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "deterministic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like deterministic.",
+    "example": "We used the deterministic in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "memoization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for memoization in the tech domain, in a simple way for little learners.",
+    "example": "We used the memoization in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "consensus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for consensus in the tech domain, in a simple way for little learners.",
+    "example": "We used the consensus in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "CRDT",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for CRDT in the tech domain, in a simple way for little learners.",
+    "example": "We used the CRDT in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "homomorphic encryption",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for homomorphic encryption in the tech domain, in a simple way for little learners.",
+    "example": "We used the homomorphic encryption in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chaos engineering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chaos engineering in the tech domain, in a simple way for little learners.",
+    "example": "We used the chaos engineering in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "SRE",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for SRE in the tech domain, in a simple way for little learners.",
+    "example": "We used the SRE in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Halting problem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Halting problem in the tech domain, in a simple way for little learners.",
+    "example": "We used the Halting problem in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lambda calculus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lambda calculus in the tech domain, in a simple way for little learners.",
+    "example": "We used the lambda calculus in class today.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stretch",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You stretch when you stretch as an action or process.",
+    "example": "We practice stretch at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sprint",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You sprint when you sprint as an action or process.",
+    "example": "We practice sprint at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "marathon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A long-distance running race, in a simple way for little learners.",
+    "example": "We practice marathon at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "relay",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for relay in the sports domain, in a simple way for little learners.",
+    "example": "We practice relay at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "foul",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for foul in the sports domain, in a simple way for little learners.",
+    "example": "We practice foul at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "referee",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for referee in the sports domain, in a simple way for little learners.",
+    "example": "We practice referee at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "timeout",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for timeout in the sports domain, in a simple way for little learners.",
+    "example": "We practice timeout at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "halftime",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for halftime in the sports domain, in a simple way for little learners.",
+    "example": "We practice halftime at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tournament",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A structured series of contests producing a winner, in a simple way for little learners.",
+    "example": "We practice tournament at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "champion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for champion in the sports domain, in a simple way for little learners.",
+    "example": "We practice champion at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "underdog",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for underdog in the sports domain, in a simple way for little learners.",
+    "example": "We practice underdog at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rivalry",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rivalry in the sports domain, in a simple way for little learners.",
+    "example": "We practice rivalry at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "endurance",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Ability to keep exerting effort over time, in a simple way for little learners.",
+    "example": "We practice endurance at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stamina",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for stamina in the sports domain, in a simple way for little learners.",
+    "example": "We practice stamina at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "strategy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for strategy in the sports domain, in a simple way for little learners.",
+    "example": "We practice strategy at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "offense",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for offense in the sports domain, in a simple way for little learners.",
+    "example": "We practice offense at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "defense",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for defense in the sports domain, in a simple way for little learners.",
+    "example": "We practice defense at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lineup",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lineup in the sports domain, in a simple way for little learners.",
+    "example": "We practice lineup at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "draft",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for draft in the sports domain, in a simple way for little learners.",
+    "example": "We practice draft at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "relegation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for relegation in the sports domain, in a simple way for little learners.",
+    "example": "We practice relegation at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "promotion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for promotion in the sports domain, in a simple way for little learners.",
+    "example": "We practice promotion at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "aggregate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for aggregate in the sports domain, in a simple way for little learners.",
+    "example": "We practice aggregate at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "penalty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for penalty in the sports domain, in a simple way for little learners.",
+    "example": "We practice penalty at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "overtime",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for overtime in the sports domain, in a simple way for little learners.",
+    "example": "We practice overtime at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "comeback",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for comeback in the sports domain, in a simple way for little learners.",
+    "example": "We practice comeback at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "upset",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for upset in the sports domain, in a simple way for little learners.",
+    "example": "We practice upset at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bracket",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bracket in the sports domain, in a simple way for little learners.",
+    "example": "We practice bracket at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "podium",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for podium in the sports domain, in a simple way for little learners.",
+    "example": "We practice podium at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "medal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for medal in the sports domain, in a simple way for little learners.",
+    "example": "We practice medal at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "record",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for record in the sports domain, in a simple way for little learners.",
+    "example": "We practice record at recess.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sushi",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sushi in the food domain, in a simple way for little learners.",
+    "example": "We tasted sushi at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "recipe",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for recipe in the food domain, in a simple way for little learners.",
+    "example": "We tasted recipe at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bake",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You bake when you bake as an action or process.",
+    "example": "Mom helped us bake before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "boil",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You boil when you boil as an action or process.",
+    "example": "Mom helped us boil before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "grill",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You grill when you grill as an action or process.",
+    "example": "Mom helped us grill before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "steam",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You steam when you steam as an action or process.",
+    "example": "Mom helped us steam before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chop",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You chop when you chop as an action or process.",
+    "example": "Mom helped us chop before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "slice",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You slice when you slice as an action or process.",
+    "example": "Mom helped us slice before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "peel",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You peel when you peel as an action or process.",
+    "example": "Mom helped us peel before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "season",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You season when you season as an action or process.",
+    "example": "Mom helped us season before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "marinate",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You marinate when you soak food in seasoned liquid before cooking.",
+    "example": "Mom helped us marinate before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "simmer",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You simmer when you simmer as an action or process.",
+    "example": "Mom helped us simmer before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "roast",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You roast when you roast as an action or process.",
+    "example": "Mom helped us roast before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "glaze",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You glaze when you glaze as an action or process.",
+    "example": "Mom helped us glaze before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "knead",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You knead when you knead as an action or process.",
+    "example": "Mom helped us knead before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ferment",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You ferment when you ferment as an action or process.",
+    "example": "Mom helped us ferment before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cuisine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cuisine in the food domain, in a simple way for little learners.",
+    "example": "We tasted cuisine at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "appetizer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for appetizer in the food domain, in a simple way for little learners.",
+    "example": "We tasted appetizer at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "entree",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for entree in the food domain, in a simple way for little learners.",
+    "example": "We tasted entree at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dessert",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dessert in the food domain, in a simple way for little learners.",
+    "example": "We tasted dessert at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "garnish",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for garnish in the food domain, in a simple way for little learners.",
+    "example": "We tasted garnish at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "broth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for broth in the food domain, in a simple way for little learners.",
+    "example": "We tasted broth at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stock",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for stock in the food domain, in a simple way for little learners.",
+    "example": "We tasted stock at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "roux",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for roux in the food domain, in a simple way for little learners.",
+    "example": "We tasted roux at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "confit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Food preserved by slow cooking in fat, in a simple way for little learners.",
+    "example": "We tasted confit at lunch.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "julienne",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You julienne when you julienne as an action or process.",
+    "example": "Mom helped us julienne before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blanch",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You blanch when you blanch as an action or process.",
+    "example": "Mom helped us blanch before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "caramelize",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You caramelize when you caramelize as an action or process.",
+    "example": "Mom helped us caramelize before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "emulsify",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You emulsify when you emulsify as an action or process.",
+    "example": "Mom helped us emulsify before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "deglaze",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You deglaze when you deglaze as an action or process.",
+    "example": "Mom helped us deglaze before dinner.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "molecule",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for molecule in the science domain, in a simple way for little learners.",
+    "example": "We saw molecule during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "element",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for element in the science domain, in a simple way for little learners.",
+    "example": "We saw element during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "compound",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for compound in the science domain, in a simple way for little learners.",
+    "example": "We saw compound during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "reaction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for reaction in the science domain, in a simple way for little learners.",
+    "example": "We saw reaction during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "energy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for energy in the science domain, in a simple way for little learners.",
+    "example": "We saw energy during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "force",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for force in the science domain, in a simple way for little learners.",
+    "example": "We saw force during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "motion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for motion in the science domain, in a simple way for little learners.",
+    "example": "We saw motion during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "friction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for friction in the science domain, in a simple way for little learners.",
+    "example": "We saw friction during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "density",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for density in the science domain, in a simple way for little learners.",
+    "example": "We saw density during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "volume",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for volume in the science domain, in a simple way for little learners.",
+    "example": "We saw volume during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mass",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mass in the science domain, in a simple way for little learners.",
+    "example": "We saw mass during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "weight",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for weight in the science domain, in a simple way for little learners.",
+    "example": "We saw weight during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "temperature",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for temperature in the science domain, in a simple way for little learners.",
+    "example": "We saw temperature during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pressure",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pressure in the science domain, in a simple way for little learners.",
+    "example": "We saw pressure during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "circuit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for circuit in the science domain, in a simple way for little learners.",
+    "example": "We saw circuit during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "current",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for current in the science domain, in a simple way for little learners.",
+    "example": "We saw current during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hypothesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A testable proposed explanation for observations, in a simple way for little learners.",
+    "example": "We saw hypothesis during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "experiment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for experiment in the science domain, in a simple way for little learners.",
+    "example": "We saw experiment during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "control",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for control in the science domain, in a simple way for little learners.",
+    "example": "We saw control during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "data",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for data in the science domain, in a simple way for little learners.",
+    "example": "We saw data during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "graph",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for graph in the science domain, in a simple way for little learners.",
+    "example": "We saw graph during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "microscope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for microscope in the science domain, in a simple way for little learners.",
+    "example": "We saw microscope during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "telescope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for telescope in the science domain, in a simple way for little learners.",
+    "example": "We saw telescope during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cell",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cell in the science domain, in a simple way for little learners.",
+    "example": "We saw cell during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tissue",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tissue in the science domain, in a simple way for little learners.",
+    "example": "We saw tissue during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "organ",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for organ in the science domain, in a simple way for little learners.",
+    "example": "We saw organ during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "DNA",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for DNA in the science domain, in a simple way for little learners.",
+    "example": "We saw DNA during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gene",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gene in the science domain, in a simple way for little learners.",
+    "example": "We saw gene during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "evolution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for evolution in the science domain, in a simple way for little learners.",
+    "example": "We saw evolution during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "adaptation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for adaptation in the science domain, in a simple way for little learners.",
+    "example": "We saw adaptation during our nature walk.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "owl",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for owl in the animals domain, in a simple way for little learners.",
+    "example": "The owl lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "eagle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for eagle in the animals domain, in a simple way for little learners.",
+    "example": "The eagle lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "parrot",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for parrot in the animals domain, in a simple way for little learners.",
+    "example": "The parrot lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "deer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for deer in the animals domain, in a simple way for little learners.",
+    "example": "The deer lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wolf",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wolf in the animals domain, in a simple way for little learners.",
+    "example": "The wolf lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fox",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fox in the animals domain, in a simple way for little learners.",
+    "example": "The fox lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "raccoon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for raccoon in the animals domain, in a simple way for little learners.",
+    "example": "The raccoon lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "squirrel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for squirrel in the animals domain, in a simple way for little learners.",
+    "example": "The squirrel lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hedgehog",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hedgehog in the animals domain, in a simple way for little learners.",
+    "example": "The hedgehog lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "kangaroo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for kangaroo in the animals domain, in a simple way for little learners.",
+    "example": "The kangaroo lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "koala",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for koala in the animals domain, in a simple way for little learners.",
+    "example": "The koala lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "panda",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for panda in the animals domain, in a simple way for little learners.",
+    "example": "The panda lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "camel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for camel in the animals domain, in a simple way for little learners.",
+    "example": "The camel lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hippo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hippo in the animals domain, in a simple way for little learners.",
+    "example": "The hippo lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rhino",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rhino in the animals domain, in a simple way for little learners.",
+    "example": "The rhino lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cheetah",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cheetah in the animals domain, in a simple way for little learners.",
+    "example": "The cheetah lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "leopard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for leopard in the animals domain, in a simple way for little learners.",
+    "example": "The leopard lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hyena",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hyena in the animals domain, in a simple way for little learners.",
+    "example": "The hyena lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "antelope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for antelope in the animals domain, in a simple way for little learners.",
+    "example": "The antelope lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bison",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bison in the animals domain, in a simple way for little learners.",
+    "example": "The bison lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "moose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for moose in the animals domain, in a simple way for little learners.",
+    "example": "The moose lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "elk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for elk in the animals domain, in a simple way for little learners.",
+    "example": "The elk lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "beaver",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for beaver in the animals domain, in a simple way for little learners.",
+    "example": "The beaver lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "otter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for otter in the animals domain, in a simple way for little learners.",
+    "example": "The otter lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seal in the animals domain, in a simple way for little learners.",
+    "example": "The seal lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "walrus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for walrus in the animals domain, in a simple way for little learners.",
+    "example": "The walrus lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "crab",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for crab in the animals domain, in a simple way for little learners.",
+    "example": "The crab lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lobster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lobster in the animals domain, in a simple way for little learners.",
+    "example": "The lobster lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "jellyfish",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for jellyfish in the animals domain, in a simple way for little learners.",
+    "example": "The jellyfish lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "coral",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for coral in the animals domain, in a simple way for little learners.",
+    "example": "The coral lives near our park.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "car",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for car in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about car.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "truck",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for truck in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about truck.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bus in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about bus.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "van",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for van in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about van.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "taxi",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for taxi in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about taxi.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wheel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wheel in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about wheel.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tire",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tire in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about tire.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "brake",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for brake in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about brake.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "engine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for engine in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about engine.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "motor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for motor in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about motor.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "horn",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for horn in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about horn.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seat in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about seat.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "belt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for belt in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about belt.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "door",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for door in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about door.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "window",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for window in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about window.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mirror",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mirror in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about mirror.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "signal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for signal in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about signal.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lane",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lane in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about lane.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "road",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for road in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about road.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "highway",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for highway in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about highway.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "street",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for street in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about street.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "parking",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for parking in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about parking.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "garage",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for garage in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about garage.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fuel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fuel in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about fuel.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gas",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gas in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about gas.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "electric",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like electric.",
+    "example": "Today we learned about electric.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hybrid",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like hybrid.",
+    "example": "Today we learned about hybrid.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "charge",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You charge when you charge as an action or process.",
+    "example": "Today we learned about charge.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "steering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for steering in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about steering.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "accelerator",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for accelerator in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about accelerator.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "clutch",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for clutch in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about clutch.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gear",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gear in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about gear.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "transmission",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for transmission in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about transmission.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "exhaust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for exhaust in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about exhaust.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bumper",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bumper in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about bumper.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hood",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hood in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about hood.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "trunk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for trunk in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about trunk.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "convertible",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for convertible in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about convertible.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sedan",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sedan in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about sedan.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "SUV",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for SUV in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about SUV.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pickup",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pickup in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about pickup.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "motorcycle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for motorcycle in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about motorcycle.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scooter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for scooter in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about scooter.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bicycle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bicycle in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about bicycle.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "speed",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for speed in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about speed.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "limit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for limit in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about limit.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cruise",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You cruise when you cruise as an action or process.",
+    "example": "Today we learned about cruise.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "merge",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You merge when you merge as an action or process.",
+    "example": "Today we learned about merge.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "yield",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You yield when you yield as an action or process.",
+    "example": "Today we learned about yield.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "overtake",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You overtake when you overtake as an action or process.",
+    "example": "Today we learned about overtake.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "honk",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You honk when you honk as an action or process.",
+    "example": "Today we learned about honk.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "idle",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You idle when you idle as an action or process.",
+    "example": "Today we learned about idle.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stall",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You stall when you stall as an action or process.",
+    "example": "Today we learned about stall.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tow",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You tow when you tow as an action or process.",
+    "example": "Today we learned about tow.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mechanic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mechanic in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about mechanic.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "inspection",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for inspection in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about inspection.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "license",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for license in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about license.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "registration",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for registration in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about registration.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "insurance",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for insurance in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about insurance.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "collision",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for collision in the cars domain, in a simple way for little learners.",
+    "example": "Today we learned about collision.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "planet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for planet in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about planet.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Earth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Earth in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about Earth.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Mars",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Mars in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about Mars.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sky",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sky in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about sky.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "night",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for night in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about night.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rocket",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rocket in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about rocket.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ship",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ship in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about ship.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "astronaut",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for astronaut in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about astronaut.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "space",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for space in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about space.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "comet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for comet in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about comet.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "meteor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for meteor in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about meteor.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "galaxy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for galaxy in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about galaxy.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "universe",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for universe in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about universe.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "NASA",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for NASA in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about NASA.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "launch",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You launch when you launch as an action or process.",
+    "example": "Today we learned about launch.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "land",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You land when you land as an action or process.",
+    "example": "Today we learned about land.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "float",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You float when you float as an action or process.",
+    "example": "Today we learned about float.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "weightless",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like weightless.",
+    "example": "Today we learned about weightless.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "station",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for station in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about station.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "satellite",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for satellite in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about satellite.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "probe",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for probe in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about probe.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rover",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rover in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about rover.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "crater",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for crater in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about crater.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dust in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about dust.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ring",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ring in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about ring.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "asteroid",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for asteroid in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about asteroid.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nebula",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nebula in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about nebula.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "constellation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for constellation in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about constellation.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "light-year",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for light year in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about light-year.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "solar",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like solar.",
+    "example": "Today we learned about solar.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lunar",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like lunar.",
+    "example": "Today we learned about lunar.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "eclipse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for eclipse in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about eclipse.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tide",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tide in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about tide.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for atmosphere in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about atmosphere.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "oxygen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for oxygen in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about oxygen.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "vacuum",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vacuum in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about vacuum.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "radiation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for radiation in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about radiation.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "suit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for suit in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about suit.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "capsule",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for capsule in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about capsule.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "booster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for booster in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about booster.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "thrust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for thrust in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about thrust.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mission",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mission in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about mission.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "crew",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for crew in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about crew.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "commander",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for commander in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about commander.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pilot",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pilot in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about pilot.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dock",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You dock when you dock as an action or process.",
+    "example": "Today we learned about dock.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "spacewalk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for spacewalk in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about spacewalk.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "module",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for module in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about module.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "terraform",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You terraform when you terraform as an action or process.",
+    "example": "Today we learned about terraform.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "exoplanet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for exoplanet in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about exoplanet.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "habitable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like habitable.",
+    "example": "Today we learned about habitable.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cosmos",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cosmos in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about cosmos.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cosmic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like cosmic.",
+    "example": "Today we learned about cosmic.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "interstellar",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like interstellar.",
+    "example": "Today we learned about interstellar.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wormhole",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wormhole in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about wormhole.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "black hole",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for black hole in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about black hole.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "event horizon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for event horizon in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about event horizon.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "singularity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for singularity in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about singularity.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dark matter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dark matter in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about dark matter.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dark energy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dark energy in the space domain, in a simple way for little learners.",
+    "example": "Today we learned about dark energy.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "song",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for song in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about song.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sing",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You sing when you sing as an action or process.",
+    "example": "Today we learned about sing.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dance",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You dance when you dance as an action or process.",
+    "example": "Today we learned about dance.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "beat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for beat in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about beat.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "drum",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for drum in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about drum.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "piano",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for piano in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about piano.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "guitar",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for guitar in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about guitar.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "violin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for violin in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about violin.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "flute",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flute in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about flute.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "trumpet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for trumpet in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about trumpet.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bell",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bell in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about bell.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "note",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for note in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about note.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tune",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tune in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about tune.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "melody",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for melody in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about melody.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rhythm",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rhythm in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about rhythm.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tempo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tempo in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about tempo.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "loud",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like loud.",
+    "example": "Today we learned about loud.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "soft",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like soft.",
+    "example": "Today we learned about soft.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fast",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like fast.",
+    "example": "Today we learned about fast.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "slow",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like slow.",
+    "example": "Today we learned about slow.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "choir",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for choir in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about choir.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "band",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for band in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about band.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "orchestra",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for orchestra in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about orchestra.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "conductor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for conductor in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about conductor.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "composer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for composer in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about composer.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lyric",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lyric in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about lyric.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "verse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for verse in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about verse.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chorus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chorus in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about chorus.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bridge",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bridge in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about bridge.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "harmony",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for harmony in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about harmony.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chord",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chord in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about chord.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scale",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for scale in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about scale.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "key",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for key in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about key.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pitch",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pitch in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about pitch.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tone in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about tone.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "accent",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for accent in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about accent.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "staff",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for staff in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about staff.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "clef",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for clef in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about clef.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "treble",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for treble in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about treble.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bass",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bass in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about bass.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "alto",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for alto in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about alto.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "soprano",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for soprano in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about soprano.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tenor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tenor in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about tenor.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "baritone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for baritone in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about baritone.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "opera",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for opera in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about opera.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ballet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ballet in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about ballet.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "jazz",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for jazz in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about jazz.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blues",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for blues in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about blues.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pop",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pop in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about pop.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "classical",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like classical.",
+    "example": "Today we learned about classical.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "folk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for folk in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about folk.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hip-hop",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hip hop in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about hip-hop.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rap",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rap in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about rap.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "electronic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like electronic.",
+    "example": "Today we learned about electronic.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "synth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for synth in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about synth.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sample",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sample in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about sample.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "remix",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for remix in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about remix.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "album",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for album in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about album.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "single",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for single in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about single.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "concert",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for concert in the music domain, in a simple way for little learners.",
+    "example": "Today we learned about concert.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "past",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for past in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about past.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "old",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like old.",
+    "example": "Today we learned about old.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "king",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for king in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about king.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "queen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for queen in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about queen.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "castle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for castle in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about castle.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "knight",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for knight in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about knight.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "flag",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flag in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about flag.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "map",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for map in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about map.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "war",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for war in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about war.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "peace",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for peace in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about peace.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "battle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for battle in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about battle.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "army",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for army in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about army.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "soldier",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for soldier in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about soldier.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hero",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hero in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about hero.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "village",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for village in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about village.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "city",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for city in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about city.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "empire",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for empire in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about empire.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "colony",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for colony in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about colony.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "revolution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for revolution in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about revolution.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "treaty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for treaty in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about treaty.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "democracy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for democracy in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about democracy.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "republic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for republic in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about republic.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "monarchy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for monarchy in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about monarchy.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dictator",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dictator in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about dictator.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "president",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for president in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about president.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "vote",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You vote when you vote as an action or process.",
+    "example": "Today we learned about vote.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "law",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for law in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about law.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rights",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rights in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about rights.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "freedom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for freedom in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about freedom.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "slavery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for slavery in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about slavery.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "civil war",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for civil war in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about civil war.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "independence",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for independence in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about independence.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "constitution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for constitution in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about constitution.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "amendment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for amendment in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about amendment.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "frontier",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for frontier in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about frontier.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "explorer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for explorer in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about explorer.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "voyage",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for voyage in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about voyage.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "discovery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for discovery in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about discovery.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "artifact",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for artifact in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about artifact.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ruin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ruin in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about ruin.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pyramid",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pyramid in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about pyramid.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "temple",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for temple in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about temple.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "monument",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for monument in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about monument.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "museum",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for museum in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about museum.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "archive",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for archive in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about archive.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "document",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for document in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about document.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "primary source",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for primary source in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about primary source.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "timeline",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for timeline in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about timeline.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "era",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for era in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about era.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "century",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for century in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about century.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "decade",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for decade in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about decade.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ancient",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like ancient.",
+    "example": "Today we learned about ancient.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "medieval",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like medieval.",
+    "example": "Today we learned about medieval.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "modern",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like modern.",
+    "example": "Today we learned about modern.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "industrial",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like industrial.",
+    "example": "Today we learned about industrial.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Renaissance",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Renaissance in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about Renaissance.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Reformation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Reformation in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about Reformation.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Enlightenment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Enlightenment in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about Enlightenment.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "colonization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for colonization in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about colonization.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "imperialism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for imperialism in the history domain, in a simple way for little learners.",
+    "example": "Today we learned about imperialism.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "one",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for one in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about one.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "two",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for two in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about two.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "count",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You count when you count as an action or process.",
+    "example": "Today we learned about count.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "add",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You add when you add as an action or process.",
+    "example": "Today we learned about add.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "plus",
+    "partOfSpeech": "preposition",
+    "pronunciation": "",
+    "definition": "A term for plus in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about plus.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "minus",
+    "partOfSpeech": "preposition",
+    "pronunciation": "",
+    "definition": "A term for minus in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about minus.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "equal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like equal.",
+    "example": "Today we learned about equal.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shape",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for shape in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about shape.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "circle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for circle in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about circle.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "square",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for square in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about square.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "triangle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for triangle in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about triangle.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "line",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for line in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about line.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dot",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dot in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about dot.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "big",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like big.",
+    "example": "Today we learned about big.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "small",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like small.",
+    "example": "Today we learned about small.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "more",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like more.",
+    "example": "Today we learned about more.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "less",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like less.",
+    "example": "Today we learned about less.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pair",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pair in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about pair.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dozen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dozen in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about dozen.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "half",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for half in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about half.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "double",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You double when you double as an action or process.",
+    "example": "Today we learned about double.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "triple",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You triple when you triple as an action or process.",
+    "example": "Today we learned about triple.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "subtract",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You subtract when you subtract as an action or process.",
+    "example": "Today we learned about subtract.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "multiply",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You multiply when you multiply as an action or process.",
+    "example": "Today we learned about multiply.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "divide",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You divide when you divide as an action or process.",
+    "example": "Today we learned about divide.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sum",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sum in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about sum.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "difference",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for difference in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about difference.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "product",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for product in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about product.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "quotient",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for quotient in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about quotient.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fraction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fraction in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about fraction.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "decimal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for decimal in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about decimal.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "percent",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for percent in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about percent.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ratio",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ratio in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about ratio.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "proportion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for proportion in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about proportion.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "average",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for average in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about average.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "median",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for median in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about median.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mode",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mode in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about mode.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "range",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for range in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about range.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chart",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chart in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about chart.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "axis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for axis in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about axis.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "coordinate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for coordinate in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about coordinate.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "angle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for angle in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about angle.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "degree",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for degree in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about degree.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "radius",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for radius in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about radius.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "diameter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for diameter in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about diameter.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "perimeter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for perimeter in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about perimeter.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "area",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for area in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about area.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "surface",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for surface in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about surface.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "parallel",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like parallel.",
+    "example": "Today we learned about parallel.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "perpendicular",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like perpendicular.",
+    "example": "Today we learned about perpendicular.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "symmetry",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for symmetry in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about symmetry.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "congruent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like congruent.",
+    "example": "Today we learned about congruent.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "similar",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like similar.",
+    "example": "Today we learned about similar.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "theorem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for theorem in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about theorem.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "proof",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for proof in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about proof.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "axiom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for axiom in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about axiom.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "postulate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for postulate in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about postulate.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "equation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for equation in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about equation.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "expression",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for expression in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about expression.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "exponent",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for exponent in the math domain, in a simple way for little learners.",
+    "example": "Today we learned about exponent.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "body",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for body in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about body.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "head",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for head in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about head.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hand",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hand in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about hand.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "foot",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for foot in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about foot.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "eye",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for eye in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about eye.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ear",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ear in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about ear.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nose in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about nose.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mouth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mouth in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about mouth.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tooth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tooth in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about tooth.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hair",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hair in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about hair.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "skin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for skin in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about skin.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bone in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about bone.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "muscle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for muscle in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about muscle.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heart",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heart in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about heart.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lung",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lung in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about lung.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blood",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for blood in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about blood.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sick",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like sick.",
+    "example": "Today we learned about sick.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "well",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like well.",
+    "example": "Today we learned about well.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hurt",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You hurt when you hurt as an action or process.",
+    "example": "Today we learned about hurt.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sleep",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You sleep when you sleep as an action or process.",
+    "example": "Today we learned about sleep.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wash",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You wash when you wash as an action or process.",
+    "example": "Today we learned about wash.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "brush",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You brush when you brush as an action or process.",
+    "example": "Today we learned about brush.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "doctor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for doctor in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about doctor.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nurse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nurse in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about nurse.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hospital",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hospital in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about hospital.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "clinic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for clinic in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about clinic.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "medicine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for medicine in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about medicine.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pill",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pill in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about pill.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bandage",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bandage in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about bandage.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fever",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fever in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about fever.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cough",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cough in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about cough.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sneeze",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You sneeze when you sneeze as an action or process.",
+    "example": "Today we learned about sneeze.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ache",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ache in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about ache.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pain",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pain in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about pain.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "allergy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for allergy in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about allergy.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "asthma",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for asthma in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about asthma.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "diabetes",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for diabetes in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about diabetes.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "virus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for virus in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about virus.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bacteria",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bacteria in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about bacteria.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "immune",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like immune.",
+    "example": "Today we learned about immune.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "vaccine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vaccine in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about vaccine.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "antibody",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for antibody in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about antibody.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "infection",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for infection in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about infection.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "symptom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for symptom in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about symptom.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "diagnosis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for diagnosis in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about diagnosis.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "treatment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for treatment in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about treatment.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "therapy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for therapy in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about therapy.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "surgery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for surgery in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about surgery.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "recovery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for recovery in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about recovery.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nutrition",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nutrition in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about nutrition.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "vitamin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vitamin in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about vitamin.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mineral",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mineral in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about mineral.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "protein",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for protein in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about protein.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "calorie",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for calorie in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about calorie.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hydration",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hydration in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about hydration.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "exercise",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for exercise in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about exercise.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "posture",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for posture in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about posture.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cardio",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cardio in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about cardio.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "strength",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for strength in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about strength.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "flexibility",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flexibility in the health domain, in a simple way for little learners.",
+    "example": "Today we learned about flexibility.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "snow",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for snow in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about snow.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hot",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like hot.",
+    "example": "Today we learned about hot.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cold",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like cold.",
+    "example": "Today we learned about cold.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "warm",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like warm.",
+    "example": "Today we learned about warm.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cool",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like cool.",
+    "example": "Today we learned about cool.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wet",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like wet.",
+    "example": "Today we learned about wet.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dry",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like dry.",
+    "example": "Today we learned about dry.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "storm",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for storm in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about storm.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "thunder",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for thunder in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about thunder.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lightning",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lightning in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about lightning.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fog",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fog in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about fog.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hail",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hail in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about hail.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sleet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sleet in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about sleet.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "drizzle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for drizzle in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about drizzle.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shower",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for shower in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about shower.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "breeze",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for breeze in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about breeze.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gust in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about gust.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "humid",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like humid.",
+    "example": "Today we learned about humid.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "muggy",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like muggy.",
+    "example": "Today we learned about muggy.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chilly",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like chilly.",
+    "example": "Today we learned about chilly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "forecast",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for forecast in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about forecast.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "spring",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for spring in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about spring.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "summer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for summer in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about summer.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "autumn",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for autumn in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about autumn.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "winter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for winter in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about winter.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "climate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for climate in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about climate.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "drought",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for drought in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about drought.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "flood",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flood in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about flood.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hurricane",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hurricane in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about hurricane.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tornado",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tornado in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about tornado.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cyclone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cyclone in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about cyclone.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "typhoon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for typhoon in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about typhoon.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blizzard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for blizzard in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about blizzard.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heatwave",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heatwave in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about heatwave.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "frost",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for frost in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about frost.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dew",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dew in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about dew.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mist",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mist in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about mist.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rainbow",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rainbow in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about rainbow.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "barometer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for barometer in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about barometer.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "thermometer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for thermometer in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about thermometer.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "anemometer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for anemometer in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about anemometer.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hygrometer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hygrometer in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about hygrometer.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "front",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for front in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about front.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "jet stream",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for jet stream in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about jet stream.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "El Niño",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for El Niño in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about El Niño.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "La Niña",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for La Niña in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about La Niña.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "monsoon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for monsoon in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about monsoon.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "precipitation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for precipitation in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about precipitation.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "evaporation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for evaporation in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about evaporation.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "condensation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for condensation in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about condensation.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "greenhouse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for greenhouse in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about greenhouse.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "warming",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for warming in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about warming.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ozone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ozone in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about ozone.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "UV",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for UV in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about UV.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "albedo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for albedo in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about albedo.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "meteorology",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for meteorology in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about meteorology.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "climatology",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for climatology in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about climatology.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "microclimate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for microclimate in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about microclimate.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "inversion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for inversion in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about inversion.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wind chill",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wind chill in the weather domain, in a simple way for little learners.",
+    "example": "Today we learned about wind chill.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "happy",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like happy.",
+    "example": "Today we learned about happy.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sad",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like sad.",
+    "example": "Today we learned about sad.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mad",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like mad.",
+    "example": "Today we learned about mad.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scared",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like scared.",
+    "example": "Today we learned about scared.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "calm",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like calm.",
+    "example": "Today we learned about calm.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "love",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for love in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about love.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "like",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You like when you like as an action or process.",
+    "example": "Today we learned about like.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hug",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You hug when you hug as an action or process.",
+    "example": "Today we learned about hug.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "smile",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You smile when you smile as an action or process.",
+    "example": "Today we learned about smile.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cry",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You cry when you cry as an action or process.",
+    "example": "Today we learned about cry.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "laugh",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You laugh when you laugh as an action or process.",
+    "example": "Today we learned about laugh.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "worry",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "You worry when you worry as an action or process.",
+    "example": "Today we learned about worry.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hope in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about hope.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "joy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for joy in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about joy.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fear",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fear in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about fear.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "anger",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for anger in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about anger.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "surprise",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for surprise in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about surprise.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shy",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like shy.",
+    "example": "Today we learned about shy.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "proud",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like proud.",
+    "example": "Today we learned about proud.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "brave",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like brave.",
+    "example": "Today we learned about brave.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "kind",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like kind.",
+    "example": "Today we learned about kind.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mean",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like mean.",
+    "example": "Today we learned about mean.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sorry",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like sorry.",
+    "example": "Today we learned about sorry.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "thankful",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like thankful.",
+    "example": "Today we learned about thankful.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lonely",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like lonely.",
+    "example": "Today we learned about lonely.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "excited",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like excited.",
+    "example": "Today we learned about excited.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bored",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like bored.",
+    "example": "Today we learned about bored.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tired",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like tired.",
+    "example": "Today we learned about tired.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nervous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like nervous.",
+    "example": "Today we learned about nervous.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "relaxed",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like relaxed.",
+    "example": "Today we learned about relaxed.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "frustrated",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like frustrated.",
+    "example": "Today we learned about frustrated.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "confused",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like confused.",
+    "example": "Today we learned about confused.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "curious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like curious.",
+    "example": "Today we learned about curious.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "jealous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like jealous.",
+    "example": "Today we learned about jealous.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "grateful",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like grateful.",
+    "example": "Today we learned about grateful.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "embarrassed",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like embarrassed.",
+    "example": "Today we learned about embarrassed.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "guilty",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like guilty.",
+    "example": "Today we learned about guilty.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ashamed",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like ashamed.",
+    "example": "Today we learned about ashamed.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hopeful",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like hopeful.",
+    "example": "Today we learned about hopeful.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hopeless",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like hopeless.",
+    "example": "Today we learned about hopeless.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "anxious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like anxious.",
+    "example": "Today we learned about anxious.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "content",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like content.",
+    "example": "Today we learned about content.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "serene",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "A word that tells you something is like serene.",
+    "example": "Today we learned about serene.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "melancholy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for melancholy in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about melancholy.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "euphoria",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for euphoria in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about euphoria.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "despair",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for despair in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about despair.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "resentment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for resentment in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about resentment.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "empathy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for empathy in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about empathy.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sympathy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sympathy in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about sympathy.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "compassion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for compassion in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about compassion.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "apathy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for apathy in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about apathy.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nostalgia",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nostalgia in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about nostalgia.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "awe",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for awe in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about awe.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "disgust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for disgust in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about disgust.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "contempt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for contempt in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about contempt.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pride",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pride in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about pride.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shame",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for shame in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about shame.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "guilt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for guilt in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about guilt.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "regret",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for regret in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about regret.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "remorse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for remorse in the emotions domain, in a simple way for little learners.",
+    "example": "Today we learned about remorse.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
   }
 ]

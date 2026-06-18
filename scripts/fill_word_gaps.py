@@ -1,20 +1,22 @@
 #!/usr/bin/env python3
-"""Fill §8d MVP category gaps in per-grade word JSON from curated lemma banks.
+"""Fill category gaps in per-grade word JSON from curated lemma banks.
 
 Run from repo root:
   python -X utf8 scripts/fill_word_gaps.py
+  python -X utf8 scripts/fill_word_gaps.py --target 60
 
 Reads app/src/main/assets/words/*.json, merges tier-appropriate rows from
-scripts/corpus/lemma_banks.py until each (grade stem × MVP category) reaches
-the inventory target (default 30). Skips duplicate lemmas within a grade file.
+scripts/corpus/lemma_banks.py until each (grade stem × category) reaches
+the target (default 60). Skips duplicate lemmas within a grade file.
 """
 from __future__ import annotations
 
+import argparse
 import json
+import os
 import sys
 from pathlib import Path
 
-# Allow `from corpus.lemma_banks import ...` when run as scripts/fill_word_gaps.py
 _SCRIPTS_DIR = Path(__file__).resolve().parent
 if str(_SCRIPTS_DIR) not in sys.path:
     sys.path.insert(0, str(_SCRIPTS_DIR))
@@ -57,8 +59,19 @@ STEM_TO_TIER: dict[str, int] = {
     "adult": 7,
 }
 
-TARGET_PER_CELL = 30
-TIER_SYNONYM_MIN = 4  # grade_7+ / tier 4+
+DEFAULT_TARGET = int(os.environ.get("WOTD_FILL_TARGET", "60"))
+TIER_SYNONYM_MIN = 4
+
+
+def parse_args() -> argparse.Namespace:
+    p = argparse.ArgumentParser(description="Fill word JSON gaps from lemma banks.")
+    p.add_argument(
+        "--target",
+        type=int,
+        default=DEFAULT_TARGET,
+        help=f"Words per (grade file × category); default {DEFAULT_TARGET}",
+    )
+    return p.parse_args()
 
 
 def load_json(path: Path) -> list[dict]:
@@ -108,7 +121,11 @@ def build_entry(template: dict, category: str, tier: int) -> dict:
     return entry
 
 
-def fill_stem(stem: str, rows: list[dict]) -> tuple[list[dict], int, list[str]]:
+def fill_stem(
+    stem: str,
+    rows: list[dict],
+    target: int,
+) -> tuple[list[dict], int, list[str]]:
     tier = STEM_TO_TIER[stem]
     lemmas = existing_lemmas(rows)
     counts = category_counts(rows)
@@ -116,7 +133,7 @@ def fill_stem(stem: str, rows: list[dict]) -> tuple[list[dict], int, list[str]]:
     errors: list[str] = []
 
     for category in MVP_FILL_CATEGORIES:
-        need = max(0, TARGET_PER_CELL - counts.get(category, 0))
+        need = max(0, target - counts.get(category, 0))
         if need == 0:
             continue
 
@@ -128,7 +145,7 @@ def fill_stem(stem: str, rows: list[dict]) -> tuple[list[dict], int, list[str]]:
         placed = 0
         idx = 0
         passes = 0
-        max_passes = len(pool) + 1
+        max_passes = len(pool) + 2
         while placed < need and passes < max_passes:
             template = pool[idx % len(pool)]
             idx += 1
@@ -152,16 +169,19 @@ def fill_stem(stem: str, rows: list[dict]) -> tuple[list[dict], int, list[str]]:
     return rows, added, errors
 
 
-def inventory_gap_sum(by_file: dict[str, list[dict]]) -> int:
+def inventory_gap_sum(by_file: dict[str, list[dict]], target: int) -> int:
     total = 0
     for stem in FILE_ORDER:
         counts = category_counts(by_file.get(stem, []))
         for cat in MVP_FILL_CATEGORIES:
-            total += max(0, TARGET_PER_CELL - counts.get(cat, 0))
+            total += max(0, target - counts.get(cat, 0))
     return total
 
 
 def main() -> int:
+    args = parse_args()
+    target = args.target
+
     root = Path(__file__).resolve().parents[1]
     assets = root / "app" / "src" / "main" / "assets" / "words"
     if not assets.is_dir():
@@ -172,10 +192,10 @@ def main() -> int:
     added_by_file: dict[str, int] = {}
     by_file: dict[str, list[dict]] = {}
 
-    print("# fill_word_gaps — §8d MVP category fill\n")
+    print("# fill_word_gaps — category volume fill\n")
     print(f"- Assets: `{assets.relative_to(root)}`")
-    print(f"- Target per (stem × category): {TARGET_PER_CELL}")
-    print(f"- Fill categories: {', '.join(MVP_FILL_CATEGORIES)}\n")
+    print(f"- Target per (stem × category): {target}")
+    print(f"- Categories ({len(MVP_FILL_CATEGORIES)}): {', '.join(MVP_FILL_CATEGORIES)}\n")
 
     for stem in FILE_ORDER:
         path = assets / f"{stem}.json"
@@ -184,7 +204,7 @@ def main() -> int:
             continue
         rows = load_json(path)
         before = len(rows)
-        rows, added, errs = fill_stem(stem, rows)
+        rows, added, errs = fill_stem(stem, rows, target)
         if added:
             write_json(path, rows)
         added_by_file[stem] = added
@@ -193,17 +213,19 @@ def main() -> int:
         print(f"- `{stem}.json`: +{added} rows (was {before}, now {len(rows)})")
 
     total_rows = sum(len(by_file.get(s, [])) for s in FILE_ORDER)
-    gap_sum = inventory_gap_sum(by_file)
+    gap_sum = inventory_gap_sum(by_file, target)
 
     print(f"\n## Totals\n")
     print(f"- Words added this run: {sum(added_by_file.values())}")
     print(f"- Final word rows (all grades): {total_rows}")
-    print(f"- Gap sum vs {TARGET_PER_CELL} per cell: {gap_sum}")
+    print(f"- Gap sum vs {target} per cell: {gap_sum}")
 
     if all_errors:
         print(f"\n## Errors / warnings ({len(all_errors)})\n")
-        for err in all_errors:
+        for err in all_errors[:40]:
             print(f"- {err}")
+        if len(all_errors) > 40:
+            print(f"- ... and {len(all_errors) - 40} more")
         return 1 if gap_sum > 0 else 0
 
     if gap_sum > 0:
@@ -211,7 +233,7 @@ def main() -> int:
         print(f"- Gap sum still {gap_sum}; expand lemma banks or resolve duplicates.")
         return 1
 
-    print("\n- All MVP category cells at or above target.")
+    print("\n- All category cells at or above target.")
     return 0
 
 

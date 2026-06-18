@@ -3,6 +3,7 @@ package com.example.wordofday.data.repository
 import android.content.Context
 import com.example.wordofday.data.model.Category
 import com.example.wordofday.data.model.GradeLevel
+import com.example.wordofday.data.model.LexiconPreferences
 import com.example.wordofday.data.model.UserPreferences
 import com.example.wordofday.data.model.WordEntry
 import com.example.wordofday.data.source.JsonWordDataSource
@@ -26,7 +27,7 @@ class WordRepository(context: Context) {
     ): WordEntry = withContext(Dispatchers.IO) {
         val primaryGrade = gradeLevelOverride ?: preferences.gradeLevel
         for (grade in gradeSearchOrder(primaryGrade)) {
-            val words = dataSource.loadWordsForGrade(grade)
+            val words = dataSource.loadWordsForGrade(grade, preferences.lexicon)
             val pool = words.filterForPreferencesInGrade(preferences)
             if (pool.isNotEmpty()) {
                 return@withContext pool[date.dayOfYear % pool.size]
@@ -76,19 +77,21 @@ class WordRepository(context: Context) {
     suspend fun findWord(grade: GradeLevel, lemma: String): WordEntry? =
         withContext(Dispatchers.IO) {
             val normalized = lemma.lowercase()
-            dataSource.loadWordsForGrade(grade).find { it.word.lowercase() == normalized }
+            val fullLexicon = preferencesLexiconAll()
+            dataSource.loadWordsForGrade(grade, fullLexicon)
+                .find { it.word.lowercase() == normalized }
         }
 
     /** All words at user's grade (± adjacent fallback) matching category prefs — for quiz pool. */
     suspend fun getQuizPool(preferences: UserPreferences, minSize: Int = 4): List<WordEntry> =
         withContext(Dispatchers.IO) {
             for (grade in gradeSearchOrder(preferences.gradeLevel)) {
-                val words = dataSource.loadWordsForGrade(grade)
+                val words = dataSource.loadWordsForGrade(grade, preferences.lexicon)
                 val pool = words.filterForPreferencesInGrade(preferences).distinctBy { it.word.lowercase() }
                 if (pool.size >= minSize) return@withContext pool
             }
             val all = gradeSearchOrder(preferences.gradeLevel)
-                .flatMap { dataSource.loadWordsForGrade(it) }
+                .flatMap { dataSource.loadWordsForGrade(it, preferences.lexicon) }
                 .distinctBy { it.word.lowercase() }
             all.filterForPreferencesInGrade(preferences).ifEmpty { all }
         }
@@ -100,21 +103,17 @@ class WordRepository(context: Context) {
 
     suspend fun countWordsMatching(preferences: UserPreferences): Int =
         withContext(Dispatchers.IO) {
-            val words = dataSource.loadWordsForGrade(preferences.gradeLevel)
+            val words = dataSource.loadWordsForGrade(preferences.gradeLevel, preferences.lexicon)
             words.filterForPreferencesInGrade(preferences).size
         }
 
-    private fun List<WordEntry>.filterForPreferencesInGrade(prefs: UserPreferences): List<WordEntry> {
-        val byCategory = filter { entry ->
-            entry.categories.any { cat -> cat in prefs.selectedCategories }
-        }
-        return when {
-            byCategory.isNotEmpty() -> byCategory
-            else -> this
-        }
-    }
-
     companion object {
+        private fun preferencesLexiconAll() = LexiconPreferences(
+            includeWordNet = true,
+            includeMythology = true,
+            includeSacredReference = true,
+            includeLiteraryHistorical = true,
+        )
         private val FALLBACK_WORD = WordEntry(
             word = "Serendipity",
             partOfSpeech = "noun",

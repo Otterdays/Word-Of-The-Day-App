@@ -13,6 +13,29 @@ object AppReleaseCatalog {
     /** Newest first. Add a row for every shipped user-facing release. */
     val releases: List<AppRelease> = listOf(
         AppRelease(
+            versionCode = 5,
+            versionName = "0.2.3",
+            editionName = "Open Lexicon",
+            highlights = listOf(
+                "Opt-in WordNet dictionary + thesaurus (10,000+ supplemental definitions)",
+                "Myth & lore, sacred reference, and literary/historical vocabulary packs",
+                "Settings toggles — extended sources off by default",
+                "Age-rated content gates teen and adult historical topics",
+                "Source attribution on every imported word card",
+            ),
+        ),
+        AppRelease(
+            versionCode = 4,
+            versionName = "0.2.2",
+            editionName = "Mega Corpus",
+            highlights = listOf(
+                "11,600+ vocabulary words — up from 2,200",
+                "60 words per topic in all 14 categories (Cars, Space, Music, History, and more)",
+                "Every grade from Pre-K through Adult fully stocked",
+                "Two months of unique daily words per grade and interest area",
+            ),
+        ),
+        AppRelease(
             versionCode = 3,
             versionName = "0.2.1",
             editionName = "Content Scale Wave 1",

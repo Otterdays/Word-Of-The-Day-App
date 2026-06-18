@@ -1,0 +1,3272 @@
+[
+  {
+    "word": "Handy",
+    "partOfSpeech": "adjective",
+    "definition": "Easy to reach",
+    "example": "",
+    "synonyms": [
+      "Ready to hand"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pathless",
+    "partOfSpeech": "adjective",
+    "definition": "Lacking pathways",
+    "example": "",
+    "synonyms": [
+      "Roadless",
+      "Trackless",
+      "Untracked",
+      "Untrod",
+      "Untrodden"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Roadless",
+    "partOfSpeech": "adjective",
+    "definition": "Lacking pathways",
+    "example": "",
+    "synonyms": [
+      "Pathless",
+      "Trackless",
+      "Untracked",
+      "Untrod",
+      "Untrodden"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "About",
+    "partOfSpeech": "adjective",
+    "definition": "On the move",
+    "example": "",
+    "synonyms": [
+      "Astir"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Astir",
+    "partOfSpeech": "adjective",
+    "definition": "On the move",
+    "example": "",
+    "synonyms": [
+      "About"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Athletic",
+    "partOfSpeech": "adjective",
+    "definition": "Vigorously active",
+    "example": "",
+    "synonyms": [
+      "Acrobatic",
+      "Gymnastic"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Inert",
+    "partOfSpeech": "adjective",
+    "definition": "Slow and apathetic",
+    "example": "",
+    "synonyms": [
+      "Sluggish",
+      "Soggy",
+      "Torpid"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Soggy",
+    "partOfSpeech": "adjective",
+    "definition": "Slow and apathetic",
+    "example": "",
+    "synonyms": [
+      "Inert",
+      "Sluggish",
+      "Torpid"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Going",
+    "partOfSpeech": "adjective",
+    "definition": "In full operation",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Alive",
+    "partOfSpeech": "adjective",
+    "definition": "Capable of erupting",
+    "example": "",
+    "synonyms": [
+      "Live"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Clean",
+    "partOfSpeech": "adjective",
+    "definition": "Free of drugs",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Extra",
+    "partOfSpeech": "adjective",
+    "definition": "Further or added",
+    "example": "",
+    "synonyms": [
+      "Additional"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Adherent",
+    "partOfSpeech": "adjective",
+    "definition": "Sticking fast",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Coherent",
+    "partOfSpeech": "adjective",
+    "definition": "Sticking together",
+    "example": "",
+    "synonyms": [
+      "Tenacious"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cohesive",
+    "partOfSpeech": "adjective",
+    "definition": "Causing cohesion",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Gooey",
+    "partOfSpeech": "adjective",
+    "definition": "Soft and sticky",
+    "example": "",
+    "synonyms": [
+      "Icky"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Shitless",
+    "partOfSpeech": "adjective",
+    "definition": "Extremely frightened",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Harsh",
+    "partOfSpeech": "adjective",
+    "definition": "Sharply disagreeable; rigorous",
+    "example": "",
+    "synonyms": [
+      "Abrasive"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Murdered",
+    "partOfSpeech": "adjective",
+    "definition": "Killed unlawfully",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Exiguous",
+    "partOfSpeech": "adjective",
+    "definition": "Extremely scanty",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Prior",
+    "partOfSpeech": "adjective",
+    "definition": "Earlier in time",
+    "example": "",
+    "synonyms": [
+      "Anterior"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Undue",
+    "partOfSpeech": "adjective",
+    "definition": "Not yet payable",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pillared",
+    "partOfSpeech": "adjective",
+    "definition": "Having pillars",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Equipped",
+    "partOfSpeech": "adjective",
+    "definition": "Carrying weapons",
+    "example": "",
+    "synonyms": [
+      "Weaponed"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Weaponed",
+    "partOfSpeech": "adjective",
+    "definition": "Carrying weapons",
+    "example": "",
+    "synonyms": [
+      "Equipped"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Intended",
+    "partOfSpeech": "adjective",
+    "definition": "Future; betrothed",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Involved",
+    "partOfSpeech": "adjective",
+    "definition": "Emotionally involved",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Stuck",
+    "partOfSpeech": "adjective",
+    "definition": "Caught or fixed",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "On your guard",
+    "partOfSpeech": "adjective",
+    "definition": "Vigilant",
+    "example": "",
+    "synonyms": [
+      "On guard",
+      "On one's guard",
+      "Upon one's guard"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Drowsing",
+    "partOfSpeech": "adjective",
+    "definition": "Half asleep",
+    "example": "",
+    "synonyms": [
+      "Dozy",
+      "Drowsy"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Scary",
+    "partOfSpeech": "adjective",
+    "definition": "Provoking fear terror",
+    "example": "",
+    "synonyms": [
+      "Chilling",
+      "Scarey",
+      "Shivery",
+      "Shuddery"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hairy",
+    "partOfSpeech": "adjective",
+    "definition": "Hazardous and frightening",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Assuring",
+    "partOfSpeech": "adjective",
+    "definition": "Giving confidence",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Guardant",
+    "partOfSpeech": "adjective",
+    "definition": "Looking forward",
+    "example": "",
+    "synonyms": [
+      "Full-face",
+      "Gardant"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Assuming",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively forward",
+    "example": "",
+    "synonyms": [
+      "Assumptive",
+      "Presumptuous"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Depilous",
+    "partOfSpeech": "adjective",
+    "definition": "Completely hairless",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Nonhairy",
+    "partOfSpeech": "adjective",
+    "definition": "Without hair",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Gorgeous",
+    "partOfSpeech": "adjective",
+    "definition": "Dazzlingly beautiful",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Fugly",
+    "partOfSpeech": "adjective",
+    "definition": "(slang) extremely ugly",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Biped",
+    "partOfSpeech": "adjective",
+    "definition": "Having two feet",
+    "example": "",
+    "synonyms": [
+      "Bipedal",
+      "Two-footed"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bound",
+    "partOfSpeech": "adjective",
+    "definition": "Confined by bonds",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Loosened",
+    "partOfSpeech": "adjective",
+    "definition": "Straightened out",
+    "example": "",
+    "synonyms": [
+      "Disentangled",
+      "Unsnarled"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Glooming",
+    "partOfSpeech": "adjective",
+    "definition": "Depressingly dark",
+    "example": "",
+    "synonyms": [
+      "Gloomful",
+      "Gloomy",
+      "Sulky"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Gloomful",
+    "partOfSpeech": "adjective",
+    "definition": "Depressingly dark",
+    "example": "",
+    "synonyms": [
+      "Glooming",
+      "Gloomy",
+      "Sulky"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Murky",
+    "partOfSpeech": "adjective",
+    "definition": "Dark or gloomy",
+    "example": "",
+    "synonyms": [
+      "Mirky"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Mirky",
+    "partOfSpeech": "adjective",
+    "definition": "Dark or gloomy",
+    "example": "",
+    "synonyms": [
+      "Murky"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Shady",
+    "partOfSpeech": "adjective",
+    "definition": "Filled with shade",
+    "example": "",
+    "synonyms": [
+      "Shadowed",
+      "Shadowy",
+      "Umbrageous"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Blinding",
+    "partOfSpeech": "adjective",
+    "definition": "Shining intensely",
+    "example": "",
+    "synonyms": [
+      "Blazing",
+      "Dazzling",
+      "Fulgent",
+      "Glaring",
+      "Glary"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dazzling",
+    "partOfSpeech": "adjective",
+    "definition": "Shining intensely",
+    "example": "",
+    "synonyms": [
+      "Blazing",
+      "Blinding",
+      "Fulgent",
+      "Glaring",
+      "Glary"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lustrous",
+    "partOfSpeech": "adjective",
+    "definition": "Reflecting light",
+    "example": "",
+    "synonyms": [
+      "Glistening",
+      "Glossy",
+      "Sheeny",
+      "Shining",
+      "Shiny"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Shimmery",
+    "partOfSpeech": "adjective",
+    "definition": "Glistening tremulously",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unburied",
+    "partOfSpeech": "adjective",
+    "definition": "Not buried",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Overbusy",
+    "partOfSpeech": "adjective",
+    "definition": "Too busy",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bonelike",
+    "partOfSpeech": "adjective",
+    "definition": "Resembling bone",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Uncarved",
+    "partOfSpeech": "adjective",
+    "definition": "Not carved",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unchaste",
+    "partOfSpeech": "adjective",
+    "definition": "Not chaste",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Buggy",
+    "partOfSpeech": "adjective",
+    "definition": "Infested with bugs",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lousy",
+    "partOfSpeech": "adjective",
+    "definition": "Infested with lice",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Foggy",
+    "partOfSpeech": "adjective",
+    "definition": "Obscured by fog",
+    "example": "",
+    "synonyms": [
+      "Fogged"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Balmy",
+    "partOfSpeech": "adjective",
+    "definition": "Mild and pleasant",
+    "example": "",
+    "synonyms": [
+      "Mild",
+      "Soft"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Seminude",
+    "partOfSpeech": "adjective",
+    "definition": "Partially clothed",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Heralded",
+    "partOfSpeech": "adjective",
+    "definition": "Publicly announced",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Frequent",
+    "partOfSpeech": "adjective",
+    "definition": "Frequently encountered",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Blank",
+    "partOfSpeech": "adjective",
+    "definition": "Void of expression",
+    "example": "",
+    "synonyms": [
+      "Vacuous"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Silty",
+    "partOfSpeech": "adjective",
+    "definition": "Full of silt",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unstrung",
+    "partOfSpeech": "adjective",
+    "definition": "Emotionally upset",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Brief",
+    "partOfSpeech": "adjective",
+    "definition": "Concise and succinct",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unrelenting",
+    "partOfSpeech": "adjective",
+    "definition": "Never-ceasing",
+    "example": "",
+    "synonyms": [
+      "Persistent",
+      "Relentless"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Revenant",
+    "partOfSpeech": "adjective",
+    "definition": "Coming back",
+    "example": "",
+    "synonyms": [
+      "Recurring"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Branched",
+    "partOfSpeech": "adjective",
+    "definition": "Having branches",
+    "example": "",
+    "synonyms": [
+      "Branching",
+      "Ramate",
+      "Ramose",
+      "Ramous"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Burnt",
+    "partOfSpeech": "adjective",
+    "definition": "Ruined by overcooking",
+    "example": "",
+    "synonyms": [
+      "Burned"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Uncooked",
+    "partOfSpeech": "adjective",
+    "definition": "Not cooked",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Aperient",
+    "partOfSpeech": "adjective",
+    "definition": "Mildly laxative",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Evacuant",
+    "partOfSpeech": "adjective",
+    "definition": "Strongly laxative",
+    "example": "",
+    "synonyms": [
+      "Cathartic",
+      "Purgative"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Impolite",
+    "partOfSpeech": "adjective",
+    "definition": "Not polite",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Fabulous",
+    "partOfSpeech": "adjective",
+    "definition": "Barely credible",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cubic",
+    "partOfSpeech": "adjective",
+    "definition": "Having three dimensions",
+    "example": "",
+    "synonyms": [
+      "Three-dimensional"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cut up",
+    "partOfSpeech": "adjective",
+    "definition": "Cut into pieces",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Afoot",
+    "partOfSpeech": "adjective",
+    "definition": "Currently in progress",
+    "example": "",
+    "synonyms": [
+      "Underway"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unbeaten",
+    "partOfSpeech": "adjective",
+    "definition": "Not conquered",
+    "example": "",
+    "synonyms": [
+      "Unconquered",
+      "Unvanquished"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Amort",
+    "partOfSpeech": "adjective",
+    "definition": "Utterly cast down",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Effusive",
+    "partOfSpeech": "adjective",
+    "definition": "Extravagantly demonstrative",
+    "example": "",
+    "synonyms": [
+      "Gushing",
+      "Gushy"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Referent",
+    "partOfSpeech": "adjective",
+    "definition": "Having reference",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unbiased",
+    "partOfSpeech": "adjective",
+    "definition": "Without bias",
+    "example": "",
+    "synonyms": [
+      "Unbiassed"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "In demand",
+    "partOfSpeech": "adjective",
+    "definition": "Greatly desired",
+    "example": "",
+    "synonyms": [
+      "Coveted",
+      "Desired",
+      "Sought after"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Enviable",
+    "partOfSpeech": "adjective",
+    "definition": "Causing envy",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unwanted",
+    "partOfSpeech": "adjective",
+    "definition": "Not wanted",
+    "example": "",
+    "synonyms": [
+      "Undesirable"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Wiped out",
+    "partOfSpeech": "adjective",
+    "definition": "Destroyed completely",
+    "example": "",
+    "synonyms": [
+      "Annihilated",
+      "Exterminated"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Kaput",
+    "partOfSpeech": "adjective",
+    "definition": "Destroyed or killed",
+    "example": "",
+    "synonyms": [
+      "Done for",
+      "Gone"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Tortuous",
+    "partOfSpeech": "adjective",
+    "definition": "Not straightforward",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Sweeping",
+    "partOfSpeech": "adjective",
+    "definition": "Ignoring distinctions",
+    "example": "",
+    "synonyms": [
+      "Wholesale"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cringing",
+    "partOfSpeech": "adjective",
+    "definition": "Totally submissive",
+    "example": "",
+    "synonyms": [
+      "Groveling",
+      "Grovelling",
+      "Wormlike",
+      "Wormy"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Wormlike",
+    "partOfSpeech": "adjective",
+    "definition": "Totally submissive",
+    "example": "",
+    "synonyms": [
+      "Cringing",
+      "Groveling",
+      "Grovelling",
+      "Wormy"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hammy",
+    "partOfSpeech": "adjective",
+    "definition": "Affectedly dramatic; overacted",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Beery",
+    "partOfSpeech": "adjective",
+    "definition": "Smelling of beer",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Besotted",
+    "partOfSpeech": "adjective",
+    "definition": "Very drunk",
+    "example": "",
+    "synonyms": [
+      "Blind drunk",
+      "Blotto",
+      "Cockeyed",
+      "Crocked",
+      "Fuddled",
+      "Loaded"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cockeyed",
+    "partOfSpeech": "adjective",
+    "definition": "Very drunk",
+    "example": "",
+    "synonyms": [
+      "Besotted",
+      "Blind drunk",
+      "Blotto",
+      "Crocked",
+      "Fuddled",
+      "Loaded"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Wearying",
+    "partOfSpeech": "adjective",
+    "definition": "Producing exhaustion",
+    "example": "",
+    "synonyms": [
+      "Exhausting",
+      "Tiring",
+      "Wearing"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Wimpy",
+    "partOfSpeech": "adjective",
+    "definition": "Weak and ineffectual",
+    "example": "",
+    "synonyms": [
+      "Wimpish"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lyric",
+    "partOfSpeech": "adjective",
+    "definition": "Expressing deep emotion",
+    "example": "",
+    "synonyms": [
+      "Lyrical"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Merry",
+    "partOfSpeech": "adjective",
+    "definition": "Quick and energetic",
+    "example": "",
+    "synonyms": [
+      "Alert",
+      "Brisk",
+      "Lively",
+      "Rattling",
+      "Snappy",
+      "Spanking"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Canty",
+    "partOfSpeech": "adjective",
+    "definition": "Lively and brisk",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bated",
+    "partOfSpeech": "adjective",
+    "definition": "Diminished or moderated",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Snide",
+    "partOfSpeech": "adjective",
+    "definition": "Expressive of contempt",
+    "example": "",
+    "synonyms": [
+      "Sneering",
+      "Supercilious"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Valid",
+    "partOfSpeech": "adjective",
+    "definition": "Still legally acceptable",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hardcore",
+    "partOfSpeech": "adjective",
+    "definition": "Extremely explicit",
+    "example": "",
+    "synonyms": [
+      "Hard-core"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Passe",
+    "partOfSpeech": "adjective",
+    "definition": "Out of fashion",
+    "example": "",
+    "synonyms": [
+      "Antique",
+      "Demode",
+      "Ex",
+      "Old-fashioned",
+      "Old-hat",
+      "Outmoded"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Fleet",
+    "partOfSpeech": "adjective",
+    "definition": "Moving very fast",
+    "example": "",
+    "synonyms": [
+      "Swift"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Swift",
+    "partOfSpeech": "adjective",
+    "definition": "Moving very fast",
+    "example": "",
+    "synonyms": [
+      "Fleet"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dilatory",
+    "partOfSpeech": "adjective",
+    "definition": "Wasting time",
+    "example": "",
+    "synonyms": [
+      "Laggard",
+      "Pokey",
+      "Poky"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lento",
+    "partOfSpeech": "adjective",
+    "definition": "(of tempo) slow",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dumpy",
+    "partOfSpeech": "adjective",
+    "definition": "Short and plump",
+    "example": "",
+    "synonyms": [
+      "Podgy",
+      "Pudgy",
+      "Roly-poly",
+      "Tubby"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Podgy",
+    "partOfSpeech": "adjective",
+    "definition": "Short and plump",
+    "example": "",
+    "synonyms": [
+      "Dumpy",
+      "Pudgy",
+      "Roly-poly",
+      "Tubby"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pudgy",
+    "partOfSpeech": "adjective",
+    "definition": "Short and plump",
+    "example": "",
+    "synonyms": [
+      "Dumpy",
+      "Podgy",
+      "Roly-poly",
+      "Tubby"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Tubby",
+    "partOfSpeech": "adjective",
+    "definition": "Short and plump",
+    "example": "",
+    "synonyms": [
+      "Dumpy",
+      "Podgy",
+      "Pudgy",
+      "Roly-poly"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Stout",
+    "partOfSpeech": "adjective",
+    "definition": "Euphemisms for `fat'",
+    "example": "",
+    "synonyms": [
+      "Portly"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Lanky",
+    "partOfSpeech": "adjective",
+    "definition": "Tall and thin",
+    "example": "",
+    "synonyms": [
+      "Gangling",
+      "Gangly"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Weedy",
+    "partOfSpeech": "adjective",
+    "definition": "Being very thin",
+    "example": "",
+    "synonyms": [
+      "Boney",
+      "Scraggy",
+      "Scrawny",
+      "Skinny",
+      "Underweight"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Flighted",
+    "partOfSpeech": "adjective",
+    "definition": "Having feathers",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "After",
+    "partOfSpeech": "adjective",
+    "definition": "Located farther aft",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Informal",
+    "partOfSpeech": "adjective",
+    "definition": "Not formal",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Stinking",
+    "partOfSpeech": "adjective",
+    "definition": "Offensively malodorous",
+    "example": "",
+    "synonyms": [
+      "Fetid",
+      "Foetid",
+      "Foul",
+      "Foul-smelling",
+      "Funky",
+      "Ill-scented"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Niffy",
+    "partOfSpeech": "adjective",
+    "definition": "(British informal) malodorous",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unthawed",
+    "partOfSpeech": "adjective",
+    "definition": "Still frozen",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unfrozen",
+    "partOfSpeech": "adjective",
+    "definition": "Not frozen",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Awash",
+    "partOfSpeech": "adjective",
+    "definition": "Covered with water",
+    "example": "",
+    "synonyms": [
+      "Afloat",
+      "Flooded",
+      "Inundated",
+      "Overflowing"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Overfull",
+    "partOfSpeech": "adjective",
+    "definition": "Exceeding demand",
+    "example": "",
+    "synonyms": [
+      "Glutted"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Untasted",
+    "partOfSpeech": "adjective",
+    "definition": "Still full",
+    "example": "",
+    "synonyms": [
+      "Untouched"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Amiss",
+    "partOfSpeech": "adjective",
+    "definition": "Not functioning properly",
+    "example": "",
+    "synonyms": [
+      "Awry",
+      "Haywire",
+      "Wrong"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unfed",
+    "partOfSpeech": "adjective",
+    "definition": "Not given support",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Pandemic",
+    "partOfSpeech": "adjective",
+    "definition": "Existing everywhere",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cracking",
+    "partOfSpeech": "adjective",
+    "definition": "Very good",
+    "example": "",
+    "synonyms": [
+      "Bang-up",
+      "Bully",
+      "Corking",
+      "Dandy",
+      "Great",
+      "Groovy"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Smashing",
+    "partOfSpeech": "adjective",
+    "definition": "Very good",
+    "example": "",
+    "synonyms": [
+      "Bang-up",
+      "Bully",
+      "Corking",
+      "Cracking",
+      "Dandy",
+      "Great"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unworthy",
+    "partOfSpeech": "adjective",
+    "definition": "Morally reprehensible",
+    "example": "",
+    "synonyms": [
+      "Despicable",
+      "Slimy",
+      "Ugly",
+      "Vile",
+      "Worthless",
+      "Wretched"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Cross",
+    "partOfSpeech": "adjective",
+    "definition": "Annoyed and irritable",
+    "example": "",
+    "synonyms": [
+      "Bad-tempered",
+      "Crabbed",
+      "Crabby",
+      "Fussy",
+      "Grouchy",
+      "Grumpy"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Steepish",
+    "partOfSpeech": "adjective",
+    "definition": "Somewhat steep",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Stony",
+    "partOfSpeech": "adjective",
+    "definition": "Hard as granite",
+    "example": "",
+    "synonyms": [
+      "Granitelike",
+      "Granitic",
+      "Rocklike"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Semihard",
+    "partOfSpeech": "adjective",
+    "definition": "Somewhat hard",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Semisoft",
+    "partOfSpeech": "adjective",
+    "definition": "Somewhat soft",
+    "example": "",
+    "synonyms": [
+      "Softish"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Prone",
+    "partOfSpeech": "adjective",
+    "definition": "Lying face downward",
+    "example": "",
+    "synonyms": [
+      "Prostrate"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Inimical",
+    "partOfSpeech": "adjective",
+    "definition": "Not friendly",
+    "example": "",
+    "synonyms": [
+      "Unfriendly"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Famished",
+    "partOfSpeech": "adjective",
+    "definition": "Extremely hungry",
+    "example": "",
+    "synonyms": [
+      "Esurient",
+      "Ravenous",
+      "Sharp-set",
+      "Starved"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Chief",
+    "partOfSpeech": "adjective",
+    "definition": "Most important element",
+    "example": "",
+    "synonyms": [
+      "Main",
+      "Master",
+      "Primary",
+      "Principal"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Noble",
+    "partOfSpeech": "adjective",
+    "definition": "Impressive in appearance",
+    "example": "",
+    "synonyms": [
+      "Baronial",
+      "Imposing",
+      "Stately"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Influent",
+    "partOfSpeech": "adjective",
+    "definition": "Flowing inward",
+    "example": "",
+    "synonyms": [
+      "Inflowing"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Telltale",
+    "partOfSpeech": "adjective",
+    "definition": "Disclosing unintentionally",
+    "example": "",
+    "synonyms": [
+      "Revealing",
+      "Telling"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Populous",
+    "partOfSpeech": "adjective",
+    "definition": "Densely populated",
+    "example": "",
+    "synonyms": [
+      "Thickly settled"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unharmed",
+    "partOfSpeech": "adjective",
+    "definition": "Not injured",
+    "example": "",
+    "synonyms": [
+      "Unhurt",
+      "Unscathed",
+      "Whole"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bellying",
+    "partOfSpeech": "adjective",
+    "definition": "Curving outward",
+    "example": "",
+    "synonyms": [
+      "Bellied",
+      "Bulbous",
+      "Bulging",
+      "Bulgy",
+      "Protuberant"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dolorous",
+    "partOfSpeech": "adjective",
+    "definition": "Showing sorrow",
+    "example": "",
+    "synonyms": [
+      "Dolourous",
+      "Lachrymose",
+      "Tearful",
+      "Weeping"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Juicy",
+    "partOfSpeech": "adjective",
+    "definition": "Full of juice",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Sappy",
+    "partOfSpeech": "adjective",
+    "definition": "Abounding in sap",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Rightful",
+    "partOfSpeech": "adjective",
+    "definition": "Legally valid",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Deserved",
+    "partOfSpeech": "adjective",
+    "definition": "Properly deserved",
+    "example": "",
+    "synonyms": [
+      "Merited"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Known",
+    "partOfSpeech": "adjective",
+    "definition": "Apprehended with certainty",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Galactic",
+    "partOfSpeech": "adjective",
+    "definition": "Inconceivably large",
+    "example": "",
+    "synonyms": [
+      "Astronomic",
+      "Astronomical"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Too large",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively large",
+    "example": "",
+    "synonyms": [
+      "Overlarge"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Flyspeck",
+    "partOfSpeech": "adjective",
+    "definition": "Very small",
+    "example": "",
+    "synonyms": [
+      "Bantam",
+      "Diminutive",
+      "Lilliputian",
+      "Midget",
+      "Petite",
+      "Tiny"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Dwarfish",
+    "partOfSpeech": "adjective",
+    "definition": "Atypically small",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Elfin",
+    "partOfSpeech": "adjective",
+    "definition": "Small and delicate",
+    "example": "",
+    "synonyms": [
+      "Elflike"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Smallish",
+    "partOfSpeech": "adjective",
+    "definition": "Rather small",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Draughty",
+    "partOfSpeech": "adjective",
+    "definition": "Not airtight",
+    "example": "",
+    "synonyms": [
+      "Drafty"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Readable",
+    "partOfSpeech": "adjective",
+    "definition": "Easily deciphered",
+    "example": "",
+    "synonyms": [
+      "Clear",
+      "Decipherable"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Probable",
+    "partOfSpeech": "adjective",
+    "definition": "Apparently destined",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Liveried",
+    "partOfSpeech": "adjective",
+    "definition": "Wearing livery",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Shortish",
+    "partOfSpeech": "adjective",
+    "definition": "Somewhat short",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Hated",
+    "partOfSpeech": "adjective",
+    "definition": "Treated with contempt",
+    "example": "",
+    "synonyms": [
+      "Despised",
+      "Detested",
+      "Scorned"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Overfond",
+    "partOfSpeech": "adjective",
+    "definition": "Excessively fond",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Indocile",
+    "partOfSpeech": "adjective",
+    "definition": "Of persons",
+    "example": "",
+    "synonyms": [
+      "Uncontrollable",
+      "Ungovernable",
+      "Unruly"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Matching",
+    "partOfSpeech": "adjective",
+    "definition": "Intentionally matched",
+    "example": "",
+    "synonyms": [
+      "Co-ordinated",
+      "Coordinated"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Meatless",
+    "partOfSpeech": "adjective",
+    "definition": "Lacking meat",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Canorous",
+    "partOfSpeech": "adjective",
+    "definition": "Richly melodious",
+    "example": "",
+    "synonyms": [
+      "Songful"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unmelted",
+    "partOfSpeech": "adjective",
+    "definition": "Not melted",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Moderate",
+    "partOfSpeech": "adjective",
+    "definition": "Not extreme",
+    "example": "",
+    "synonyms": [
+      "Temperate"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Blinking",
+    "partOfSpeech": "adjective",
+    "definition": "Informal intensifiers",
+    "example": "",
+    "synonyms": [
+      "Bally",
+      "Bloody",
+      "Blooming",
+      "Crashing",
+      "Flaming",
+      "Fucking"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Blooming",
+    "partOfSpeech": "adjective",
+    "definition": "Informal intensifiers",
+    "example": "",
+    "synonyms": [
+      "Bally",
+      "Blinking",
+      "Bloody",
+      "Crashing",
+      "Flaming",
+      "Fucking"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Crashing",
+    "partOfSpeech": "adjective",
+    "definition": "Informal intensifiers",
+    "example": "",
+    "synonyms": [
+      "Bally",
+      "Blinking",
+      "Bloody",
+      "Blooming",
+      "Flaming",
+      "Fucking"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Poignant",
+    "partOfSpeech": "adjective",
+    "definition": "Arousing affect",
+    "example": "",
+    "synonyms": [
+      "Affecting",
+      "Touching"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Touching",
+    "partOfSpeech": "adjective",
+    "definition": "Arousing affect",
+    "example": "",
+    "synonyms": [
+      "Affecting",
+      "Poignant"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unneeded",
+    "partOfSpeech": "adjective",
+    "definition": "Not necessary",
+    "example": "",
+    "synonyms": [
+      "Unnecessary"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Vesicant",
+    "partOfSpeech": "adjective",
+    "definition": "Causing blisters",
+    "example": "",
+    "synonyms": [
+      "Vesicatory"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unsavory",
+    "partOfSpeech": "adjective",
+    "definition": "Morally offensive",
+    "example": "",
+    "synonyms": [
+      "Offensive",
+      "Unsavoury"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Newfound",
+    "partOfSpeech": "adjective",
+    "definition": "Newly discovered",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Youngish",
+    "partOfSpeech": "adjective",
+    "definition": "Somewhat young",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "On",
+    "partOfSpeech": "adjective",
+    "definition": "In operation or operational",
+    "example": "",
+    "synonyms": [],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Ivied",
+    "partOfSpeech": "adjective",
+    "definition": "Overgrown with ivy",
+    "example": "",
+    "synonyms": [
+      "Ivy-covered"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Costless",
+    "partOfSpeech": "adjective",
+    "definition": "Costing nothing",
+    "example": "",
+    "synonyms": [
+      "Complimentary",
+      "Free",
+      "Gratis",
+      "Gratuitous"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Mastered",
+    "partOfSpeech": "adjective",
+    "definition": "Understood perfectly",
+    "example": "",
+    "synonyms": [
+      "Down",
+      "Down pat"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Clogging",
+    "partOfSpeech": "adjective",
+    "definition": "Preventing movement",
+    "example": "",
+    "synonyms": [
+      "Hindering",
+      "Impeding",
+      "Obstructive"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Impeding",
+    "partOfSpeech": "adjective",
+    "definition": "Preventing movement",
+    "example": "",
+    "synonyms": [
+      "Clogging",
+      "Hindering",
+      "Obstructive"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Meshugge",
+    "partOfSpeech": "adjective",
+    "definition": "Senseless; crazy",
+    "example": "",
+    "synonyms": [
+      "Meshuga",
+      "Meshugga",
+      "Meshuggeneh",
+      "Meshuggener"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Meshugga",
+    "partOfSpeech": "adjective",
+    "definition": "Senseless; crazy",
+    "example": "",
+    "synonyms": [
+      "Meshuga",
+      "Meshugge",
+      "Meshuggeneh",
+      "Meshuggener"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Priggish",
+    "partOfSpeech": "adjective",
+    "definition": "Exaggeratedly proper",
+    "example": "",
+    "synonyms": [
+      "Prim",
+      "Prissy",
+      "Prudish",
+      "Puritanical",
+      "Square-toed",
+      "Straight-laced"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Retro",
+    "partOfSpeech": "adjective",
+    "definition": "Affecting things past",
+    "example": "",
+    "synonyms": [
+      "Ex post facto",
+      "Retroactive"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Boastful",
+    "partOfSpeech": "adjective",
+    "definition": "Exhibiting self-importance",
+    "example": "",
+    "synonyms": [
+      "Big",
+      "Braggart",
+      "Bragging",
+      "Braggy",
+      "Cock-a-hoop",
+      "Crowing"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Braggart",
+    "partOfSpeech": "adjective",
+    "definition": "Exhibiting self-importance",
+    "example": "",
+    "synonyms": [
+      "Big",
+      "Boastful",
+      "Bragging",
+      "Braggy",
+      "Cock-a-hoop",
+      "Crowing"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Bragging",
+    "partOfSpeech": "adjective",
+    "definition": "Exhibiting self-importance",
+    "example": "",
+    "synonyms": [
+      "Big",
+      "Boastful",
+      "Braggart",
+      "Braggy",
+      "Cock-a-hoop",
+      "Crowing"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unproved",
+    "partOfSpeech": "adjective",
+    "definition": "Not proved",
+    "example": "",
+    "synonyms": [
+      "Unproven"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Unproven",
+    "partOfSpeech": "adjective",
+    "definition": "Not proved",
+    "example": "",
+    "synonyms": [
+      "Unproved"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  },
+  {
+    "word": "Punitive",
+    "partOfSpeech": "adjective",
+    "definition": "Inflicting punishment",
+    "example": "",
+    "synonyms": [
+      "Punitory"
+    ],
+    "usageNote": "Imported from Princeton WordNet (opt-in).",
+    "gradeLevel": "KINDERGARTEN",
+    "categories": [
+      "GENERAL"
+    ],
+    "source": "WORDNET",
+    "contentRating": "ALL_AGES"
+  }
+]

@@ -1629,5 +1629,6935 @@
       "ANIMALS",
       "GENERAL"
     ]
+  },
+  {
+    "word": "consensus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for consensus in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained consensus clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "CRDT",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for CRDT in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained CRDT clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "homomorphic encryption",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for homomorphic encryption in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained homomorphic encryption clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chaos engineering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chaos engineering in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained chaos engineering clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "SRE",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for SRE in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained SRE clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Halting problem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Halting problem in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained Halting problem clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lambda calculus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lambda calculus in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained lambda calculus clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Fourier transform",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Fourier transform in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained Fourier transform clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "speculative execution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for speculative execution in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained speculative execution clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "linearizability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for linearizability in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained linearizability clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "event sourcing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for event sourcing in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained event sourcing clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "zero-knowledge proof",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for zero knowledge proof in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained zero-knowledge proof clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "post-quantum cryptography",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for post quantum cryptography in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained post-quantum cryptography clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "WebAssembly",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for WebAssembly in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained WebAssembly clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "computational irreducibility",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for computational irreducibility in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained computational irreducibility clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "alignment problem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for alignment problem in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained alignment problem clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Goodhart's law",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Goodhart's law in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained Goodhart's law clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Moore's law",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Observation that chip density historically doubled on a cadence, common in school readings.",
+    "example": "Our textbook chapter explained Moore's law clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "surveillance capitalism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Profit model based on predicting and shaping behavior, common in school readings.",
+    "example": "Our textbook chapter explained surveillance capitalism clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "digital sovereignty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for digital sovereignty in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained digital sovereignty clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "platform engineering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for platform engineering in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained platform engineering clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "privacy by design",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for privacy by design in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained privacy by design clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "technological singularity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for technological singularity in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained technological singularity clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "path dependence",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for path dependence in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained path dependence clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "vendor lock-in",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vendor lock in in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained vendor lock-in clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "interoperability",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for interoperability in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained interoperability clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "edge computing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for edge computing in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained edge computing clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "machine learning",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for machine learning in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained machine learning clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "neural network",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for neural network in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained neural network clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "technical debt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for technical debt in the tech domain, common in school readings.",
+    "example": "Our textbook chapter explained technical debt clearly.",
+    "categories": [
+      "TECH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pass",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To pass as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained pass clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shoot",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To shoot as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained shoot clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "relegation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for relegation in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained relegation clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "promotion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for promotion in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained promotion clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "aggregate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for aggregate in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained aggregate clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "penalty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for penalty in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained penalty clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "comeback",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for comeback in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained comeback clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "upset",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for upset in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained upset clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seed",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seed in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained seed clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bracket",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bracket in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained bracket clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "podium",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for podium in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained podium clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "medal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for medal in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained medal clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "record",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for record in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained record clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "doping",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for doping in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained doping clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "biomechanics",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Science of forces and motion in athletic movement, common in school readings.",
+    "example": "Our textbook chapter explained biomechanics clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "periodization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for periodization in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained periodization clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "VO2 max",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for VO2 max in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained VO2 max clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lactate threshold",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lactate threshold in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained lactate threshold clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "proprioception",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for proprioception in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained proprioception clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "plyometrics",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for plyometrics in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained plyometrics clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "salary cap",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for salary cap in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained salary cap clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "free agency",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for free agency in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained free agency clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "match fixing",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for match fixing in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained match fixing clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sportsmanship",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Fair and respectful conduct in competition, common in school readings.",
+    "example": "Our textbook chapter explained sportsmanship clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hooliganism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hooliganism in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained hooliganism clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "paralympic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to paralympic, common in school readings.",
+    "example": "Our textbook chapter explained paralympic clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "decathlon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for decathlon in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained decathlon clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "triathlon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for triathlon in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained triathlon clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "regatta",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for regatta in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained regatta clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "slalom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for slalom in the sports domain, common in school readings.",
+    "example": "Our textbook chapter explained slalom clearly.",
+    "categories": [
+      "SPORTS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "honey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for honey in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained honey clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "butter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for butter in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained butter clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "roux",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for roux in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained roux clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "confit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Food preserved by slow cooking in fat, common in school readings.",
+    "example": "Our textbook chapter explained confit clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "julienne",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To julienne as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained julienne clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blanch",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To blanch as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained blanch clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "caramelize",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To caramelize as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained caramelize clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "emulsify",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To emulsify as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained emulsify clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "deglaze",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To deglaze as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained deglaze clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "brine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for brine in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained brine clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pickle",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To pickle as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained pickle clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "allergy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for allergy in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained allergy clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nutrition",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nutrition in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained nutrition clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "calorie",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for calorie in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained calorie clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "protein",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for protein in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained protein clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "carbohydrate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for carbohydrate in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained carbohydrate clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "vitamin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vitamin in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained vitamin clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fiber",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fiber in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained fiber clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "organic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to organic, common in school readings.",
+    "example": "Our textbook chapter explained organic clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "preservative",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for preservative in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained preservative clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "additive",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for additive in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained additive clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sustainable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to sustainable, common in school readings.",
+    "example": "Our textbook chapter explained sustainable clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "farm-to-table",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to farm to table, common in school readings.",
+    "example": "Our textbook chapter explained farm-to-table clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "umami",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A savory fifth basic taste, common in school readings.",
+    "example": "Our textbook chapter explained umami clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "astringent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to astringent, common in school readings.",
+    "example": "Our textbook chapter explained astringent clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "palate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for palate in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained palate clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mouthfeel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mouthfeel in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained mouthfeel clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "terroir",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for terroir in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained terroir clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mise en place",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mise en place in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained mise en place clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "haute cuisine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for haute cuisine in the food domain, common in school readings.",
+    "example": "Our textbook chapter explained haute cuisine clearly.",
+    "categories": [
+      "FOOD",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "experiment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for experiment in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained experiment clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "control",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for control in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained control clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "data",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for data in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained data clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "graph",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for graph in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained graph clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "microscope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for microscope in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained microscope clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "telescope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for telescope in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained telescope clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cell",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cell in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained cell clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tissue",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tissue in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained tissue clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "organ",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for organ in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained organ clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "DNA",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for DNA in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained DNA clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gene",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gene in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained gene clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "evolution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for evolution in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained evolution clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "adaptation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for adaptation in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained adaptation clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mutation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mutation in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained mutation clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "photosynthesis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "Process plants use to convert light into chemical energy, common in school readings.",
+    "example": "Our textbook chapter explained photosynthesis clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "respiration",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for respiration in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained respiration clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "digestion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for digestion in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained digestion clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "immune",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to immune, common in school readings.",
+    "example": "Our textbook chapter explained immune clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "vaccine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vaccine in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained vaccine clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bacteria",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bacteria in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained bacteria clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "virus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for virus in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained virus clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fungus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fungus in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained fungus clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "parasite",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for parasite in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained parasite clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "biodiversity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for biodiversity in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained biodiversity clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "climate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for climate in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained climate clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "greenhouse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for greenhouse in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained greenhouse clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "carbon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for carbon in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained carbon clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "oxygen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for oxygen in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained oxygen clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nitrogen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nitrogen in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained nitrogen clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "periodic table",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for periodic table in the science domain, common in school readings.",
+    "example": "Our textbook chapter explained periodic table clearly.",
+    "categories": [
+      "SCIENCE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "zebra",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for zebra in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained zebra clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "monkey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for monkey in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained monkey clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "moose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for moose in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained moose clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "elk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for elk in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained elk clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "beaver",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for beaver in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained beaver clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "otter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for otter in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained otter clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seal in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained seal clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "walrus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for walrus in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained walrus clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "crab",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for crab in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained crab clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lobster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lobster in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained lobster clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "jellyfish",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for jellyfish in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained jellyfish clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "coral",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for coral in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained coral clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "butterfly",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for butterfly in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained butterfly clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "moth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for moth in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained moth clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dragonfly",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dragonfly in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained dragonfly clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "spider",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for spider in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained spider clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scorpion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for scorpion in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained scorpion clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lizard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lizard in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained lizard clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gecko",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gecko in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained gecko clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chameleon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chameleon in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained chameleon clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "iguana",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for iguana in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained iguana clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "salamander",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for salamander in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained salamander clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "newt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for newt in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained newt clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "toad",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for toad in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained toad clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heron",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heron in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained heron clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "flamingo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flamingo in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained flamingo clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pelican",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pelican in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained pelican clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "swan",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for swan in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained swan clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "goose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for goose in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained goose clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "turkey",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for turkey in the animals domain, common in school readings.",
+    "example": "Our textbook chapter explained turkey clearly.",
+    "categories": [
+      "ANIMALS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tire",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tire in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained tire clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "brake",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for brake in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained brake clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "engine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for engine in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained engine clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "motor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for motor in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained motor clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "horn",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for horn in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained horn clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seat in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained seat clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "belt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for belt in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained belt clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "door",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for door in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained door clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "window",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for window in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained window clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mirror",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mirror in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained mirror clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "light",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for light in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained light clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "signal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for signal in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained signal clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lane",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lane in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained lane clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "road",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for road in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained road clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "highway",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for highway in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained highway clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "street",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for street in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained street clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "parking",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for parking in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained parking clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "garage",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for garage in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained garage clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fuel",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fuel in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained fuel clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gas",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gas in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained gas clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "electric",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to electric, common in school readings.",
+    "example": "Our textbook chapter explained electric clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hybrid",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to hybrid, common in school readings.",
+    "example": "Our textbook chapter explained hybrid clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "battery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for battery in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained battery clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "charge",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To charge as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained charge clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "steering",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for steering in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained steering clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "accelerator",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for accelerator in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained accelerator clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "clutch",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for clutch in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained clutch clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gear",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gear in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained gear clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "transmission",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for transmission in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained transmission clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "exhaust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for exhaust in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained exhaust clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bumper",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bumper in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained bumper clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hood",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hood in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained hood clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "trunk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for trunk in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained trunk clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "convertible",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for convertible in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained convertible clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sedan",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sedan in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained sedan clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "SUV",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for SUV in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained SUV clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pickup",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pickup in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained pickup clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "motorcycle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for motorcycle in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained motorcycle clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scooter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for scooter in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained scooter clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bicycle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bicycle in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained bicycle clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "speed",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for speed in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained speed clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "limit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for limit in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained limit clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cruise",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To cruise as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained cruise clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "merge",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To merge as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained merge clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "yield",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To yield as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained yield clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "overtake",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To overtake as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained overtake clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "honk",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To honk as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained honk clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "idle",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To idle as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained idle clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stall",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To stall as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained stall clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tow",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To tow as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained tow clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mechanic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mechanic in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained mechanic clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "inspection",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for inspection in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained inspection clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "license",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for license in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained license clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "registration",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for registration in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained registration clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "insurance",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for insurance in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained insurance clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "collision",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for collision in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained collision clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "airbag",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for airbag in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained airbag clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "seatbelt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for seatbelt in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained seatbelt clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dashboard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dashboard in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained dashboard clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "odometer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for odometer in the cars domain, common in school readings.",
+    "example": "Our textbook chapter explained odometer clearly.",
+    "categories": [
+      "CARS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Earth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Earth in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained Earth clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Mars",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Mars in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained Mars clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sky",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sky in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained sky clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "night",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for night in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained night clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rocket",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rocket in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained rocket clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ship",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ship in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained ship clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "astronaut",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for astronaut in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained astronaut clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "space",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for space in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained space clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "comet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for comet in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained comet clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "meteor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for meteor in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained meteor clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "galaxy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for galaxy in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained galaxy clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "universe",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for universe in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained universe clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "NASA",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for NASA in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained NASA clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "launch",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To launch as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained launch clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "land",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To land as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained land clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "float",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To float as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained float clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "weightless",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to weightless, common in school readings.",
+    "example": "Our textbook chapter explained weightless clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "station",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for station in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained station clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "satellite",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for satellite in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained satellite clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "probe",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for probe in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained probe clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rover",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rover in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained rover clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "crater",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for crater in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained crater clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dust in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained dust clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ice",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ice in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained ice clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ring",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ring in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained ring clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nebula",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nebula in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained nebula clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "constellation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for constellation in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained constellation clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "light-year",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for light year in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained light-year clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "solar",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to solar, common in school readings.",
+    "example": "Our textbook chapter explained solar clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lunar",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to lunar, common in school readings.",
+    "example": "Our textbook chapter explained lunar clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "eclipse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for eclipse in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained eclipse clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tide",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tide in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained tide clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "atmosphere",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for atmosphere in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained atmosphere clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "vacuum",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for vacuum in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained vacuum clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "radiation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for radiation in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained radiation clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "suit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for suit in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained suit clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "capsule",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for capsule in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained capsule clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "booster",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for booster in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained booster clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "thrust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for thrust in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained thrust clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mission",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mission in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained mission clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "crew",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for crew in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained crew clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "commander",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for commander in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained commander clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pilot",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pilot in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained pilot clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dock",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To dock as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained dock clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "spacewalk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for spacewalk in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained spacewalk clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "module",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for module in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained module clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "habitat",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for habitat in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained habitat clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "terraform",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To terraform as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained terraform clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "exoplanet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for exoplanet in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained exoplanet clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "habitable",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to habitable, common in school readings.",
+    "example": "Our textbook chapter explained habitable clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cosmos",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cosmos in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained cosmos clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cosmic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to cosmic, common in school readings.",
+    "example": "Our textbook chapter explained cosmic clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "interstellar",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to interstellar, common in school readings.",
+    "example": "Our textbook chapter explained interstellar clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wormhole",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wormhole in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained wormhole clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "black hole",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for black hole in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained black hole clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "event horizon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for event horizon in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained event horizon clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "singularity",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for singularity in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained singularity clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dark matter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dark matter in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained dark matter clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dark energy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dark energy in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained dark energy clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Big Bang",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Big Bang in the space domain, common in school readings.",
+    "example": "Our textbook chapter explained Big Bang clearly.",
+    "categories": [
+      "SPACE",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "drum",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for drum in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained drum clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "piano",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for piano in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained piano clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "guitar",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for guitar in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained guitar clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "violin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for violin in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained violin clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "flute",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flute in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained flute clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "trumpet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for trumpet in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained trumpet clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bell",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bell in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained bell clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "note",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for note in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained note clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tune",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tune in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained tune clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "melody",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for melody in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained melody clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rhythm",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rhythm in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained rhythm clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tempo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tempo in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained tempo clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "loud",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to loud, common in school readings.",
+    "example": "Our textbook chapter explained loud clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "soft",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to soft, common in school readings.",
+    "example": "Our textbook chapter explained soft clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fast",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to fast, common in school readings.",
+    "example": "Our textbook chapter explained fast clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "slow",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to slow, common in school readings.",
+    "example": "Our textbook chapter explained slow clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "choir",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for choir in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained choir clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "band",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for band in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained band clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "orchestra",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for orchestra in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained orchestra clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "conductor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for conductor in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained conductor clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "composer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for composer in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained composer clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lyric",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lyric in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained lyric clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "verse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for verse in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained verse clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chorus",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chorus in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained chorus clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bridge",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bridge in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained bridge clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "harmony",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for harmony in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained harmony clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chord",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chord in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained chord clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "scale",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for scale in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained scale clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "key",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for key in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained key clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pitch",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pitch in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained pitch clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tone in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained tone clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "accent",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for accent in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained accent clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "staff",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for staff in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained staff clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "clef",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for clef in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained clef clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "treble",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for treble in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained treble clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bass",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bass in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained bass clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "alto",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for alto in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained alto clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "soprano",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for soprano in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained soprano clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tenor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tenor in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained tenor clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "baritone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for baritone in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained baritone clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "opera",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for opera in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained opera clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ballet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ballet in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained ballet clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "jazz",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for jazz in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained jazz clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blues",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for blues in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained blues clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rock",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rock in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained rock clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pop",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pop in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained pop clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "classical",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to classical, common in school readings.",
+    "example": "Our textbook chapter explained classical clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "folk",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for folk in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained folk clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hip-hop",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hip hop in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained hip-hop clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rap",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rap in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained rap clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "electronic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to electronic, common in school readings.",
+    "example": "Our textbook chapter explained electronic clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "synth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for synth in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained synth clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sample",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sample in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained sample clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "remix",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for remix in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained remix clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "album",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for album in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained album clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "single",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for single in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained single clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "concert",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for concert in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained concert clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "recital",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for recital in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained recital clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "audition",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for audition in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained audition clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rehearsal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rehearsal in the music domain, common in school readings.",
+    "example": "Our textbook chapter explained rehearsal clearly.",
+    "categories": [
+      "MUSIC",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "king",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for king in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained king clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "queen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for queen in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained queen clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "castle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for castle in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained castle clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "knight",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for knight in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained knight clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "flag",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flag in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained flag clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "map",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for map in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained map clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "war",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for war in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained war clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "peace",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for peace in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained peace clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "battle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for battle in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained battle clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "army",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for army in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained army clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "soldier",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for soldier in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained soldier clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hero",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hero in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained hero clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "village",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for village in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained village clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "city",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for city in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained city clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "empire",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for empire in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained empire clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "colony",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for colony in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained colony clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "revolution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for revolution in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained revolution clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "treaty",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for treaty in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained treaty clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "democracy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for democracy in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained democracy clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "republic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for republic in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained republic clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "monarchy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for monarchy in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained monarchy clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dictator",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dictator in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained dictator clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "president",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for president in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained president clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "vote",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To vote as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained vote clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "law",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for law in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained law clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rights",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rights in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained rights clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "freedom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for freedom in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained freedom clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "slavery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for slavery in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained slavery clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "civil war",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for civil war in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained civil war clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "independence",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for independence in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained independence clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "constitution",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for constitution in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained constitution clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "amendment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for amendment in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained amendment clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "frontier",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for frontier in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained frontier clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "explorer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for explorer in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained explorer clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "voyage",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for voyage in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained voyage clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "discovery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for discovery in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained discovery clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "artifact",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for artifact in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained artifact clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ruin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ruin in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained ruin clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pyramid",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pyramid in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained pyramid clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "temple",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for temple in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained temple clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "monument",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for monument in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained monument clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "museum",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for museum in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained museum clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "archive",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for archive in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained archive clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "document",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for document in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained document clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "primary source",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for primary source in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained primary source clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "timeline",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for timeline in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained timeline clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "era",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for era in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained era clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "century",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for century in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained century clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "decade",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for decade in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained decade clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ancient",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to ancient, common in school readings.",
+    "example": "Our textbook chapter explained ancient clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "medieval",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to medieval, common in school readings.",
+    "example": "Our textbook chapter explained medieval clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "modern",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to modern, common in school readings.",
+    "example": "Our textbook chapter explained modern clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "industrial",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to industrial, common in school readings.",
+    "example": "Our textbook chapter explained industrial clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Renaissance",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Renaissance in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained Renaissance clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Reformation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Reformation in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained Reformation clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "Enlightenment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for Enlightenment in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained Enlightenment clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "colonization",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for colonization in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained colonization clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "imperialism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for imperialism in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained imperialism clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nationalism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nationalism in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained nationalism clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "propaganda",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for propaganda in the history domain, common in school readings.",
+    "example": "Our textbook chapter explained propaganda clearly.",
+    "categories": [
+      "HISTORY",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "equal",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to equal, common in school readings.",
+    "example": "Our textbook chapter explained equal clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shape",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for shape in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained shape clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "circle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for circle in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained circle clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "square",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for square in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained square clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "triangle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for triangle in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained triangle clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "line",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for line in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained line clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dot",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dot in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained dot clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "big",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to big, common in school readings.",
+    "example": "Our textbook chapter explained big clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "small",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to small, common in school readings.",
+    "example": "Our textbook chapter explained small clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "more",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to more, common in school readings.",
+    "example": "Our textbook chapter explained more clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "less",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to less, common in school readings.",
+    "example": "Our textbook chapter explained less clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pair",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pair in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained pair clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dozen",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dozen in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained dozen clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "half",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for half in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained half clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "double",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To double as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained double clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "triple",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To triple as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained triple clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "subtract",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To subtract as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained subtract clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "multiply",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To multiply as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained multiply clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "divide",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To divide as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained divide clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sum",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sum in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained sum clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "difference",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for difference in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained difference clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "product",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for product in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained product clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "quotient",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for quotient in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained quotient clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fraction",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fraction in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained fraction clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "decimal",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for decimal in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained decimal clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "percent",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for percent in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained percent clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ratio",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ratio in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained ratio clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "proportion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for proportion in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained proportion clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "average",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for average in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained average clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "median",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for median in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained median clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mode",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mode in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained mode clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "range",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for range in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained range clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chart",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for chart in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained chart clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "axis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for axis in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained axis clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "coordinate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for coordinate in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained coordinate clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "angle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for angle in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained angle clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "degree",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for degree in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained degree clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "radius",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for radius in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained radius clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "diameter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for diameter in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained diameter clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "perimeter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for perimeter in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained perimeter clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "area",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for area in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained area clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "surface",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for surface in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained surface clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "parallel",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to parallel, common in school readings.",
+    "example": "Our textbook chapter explained parallel clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "perpendicular",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to perpendicular, common in school readings.",
+    "example": "Our textbook chapter explained perpendicular clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "symmetry",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for symmetry in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained symmetry clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "congruent",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to congruent, common in school readings.",
+    "example": "Our textbook chapter explained congruent clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "similar",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to similar, common in school readings.",
+    "example": "Our textbook chapter explained similar clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "theorem",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for theorem in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained theorem clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "proof",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for proof in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained proof clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "axiom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for axiom in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained axiom clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "postulate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for postulate in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained postulate clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "equation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for equation in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained equation clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "expression",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for expression in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained expression clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "exponent",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for exponent in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained exponent clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "polynomial",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for polynomial in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained polynomial clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "quadratic",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to quadratic, common in school readings.",
+    "example": "Our textbook chapter explained quadratic clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "linear",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to linear, common in school readings.",
+    "example": "Our textbook chapter explained linear clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "slope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for slope in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained slope clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "intercept",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for intercept in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained intercept clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "domain",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for domain in the math domain, common in school readings.",
+    "example": "Our textbook chapter explained domain clearly.",
+    "categories": [
+      "MATH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nose",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nose in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained nose clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mouth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mouth in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained mouth clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tooth",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tooth in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained tooth clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hair",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hair in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained hair clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "skin",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for skin in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained skin clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bone in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained bone clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "muscle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for muscle in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained muscle clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heart",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heart in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained heart clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lung",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lung in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained lung clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blood",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for blood in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained blood clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sick",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to sick, common in school readings.",
+    "example": "Our textbook chapter explained sick clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "well",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to well, common in school readings.",
+    "example": "Our textbook chapter explained well clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hurt",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To hurt as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained hurt clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sleep",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To sleep as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained sleep clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wash",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To wash as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained wash clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "brush",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To brush as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained brush clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "doctor",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for doctor in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained doctor clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nurse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nurse in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained nurse clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hospital",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hospital in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained hospital clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "clinic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for clinic in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained clinic clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "medicine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for medicine in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained medicine clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pill",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pill in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained pill clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bandage",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for bandage in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained bandage clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fever",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fever in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained fever clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cough",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cough in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained cough clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sneeze",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To sneeze as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained sneeze clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ache",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ache in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained ache clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pain",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pain in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained pain clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "asthma",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for asthma in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained asthma clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "diabetes",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for diabetes in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained diabetes clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "antibody",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for antibody in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained antibody clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "infection",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for infection in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained infection clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "symptom",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for symptom in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained symptom clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "diagnosis",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for diagnosis in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained diagnosis clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "treatment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for treatment in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained treatment clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "therapy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for therapy in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained therapy clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "surgery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for surgery in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained surgery clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "recovery",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for recovery in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained recovery clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mineral",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mineral in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained mineral clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hydration",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hydration in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained hydration clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "exercise",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for exercise in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained exercise clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "posture",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for posture in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained posture clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cardio",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cardio in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained cardio clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "strength",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for strength in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained strength clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "flexibility",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flexibility in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained flexibility clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "balance",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for balance in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained balance clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mindfulness",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mindfulness in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained mindfulness clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "stress",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for stress in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained stress clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "anxiety",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for anxiety in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained anxiety clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "depression",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for depression in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained depression clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mental health",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mental health in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained mental health clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wellness",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wellness in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained wellness clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hygiene",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hygiene in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained hygiene clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sanitation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sanitation in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained sanitation clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "epidemic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for epidemic in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained epidemic clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pandemic",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pandemic in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained pandemic clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "quarantine",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for quarantine in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained quarantine clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "isolation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for isolation in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained isolation clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "public health",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for public health in the health domain, common in school readings.",
+    "example": "Our textbook chapter explained public health clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "preventive",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to preventive, common in school readings.",
+    "example": "Our textbook chapter explained preventive clearly.",
+    "categories": [
+      "HEALTH",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "snow",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for snow in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained snow clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wind",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wind in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained wind clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cloud",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cloud in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained cloud clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hot",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to hot, common in school readings.",
+    "example": "Our textbook chapter explained hot clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cold",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to cold, common in school readings.",
+    "example": "Our textbook chapter explained cold clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "warm",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to warm, common in school readings.",
+    "example": "Our textbook chapter explained warm clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cool",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to cool, common in school readings.",
+    "example": "Our textbook chapter explained cool clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wet",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to wet, common in school readings.",
+    "example": "Our textbook chapter explained wet clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dry",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to dry, common in school readings.",
+    "example": "Our textbook chapter explained dry clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "storm",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for storm in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained storm clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "thunder",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for thunder in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained thunder clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lightning",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for lightning in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained lightning clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fog",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fog in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained fog clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hail",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hail in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained hail clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sleet",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sleet in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained sleet clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "drizzle",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for drizzle in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained drizzle clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shower",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for shower in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained shower clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "breeze",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for breeze in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained breeze clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "gust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for gust in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained gust clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "humid",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to humid, common in school readings.",
+    "example": "Our textbook chapter explained humid clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "muggy",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to muggy, common in school readings.",
+    "example": "Our textbook chapter explained muggy clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "chilly",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to chilly, common in school readings.",
+    "example": "Our textbook chapter explained chilly clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "forecast",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for forecast in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained forecast clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "spring",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for spring in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained spring clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "summer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for summer in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained summer clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "autumn",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for autumn in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained autumn clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "winter",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for winter in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained winter clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "flood",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for flood in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained flood clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tornado",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for tornado in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained tornado clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cyclone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for cyclone in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained cyclone clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "typhoon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for typhoon in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained typhoon clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "blizzard",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for blizzard in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained blizzard clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heatwave",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heatwave in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained heatwave clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "frost",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for frost in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained frost clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "dew",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for dew in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained dew clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mist",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for mist in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained mist clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "rainbow",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for rainbow in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained rainbow clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "barometer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for barometer in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained barometer clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "thermometer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for thermometer in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained thermometer clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "anemometer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for anemometer in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained anemometer clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hygrometer",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hygrometer in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained hygrometer clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "front",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for front in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained front clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "jet stream",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for jet stream in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained jet stream clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "El Niño",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for El Niño in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained El Niño clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "La Niña",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for La Niña in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained La Niña clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "monsoon",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for monsoon in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained monsoon clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "precipitation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for precipitation in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained precipitation clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "evaporation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for evaporation in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained evaporation clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "condensation",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for condensation in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained condensation clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "warming",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for warming in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained warming clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ozone",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for ozone in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained ozone clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "UV",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for UV in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained UV clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "albedo",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for albedo in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained albedo clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "meteorology",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for meteorology in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained meteorology clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "climatology",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for climatology in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained climatology clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "microclimate",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for microclimate in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained microclimate clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "inversion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for inversion in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained inversion clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "wind chill",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for wind chill in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained wind chill clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "heat index",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for heat index in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained heat index clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "visibility",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for visibility in the weather domain, common in school readings.",
+    "example": "Our textbook chapter explained visibility clearly.",
+    "categories": [
+      "WEATHER",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "calm",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to calm, common in school readings.",
+    "example": "Our textbook chapter explained calm clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "love",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for love in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained love clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "like",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To like as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained like clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hug",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To hug as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained hug clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "smile",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To smile as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained smile clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "cry",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To cry as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained cry clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "laugh",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To laugh as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained laugh clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "worry",
+    "partOfSpeech": "verb",
+    "pronunciation": "",
+    "definition": "To worry as an action or process, common in school readings.",
+    "example": "Our textbook chapter explained worry clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hope",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for hope in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained hope clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "joy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for joy in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained joy clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "fear",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for fear in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained fear clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "anger",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for anger in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained anger clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "surprise",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for surprise in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained surprise clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shy",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to shy, common in school readings.",
+    "example": "Our textbook chapter explained shy clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "proud",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to proud, common in school readings.",
+    "example": "Our textbook chapter explained proud clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "brave",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to brave, common in school readings.",
+    "example": "Our textbook chapter explained brave clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "kind",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to kind, common in school readings.",
+    "example": "Our textbook chapter explained kind clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "mean",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to mean, common in school readings.",
+    "example": "Our textbook chapter explained mean clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sorry",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to sorry, common in school readings.",
+    "example": "Our textbook chapter explained sorry clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "thankful",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to thankful, common in school readings.",
+    "example": "Our textbook chapter explained thankful clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "lonely",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to lonely, common in school readings.",
+    "example": "Our textbook chapter explained lonely clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "excited",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to excited, common in school readings.",
+    "example": "Our textbook chapter explained excited clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "bored",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to bored, common in school readings.",
+    "example": "Our textbook chapter explained bored clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "tired",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to tired, common in school readings.",
+    "example": "Our textbook chapter explained tired clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nervous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to nervous, common in school readings.",
+    "example": "Our textbook chapter explained nervous clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "relaxed",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to relaxed, common in school readings.",
+    "example": "Our textbook chapter explained relaxed clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "frustrated",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to frustrated, common in school readings.",
+    "example": "Our textbook chapter explained frustrated clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "confused",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to confused, common in school readings.",
+    "example": "Our textbook chapter explained confused clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "curious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to curious, common in school readings.",
+    "example": "Our textbook chapter explained curious clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "jealous",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to jealous, common in school readings.",
+    "example": "Our textbook chapter explained jealous clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "grateful",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to grateful, common in school readings.",
+    "example": "Our textbook chapter explained grateful clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "embarrassed",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to embarrassed, common in school readings.",
+    "example": "Our textbook chapter explained embarrassed clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "guilty",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to guilty, common in school readings.",
+    "example": "Our textbook chapter explained guilty clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "ashamed",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to ashamed, common in school readings.",
+    "example": "Our textbook chapter explained ashamed clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hopeful",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to hopeful, common in school readings.",
+    "example": "Our textbook chapter explained hopeful clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "hopeless",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to hopeless, common in school readings.",
+    "example": "Our textbook chapter explained hopeless clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "anxious",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to anxious, common in school readings.",
+    "example": "Our textbook chapter explained anxious clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "content",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to content, common in school readings.",
+    "example": "Our textbook chapter explained content clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "serene",
+    "partOfSpeech": "adjective",
+    "pronunciation": "",
+    "definition": "Describing something related to serene, common in school readings.",
+    "example": "Our textbook chapter explained serene clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "melancholy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for melancholy in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained melancholy clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "euphoria",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for euphoria in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained euphoria clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "despair",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for despair in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained despair clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "resentment",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for resentment in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained resentment clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "empathy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for empathy in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained empathy clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "sympathy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for sympathy in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained sympathy clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "compassion",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for compassion in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained compassion clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "apathy",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for apathy in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained apathy clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "nostalgia",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for nostalgia in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained nostalgia clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "awe",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for awe in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained awe clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "disgust",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for disgust in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained disgust clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "contempt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for contempt in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained contempt clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pride",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pride in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained pride clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "shame",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for shame in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained shame clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "guilt",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for guilt in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained guilt clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "regret",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for regret in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained regret clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "remorse",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for remorse in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained remorse clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "optimism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for optimism in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained optimism clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "pessimism",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for pessimism in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained pessimism clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "resilience",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for resilience in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained resilience clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
+  },
+  {
+    "word": "grit",
+    "partOfSpeech": "noun",
+    "pronunciation": "",
+    "definition": "A term for grit in the emotions domain, common in school readings.",
+    "example": "Our textbook chapter explained grit clearly.",
+    "categories": [
+      "EMOTIONS",
+      "GENERAL"
+    ]
   }
 ]

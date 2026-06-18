@@ -4,7 +4,8 @@
 
 ## Active focus
 
-- `[2026-06-17]` **§8d MVP corpus COMPLETE:** **2,218** rows; gap **0**; **`fill_word_gaps.py`** + **`lemma_banks.py`**; shipped **`0.2.1`**.
+- `[2026-06-17]` **Open lexicon (`0.2.3`):** WordNet + myth/sacred/literary packs; Settings opt-in; age gates; **`CONTENT_SOURCES.md`**.
+- `[2026-06-17]` **Mega corpus (`0.2.2`):** **11,667** rows; **60**/cell × **13** categories; gap **0**.
 - `[2026-06-17]` **Substance depth wave:** quiz mode (§10c), word history + favorites library (§10a/§10b), rich **`WordEntry`** fields (**synonyms**, **usageNote**), expanded **grade_5** / **grade_6** corpus with full metadata.
 - `[2026-06-17]` **Home engagement wave (§9c + §10 partial):** quick-switch bottom sheet, easier/harder session grade shift, category **HorizontalPager** swipe, favorites + streak (**`EngagementRepository`**), pull-to-refresh, TTS listen, grade-adaptive share (**`ShareFormatter`**), category color accents.
 - `[2026-04-30]` Documentation reliability + agent handoff speed: add explicit location map for constants/config/routing/content tooling; reduce future search churn.
@@ -17,7 +18,11 @@
 
 ## Last actions (most recent LAST, AVOID MANY EDITS)
 
-1. `[2026-06-17]` **§8d corpus fill + `0.2.1`:** `scripts/fill_word_gaps.py` + `lemma_banks.py` → **+2,047** rows (**2,218** total); gap **0**; version **0.2.1** / code **3**; **`AppReleaseCatalog`** updated; build green.
+1. `[2026-06-17]` **Open lexicon (`0.2.3`):** WordNet + myth/sacred/literary import script; Settings toggles; **`CONTENT_SOURCES.md`**; version **0.2.3** / code **5**.
+
+2. `[2026-06-17]` **Mega corpus (`0.2.2`):** `--target 60` + **13** categories + **`extended_lexicons.py`** → **+9,449** rows (**11,667** total); version **0.2.2** / code **4**; build green.
+
+2. `[2026-06-17]` **§8d corpus fill + `0.2.1`:** `scripts/fill_word_gaps.py` + `lemma_banks.py` → **+2,047** rows (**2,218** total); gap **0**; version **0.2.1** / code **3**; **`AppReleaseCatalog`** updated; build green.
 
 2. `[2026-06-17]` **Edition 2 (`0.2.0`):** **`AppReleaseCatalog`** + **`UpdateModal`** + **`ReleaseNotesRepository`**; **`HistoryCalendar`**; streak milestones; **`EDITIONS_ROADMAP.md`** (E1–E8); **`AGENTS.md`** + **`.cursor/rules/release-sync.mdc`**; version **0.2.0** / code **2**; **`grade_7.json`** / **`grade_8.json`** → 12 rich entries; CHANGELOG cut; build green.
 

@@ -14,7 +14,14 @@ Targets are defined in [ROADMAP.md](./ROADMAP.md) §**8d**: **~30 words per (gra
 
 Run from repo root (UTF-8 console recommended on Windows: `python -X utf8 scripts/inventory_word_assets.py`).
 
-## Snapshot — `[2026-06-17]` — MVP matrix **COMPLETE**
+## Snapshot — `[2026-06-17]` — **Mega corpus** (60 × 13 × 15)
+
+- **Total word rows:** **11,667** (**+9,449** vs **2,218** / **+9,449** vs **171** baseline)
+- **Target:** **60** per (grade × category) for **13** non-GENERAL categories
+- **Gap score:** **0**
+- **Tooling:** `fill_word_gaps.py --target 60`, `lemma_banks.py`, `extended_lexicons.py`
+
+## Snapshot — `[2026-06-17]` — MVP matrix **COMPLETE** (30 × 6)
 
 - **Total word rows (all grade files):** **2,218** (**+2,047** vs prior **171**)
 - **Gap score:** **0** (all **90** MVP cells at **30**)

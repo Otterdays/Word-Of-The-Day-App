@@ -7,6 +7,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.lifecycle.viewModelScope
 import com.example.wordofday.data.model.Category
 import com.example.wordofday.data.model.GradeLevel
+import com.example.wordofday.data.model.LexiconPreferences
 import com.example.wordofday.data.model.UserPreferences
 import com.example.wordofday.data.preferences.UserPreferencesRepository
 import com.example.wordofday.data.repository.WordRepository
@@ -54,6 +55,21 @@ class SettingsViewModel(application: Application) : AndroidViewModel(application
 
     fun resetPreferences() {
         viewModelScope.launch { prefsRepo.resetPreferences() }
+    }
+
+    fun setLexiconWordNet(enabled: Boolean) = updateLexicon { it.copy(includeWordNet = enabled) }
+
+    fun setLexiconMythology(enabled: Boolean) = updateLexicon { it.copy(includeMythology = enabled) }
+
+    fun setLexiconSacred(enabled: Boolean) = updateLexicon { it.copy(includeSacredReference = enabled) }
+
+    fun setLexiconLiterary(enabled: Boolean) = updateLexicon { it.copy(includeLiteraryHistorical = enabled) }
+
+    private fun updateLexicon(transform: (LexiconPreferences) -> LexiconPreferences) {
+        viewModelScope.launch {
+            val next = transform(preferences.value.lexicon)
+            prefsRepo.setLexiconPreferences(next)
+        }
     }
 
     companion object {

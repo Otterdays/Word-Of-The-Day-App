@@ -4,6 +4,7 @@ import android.app.Application
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.FlowRow
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxSize
@@ -24,11 +25,13 @@ import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
@@ -118,6 +121,45 @@ fun SettingsScreen(
                 }
             }
             Spacer(modifier = Modifier.height(24.dp))
+            HorizontalDivider()
+            Spacer(modifier = Modifier.height(24.dp))
+            Text(
+                text = "Extended sources (opt-in)",
+                style = MaterialTheme.typography.titleMedium,
+            )
+            Spacer(modifier = Modifier.height(8.dp))
+            Text(
+                text = "Adds dictionary, thesaurus, myth, sacred reference, and mature historical vocabulary. " +
+                    "Teen/adult entries respect your grade level.",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+            Spacer(modifier = Modifier.height(12.dp))
+            LexiconToggle(
+                title = "WordNet dictionary",
+                subtitle = "Princeton WordNet definitions + synonyms",
+                checked = prefs.lexicon.includeWordNet,
+                onCheckedChange = viewModel::setLexiconWordNet,
+            )
+            LexiconToggle(
+                title = "Myth & lore",
+                subtitle = "Greek, Norse, and world mythology",
+                checked = prefs.lexicon.includeMythology,
+                onCheckedChange = viewModel::setLexiconMythology,
+            )
+            LexiconToggle(
+                title = "Sacred reference",
+                subtitle = "Public-domain scripture vocabulary",
+                checked = prefs.lexicon.includeSacredReference,
+                onCheckedChange = viewModel::setLexiconSacred,
+            )
+            LexiconToggle(
+                title = "Literary & historical",
+                subtitle = "Philosophy, grey history, mature themes",
+                checked = prefs.lexicon.includeLiteraryHistorical,
+                onCheckedChange = viewModel::setLexiconLiterary,
+            )
+            Spacer(modifier = Modifier.height(24.dp))
             Text(
                 text = when (val c = matchCount) {
                     null -> "Counting words…"
@@ -144,5 +186,30 @@ fun SettingsScreen(
             }
             Spacer(modifier = Modifier.height(24.dp))
         }
+    }
+}
+
+@Composable
+private fun LexiconToggle(
+    title: String,
+    subtitle: String,
+    checked: Boolean,
+    onCheckedChange: (Boolean) -> Unit,
+) {
+    Row(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(vertical = 8.dp),
+        verticalAlignment = Alignment.CenterVertically,
+    ) {
+        Column(modifier = Modifier.weight(1f)) {
+            Text(text = title, style = MaterialTheme.typography.bodyLarge)
+            Text(
+                text = subtitle,
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
+            )
+        }
+        Switch(checked = checked, onCheckedChange = onCheckedChange)
     }
 }

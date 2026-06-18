@@ -1,0 +1,1027 @@
+[
+  {
+    "word": "Zeus",
+    "partOfSpeech": "noun",
+    "definition": "King of the gods in ancient Greek mythology.",
+    "example": "Zeus ruled from Mount Olympus in Greek myth.",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "contentRating": "ALL_AGES",
+    "gradeLevel": "GRADE_4",
+    "usageNote": "Greek mythology; also known as Jupiter in Roman myth.",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "Athena",
+    "partOfSpeech": "noun",
+    "definition": "Greek goddess of wisdom, warfare, and crafts.",
+    "example": "Athena was said to spring fully grown from Zeus's head.",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "contentRating": "ALL_AGES",
+    "gradeLevel": "GRADE_4",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "Odyssey",
+    "partOfSpeech": "noun",
+    "definition": "A long adventurous journey; from Homer's epic poem.",
+    "example": "His years abroad became a personal odyssey.",
+    "categories": [
+      "MYTHOLOGY",
+      "LITERATURE",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_8",
+    "etymology": "From Homer's Odyssey (c. 8th century BCE).",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "Pandora",
+    "partOfSpeech": "noun",
+    "definition": "Mythic figure whose curiosity opened a jar releasing troubles into the world.",
+    "example": "The lab experiment was a Pandora's box of side effects.",
+    "categories": [
+      "MYTHOLOGY",
+      "LITERATURE",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_7",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "Valhalla",
+    "partOfSpeech": "noun",
+    "definition": "In Norse myth, the hall where heroes slain in battle feast with Odin.",
+    "example": "The hall of fame felt like Valhalla to retired athletes.",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_9",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "Mjolnir",
+    "partOfSpeech": "noun",
+    "definition": "The hammer of Thor in Norse mythology.",
+    "example": "Thor's hammer Mjolnir could level mountains in the sagas.",
+    "categories": [
+      "MYTHOLOGY",
+      "GENERAL"
+    ],
+    "contentRating": "ALL_AGES",
+    "gradeLevel": "GRADE_6",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "phoenix",
+    "partOfSpeech": "noun",
+    "definition": "A mythic bird that burns and is reborn from its ashes.",
+    "example": "The city rose like a phoenix after the fire.",
+    "categories": [
+      "MYTHOLOGY",
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "contentRating": "ALL_AGES",
+    "gradeLevel": "GRADE_5",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "hydra",
+    "partOfSpeech": "noun",
+    "definition": "A many-headed serpent of Greek myth; problems that multiply when attacked.",
+    "example": "Cutting one regulation spawned a hydra of new forms.",
+    "categories": [
+      "MYTHOLOGY",
+      "ANIMALS",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_8",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "Achilles",
+    "partOfSpeech": "noun",
+    "definition": "Greek hero of the Trojan War; his heel was his only vulnerable spot.",
+    "example": "Overconfidence was the team's Achilles' heel.",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_7",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "Icarus",
+    "partOfSpeech": "noun",
+    "definition": "Mythic youth who flew too close to the sun and fell.",
+    "example": "The startup's Icarus moment came after reckless expansion.",
+    "categories": [
+      "MYTHOLOGY",
+      "LITERATURE",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_8",
+    "source": "MYTHOLOGY"
+  },
+  {
+    "word": "Apollo",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Apollo).",
+    "example": "Scholars still debate the origins of Apollo in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Artemis",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Artemis).",
+    "example": "Scholars still debate the origins of Artemis in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Hera",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Hera).",
+    "example": "Scholars still debate the origins of Hera in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Poseidon",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Poseidon).",
+    "example": "Scholars still debate the origins of Poseidon in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Hades",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Hades).",
+    "example": "Scholars still debate the origins of Hades in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Hermes",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Hermes).",
+    "example": "Scholars still debate the origins of Hermes in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Aphrodite",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Aphrodite).",
+    "example": "Scholars still debate the origins of Aphrodite in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Ares",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Ares).",
+    "example": "Scholars still debate the origins of Ares in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Demeter",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Demeter).",
+    "example": "Scholars still debate the origins of Demeter in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Dionysus",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Dionysus).",
+    "example": "Scholars still debate the origins of Dionysus in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Persephone",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Persephone).",
+    "example": "Scholars still debate the origins of Persephone in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Hercules",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Hercules).",
+    "example": "Scholars still debate the origins of Hercules in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Perseus",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Perseus).",
+    "example": "Scholars still debate the origins of Perseus in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Medusa",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Medusa).",
+    "example": "Scholars still debate the origins of Medusa in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Minotaur",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Minotaur).",
+    "example": "Scholars still debate the origins of Minotaur in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Centaur",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Centaur).",
+    "example": "Scholars still debate the origins of Centaur in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Cyclops",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Cyclops).",
+    "example": "Scholars still debate the origins of Cyclops in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Siren",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Siren).",
+    "example": "Scholars still debate the origins of Siren in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Oracle",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Oracle).",
+    "example": "Scholars still debate the origins of Oracle in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Fate",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Fate).",
+    "example": "Scholars still debate the origins of Fate in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Nemesis",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Nemesis).",
+    "example": "Scholars still debate the origins of Nemesis in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Titan",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Titan).",
+    "example": "Scholars still debate the origins of Titan in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Atlas",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Atlas).",
+    "example": "Scholars still debate the origins of Atlas in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Prometheus",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Prometheus).",
+    "example": "Scholars still debate the origins of Prometheus in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Odin",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Odin).",
+    "example": "Scholars still debate the origins of Odin in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Thor",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Thor).",
+    "example": "Scholars still debate the origins of Thor in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Loki",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Loki).",
+    "example": "Scholars still debate the origins of Loki in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Freya",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Freya).",
+    "example": "Scholars still debate the origins of Freya in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Ragnarok",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Ragnarok).",
+    "example": "Scholars still debate the origins of Ragnarok in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Yggdrasil",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Yggdrasil).",
+    "example": "Scholars still debate the origins of Yggdrasil in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Bifrost",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Bifrost).",
+    "example": "Scholars still debate the origins of Bifrost in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Fenrir",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Fenrir).",
+    "example": "Scholars still debate the origins of Fenrir in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Anubis",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Anubis).",
+    "example": "Scholars still debate the origins of Anubis in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Ra",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Ra).",
+    "example": "Scholars still debate the origins of Ra in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Osiris",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Osiris).",
+    "example": "Scholars still debate the origins of Osiris in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Isis",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Isis).",
+    "example": "Scholars still debate the origins of Isis in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Sphinx",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Sphinx).",
+    "example": "Scholars still debate the origins of Sphinx in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Gilgamesh",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Gilgamesh).",
+    "example": "Scholars still debate the origins of Gilgamesh in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Beowulf",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Beowulf).",
+    "example": "Scholars still debate the origins of Beowulf in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Grendel",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Grendel).",
+    "example": "Scholars still debate the origins of Grendel in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Excalibur",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Excalibur).",
+    "example": "Scholars still debate the origins of Excalibur in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Merlin",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Merlin).",
+    "example": "Scholars still debate the origins of Merlin in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Camelot",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Camelot).",
+    "example": "Scholars still debate the origins of Camelot in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Lancelot",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (Lancelot).",
+    "example": "Scholars still debate the origins of Lancelot in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "dragon",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (dragon).",
+    "example": "Scholars still debate the origins of dragon in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "griffin",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (griffin).",
+    "example": "Scholars still debate the origins of griffin in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "unicorn",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (unicorn).",
+    "example": "Scholars still debate the origins of unicorn in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "leviathan",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (leviathan).",
+    "example": "Scholars still debate the origins of leviathan in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "chimera",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (chimera).",
+    "example": "Scholars still debate the origins of chimera in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "gorgon",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (gorgon).",
+    "example": "Scholars still debate the origins of gorgon in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "nymph",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (nymph).",
+    "example": "Scholars still debate the origins of nymph in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "satyr",
+    "partOfSpeech": "noun",
+    "definition": "A figure or concept from classical mythology and legend (satyr).",
+    "example": "Scholars still debate the origins of satyr in ancient tales.",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Public-domain mythology reference; enable in Settings → Extended sources.",
+    "gradeLevel": "GRADE_5",
+    "categories": [
+      "MYTHOLOGY",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "source": "MYTHOLOGY",
+    "contentRating": "TEEN"
+  }
+]

@@ -1,0 +1,480 @@
+[
+  {
+    "word": "hubris",
+    "partOfSpeech": "noun",
+    "definition": "Excessive pride that invites downfall.",
+    "example": "The CEO's hubris preceded the scandal.",
+    "categories": [
+      "LITERATURE",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "contentRating": "ADULT",
+    "gradeLevel": "GRADE_11",
+    "synonyms": [
+      "arrogance",
+      "overconfidence"
+    ],
+    "source": "LITERARY_HISTORICAL"
+  },
+  {
+    "word": "catharsis",
+    "partOfSpeech": "noun",
+    "definition": "Emotional release through art or tragedy; Aristotle's term.",
+    "example": "The play offered catharsis after grief.",
+    "categories": [
+      "LITERATURE",
+      "PHILOSOPHY",
+      "EMOTIONS",
+      "GENERAL"
+    ],
+    "contentRating": "ADULT",
+    "gradeLevel": "GRADE_11",
+    "source": "LITERARY_HISTORICAL"
+  },
+  {
+    "word": "Machiavellian",
+    "partOfSpeech": "adjective",
+    "definition": "Cunning and amoral in pursuit of power, after Niccolò Machiavelli.",
+    "example": "Critics called the scheme Machiavellian.",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "contentRating": "ADULT",
+    "gradeLevel": "GRADE_12",
+    "source": "LITERARY_HISTORICAL"
+  },
+  {
+    "word": "stoic",
+    "partOfSpeech": "adjective",
+    "definition": "Enduring pain without complaint; from Stoic philosophy.",
+    "example": "She remained stoic through the verdict.",
+    "categories": [
+      "PHILOSOPHY",
+      "LITERATURE",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_9",
+    "source": "LITERARY_HISTORICAL"
+  },
+  {
+    "word": "nihilism",
+    "partOfSpeech": "noun",
+    "definition": "Belief that life lacks objective meaning or moral truth.",
+    "example": "The novel explored postwar nihilism.",
+    "categories": [
+      "PHILOSOPHY",
+      "LITERATURE",
+      "GENERAL"
+    ],
+    "contentRating": "ADULT",
+    "gradeLevel": "GRADE_12",
+    "source": "LITERARY_HISTORICAL"
+  },
+  {
+    "word": "relegation",
+    "partOfSpeech": "noun",
+    "definition": "Demotion to a lower rank; also used in historical class systems.",
+    "example": "The treaty meant relegation of the dynasty to figureheads.",
+    "categories": [
+      "HISTORY",
+      "LITERATURE",
+      "GENERAL"
+    ],
+    "contentRating": "ADULT",
+    "gradeLevel": "ADULT",
+    "source": "LITERARY_HISTORICAL"
+  },
+  {
+    "word": "anachronism",
+    "partOfSpeech": "noun",
+    "definition": "Something placed in the wrong historical period.",
+    "example": "Knights with watches would be an anachronism.",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "GENERAL"
+    ],
+    "contentRating": "TEEN",
+    "gradeLevel": "GRADE_9",
+    "source": "LITERARY_HISTORICAL"
+  },
+  {
+    "word": "byzantine",
+    "partOfSpeech": "adjective",
+    "definition": "Extremely complex; from the intricate bureaucracy of Byzantium.",
+    "example": "The byzantine regulations slowed every permit.",
+    "categories": [
+      "HISTORY",
+      "LITERATURE",
+      "GENERAL"
+    ],
+    "contentRating": "ADULT",
+    "gradeLevel": "GRADE_11",
+    "source": "LITERARY_HISTORICAL"
+  },
+  {
+    "word": "Tragedy",
+    "partOfSpeech": "noun",
+    "definition": "A drama of human suffering, often with a downfall.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Comedy",
+    "partOfSpeech": "noun",
+    "definition": "Drama ending happily; later, any humorous work.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Soliloquy",
+    "partOfSpeech": "noun",
+    "definition": "A character speaking thoughts aloud alone on stage.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Foreshadow",
+    "partOfSpeech": "verb",
+    "definition": "To hint at events still to come.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Allegory",
+    "partOfSpeech": "noun",
+    "definition": "A story where characters symbolize ideas.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Satire",
+    "partOfSpeech": "noun",
+    "definition": "Writing that mocks vice or folly to reform.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Irony",
+    "partOfSpeech": "noun",
+    "definition": "When meaning contrasts with surface words or events.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Pathos",
+    "partOfSpeech": "noun",
+    "definition": "Quality that evokes pity or sadness.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Ethos",
+    "partOfSpeech": "noun",
+    "definition": "Character or credibility of a speaker.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Logos",
+    "partOfSpeech": "noun",
+    "definition": "Appeal to reason in argument.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Dystopia",
+    "partOfSpeech": "noun",
+    "definition": "An imagined terrible society.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Utopia",
+    "partOfSpeech": "noun",
+    "definition": "An imagined perfect society.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Renaissance",
+    "partOfSpeech": "noun",
+    "definition": "Rebirth; the European cultural revival after the Middle Ages.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Reformation",
+    "partOfSpeech": "noun",
+    "definition": "16th-century religious reform movement in Europe.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Inquisition",
+    "partOfSpeech": "noun",
+    "definition": "Historical tribunal for suppressing heresy.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "ADULT",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "ADULT"
+  },
+  {
+    "word": "Crusade",
+    "partOfSpeech": "noun",
+    "definition": "Medieval religious war; any zealous campaign.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Feudalism",
+    "partOfSpeech": "noun",
+    "definition": "Medieval land-based hierarchy of lords and vassals.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "GRADE_10",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "TEEN"
+  },
+  {
+    "word": "Colonialism",
+    "partOfSpeech": "noun",
+    "definition": "Control of territory and people by a foreign power.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "ADULT",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "ADULT"
+  },
+  {
+    "word": "Imperialism",
+    "partOfSpeech": "noun",
+    "definition": "Policy of extending national power abroad.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "ADULT",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "ADULT"
+  },
+  {
+    "word": "Revisionist",
+    "partOfSpeech": "adjective",
+    "definition": "Reinterpreting accepted historical narratives.",
+    "example": "",
+    "etymology": "",
+    "synonyms": [],
+    "usageNote": "Historical and literary vocabulary; mature themes may apply.",
+    "gradeLevel": "ADULT",
+    "categories": [
+      "LITERATURE",
+      "HISTORY",
+      "PHILOSOPHY",
+      "GENERAL"
+    ],
+    "source": "LITERARY_HISTORICAL",
+    "contentRating": "ADULT"
+  }
+]

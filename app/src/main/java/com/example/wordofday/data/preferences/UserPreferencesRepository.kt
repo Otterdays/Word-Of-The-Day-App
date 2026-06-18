@@ -9,6 +9,7 @@ import androidx.datastore.preferences.core.stringPreferencesKey
 import androidx.datastore.preferences.preferencesDataStore
 import com.example.wordofday.data.model.Category
 import com.example.wordofday.data.model.GradeLevel
+import com.example.wordofday.data.model.LexiconPreferences
 import com.example.wordofday.data.model.UserPreferences
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.map
@@ -22,6 +23,10 @@ private object Keys {
     val onboardingComplete = booleanPreferencesKey("onboarding_complete")
     val gradeLevel = stringPreferencesKey("grade_level")
     val categoriesCsv = stringPreferencesKey("categories_csv")
+    val lexiconWordNet = booleanPreferencesKey("lexicon_wordnet")
+    val lexiconMythology = booleanPreferencesKey("lexicon_mythology")
+    val lexiconSacred = booleanPreferencesKey("lexicon_sacred")
+    val lexiconLiterary = booleanPreferencesKey("lexicon_literary")
 }
 
 class UserPreferencesRepository(private val context: Context) {
@@ -43,6 +48,15 @@ class UserPreferencesRepository(private val context: Context) {
         completeOnboarding(UserPreferences.skipOnboarding())
     }
 
+    suspend fun setLexiconPreferences(lexicon: LexiconPreferences) {
+        context.userPreferencesDataStore.edit { m ->
+            m[Keys.lexiconWordNet] = lexicon.includeWordNet
+            m[Keys.lexiconMythology] = lexicon.includeMythology
+            m[Keys.lexiconSacred] = lexicon.includeSacredReference
+            m[Keys.lexiconLiterary] = lexicon.includeLiteraryHistorical
+        }
+    }
+
     suspend fun setGradeLevel(grade: GradeLevel) {
         context.userPreferencesDataStore.edit { it[Keys.gradeLevel] = grade.name }
     }
@@ -57,6 +71,10 @@ class UserPreferencesRepository(private val context: Context) {
         context.userPreferencesDataStore.edit { m ->
             m[Keys.gradeLevel] = defaults.gradeLevel.name
             m[Keys.categoriesCsv] = defaults.selectedCategories.encodeCsv()
+            m[Keys.lexiconWordNet] = defaults.lexicon.includeWordNet
+            m[Keys.lexiconMythology] = defaults.lexicon.includeMythology
+            m[Keys.lexiconSacred] = defaults.lexicon.includeSacredReference
+            m[Keys.lexiconLiterary] = defaults.lexicon.includeLiteraryHistorical
         }
     }
 
@@ -71,6 +89,12 @@ class UserPreferencesRepository(private val context: Context) {
             onboardingComplete = onboarding,
             gradeLevel = grade,
             selectedCategories = categories,
+            lexicon = LexiconPreferences(
+                includeWordNet = this[Keys.lexiconWordNet] ?: false,
+                includeMythology = this[Keys.lexiconMythology] ?: false,
+                includeSacredReference = this[Keys.lexiconSacred] ?: false,
+                includeLiteraryHistorical = this[Keys.lexiconLiterary] ?: false,
+            ),
         )
     }
 
