@@ -6,6 +6,7 @@ import androidx.compose.animation.fadeIn
 import androidx.compose.animation.fadeOut
 import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Spacer
@@ -17,6 +18,7 @@ import androidx.compose.foundation.layout.heightIn
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawing
 import androidx.compose.foundation.layout.width
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.material.icons.Icons
@@ -70,35 +72,42 @@ fun OnboardingScreen(
             )
         },
     ) { padding ->
-        Column(
+        Box(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(padding)
-                .padding(horizontal = 20.dp),
+                .padding(padding),
+            contentAlignment = Alignment.TopCenter,
         ) {
-            TextButton(
-                onClick = { viewModel.skip(onFinished) },
-                modifier = Modifier.align(Alignment.End),
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .widthIn(max = 640.dp)
+                    .padding(horizontal = 24.dp),
             ) {
-                Text("Skip for now")
-            }
-            AnimatedContent(
-                targetState = step,
-                transitionSpec = { fadeIn() togetherWith fadeOut() },
-                label = "onboarding_step",
-            ) { s ->
-                when (s) {
-                    0 -> GradeStep(
-                        selected = grade,
-                        onSelect = viewModel::setGrade,
-                        onContinue = { viewModel.goToCategories() },
-                    )
-                    else -> CategoryStep(
-                        selected = categories,
-                        onToggle = viewModel::toggleCategory,
-                        onBack = { viewModel.goBackToGrade() },
-                        onFinish = { viewModel.complete(onFinished) },
-                    )
+                TextButton(
+                    onClick = { viewModel.skip(onFinished) },
+                    modifier = Modifier.align(Alignment.End),
+                ) {
+                    Text("Skip for now")
+                }
+                AnimatedContent(
+                    targetState = step,
+                    transitionSpec = { fadeIn() togetherWith fadeOut() },
+                    label = "onboarding_step",
+                ) { s ->
+                    when (s) {
+                        0 -> GradeStep(
+                            selected = grade,
+                            onSelect = viewModel::setGrade,
+                            onContinue = { viewModel.goToCategories() },
+                        )
+                        else -> CategoryStep(
+                            selected = categories,
+                            onToggle = viewModel::toggleCategory,
+                            onBack = { viewModel.goBackToGrade() },
+                            onFinish = { viewModel.complete(onFinished) },
+                        )
+                    }
                 }
             }
         }
@@ -115,13 +124,16 @@ private fun GradeStep(
         Text(
             text = "Who's learning today?",
             style = MaterialTheme.typography.headlineSmall,
-            textAlign = TextAlign.Start,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
         )
         Spacer(modifier = Modifier.height(8.dp))
         Text(
             text = "Pick a grade level. You can change this anytime in settings.",
             style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
         )
         Spacer(modifier = Modifier.height(20.dp))
         LazyColumn(
@@ -175,18 +187,24 @@ private fun CategoryStep(
         Text(
             text = "What are you into?",
             style = MaterialTheme.typography.headlineSmall,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
         )
         Spacer(modifier = Modifier.height(8.dp))
         Text(
             text = "Pick up to three interests (optional). General stays a good default.",
             style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
         )
         Spacer(modifier = Modifier.height(20.dp))
         FlowRow(
-            horizontalArrangement = Arrangement.spacedBy(8.dp),
+            horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally),
             verticalArrangement = Arrangement.spacedBy(8.dp),
-            modifier = Modifier.weight(1f),
+            modifier = Modifier
+                .fillMaxWidth()
+                .weight(1f),
         ) {
             Category.MvpCategories.forEach { cat ->
                 FilterChip(

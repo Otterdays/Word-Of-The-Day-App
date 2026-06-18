@@ -11,7 +11,9 @@ Checklist-style plan from **current Gradle sample** to a **successful** phone + 
 
 ## Status snapshot — 2026-06-17
 
-**Version:** **`0.2.3`** (versionCode **5**) — see [CHANGELOG.md](./CHANGELOG.md) · [EDITIONS_ROADMAP.md](./EDITIONS_ROADMAP.md).
+**Version:** **`0.2.4`** (versionCode **6**) — see [CHANGELOG.md](./CHANGELOG.md) · [EDITIONS_ROADMAP.md](./EDITIONS_ROADMAP.md).
+
+**UI:** Zen centered max-width lanes on Home, Settings, Onboarding, Quiz, Library, Word Detail.
 
 **Curated corpus:** **11,667** rows in **`assets/words/`** (60 × 13 categories × 15 grades; gap **0** — [CONTENT_8D_PROGRESS.md](./CONTENT_8D_PROGRESS.md)).
 

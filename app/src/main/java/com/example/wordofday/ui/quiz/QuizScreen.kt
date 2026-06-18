@@ -1,6 +1,7 @@
 package com.example.wordofday.ui.quiz
 
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
@@ -9,6 +10,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawing
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -62,18 +64,25 @@ fun QuizScreen(
             )
         },
     ) { padding ->
-        Column(
+        Box(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(padding)
-                .padding(horizontal = 20.dp),
+                .padding(padding),
+            contentAlignment = Alignment.TopCenter,
         ) {
-            when (val s = state) {
-                is QuizUiState.Loading -> BoxCentered { CircularProgressIndicator() }
-                is QuizUiState.Error -> ErrorContent(s.message, onRetry = viewModel::startSession)
-                is QuizUiState.InProgress -> QuizQuestionContent(s, viewModel::selectOption, viewModel::advance)
-                is QuizUiState.Finished -> QuizResultsContent(s, onRetry = viewModel::startSession)
-                is QuizUiState.Ready -> Unit
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .widthIn(max = 680.dp)
+                    .padding(horizontal = 20.dp),
+            ) {
+                when (val s = state) {
+                    is QuizUiState.Loading -> BoxCentered { CircularProgressIndicator() }
+                    is QuizUiState.Error -> ErrorContent(s.message, onRetry = viewModel::startSession)
+                    is QuizUiState.InProgress -> QuizQuestionContent(s, viewModel::selectOption, viewModel::advance)
+                    is QuizUiState.Finished -> QuizResultsContent(s, onRetry = viewModel::startSession)
+                    is QuizUiState.Ready -> Unit
+                }
             }
         }
     }
@@ -116,28 +125,39 @@ private fun QuizQuestionContent(
             text = "Question ${state.index + 1} of ${state.questions.size}",
             style = MaterialTheme.typography.labelLarge,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
         )
         Text(
             text = "Lifetime accuracy: ${state.stats.accuracyPercent}%",
             style = MaterialTheme.typography.bodySmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
         )
         Spacer(Modifier.height(24.dp))
         Text(
             text = "What does this word mean?",
             style = MaterialTheme.typography.titleMedium,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
         )
         Spacer(Modifier.height(12.dp))
         Text(
             text = state.current.promptWord.word,
-            modifier = Modifier.semantics { heading() },
             style = MaterialTheme.typography.displaySmall,
             fontWeight = FontWeight.Bold,
+            textAlign = TextAlign.Center,
+            modifier = Modifier
+                .fillMaxWidth()
+                .semantics { heading() },
         )
         Text(
             text = state.current.promptWord.partOfSpeech,
             style = MaterialTheme.typography.bodyLarge,
             color = MaterialTheme.colorScheme.primary,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
         )
         Spacer(Modifier.height(24.dp))
         Column(

@@ -49,6 +49,8 @@ Single-purpose v1: a **Word of the Day** experience on **Android phones and tabl
 
 ## Status
 
+`[2026-06-17]` **Zen UI (`0.2.4`)** shipped: centered max-width content on Home, Settings, Onboarding, Quiz, Library, Word Detail. App **0.2.4** / versionCode **6**.
+
 `[2026-06-17]` **Open lexicon (`0.2.3`)** shipped: **10,351** WordNet rows + myth/sacred/literary packs under **`assets/lexicon/`**; Settings **Extended sources** opt-in; age-rated filters; **`CONTENT_SOURCES.md`**. App **0.2.3** / versionCode **5**.
 
 `[2026-06-17]` **Mega corpus (`0.2.2`)**: **11,667** curated rows in **`assets/words/`**; **60** per (grade × category) across **13** topics.

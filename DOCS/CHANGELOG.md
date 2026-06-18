@@ -12,6 +12,14 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+## [0.2.4] - 2026-06-17
+
+### Changed
+
+- **Zen UI pass:** centered max-width content lanes on Home, Settings, Onboarding, Quiz, Library, and Word Detail screens.
+- **Large-screen polish:** preference chips, quiz headings, empty states, and detail content no longer stretch edge-to-edge on tablets/foldables.
+- App version **`0.2.4`** (versionCode **6**).
+
 ## [0.2.3] - 2026-06-17
 
 ### Added

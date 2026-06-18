@@ -2,6 +2,7 @@ package com.example.wordofday.ui.settings
 
 import android.app.Application
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Row
@@ -12,6 +13,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawing
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -73,118 +75,131 @@ fun SettingsScreen(
             )
         },
     ) { padding ->
-        Column(
+        Box(
             modifier = Modifier
                 .fillMaxSize()
-                .padding(padding)
-                .verticalScroll(rememberScrollState())
-                .padding(horizontal = 20.dp, vertical = 8.dp),
+                .padding(padding),
+            contentAlignment = Alignment.TopCenter,
         ) {
-            Text(
-                text = "Grade level",
-                style = MaterialTheme.typography.titleMedium,
-            )
-            Spacer(modifier = Modifier.height(12.dp))
-            FlowRow(
-                horizontalArrangement = Arrangement.spacedBy(8.dp),
-                verticalArrangement = Arrangement.spacedBy(8.dp),
+            Column(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .widthIn(max = 720.dp)
+                    .verticalScroll(rememberScrollState())
+                    .padding(horizontal = 20.dp, vertical = 16.dp),
             ) {
-                GradeLevel.entries.forEach { level ->
-                    FilterChip(
-                        selected = level == prefs.gradeLevel,
-                        onClick = { viewModel.setGrade(level) },
-                        label = { Text(level.displayLabel) },
-                    )
+                Text(
+                    text = "Grade level",
+                    style = MaterialTheme.typography.titleMedium,
+                )
+                Spacer(modifier = Modifier.height(12.dp))
+                FlowRow(
+                    horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally),
+                    verticalArrangement = Arrangement.spacedBy(8.dp),
+                    modifier = Modifier.fillMaxWidth(),
+                ) {
+                    GradeLevel.entries.forEach { level ->
+                        FilterChip(
+                            selected = level == prefs.gradeLevel,
+                            onClick = { viewModel.setGrade(level) },
+                            label = { Text(level.displayLabel) },
+                        )
+                    }
                 }
-            }
-            Spacer(modifier = Modifier.height(24.dp))
-            HorizontalDivider()
-            Spacer(modifier = Modifier.height(24.dp))
-            Text(
-                text = "Interests (up to 3)",
-                style = MaterialTheme.typography.titleMedium,
-            )
-            Spacer(modifier = Modifier.height(12.dp))
-            FlowRow(
-                horizontalArrangement = Arrangement.spacedBy(8.dp),
-                verticalArrangement = Arrangement.spacedBy(8.dp),
-            ) {
-                Category.MvpCategories.forEach { cat ->
-                    val maxReached = !prefs.selectedCategories.contains(cat) &&
-                        prefs.selectedCategories.size >= 3
-                    FilterChip(
-                        selected = cat in prefs.selectedCategories,
-                        onClick = { if (!maxReached || cat in prefs.selectedCategories) viewModel.toggleCategory(cat) },
-                        label = { Text(cat.displayLabel) },
-                        enabled = !maxReached || cat in prefs.selectedCategories,
-                    )
+                Spacer(modifier = Modifier.height(24.dp))
+                HorizontalDivider()
+                Spacer(modifier = Modifier.height(24.dp))
+                Text(
+                    text = "Interests (up to 3)",
+                    style = MaterialTheme.typography.titleMedium,
+                )
+                Spacer(modifier = Modifier.height(12.dp))
+                FlowRow(
+                    horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally),
+                    verticalArrangement = Arrangement.spacedBy(8.dp),
+                    modifier = Modifier.fillMaxWidth(),
+                ) {
+                    Category.MvpCategories.forEach { cat ->
+                        val maxReached = !prefs.selectedCategories.contains(cat) &&
+                            prefs.selectedCategories.size >= 3
+                        FilterChip(
+                            selected = cat in prefs.selectedCategories,
+                            onClick = {
+                                if (!maxReached || cat in prefs.selectedCategories) {
+                                    viewModel.toggleCategory(cat)
+                                }
+                            },
+                            label = { Text(cat.displayLabel) },
+                            enabled = !maxReached || cat in prefs.selectedCategories,
+                        )
+                    }
                 }
+                Spacer(modifier = Modifier.height(24.dp))
+                HorizontalDivider()
+                Spacer(modifier = Modifier.height(24.dp))
+                Text(
+                    text = "Extended sources (opt-in)",
+                    style = MaterialTheme.typography.titleMedium,
+                )
+                Spacer(modifier = Modifier.height(8.dp))
+                Text(
+                    text = "Adds dictionary, thesaurus, myth, sacred reference, and mature historical vocabulary. " +
+                        "Teen/adult entries respect your grade level.",
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+                Spacer(modifier = Modifier.height(12.dp))
+                LexiconToggle(
+                    title = "WordNet dictionary",
+                    subtitle = "Princeton WordNet definitions + synonyms",
+                    checked = prefs.lexicon.includeWordNet,
+                    onCheckedChange = viewModel::setLexiconWordNet,
+                )
+                LexiconToggle(
+                    title = "Myth & lore",
+                    subtitle = "Greek, Norse, and world mythology",
+                    checked = prefs.lexicon.includeMythology,
+                    onCheckedChange = viewModel::setLexiconMythology,
+                )
+                LexiconToggle(
+                    title = "Sacred reference",
+                    subtitle = "Public-domain scripture vocabulary",
+                    checked = prefs.lexicon.includeSacredReference,
+                    onCheckedChange = viewModel::setLexiconSacred,
+                )
+                LexiconToggle(
+                    title = "Literary & historical",
+                    subtitle = "Philosophy, grey history, mature themes",
+                    checked = prefs.lexicon.includeLiteraryHistorical,
+                    onCheckedChange = viewModel::setLexiconLiterary,
+                )
+                Spacer(modifier = Modifier.height(24.dp))
+                Text(
+                    text = when (val c = matchCount) {
+                        null -> "Counting words…"
+                        0 -> "No exact matches for this combo — home uses a relaxed pool."
+                        1 -> "1 word matches your grade and categories today."
+                        else -> "$c words match your grade and categories."
+                    },
+                    style = MaterialTheme.typography.bodyMedium,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
+                Spacer(modifier = Modifier.height(32.dp))
+                OutlinedButton(
+                    onClick = onShowWhatsNew,
+                    modifier = Modifier.fillMaxWidth(),
+                ) {
+                    Text("What's new")
+                }
+                Spacer(modifier = Modifier.height(12.dp))
+                OutlinedButton(
+                    onClick = { viewModel.resetPreferences() },
+                    modifier = Modifier.fillMaxWidth(),
+                ) {
+                    Text("Reset preferences")
+                }
+                Spacer(modifier = Modifier.height(24.dp))
             }
-            Spacer(modifier = Modifier.height(24.dp))
-            HorizontalDivider()
-            Spacer(modifier = Modifier.height(24.dp))
-            Text(
-                text = "Extended sources (opt-in)",
-                style = MaterialTheme.typography.titleMedium,
-            )
-            Spacer(modifier = Modifier.height(8.dp))
-            Text(
-                text = "Adds dictionary, thesaurus, myth, sacred reference, and mature historical vocabulary. " +
-                    "Teen/adult entries respect your grade level.",
-                style = MaterialTheme.typography.bodySmall,
-                color = MaterialTheme.colorScheme.onSurfaceVariant,
-            )
-            Spacer(modifier = Modifier.height(12.dp))
-            LexiconToggle(
-                title = "WordNet dictionary",
-                subtitle = "Princeton WordNet definitions + synonyms",
-                checked = prefs.lexicon.includeWordNet,
-                onCheckedChange = viewModel::setLexiconWordNet,
-            )
-            LexiconToggle(
-                title = "Myth & lore",
-                subtitle = "Greek, Norse, and world mythology",
-                checked = prefs.lexicon.includeMythology,
-                onCheckedChange = viewModel::setLexiconMythology,
-            )
-            LexiconToggle(
-                title = "Sacred reference",
-                subtitle = "Public-domain scripture vocabulary",
-                checked = prefs.lexicon.includeSacredReference,
-                onCheckedChange = viewModel::setLexiconSacred,
-            )
-            LexiconToggle(
-                title = "Literary & historical",
-                subtitle = "Philosophy, grey history, mature themes",
-                checked = prefs.lexicon.includeLiteraryHistorical,
-                onCheckedChange = viewModel::setLexiconLiterary,
-            )
-            Spacer(modifier = Modifier.height(24.dp))
-            Text(
-                text = when (val c = matchCount) {
-                    null -> "Counting words…"
-                    0 -> "No exact matches for this combo — home uses a relaxed pool."
-                    1 -> "1 word matches your grade and categories today."
-                    else -> "$c words match your grade and categories."
-                },
-                style = MaterialTheme.typography.bodyMedium,
-                color = MaterialTheme.colorScheme.onSurfaceVariant,
-            )
-            Spacer(modifier = Modifier.height(32.dp))
-            OutlinedButton(
-                onClick = onShowWhatsNew,
-                modifier = Modifier.fillMaxWidth(),
-            ) {
-                Text("What's new")
-            }
-            Spacer(modifier = Modifier.height(12.dp))
-            OutlinedButton(
-                onClick = { viewModel.resetPreferences() },
-                modifier = Modifier.fillMaxWidth(),
-            ) {
-                Text("Reset preferences")
-            }
-            Spacer(modifier = Modifier.height(24.dp))
         }
     }
 }

@@ -13,6 +13,17 @@ object AppReleaseCatalog {
     /** Newest first. Add a row for every shipped user-facing release. */
     val releases: List<AppRelease> = listOf(
         AppRelease(
+            versionCode = 6,
+            versionName = "0.2.4",
+            editionName = "Zen UI",
+            highlights = listOf(
+                "Centered, calmer home layout with a readable max-width lane",
+                "Settings and onboarding now stay centered on tablets and large screens",
+                "Quiz, Library, and Word Detail screens use balanced content widths",
+                "Cleaner alignment for empty states, question text, and preference chips",
+            ),
+        ),
+        AppRelease(
             versionCode = 5,
             versionName = "0.2.3",
             editionName = "Open Lexicon",

@@ -4,9 +4,9 @@
 
 Multi-edition master plan for **huge update waves**. This doc complements [ROADMAP.md](./ROADMAP.md) (engineering checklist) with **product editions**, release themes, success metrics, and dependency ordering.
 
-**Current app version:** `0.2.3` (versionCode **5**) — **Edition 2–3 bridge**: Mega corpus + **open lexicon** (WordNet, myth, sacred, literary opt-in packs).
+**Current app version:** `0.2.4` (versionCode **6**) — **Edition 2–3 bridge**: Zen UI polish + Mega corpus + **open lexicon** (WordNet, myth, sacred, literary opt-in packs).
 
-`[AMENDED 2026-06-17]:` Was `0.2.1` (versionCode **3**).
+`[AMENDED 2026-06-17]:` Was `0.2.1` (versionCode **3**), then `0.2.3` (versionCode **5**) after open lexicon.
 
 **Related:** [CHANGELOG.md](./CHANGELOG.md) · [AppReleaseCatalog.kt](../app/src/main/java/com/example/wordofday/data/release/AppReleaseCatalog.kt) (in-app What's New) · [AGENTS.md](../AGENTS.md) (release sync rules).
 
@@ -49,6 +49,12 @@ Multi-edition master plan for **huge update waves**. This doc complements [ROADM
 - [x] Settings → **Extended sources** toggles (off by default)
 - [x] `ContentRating` age gates by grade; source attribution on word detail
 - [x] `DOCS/CONTENT_SOURCES.md` licensing policy
+
+### Shipped in `0.2.4` — Zen UI
+
+- [x] Centered max-width content lanes for Home, Settings, Onboarding, Quiz, Library, and Word Detail
+- [x] Large-screen polish so content stays calm and readable instead of stretching edge-to-edge
+- [x] Centered preference chips, quiz headings, empty states, and word details
 
 ### Shipped in `0.2.2` — Mega Corpus
 

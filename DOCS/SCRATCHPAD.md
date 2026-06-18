@@ -4,6 +4,7 @@
 
 ## Active focus
 
+- `[2026-06-17]` **Zen UI (`0.2.4`):** centered max-width lanes on Home, Settings, Onboarding, Quiz, Library, Word Detail; build green.
 - `[2026-06-17]` **Open lexicon (`0.2.3`):** WordNet + myth/sacred/literary packs; Settings opt-in; age gates; **`CONTENT_SOURCES.md`**.
 - `[2026-06-17]` **Mega corpus (`0.2.2`):** **11,667** rows; **60**/cell × **13** categories; gap **0**.
 - `[2026-06-17]` **Substance depth wave:** quiz mode (§10c), word history + favorites library (§10a/§10b), rich **`WordEntry`** fields (**synonyms**, **usageNote**), expanded **grade_5** / **grade_6** corpus with full metadata.
@@ -18,9 +19,11 @@
 
 ## Last actions (most recent LAST, AVOID MANY EDITS)
 
-1. `[2026-06-17]` **Docs sync:** SUMMARY, CONTENT_8D_PROGRESS, AGENT_WORKMAP, ARCHITECTURE, ROADMAP, README updated for open lexicon **`0.2.3`**.
+1. `[2026-06-17]` **Zen UI (`0.2.4`):** centered content lanes across main screens; version **0.2.4** / code **6**; CHANGELOG + catalog synced; pushed.
 
-2. `[2026-06-17]` **Open lexicon (`0.2.3`):** WordNet + myth/sacred/literary import script; Settings toggles; **`CONTENT_SOURCES.md`**; version **0.2.3** / code **5**; build green.
+2. `[2026-06-17]` **Docs sync:** SUMMARY, CONTENT_8D_PROGRESS, AGENT_WORKMAP, ARCHITECTURE, ROADMAP, README updated for open lexicon **`0.2.3`**.
+
+3. `[2026-06-17]` **Open lexicon (`0.2.3`):** WordNet + myth/sacred/literary import script; Settings toggles; **`CONTENT_SOURCES.md`**; version **0.2.3** / code **5**; build green.
 
 3. `[2026-06-17]` **Mega corpus (`0.2.2`):** `--target 60` + **13** categories + **`extended_lexicons.py`** → **+9,449** rows (**11,667** total); version **0.2.2** / code **4**; build green.
 

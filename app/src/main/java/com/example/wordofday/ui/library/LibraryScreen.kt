@@ -3,12 +3,14 @@ package com.example.wordofday.ui.library
 import android.app.Application
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawing
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.rememberScrollState
@@ -33,6 +35,7 @@ import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
+import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
@@ -82,16 +85,27 @@ fun LibraryScreen(
                 Tab(selected = tab == 1, onClick = { tab = 1 }, text = { Text("List") })
                 Tab(selected = tab == 2, onClick = { tab = 2 }, text = { Text("Favorites") })
             }
-            when (tab) {
-                0 -> HistoryCalendar(
-                    history = history,
-                    onOpenWord = onOpenWord,
+            Box(
+                modifier = Modifier.fillMaxSize(),
+                contentAlignment = Alignment.TopCenter,
+            ) {
+                Column(
                     modifier = Modifier
-                        .fillMaxSize()
-                        .verticalScroll(rememberScrollState()),
-                )
-                1 -> HistoryList(history, onOpenWord)
-                2 -> FavoritesList(favorites, onOpenWord)
+                        .fillMaxWidth()
+                        .widthIn(max = 760.dp),
+                ) {
+                    when (tab) {
+                        0 -> HistoryCalendar(
+                            history = history,
+                            onOpenWord = onOpenWord,
+                            modifier = Modifier
+                                .fillMaxSize()
+                                .verticalScroll(rememberScrollState()),
+                        )
+                        1 -> HistoryList(history, onOpenWord)
+                        2 -> FavoritesList(favorites, onOpenWord)
+                    }
+                }
             }
         }
     }
@@ -155,6 +169,7 @@ private fun EmptyLibraryMessage(message: String) {
             .fillMaxSize()
             .padding(32.dp),
         verticalArrangement = Arrangement.Center,
+        horizontalAlignment = Alignment.CenterHorizontally,
     ) {
         Text(
             text = message,

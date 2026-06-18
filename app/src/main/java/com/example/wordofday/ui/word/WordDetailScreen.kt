@@ -1,6 +1,7 @@
 package com.example.wordofday.ui.word
 
 import android.app.Application
+import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
@@ -9,6 +10,7 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawing
+import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
 import androidx.compose.material.icons.Icons
@@ -98,36 +100,45 @@ fun WordDetailScreen(
             }
             else -> {
                 val entry = word!!
-                Column(
+                Box(
                     modifier = Modifier
                         .fillMaxSize()
-                        .padding(padding)
-                        .verticalScroll(rememberScrollState())
-                        .padding(horizontal = 24.dp, vertical = 16.dp),
-                    horizontalAlignment = Alignment.CenterHorizontally,
+                        .padding(padding),
+                    contentAlignment = Alignment.TopCenter,
                 ) {
-                    Text(
-                        text = entry.word,
-                        modifier = Modifier.semantics { heading() },
-                        style = MaterialTheme.typography.displayMedium,
-                        fontWeight = FontWeight.Bold,
-                        textAlign = TextAlign.Center,
-                    )
-                    Text(
-                        text = "${entry.partOfSpeech} · ${entry.gradeLevel.displayLabel}",
-                        style = MaterialTheme.typography.bodyLarge,
-                        color = MaterialTheme.colorScheme.primary,
-                    )
-                    if (entry.pronunciation.isNotBlank()) {
-                        Spacer(Modifier.height(4.dp))
+                    Column(
+                        modifier = Modifier
+                            .fillMaxWidth()
+                            .widthIn(max = 760.dp)
+                            .verticalScroll(rememberScrollState())
+                            .padding(horizontal = 24.dp, vertical = 20.dp),
+                        horizontalAlignment = Alignment.CenterHorizontally,
+                    ) {
                         Text(
-                            text = entry.pronunciation,
-                            style = MaterialTheme.typography.bodyMedium,
-                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                            text = entry.word,
+                            modifier = Modifier.semantics { heading() },
+                            style = MaterialTheme.typography.displayMedium,
+                            fontWeight = FontWeight.Bold,
+                            textAlign = TextAlign.Center,
                         )
+                        Text(
+                            text = "${entry.partOfSpeech} · ${entry.gradeLevel.displayLabel}",
+                            style = MaterialTheme.typography.bodyLarge,
+                            color = MaterialTheme.colorScheme.primary,
+                            textAlign = TextAlign.Center,
+                        )
+                        if (entry.pronunciation.isNotBlank()) {
+                            Spacer(Modifier.height(4.dp))
+                            Text(
+                                text = entry.pronunciation,
+                                style = MaterialTheme.typography.bodyMedium,
+                                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                textAlign = TextAlign.Center,
+                            )
+                        }
+                        Spacer(Modifier.height(24.dp))
+                        WordDetailContent(word = entry, modifier = Modifier.fillMaxWidth())
                     }
-                    Spacer(Modifier.height(24.dp))
-                    WordDetailContent(word = entry, modifier = Modifier.fillMaxWidth())
                 }
             }
         }
