@@ -13,6 +13,25 @@ object AppReleaseCatalog {
     /** Newest first. Add a row for every shipped user-facing release. */
     val releases: List<AppRelease> = listOf(
         AppRelease(
+            versionCode = 11,
+            versionName = "0.3.4",
+            editionName = "Bright UI",
+            highlights = listOf(
+                "More words now advances through your full topic pool instead of bouncing between two picks",
+                "Refresh keeps your current interest selected — swipe the pager to change topics",
+            ),
+        ),
+        AppRelease(
+            versionCode = 10,
+            versionName = "0.3.3",
+            editionName = "Bright UI",
+            highlights = listOf(
+                "Default theme is now crisp bright white with sharp contrast for easier reading",
+                "Tap the sun or moon icon on the top left of Home to switch light and dark mode",
+                "Your theme choice is remembered across app launches",
+            ),
+        ),
+        AppRelease(
             versionCode = 9,
             versionName = "0.3.2",
             editionName = "Flow Polish",

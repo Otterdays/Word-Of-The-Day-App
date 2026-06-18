@@ -23,17 +23,26 @@ class WordSelectionIndexTest {
 
     @Test
     fun `rotation offset spreads refreshes across the pool`() {
-        val picks = (0 until 12)
+        val picks = (0 until 30)
             .map { offset ->
                 selectionIndex(
                     dayOfYear = 170,
                     rotationOffset = offset,
-                    poolSize = 17,
+                    poolSize = 60,
                 )
             }
             .toSet()
 
-        assertTrue(picks.size > 8)
+        assertTrue(picks.size > 20)
+    }
+
+    @Test
+    fun `consecutive offsets rarely repeat for medium pools`() {
+        val picks = (0 until 10).map { offset ->
+            selectionIndex(dayOfYear = 42, rotationOffset = offset, poolSize = 60)
+        }
+        val repeats = picks.zipWithNext().count { (a, b) -> a == b }
+        assertTrue(repeats <= 1)
     }
 
     @Test

@@ -12,6 +12,29 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+## [0.3.4] - 2026-06-18
+
+### Fixed
+
+- **More words refresh** no longer alternates between only two words when multiple interests are selected — refresh stays on the active topic and advances through its pool.
+- **Selection spread** uses improved index mixing so consecutive refreshes explore more of the available vocabulary.
+
+### Changed
+
+- App version **`0.3.4`** (versionCode **11**).
+
+## [0.3.3] - 2026-06-18
+
+### Added
+
+- **Theme toggle** on Home top-left — sun/moon button switches between light and dark mode.
+- **`ThemePreferencesRepository`** — persists theme choice in DataStore (default: light).
+
+### Changed
+
+- **Default light theme** uses sharp pure-white surfaces and high-contrast ink text instead of warm off-white / dynamic Material You tints.
+- App version **`0.3.3`** (versionCode **10**).
+
 ## [0.3.2] - 2026-06-18
 
 ### Changed

@@ -52,7 +52,10 @@ import kotlinx.coroutines.launch
  * Root navigation: onboarding (first launch) → home; settings as secondary destination.
  */
 @Composable
-fun WordOfDayApp() {
+fun WordOfDayApp(
+    isDarkTheme: Boolean = false,
+    onToggleTheme: () -> Unit = {},
+) {
     val app = LocalContext.current.applicationContext as Application
     val prefsRepo = remember(app) { UserPreferencesRepository(app) }
     val releaseNotesRepo = remember(app) { ReleaseNotesRepository(app) }
@@ -116,6 +119,8 @@ fun WordOfDayApp() {
             composable(AppDestinations.HOME) {
                 HomeScreen(
                     viewModel = viewModel(factory = HomeViewModel.Factory(app)),
+                    isDarkTheme = isDarkTheme,
+                    onToggleTheme = onToggleTheme,
                     onOpenSettings = { navController.navigate(AppDestinations.SETTINGS) },
                     onOpenQuiz = { navController.navigate(AppDestinations.QUIZ) },
                     onOpenLibrary = { navController.navigate(AppDestinations.LIBRARY) },

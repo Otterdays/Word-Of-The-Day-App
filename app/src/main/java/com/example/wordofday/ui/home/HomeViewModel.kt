@@ -181,11 +181,10 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                     gradeLevelOverride = effectiveGrade,
                     rotationOffset = refreshOffset,
                 )
-                val safeIndex = nextActiveCategoryIndex(
-                    rowCount = categoryRows.size,
-                    showFullLoading = showFullLoading,
+                val safeIndex = activeCategoryIndex.coerceIn(
+                    0,
+                    (categoryRows.size - 1).coerceAtLeast(0),
                 )
-                activeCategoryIndex = safeIndex
                 val activeWord = categoryRows.getOrNull(safeIndex)?.word
                     ?: repository.getWordForDate(
                         date = today,
@@ -232,12 +231,6 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                 }
             }
         }
-    }
-
-    private fun nextActiveCategoryIndex(rowCount: Int, showFullLoading: Boolean): Int {
-        if (rowCount <= 0) return 0
-        val current = activeCategoryIndex.coerceIn(0, rowCount - 1)
-        return if (showFullLoading || rowCount == 1) current else Math.floorMod(current + 1, rowCount)
     }
 
     override fun onCleared() {

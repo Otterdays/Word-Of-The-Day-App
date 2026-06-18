@@ -185,8 +185,10 @@ internal fun selectionIndex(
     salt: Int = 0,
 ): Int {
     if (poolSize <= 0) return 0
-    val seed = dayOfYear.toLong() * 1_103_515_245L +
-        rotationOffset.toLong() * 2_654_435_761L +
-        salt.toLong() * 97_531L
-    return Math.floorMod(seed, poolSize.toLong()).toInt()
+    var hash = dayOfYear xor (rotationOffset * 0x9E3779B9) xor (salt * 0x85EBCA6B)
+    hash = hash xor (hash shl 16)
+    hash = hash xor (hash ushr 16)
+    hash *= 0x7FEB352D
+    hash = hash xor (hash ushr 15)
+    return Math.floorMod(hash, poolSize)
 }

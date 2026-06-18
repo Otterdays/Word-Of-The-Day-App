@@ -2,6 +2,10 @@ package com.example.wordofday.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
+// Bright light surfaces + deep inky tones for contrast
+val PureWhite = Color(0xFFFFFFFF)
+val SharpInk = Color(0xFF111111)
+
 // Warm, book-inspired palette — deep inky tones + warm accents
 val Ink50 = Color(0xFFF5F3EF)
 val Ink100 = Color(0xFFE8E4DD)

@@ -80,6 +80,7 @@ import com.example.wordofday.data.model.Category
 import com.example.wordofday.data.model.GradeLevel
 import com.example.wordofday.data.model.UserPreferences
 import com.example.wordofday.data.model.WordEntry
+import com.example.wordofday.ui.components.ThemeToggleIconButton
 import com.example.wordofday.ui.components.WordDetailContent
 import com.example.wordofday.ui.theme.AppSpacing
 import com.example.wordofday.ui.theme.CategoryAccent
@@ -90,6 +91,8 @@ import kotlinx.coroutines.flow.distinctUntilChanged
 @Composable
 fun HomeScreen(
     viewModel: HomeViewModel,
+    isDarkTheme: Boolean,
+    onToggleTheme: () -> Unit,
     onOpenSettings: () -> Unit,
     onOpenQuiz: () -> Unit,
     onOpenLibrary: () -> Unit,
@@ -123,6 +126,12 @@ fun HomeScreen(
             val streak = (uiState as? HomeUiState.Success)?.streakDays ?: 0
             CenterAlignedTopAppBar(
                 title = { Text("Word of the Day") },
+                navigationIcon = {
+                    ThemeToggleIconButton(
+                        isDarkTheme = isDarkTheme,
+                        onToggle = onToggleTheme,
+                    )
+                },
                 actions = {
                     if (streak > 0) {
                         Row(
@@ -151,7 +160,7 @@ fun HomeScreen(
                     }
                 },
                 colors = TopAppBarDefaults.topAppBarColors(
-                    containerColor = MaterialTheme.colorScheme.surface.copy(alpha = 0.92f),
+                    containerColor = MaterialTheme.colorScheme.surface,
                 ),
             )
         },

@@ -4,6 +4,7 @@
 
 ## Active focus
 
+- `[2026-06-18]` **Bright UI (`0.3.3`):` crisp white default theme; Home top-left light/dark toggle; theme persisted in DataStore.
 - `[2026-06-18]` **Flow Polish (`0.3.2`):** repeated More words refresh uses deterministic randomized picks and rotates across selected topics; Home keeps content visible while refreshing; action rows wrap for small screens / large text.
 - `[2026-06-17]` **Depth & Interests (`0.3.1`):** 53 topic picker w/ search; word enrichment for thin rows; compact UI.
 - `[2026-06-17]` **Maturity Edition (`0.3.0`):** Explore search, SM-2 review deck, Progress + achievements, quiz modes (Reverse/Blitz), Room learning layer, word notes, library search, all 14 categories (max 5).
@@ -21,6 +22,10 @@
 - None documented.
 
 ## Last actions (most recent LAST, AVOID MANY EDITS)
+
+1. `[2026-06-18]` **More words fix (`0.3.4`):` stop category rotation on refresh; improved selection hash; version **0.3.4** / code **11**; tests green.
+
+1. `[2026-06-18]` **Bright UI (`0.3.3`):** sharp pure-white light palette; disabled dynamic Material You tinting; **`ThemePreferencesRepository`** + Home top-left sun/moon toggle; version **0.3.3** / code **10**; **`testDebugUnitTest assembleDebug`** green.
 
 1. `[2026-06-18]` **Flow Polish (`0.3.2`):** Home **More words** increments a deterministic randomized word-pool offset and rotates across selected topics; refresh uses inline loading/error state instead of full-screen replacement; learning/action rows now wrap; version **0.3.2** / code **9**; **`testDebugUnitTest assembleDebug`** green.
 
