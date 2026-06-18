@@ -1,13 +1,13 @@
 package com.example.wordofday.ui.quiz
 
+import com.example.wordofday.data.model.QuizMode
 import com.example.wordofday.data.model.QuizQuestion
 import com.example.wordofday.data.model.QuizStats
 
 sealed interface QuizUiState {
     data object Loading : QuizUiState
 
-    data class Ready(
-        val questions: List<QuizQuestion>,
+    data class ModeSelect(
         val stats: QuizStats,
     ) : QuizUiState
 
@@ -19,6 +19,8 @@ sealed interface QuizUiState {
         val selectedIndex: Int?,
         val answered: Boolean,
         val stats: QuizStats,
+        val mode: QuizMode,
+        val secondsLeft: Int? = null,
     ) : QuizUiState {
         val current: QuizQuestion get() = questions[index]
         val isLast: Boolean get() = index == questions.lastIndex
@@ -28,6 +30,7 @@ sealed interface QuizUiState {
         val totalQuestions: Int,
         val sessionCorrect: Int,
         val stats: QuizStats,
+        val mode: QuizMode,
     ) : QuizUiState
 
     data class Error(val message: String) : QuizUiState

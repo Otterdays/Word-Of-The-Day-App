@@ -1,6 +1,7 @@
 package com.example.wordofday.data.repository
 
 import android.content.Context
+import com.example.wordofday.data.content.WordContentEnhancer
 import com.example.wordofday.data.model.Category
 import com.example.wordofday.data.model.GradeLevel
 import com.example.wordofday.data.model.LexiconPreferences
@@ -18,7 +19,9 @@ import kotlinx.coroutines.withContext
  */
 class WordRepository(context: Context) {
 
-    private val dataSource = JsonWordDataSource(context.applicationContext)
+    private val appContext = context.applicationContext
+    private val dataSource = JsonWordDataSource(appContext)
+    private val enhancer = WordContentEnhancer(appContext)
 
     suspend fun getWordForDate(
         date: LocalDate = LocalDate.now(),
@@ -30,7 +33,7 @@ class WordRepository(context: Context) {
             val words = dataSource.loadWordsForGrade(grade, preferences.lexicon)
             val pool = words.filterForPreferencesInGrade(preferences)
             if (pool.isNotEmpty()) {
-                return@withContext pool[date.dayOfYear % pool.size]
+                return@withContext pool[date.dayOfYear % pool.size].present()
             }
         }
         FALLBACK_WORD
@@ -80,6 +83,7 @@ class WordRepository(context: Context) {
             val fullLexicon = preferencesLexiconAll()
             dataSource.loadWordsForGrade(grade, fullLexicon)
                 .find { it.word.lowercase() == normalized }
+                ?.present()
         }
 
     /** All words at user's grade (± adjacent fallback) matching category prefs — for quiz pool. */
@@ -88,12 +92,12 @@ class WordRepository(context: Context) {
             for (grade in gradeSearchOrder(preferences.gradeLevel)) {
                 val words = dataSource.loadWordsForGrade(grade, preferences.lexicon)
                 val pool = words.filterForPreferencesInGrade(preferences).distinctBy { it.word.lowercase() }
-                if (pool.size >= minSize) return@withContext pool
+                if (pool.size >= minSize) return@withContext pool.presentAll()
             }
             val all = gradeSearchOrder(preferences.gradeLevel)
                 .flatMap { dataSource.loadWordsForGrade(it, preferences.lexicon) }
                 .distinctBy { it.word.lowercase() }
-            all.filterForPreferencesInGrade(preferences).ifEmpty { all }
+            all.filterForPreferencesInGrade(preferences).ifEmpty { all }.presentAll()
         }
 
     data class CategoryWord(
@@ -106,6 +110,39 @@ class WordRepository(context: Context) {
             val words = dataSource.loadWordsForGrade(preferences.gradeLevel, preferences.lexicon)
             words.filterForPreferencesInGrade(preferences).size
         }
+
+    suspend fun browseWords(
+        preferences: UserPreferences,
+        limit: Int = 150,
+    ): List<WordEntry> = withContext(Dispatchers.IO) {
+        expandedPool(preferences).take(limit).presentAll()
+    }
+
+    suspend fun searchWords(
+        query: String,
+        preferences: UserPreferences,
+        limit: Int = 80,
+    ): List<WordEntry> = withContext(Dispatchers.IO) {
+        val q = query.trim().lowercase()
+        if (q.isEmpty()) return@withContext browseWords(preferences, limit)
+        expandedPool(preferences).filter { entry ->
+            entry.word.lowercase().contains(q) ||
+                entry.definition.lowercase().contains(q) ||
+                entry.synonyms.any { it.lowercase().contains(q) }
+        }.take(limit).presentAll()
+    }
+
+    private suspend fun expandedPool(preferences: UserPreferences): List<WordEntry> {
+        val merged = gradeSearchOrder(preferences.gradeLevel)
+            .flatMap { dataSource.loadWordsForGrade(it, preferences.lexicon) }
+            .distinctBy { it.word.lowercase() }
+        val filtered = merged.filterForPreferencesInGrade(preferences)
+        return filtered.ifEmpty { merged }
+    }
+
+    private suspend fun WordEntry.present(): WordEntry = enhancer.enrich(this)
+
+    private suspend fun List<WordEntry>.presentAll(): List<WordEntry> = map { it.present() }
 
     companion object {
         private fun preferencesLexiconAll() = LexiconPreferences(

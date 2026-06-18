@@ -13,6 +13,30 @@ object AppReleaseCatalog {
     /** Newest first. Add a row for every shipped user-facing release. */
     val releases: List<AppRelease> = listOf(
         AppRelease(
+            versionCode = 8,
+            versionName = "0.3.1",
+            editionName = "Depth & Interests",
+            highlights = listOf(
+                "53 interest topics in six browsable sections — search Gaming, Ocean, AI, Fashion, and more",
+                "Pick up to eight interests; new tags map to the full corpus intelligently",
+                "Rich word enrichment fixes thin auto-generated entries like stream, podcast, and emoji",
+                "Tighter, more compact home and word cards — less scrolling, same depth",
+            ),
+        ),
+        AppRelease(
+            versionCode = 7,
+            versionName = "0.3.0",
+            editionName = "Maturity Edition",
+            highlights = listOf(
+                "Explore — search 22,000+ words across curated corpus and opt-in lexicon",
+                "Spaced review deck with SM-2 scheduling and a Progress dashboard",
+                "Quiz modes: Classic, Reverse (definition → word), and 15-second Blitz",
+                "Achievements, weekly stats, user sentences, and mark-as-hard on word cards",
+                "All 14 interest categories in settings; pick up to five at once",
+                "Library search on history list and favorites (A–Z sorted)",
+            ),
+        ),
+        AppRelease(
             versionCode = 6,
             versionName = "0.2.4",
             editionName = "Zen UI",

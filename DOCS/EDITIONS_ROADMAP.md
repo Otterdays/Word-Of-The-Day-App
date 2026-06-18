@@ -4,9 +4,9 @@
 
 Multi-edition master plan for **huge update waves**. This doc complements [ROADMAP.md](./ROADMAP.md) (engineering checklist) with **product editions**, release themes, success metrics, and dependency ordering.
 
-**Current app version:** `0.2.4` (versionCode **6**) — **Edition 2–3 bridge**: Zen UI polish + Mega corpus + **open lexicon** (WordNet, myth, sacred, literary opt-in packs).
+**Current app version:** `0.3.0` (versionCode **7**) — **Maturity Edition**: Explore + spaced review + achievements + quiz modes + Room learning layer.
 
-`[AMENDED 2026-06-17]:` Was `0.2.1` (versionCode **3**), then `0.2.3` (versionCode **5**) after open lexicon.
+`[AMENDED 2026-06-17]:` Was `0.2.4` (versionCode **6**) after Zen UI; prior `0.2.3` (versionCode **5**) after open lexicon.
 
 **Related:** [CHANGELOG.md](./CHANGELOG.md) · [AppReleaseCatalog.kt](../app/src/main/java/com/example/wordofday/data/release/AppReleaseCatalog.kt) (in-app What's New) · [AGENTS.md](../AGENTS.md) (release sync rules).
 
@@ -17,11 +17,11 @@ Multi-edition master plan for **huge update waves**. This doc complements [ROADM
 | Edition | Codename | Target version | Theme | Status |
 | --- | --- | --- | --- | --- |
 | **E1** | Foundation | `0.1.x` | Bootable WOTD, grades, categories, nav shell | **Shipped** |
-| **E2** | Substance & Discovery | `0.2.x` | Quiz, library, rich words, engagement, What's New | **In progress** (core shipped `0.2.0`) |
-| **E3** | Content Scale | `0.3.x` | ~2,700 MVP words, 8 more categories, QA pipeline | **MVP matrix shipped** `[2026-06-17]` — remainder: 8 categories, §8e audit |
+| **E2** | Substance & Discovery | `0.2.x` | Quiz, library, rich words, engagement, What's New | **Shipped** (`0.2.4`) |
+| **E3** | Content Scale | `0.3.x` | ~2,700 MVP words, 8 more categories, QA pipeline | **MVP matrix shipped**; UI maturity wave **`0.3.0`** |
 | **E4** | Classroom & Family | `0.4.x` | Profiles, assignments, parent dashboard | Planned |
 | **E5** | Daily Habit | `0.5.x` | Widget, notifications, Wear, streak economy | Planned |
-| **E6** | Adaptive Learning | `0.6.x` | Spaced repetition, weak-word drill, Room history | Planned |
+| **E6** | Adaptive Learning | `0.6.x` | Spaced repetition, weak-word drill, Room history | **Partially shipped** in **`0.3.0`** (SM-2, review deck, progress) |
 | **E7** | Social & Share | `0.7.x` | Leaderboards, friend streaks, export decks | Planned |
 | **E8** | Platform & Polish | `1.0.x` | Play release, i18n, accessibility certification | Planned |
 
@@ -63,10 +63,10 @@ Multi-edition master plan for **huge update waves**. This doc complements [ROADM
 
 ### E2 remainder (`0.2.4` – `0.2.9`)
 
-- [ ] Quiz modes: reverse (definition → word), timed blitz, grade-only pool picker
-- [ ] Library: sort favorites (A–Z, date, grade); search/filter
+- [x] Quiz modes: reverse (definition → word), timed blitz `[AMENDED 2026-06-17]: shipped in **0.3.0**`
+- [x] Library: sort favorites (A–Z); search/filter `[AMENDED 2026-06-17]: shipped in **0.3.0**`
 - [ ] History: export month as shareable text / PDF
-- [ ] Word cards: antonyms, word family, "use in a sentence" user note (local)
+- [x] Word cards: user note (local) `[AMENDED 2026-06-17]: shipped in **0.3.0**`
 - [ ] Onboarding: preview quiz + library in tour
 - [ ] Instrumentation: Compose smoke test for home → quiz → library
 - [ ] Expand grade 7–12 + adult to ≥15 words/file with synonyms/usage

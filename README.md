@@ -5,7 +5,7 @@
 **Expand your vocabulary every day — from Pre-K to Adult, on phone or tablet.**
 
 [![Android CI](https://github.com/Otterdays/Word-Of-The-Day-App/actions/workflows/android-ci.yml/badge.svg)](https://github.com/Otterdays/Word-Of-The-Day-App/actions/workflows/android-ci.yml)
-[![Version](https://img.shields.io/badge/version-0.2.4-7C4DFF?style=flat-square)](https://github.com/Otterdays/Word-Of-The-Day-App/releases)
+[![Version](https://img.shields.io/badge/version-0.3.1-7C4DFF?style=flat-square)](https://github.com/Otterdays/Word-Of-The-Day-App/releases)
 [![Kotlin](https://img.shields.io/badge/Kotlin-2.3.20-7F52FF?style=flat-square&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
 [![API](https://img.shields.io/badge/API-26%2B-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com/about/versions/nougat)

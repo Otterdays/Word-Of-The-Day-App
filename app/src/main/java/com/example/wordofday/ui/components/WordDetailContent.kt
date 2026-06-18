@@ -1,7 +1,11 @@
 package com.example.wordofday.ui.components
 
+import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
+import androidx.compose.foundation.layout.ExperimentalLayoutApi
+import androidx.compose.foundation.layout.FlowRow
 import androidx.compose.foundation.layout.Spacer
+import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
@@ -16,8 +20,10 @@ import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.example.wordofday.data.content.WordContentQuality
 import com.example.wordofday.data.model.ContentSource
 import com.example.wordofday.data.model.WordEntry
+import com.example.wordofday.ui.theme.AppSpacing
 
 // [TRACE: DOCS/ROADMAP.md] — shared rich word detail cards
 @Composable
@@ -27,27 +33,28 @@ fun WordDetailContent(
 ) {
     Column(modifier) {
         DetailCard(label = "Definition", body = word.definition)
-        if (word.synonyms.isNotEmpty()) {
-            Spacer(modifier = Modifier.height(16.dp))
+        val synonyms = WordContentQuality.cleanedSynonyms(word)
+        if (synonyms.isNotEmpty()) {
+            Spacer(modifier = Modifier.height(AppSpacing.detailGap))
             DetailCard(
                 label = "Synonyms",
-                body = word.synonyms.joinToString(", "),
+                body = synonyms.joinToString(", "),
             )
         }
         if (word.usageNote.isNotBlank()) {
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(AppSpacing.detailGap))
             DetailCard(label = "Usage tip", body = word.usageNote)
         }
         if (word.example.isNotBlank()) {
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(AppSpacing.detailGap))
             DetailCard(label = "Example", body = "\"${word.example}\"", italic = true)
         }
         if (word.etymology.isNotBlank()) {
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(AppSpacing.detailGap))
             DetailCard(label = "Etymology", body = word.etymology, subdued = true)
         }
         if (word.source != ContentSource.CURATED) {
-            Spacer(modifier = Modifier.height(16.dp))
+            Spacer(modifier = Modifier.height(AppSpacing.detailGap))
             DetailCard(
                 label = "Source",
                 body = "${word.source.displayLabel} — ${word.source.attribution}",
@@ -66,21 +73,21 @@ private fun DetailCard(
 ) {
     Card(
         modifier = Modifier.fillMaxWidth(),
-        shape = RoundedCornerShape(20.dp),
+        shape = RoundedCornerShape(AppSpacing.cardRadius),
         colors = CardDefaults.cardColors(
             containerColor = MaterialTheme.colorScheme.surfaceContainerHigh,
         ),
         elevation = CardDefaults.cardElevation(defaultElevation = 0.dp),
     ) {
-        Column(modifier = Modifier.padding(24.dp)) {
+        Column(modifier = Modifier.padding(AppSpacing.cardPadding)) {
             Text(
                 text = label.uppercase(),
                 style = MaterialTheme.typography.labelMedium,
                 color = MaterialTheme.colorScheme.primary,
-                letterSpacing = 2.sp,
+                letterSpacing = 1.5.sp,
                 fontWeight = FontWeight.SemiBold,
             )
-            Spacer(modifier = Modifier.height(8.dp))
+            Spacer(modifier = Modifier.height(6.dp))
             Text(
                 text = body,
                 style = MaterialTheme.typography.bodyLarge,
@@ -90,7 +97,7 @@ private fun DetailCard(
                 } else {
                     MaterialTheme.colorScheme.onSurface
                 },
-                lineHeight = 26.sp,
+                lineHeight = 24.sp,
             )
         }
     }

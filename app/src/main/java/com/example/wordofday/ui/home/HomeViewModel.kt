@@ -11,6 +11,7 @@ import com.example.wordofday.data.model.UserPreferences
 import com.example.wordofday.data.model.WordEntry
 import com.example.wordofday.data.preferences.EngagementRepository
 import com.example.wordofday.data.preferences.UserPreferencesRepository
+import com.example.wordofday.data.repository.LearningRepository
 import com.example.wordofday.data.repository.WordRepository
 import java.time.LocalDate
 import java.time.format.DateTimeFormatter
@@ -28,6 +29,7 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
     private val repository = WordRepository(application)
     private val preferencesRepository = UserPreferencesRepository(application)
     private val engagementRepository = EngagementRepository(application)
+    private val learningRepository = LearningRepository(application)
 
     private val _uiState = MutableStateFlow<HomeUiState>(HomeUiState.Loading)
     val uiState: StateFlow<HomeUiState> = _uiState.asStateFlow()
@@ -147,6 +149,7 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
         if (nextGrade == state.effectiveGrade && delta != 0) return
         sessionGradeOffset = nextOffset
         viewModelScope.launch {
+            learningRepository.recordGradeShiftUsed()
             loadWord(state.preferences)
         }
     }
@@ -173,6 +176,9 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                     gradeLevel = activeWord.gradeLevel,
                 )
                 val fav = engagementRepository.isFavorite(repository.favoriteKey(activeWord))
+                val dashboard = learningRepository.loadDashboard()
+                learningRepository.ensureMasterySeed(repository.favoriteKey(activeWord))
+                learningRepository.checkAchievements()
                 val formatted = today.format(
                     DateTimeFormatter.ofPattern("EEEE, MMMM d, yyyy", Locale.getDefault()),
                 )
@@ -186,6 +192,8 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                     activeCategoryIndex = safeIndex,
                     streakDays = streak,
                     isFavorite = fav,
+                    dueReviewCount = dashboard.dueReviewCount,
+                    masteredCount = dashboard.masteredCount,
                 )
             } catch (e: Exception) {
                 _uiState.value = HomeUiState.Error(

@@ -104,7 +104,9 @@ Add rows here when dependencies are declared in Gradle. Each link points at the 
 | **Retrofit** | TBD | REST API for “word of the day” source | [Square Retrofit releases](https://github.com/square/retrofit/releases) |
 | **OkHttp** | TBD | HTTP client | [Square OkHttp releases](https://github.com/square/okhttp/releases) |
 | **Kotlin Serialization** | `1.8.1` | JSON parsing for word data model | [Kotlin serialization docs](https://github.com/Kotlin/kotlinx.serialization) · [releases](https://github.com/Kotlin/kotlinx.serialization/releases) |
-| **Room** | TBD | Offline cache / history | [Room releases](https://developer.android.com/jetpack/androidx/releases/room) |
+| **Room** | `2.7.1` | Mastery, notes, quiz attempt history (KSP codegen) | [Room releases](https://developer.android.com/jetpack/androidx/releases/room) |
+| **WorkManager** | `2.10.0` | Daily reminder worker (dependency declared; worker TBD) | [WorkManager releases](https://developer.android.com/jetpack/androidx/releases/work) |
+| **KSP** | `2.3.9` | Room annotation processing | [KSP releases](https://github.com/google/ksp/releases) |
 
 ---
 

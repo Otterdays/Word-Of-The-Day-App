@@ -2,6 +2,7 @@ plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.compose.compiler)
     alias(libs.plugins.kotlin.serialization)
+    alias(libs.plugins.ksp)
 }
 
 android {
@@ -12,8 +13,8 @@ android {
         applicationId = "com.example.wordofday"
         minSdk = 26
         targetSdk = 36
-        versionCode = 6
-        versionName = "0.2.4"
+        versionCode = 8
+        versionName = "0.3.1"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -66,6 +67,12 @@ dependencies {
     implementation(libs.kotlinx.serialization.json)
 
     implementation(libs.datastore.preferences)
+
+    implementation(libs.room.runtime)
+    implementation(libs.room.ktx)
+    ksp(libs.room.compiler)
+
+    implementation(libs.work.runtime.ktx)
 
     // Testing
     testImplementation(libs.junit)

@@ -81,6 +81,7 @@ import com.example.wordofday.data.model.GradeLevel
 import com.example.wordofday.data.model.UserPreferences
 import com.example.wordofday.data.model.WordEntry
 import com.example.wordofday.ui.components.WordDetailContent
+import com.example.wordofday.ui.theme.AppSpacing
 import com.example.wordofday.ui.theme.CategoryAccent
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.distinctUntilChanged
@@ -92,6 +93,9 @@ fun HomeScreen(
     onOpenSettings: () -> Unit,
     onOpenQuiz: () -> Unit,
     onOpenLibrary: () -> Unit,
+    onOpenExplore: () -> Unit,
+    onOpenReview: () -> Unit,
+    onOpenProgress: () -> Unit,
     modifier: Modifier = Modifier,
 ) {
     val uiState by viewModel.uiState.collectAsState()
@@ -175,6 +179,9 @@ fun HomeScreen(
                         onQuickSwitch = viewModel::showQuickSwitch,
                         onOpenQuiz = onOpenQuiz,
                         onOpenLibrary = onOpenLibrary,
+                        onOpenExplore = onOpenExplore,
+                        onOpenReview = onOpenReview,
+                        onOpenProgress = onOpenProgress,
                         onRefresh = viewModel::refresh,
                         onShare = viewModel::shareCurrentWord,
                         onTryEasier = viewModel::tryEasierWord,
@@ -250,6 +257,9 @@ private fun WordContent(
     onQuickSwitch: () -> Unit,
     onOpenQuiz: () -> Unit,
     onOpenLibrary: () -> Unit,
+    onOpenExplore: () -> Unit,
+    onOpenReview: () -> Unit,
+    onOpenProgress: () -> Unit,
     onRefresh: () -> Unit,
     onShare: () -> Unit,
     onTryEasier: () -> Unit,
@@ -302,7 +312,7 @@ private fun WordContent(
             modifier = Modifier
                 .fillMaxWidth()
                 .widthIn(max = 920.dp)
-                .padding(horizontal = 24.dp, vertical = 20.dp),
+                .padding(horizontal = AppSpacing.screenHorizontal, vertical = AppSpacing.screenVertical),
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
         AnimatedVisibility(
@@ -341,10 +351,10 @@ private fun WordContent(
                         textAlign = TextAlign.Center,
                     )
                 }
-                Spacer(modifier = Modifier.height(12.dp))
+                Spacer(modifier = Modifier.height(8.dp))
                 FlowRow(
-                    horizontalArrangement = Arrangement.spacedBy(8.dp),
-                    verticalArrangement = Arrangement.spacedBy(8.dp),
+                    horizontalArrangement = Arrangement.spacedBy(AppSpacing.chipGap),
+                    verticalArrangement = Arrangement.spacedBy(AppSpacing.chipGap),
                 ) {
                     PreferenceChip(
                         label = state.effectiveGrade.displayLabel,
@@ -362,25 +372,47 @@ private fun WordContent(
             }
         }
 
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(modifier = Modifier.height(10.dp))
 
+        Text(
+            text = "Learning hub",
+            style = MaterialTheme.typography.titleSmall,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+        )
+        Spacer(modifier = Modifier.height(4.dp))
+        Text(
+            text = "${state.masteredCount} mastered · ${state.dueReviewCount} due for review",
+            style = MaterialTheme.typography.bodySmall,
+            color = MaterialTheme.colorScheme.primary,
+            textAlign = TextAlign.Center,
+        )
+        Spacer(modifier = Modifier.height(8.dp))
         Row(
             modifier = Modifier.fillMaxWidth(),
-            horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally),
+            horizontalArrangement = Arrangement.spacedBy(6.dp, Alignment.CenterHorizontally),
         ) {
-            FilledTonalButton(onClick = onOpenQuiz) {
-                Icon(Icons.Default.Quiz, contentDescription = null, modifier = Modifier.size(18.dp))
-                Spacer(Modifier.width(8.dp))
-                Text("Quiz")
+            FilledTonalButton(onClick = onOpenExplore, contentPadding = PaddingValues(horizontal = 10.dp, vertical = 6.dp)) {
+                Text("Explore", style = MaterialTheme.typography.labelLarge)
             }
-            FilledTonalButton(onClick = onOpenLibrary) {
-                Icon(Icons.AutoMirrored.Filled.MenuBook, contentDescription = null, modifier = Modifier.size(18.dp))
-                Spacer(Modifier.width(8.dp))
-                Text("Library")
+            FilledTonalButton(onClick = onOpenReview, contentPadding = PaddingValues(horizontal = 10.dp, vertical = 6.dp)) {
+                Text(if (state.dueReviewCount > 0) "Review (${state.dueReviewCount})" else "Review", style = MaterialTheme.typography.labelLarge)
+            }
+            FilledTonalButton(onClick = onOpenProgress, contentPadding = PaddingValues(horizontal = 10.dp, vertical = 6.dp)) {
+                Text("Progress", style = MaterialTheme.typography.labelLarge)
+            }
+            FilledTonalButton(onClick = onOpenQuiz, contentPadding = PaddingValues(horizontal = 10.dp, vertical = 6.dp)) {
+                Icon(Icons.Default.Quiz, contentDescription = null, modifier = Modifier.size(16.dp))
+                Spacer(Modifier.width(4.dp))
+                Text("Quiz", style = MaterialTheme.typography.labelLarge)
+            }
+            FilledTonalButton(onClick = onOpenLibrary, contentPadding = PaddingValues(horizontal = 10.dp, vertical = 6.dp)) {
+                Icon(Icons.AutoMirrored.Filled.MenuBook, contentDescription = null, modifier = Modifier.size(16.dp))
+                Spacer(Modifier.width(4.dp))
+                Text("Library", style = MaterialTheme.typography.labelLarge)
             }
         }
 
-        Spacer(modifier = Modifier.height(12.dp))
+        Spacer(modifier = Modifier.height(8.dp))
 
         Row(
             modifier = Modifier.fillMaxWidth(),
@@ -402,7 +434,7 @@ private fun WordContent(
             }
         }
 
-        Spacer(modifier = Modifier.height(12.dp))
+        Spacer(modifier = Modifier.height(8.dp))
 
         Row(
             modifier = Modifier.fillMaxWidth(),
@@ -436,7 +468,7 @@ private fun WordContent(
             )
         }
 
-        Spacer(modifier = Modifier.height(24.dp))
+        Spacer(modifier = Modifier.height(16.dp))
 
         AnimatedVisibility(
             visible = showWord,
@@ -509,7 +541,7 @@ private fun WordPage(
                 onSpeak = onSpeak,
                 modifier = Modifier.fillMaxWidth(),
             )
-            Spacer(modifier = Modifier.height(32.dp))
+            Spacer(modifier = Modifier.height(16.dp))
             AnimatedVisibility(
                 visible = showDetails,
                 enter = fadeIn() + slideInVertically { 80 },

@@ -4,6 +4,8 @@
 
 ## Active focus
 
+- `[2026-06-17]` **Depth & Interests (`0.3.1`):** 53 topic picker w/ search; word enrichment for thin rows; compact UI.
+- `[2026-06-17]` **Maturity Edition (`0.3.0`):** Explore search, SM-2 review deck, Progress + achievements, quiz modes (Reverse/Blitz), Room learning layer, word notes, library search, all 14 categories (max 5).
 - `[2026-06-17]` **Zen UI (`0.2.4`):** centered max-width lanes on Home, Settings, Onboarding, Quiz, Library, Word Detail; build green.
 - `[2026-06-17]` **Open lexicon (`0.2.3`):** WordNet + myth/sacred/literary packs; Settings opt-in; age gates; **`CONTENT_SOURCES.md`**.
 - `[2026-06-17]` **Mega corpus (`0.2.2`):** **11,667** rows; **60**/cell × **13** categories; gap **0**.
@@ -19,9 +21,11 @@
 
 ## Last actions (most recent LAST, AVOID MANY EDITS)
 
-1. `[2026-06-17]` **Zen UI (`0.2.4`):** centered content lanes across main screens; version **0.2.4** / code **6**; CHANGELOG + catalog synced; pushed.
+1. `[2026-06-17]` **Depth & Interests (`0.3.1`):** 53 interests + enrichment layer + compact UI; version **0.3.1** / code **8**; **`testDebugUnitTest assembleDebug`** green.
 
-2. `[2026-06-17]` **Docs sync:** SUMMARY, CONTENT_8D_PROGRESS, AGENT_WORKMAP, ARCHITECTURE, ROADMAP, README updated for open lexicon **`0.2.3`**.
+2. `[2026-06-17]` **Maturity Edition (`0.3.0`):** Explore + Review + Progress; Room + SM-2 + achievements; quiz Reverse/Blitz; word notes; library search; all 14 categories (max 5); version **0.3.0** / code **7**; **`testDebugUnitTest assembleDebug`** green.
+
+2. `[2026-06-17]` **Zen UI (`0.2.4`):** centered content lanes across main screens; version **0.2.4** / code **6**; CHANGELOG + catalog synced; pushed.
 
 3. `[2026-06-17]` **Open lexicon (`0.2.3`):** WordNet + myth/sacred/literary import script; Settings toggles; **`CONTENT_SOURCES.md`**; version **0.2.3** / code **5**; build green.
 

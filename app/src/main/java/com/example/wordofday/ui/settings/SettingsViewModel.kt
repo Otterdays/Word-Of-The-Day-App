@@ -10,6 +10,7 @@ import com.example.wordofday.data.model.GradeLevel
 import com.example.wordofday.data.model.LexiconPreferences
 import com.example.wordofday.data.model.UserPreferences
 import com.example.wordofday.data.preferences.UserPreferencesRepository
+import com.example.wordofday.data.repository.LearningRepository
 import com.example.wordofday.data.repository.WordRepository
 import com.example.wordofday.ui.preferences.toggleCategorySelection
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -23,6 +24,7 @@ class SettingsViewModel(application: Application) : AndroidViewModel(application
 
     private val prefsRepo = UserPreferencesRepository(application)
     private val wordRepository = WordRepository(application)
+    private val learningRepository = LearningRepository(application)
 
     val preferences: StateFlow<UserPreferences> = prefsRepo.preferences.stateIn(
         viewModelScope,
@@ -50,6 +52,10 @@ class SettingsViewModel(application: Application) : AndroidViewModel(application
             val current = preferences.value.selectedCategories
             val next = current.toggleCategorySelection(category)
             prefsRepo.setSelectedCategories(next)
+            if (next.size >= 8) {
+                learningRepository.recordFiveCategoriesSelected()
+            }
+            learningRepository.checkAchievements()
         }
     }
 

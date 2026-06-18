@@ -2,7 +2,7 @@ package com.example.wordofday.ui.preferences
 
 import com.example.wordofday.data.model.Category
 
-internal fun Set<Category>.toggleCategorySelection(cat: Category, max: Int = 3): Set<Category> {
+internal fun Set<Category>.toggleCategorySelection(cat: Category, max: Int = 8): Set<Category> {
     if (cat in this) {
         if (size <= 1) return this
         return this - cat

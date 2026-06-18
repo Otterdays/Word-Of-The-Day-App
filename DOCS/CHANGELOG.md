@@ -12,6 +12,39 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+## [0.3.1] - 2026-06-17
+
+### Added
+
+- **53 interest topics** grouped in six sections with search on onboarding and settings (up to **8** selections).
+- **Category content affinity** — new interests (Gaming, Podcasts, Ocean, etc.) match relevant corpus tags.
+- **Word enrichment layer** — `assets/word_enrichment/overrides.json` + runtime patcher for thin auto-filled rows.
+- **`InterestPicker`** shared component; **`AppSpacing`** compact layout tokens.
+
+### Changed
+
+- **Word cards** hide placeholder synonyms (`related term`) and surface real definitions for words like **stream**.
+- **Home** action row consolidated; reduced padding on home, settings, onboarding, and detail cards.
+- App version **`0.3.1`** (versionCode **8**).
+
+## [0.3.0] - 2026-06-17
+
+### Added
+
+- **Explore screen** — full-text search across curated + opt-in lexicon (**22k+** rows).
+- **Spaced review** — SM-2 flashcard deck with due counts on Home; **Review** screen.
+- **Progress dashboard** — weekly quiz/review stats + **~20 achievements**.
+- **Room database** — mastery state, user sentences, quiz attempt history.
+- **Quiz modes** — **Reverse** (definition → word) and **Blitz** (15s timer).
+- **Word notes** — save your own sentence + **Mark as hard** on word detail.
+- **Library search** — filter history list and favorites; favorites sorted A–Z.
+
+### Changed
+
+- Settings + onboarding expose **all 14 categories** (up to **5** selections).
+- Home **Learning hub** row: Explore · Review · Progress shortcuts.
+- App version **`0.3.0`** (versionCode **7**).
+
 ## [0.2.4] - 2026-06-17
 
 ### Changed

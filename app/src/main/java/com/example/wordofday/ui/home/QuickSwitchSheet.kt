@@ -89,7 +89,7 @@ fun QuickSwitchSheet(
             }
             Spacer(modifier = Modifier.height(16.dp))
             Text(
-                text = "Categories (pick up to 3)",
+                text = "Categories (pick up to 8)",
                 style = MaterialTheme.typography.titleSmall,
             )
             Spacer(modifier = Modifier.height(8.dp))
@@ -97,7 +97,7 @@ fun QuickSwitchSheet(
                 horizontalArrangement = Arrangement.spacedBy(8.dp),
                 verticalArrangement = Arrangement.spacedBy(8.dp),
             ) {
-                Category.MvpCategories.forEach { cat ->
+                Category.AllPickerCategories.forEach { cat ->
                     FilterChip(
                         selected = cat in draftCategories,
                         onClick = {

@@ -22,6 +22,8 @@ sealed interface HomeUiState {
         val activeCategoryIndex: Int,
         val streakDays: Int,
         val isFavorite: Boolean,
+        val dueReviewCount: Int = 0,
+        val masteredCount: Int = 0,
     ) : HomeUiState {
         val canTryEasier: Boolean
             get() = effectiveGrade.canShiftEasier()

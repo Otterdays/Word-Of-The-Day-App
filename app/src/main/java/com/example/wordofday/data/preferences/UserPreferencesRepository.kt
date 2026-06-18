@@ -115,6 +115,6 @@ class UserPreferencesRepository(private val context: Context) {
     }
 
     companion object {
-        private const val MAX_CATEGORY_SELECTION = 3
+        private const val MAX_CATEGORY_SELECTION = 8
     }
 }

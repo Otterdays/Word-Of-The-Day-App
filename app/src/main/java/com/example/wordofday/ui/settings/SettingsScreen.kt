@@ -33,6 +33,11 @@ import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
+import com.example.wordofday.ui.components.InterestPicker
+import com.example.wordofday.ui.theme.AppSpacing
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
@@ -54,6 +59,7 @@ fun SettingsScreen(
 ) {
     val prefs by viewModel.preferences.collectAsState()
     val matchCount by viewModel.matchingWordCount.collectAsState()
+    var interestSearch by remember { mutableStateOf("") }
 
     Scaffold(
         modifier = modifier.fillMaxSize(),
@@ -106,35 +112,22 @@ fun SettingsScreen(
                         )
                     }
                 }
-                Spacer(modifier = Modifier.height(24.dp))
+                Spacer(modifier = Modifier.height(16.dp))
                 HorizontalDivider()
-                Spacer(modifier = Modifier.height(24.dp))
+                Spacer(modifier = Modifier.height(16.dp))
                 Text(
-                    text = "Interests (up to 3)",
+                    text = "Interests (${Category.entries.size} topics, up to 8)",
                     style = MaterialTheme.typography.titleMedium,
                 )
-                Spacer(modifier = Modifier.height(12.dp))
-                FlowRow(
-                    horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally),
-                    verticalArrangement = Arrangement.spacedBy(8.dp),
-                    modifier = Modifier.fillMaxWidth(),
-                ) {
-                    Category.MvpCategories.forEach { cat ->
-                        val maxReached = !prefs.selectedCategories.contains(cat) &&
-                            prefs.selectedCategories.size >= 3
-                        FilterChip(
-                            selected = cat in prefs.selectedCategories,
-                            onClick = {
-                                if (!maxReached || cat in prefs.selectedCategories) {
-                                    viewModel.toggleCategory(cat)
-                                }
-                            },
-                            label = { Text(cat.displayLabel) },
-                            enabled = !maxReached || cat in prefs.selectedCategories,
-                        )
-                    }
-                }
-                Spacer(modifier = Modifier.height(24.dp))
+                Spacer(modifier = Modifier.height(8.dp))
+                InterestPicker(
+                    selected = prefs.selectedCategories,
+                    onToggle = viewModel::toggleCategory,
+                    maxSelection = 8,
+                    searchQuery = interestSearch,
+                    onSearchChange = { interestSearch = it },
+                )
+                Spacer(modifier = Modifier.height(16.dp))
                 HorizontalDivider()
                 Spacer(modifier = Modifier.height(24.dp))
                 Text(

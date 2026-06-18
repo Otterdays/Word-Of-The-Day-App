@@ -10,6 +10,9 @@ object AppDestinations {
     const val SETTINGS = "settings"
     const val QUIZ = "quiz"
     const val LIBRARY = "library"
+    const val EXPLORE = "explore"
+    const val REVIEW = "review"
+    const val PROGRESS = "progress"
     const val WORD_DETAIL = "word_detail/{wordKey}"
 
     fun wordDetailRoute(wordKey: String): String {

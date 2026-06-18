@@ -26,16 +26,23 @@ import com.example.wordofday.BuildConfig
 import com.example.wordofday.data.preferences.ReleaseNotesRepository
 import com.example.wordofday.data.preferences.UserPreferencesRepository
 import com.example.wordofday.data.release.AppRelease
+import com.example.wordofday.ui.explore.ExploreScreen
+import com.example.wordofday.ui.explore.ExploreViewModel
 import com.example.wordofday.ui.home.HomeScreen
 import com.example.wordofday.ui.home.HomeViewModel
 import com.example.wordofday.ui.library.LibraryScreen
 import com.example.wordofday.ui.navigation.AppDestinations
 import com.example.wordofday.ui.onboarding.OnboardingScreen
+import com.example.wordofday.ui.progress.ProgressScreen
+import com.example.wordofday.ui.progress.ProgressViewModel
 import com.example.wordofday.ui.quiz.QuizScreen
 import com.example.wordofday.ui.quiz.QuizViewModel
+import com.example.wordofday.ui.review.ReviewScreen
+import com.example.wordofday.ui.review.ReviewViewModel
 import com.example.wordofday.ui.settings.SettingsScreen
 import com.example.wordofday.ui.update.UpdateModal
 import com.example.wordofday.ui.word.WordDetailScreen
+import com.example.wordofday.data.repository.WordRepository
 import java.net.URLDecoder
 import java.nio.charset.StandardCharsets
 import kotlinx.coroutines.flow.first
@@ -49,6 +56,7 @@ fun WordOfDayApp() {
     val app = LocalContext.current.applicationContext as Application
     val prefsRepo = remember(app) { UserPreferencesRepository(app) }
     val releaseNotesRepo = remember(app) { ReleaseNotesRepository(app) }
+    val wordRepository = remember(app) { WordRepository(app) }
     val navController = rememberNavController()
     val scope = rememberCoroutineScope()
     var ready by remember { mutableStateOf(false) }
@@ -111,6 +119,9 @@ fun WordOfDayApp() {
                     onOpenSettings = { navController.navigate(AppDestinations.SETTINGS) },
                     onOpenQuiz = { navController.navigate(AppDestinations.QUIZ) },
                     onOpenLibrary = { navController.navigate(AppDestinations.LIBRARY) },
+                    onOpenExplore = { navController.navigate(AppDestinations.EXPLORE) },
+                    onOpenReview = { navController.navigate(AppDestinations.REVIEW) },
+                    onOpenProgress = { navController.navigate(AppDestinations.PROGRESS) },
                 )
             }
             composable(AppDestinations.SETTINGS) {
@@ -131,6 +142,26 @@ fun WordOfDayApp() {
                     onOpenWord = { key ->
                         navController.navigate(AppDestinations.wordDetailRoute(key))
                     },
+                )
+            }
+            composable(AppDestinations.EXPLORE) {
+                ExploreScreen(
+                    onBack = { navController.popBackStack() },
+                    onOpenWord = { key -> navController.navigate(AppDestinations.wordDetailRoute(key)) },
+                    favoriteKeyFor = { entry -> wordRepository.favoriteKey(entry) },
+                    viewModel = viewModel(factory = ExploreViewModel.Factory(app)),
+                )
+            }
+            composable(AppDestinations.REVIEW) {
+                ReviewScreen(
+                    onBack = { navController.popBackStack() },
+                    viewModel = viewModel(factory = ReviewViewModel.Factory(app)),
+                )
+            }
+            composable(AppDestinations.PROGRESS) {
+                ProgressScreen(
+                    onBack = { navController.popBackStack() },
+                    viewModel = viewModel(factory = ProgressViewModel.Factory(app)),
                 )
             }
             composable(

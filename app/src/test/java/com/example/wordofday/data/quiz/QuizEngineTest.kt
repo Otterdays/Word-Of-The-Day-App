@@ -1,6 +1,7 @@
 package com.example.wordofday.data.quiz
 
 import com.example.wordofday.data.model.GradeLevel
+import com.example.wordofday.data.model.QuizMode
 import com.example.wordofday.data.model.WordEntry
 import org.junit.Assert.assertEquals
 import org.junit.Assert.assertTrue
@@ -29,5 +30,13 @@ class QuizEngineTest {
         val question = QuizEngine.buildQuestion(prompt, pool, random = kotlin.random.Random(0))
         assertEquals(prompt.definition, question.options[question.correctIndex])
         assertEquals(4, question.options.size)
+    }
+
+    @Test
+    fun `reverse question uses word options`() {
+        val prompt = pool.first()
+        val question = QuizEngine.buildQuestion(prompt, pool, QuizMode.REVERSE, random = kotlin.random.Random(0))
+        assertEquals(prompt.word, question.options[question.correctIndex])
+        assertEquals(QuizMode.REVERSE, question.mode)
     }
 }

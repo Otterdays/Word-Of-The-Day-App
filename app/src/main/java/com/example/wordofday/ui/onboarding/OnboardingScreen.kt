@@ -8,7 +8,8 @@ import androidx.compose.animation.togetherWith
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.FlowRow
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.WindowInsets
 import androidx.compose.foundation.layout.fillMaxSize
@@ -43,8 +44,13 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import com.example.wordofday.data.model.Category
 import com.example.wordofday.data.model.GradeLevel
+import com.example.wordofday.ui.components.InterestPicker
+import com.example.wordofday.ui.theme.AppSpacing
 
 // [TRACE: DOCS/ROADMAP.md] — §9a onboarding
 @OptIn(ExperimentalMaterial3Api::class)
@@ -82,7 +88,7 @@ fun OnboardingScreen(
                 modifier = Modifier
                     .fillMaxWidth()
                     .widthIn(max = 640.dp)
-                    .padding(horizontal = 24.dp),
+                    .padding(horizontal = AppSpacing.screenHorizontal),
             ) {
                 TextButton(
                     onClick = { viewModel.skip(onFinished) },
@@ -135,9 +141,9 @@ private fun GradeStep(
             textAlign = TextAlign.Center,
             modifier = Modifier.fillMaxWidth(),
         )
-        Spacer(modifier = Modifier.height(20.dp))
+        Spacer(modifier = Modifier.height(12.dp))
         LazyColumn(
-            verticalArrangement = Arrangement.spacedBy(8.dp),
+            verticalArrangement = Arrangement.spacedBy(6.dp),
             modifier = Modifier.weight(1f),
         ) {
             items(GradeLevel.entries.toList()) { level ->
@@ -157,11 +163,11 @@ private fun GradeStep(
                     },
                     modifier = Modifier
                         .fillMaxWidth()
-                        .heightIn(min = if (young) 52.dp else 44.dp),
+                        .heightIn(min = if (young) 44.dp else 40.dp),
                 )
             }
         }
-        Spacer(modifier = Modifier.height(16.dp))
+        Spacer(modifier = Modifier.height(10.dp))
         Button(
             onClick = onContinue,
             modifier = Modifier.fillMaxWidth(),
@@ -183,6 +189,7 @@ private fun CategoryStep(
     onBack: () -> Unit,
     onFinish: () -> Unit,
 ) {
+    var search by remember { mutableStateOf("") }
     Column(Modifier.fillMaxSize()) {
         Text(
             text = "What are you into?",
@@ -190,38 +197,33 @@ private fun CategoryStep(
             textAlign = TextAlign.Center,
             modifier = Modifier.fillMaxWidth(),
         )
-        Spacer(modifier = Modifier.height(8.dp))
+        Spacer(modifier = Modifier.height(6.dp))
         Text(
-            text = "Pick up to three interests (optional). General stays a good default.",
+            text = "Choose up to eight from ${Category.entries.size} topics — search or browse by section.",
             style = MaterialTheme.typography.bodyMedium,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
             textAlign = TextAlign.Center,
             modifier = Modifier.fillMaxWidth(),
         )
-        Spacer(modifier = Modifier.height(20.dp))
-        FlowRow(
-            horizontalArrangement = Arrangement.spacedBy(8.dp, Alignment.CenterHorizontally),
-            verticalArrangement = Arrangement.spacedBy(8.dp),
+        Spacer(modifier = Modifier.height(10.dp))
+        InterestPicker(
+            selected = selected,
+            onToggle = onToggle,
+            maxSelection = 8,
+            searchQuery = search,
+            onSearchChange = { search = it },
             modifier = Modifier
-                .fillMaxWidth()
-                .weight(1f),
-        ) {
-            Category.MvpCategories.forEach { cat ->
-                FilterChip(
-                    selected = cat in selected,
-                    onClick = { onToggle(cat) },
-                    label = { Text(cat.displayLabel) },
-                )
-            }
-        }
-        Spacer(modifier = Modifier.height(16.dp))
+                .weight(1f)
+                .verticalScroll(rememberScrollState()),
+        )
+        Spacer(modifier = Modifier.height(10.dp))
         OutlinedButton(
             onClick = onBack,
             modifier = Modifier.fillMaxWidth(),
         ) {
             Text("Back")
         }
-        Spacer(modifier = Modifier.height(8.dp))
+        Spacer(modifier = Modifier.height(6.dp))
         Button(
             onClick = onFinish,
             modifier = Modifier.fillMaxWidth(),

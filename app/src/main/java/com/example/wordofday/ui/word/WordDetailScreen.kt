@@ -18,17 +18,22 @@ import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FilterChip
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.OutlinedTextField
+import androidx.compose.material3.TextButton
 import androidx.compose.material3.Scaffold
 import androidx.compose.material3.Text
 import androidx.compose.material3.TopAppBarDefaults
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
+import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -39,9 +44,11 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.example.wordofday.data.model.WordEntry
+import com.example.wordofday.data.repository.LearningRepository
 import com.example.wordofday.data.repository.WordRepository
 import com.example.wordofday.ui.components.WordDetailContent
 import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -53,12 +60,24 @@ fun WordDetailScreen(
 ) {
     val app = LocalContext.current.applicationContext as Application
     val repository = remember(app) { WordRepository(app) }
+    val learningRepository = remember(app) { LearningRepository(app) }
+    val scope = rememberCoroutineScope()
     var word by remember(wordKey) { mutableStateOf<WordEntry?>(null) }
     var error by remember(wordKey) { mutableStateOf<String?>(null) }
+    var userSentence by remember(wordKey) { mutableStateOf("") }
+    var markedHard by remember(wordKey) { mutableStateOf(false) }
+    val noteFlow = remember(wordKey) { learningRepository.observeNote(wordKey) }
+    val note by noteFlow.collectAsState(initial = null)
+
+    LaunchedEffect(note) {
+        userSentence = note?.userSentence.orEmpty()
+        markedHard = note?.markedHard == true
+    }
 
     LaunchedEffect(wordKey) {
         try {
             word = withContext(Dispatchers.IO) { repository.resolveKey(wordKey) }
+            learningRepository.ensureMasterySeed(wordKey)
             if (word == null) error = "Word not found"
         } catch (e: Exception) {
             error = e.message ?: "Could not load word"
@@ -138,6 +157,42 @@ fun WordDetailScreen(
                         }
                         Spacer(Modifier.height(24.dp))
                         WordDetailContent(word = entry, modifier = Modifier.fillMaxWidth())
+                        Spacer(Modifier.height(28.dp))
+                        Text(
+                            text = "Your sentence",
+                            style = MaterialTheme.typography.titleMedium,
+                            modifier = Modifier.fillMaxWidth(),
+                        )
+                        Spacer(Modifier.height(8.dp))
+                        OutlinedTextField(
+                            value = userSentence,
+                            onValueChange = { userSentence = it },
+                            modifier = Modifier.fillMaxWidth(),
+                            placeholder = { Text("Use ${entry.word} in a sentence…") },
+                            minLines = 2,
+                        )
+                        Spacer(Modifier.height(8.dp))
+                        FilterChip(
+                            selected = markedHard,
+                            onClick = {
+                                scope.launch {
+                                    markedHard = learningRepository.toggleHard(wordKey)
+                                }
+                            },
+                            label = { Text(if (markedHard) "Marked hard" else "Mark as hard") },
+                        )
+                        if (userSentence != note?.userSentence.orEmpty()) {
+                            Spacer(Modifier.height(8.dp))
+                            TextButton(
+                                onClick = {
+                                    scope.launch {
+                                        learningRepository.saveUserSentence(wordKey, userSentence)
+                                    }
+                                },
+                            ) {
+                                Text("Save sentence")
+                            }
+                        }
                     }
                 }
             }

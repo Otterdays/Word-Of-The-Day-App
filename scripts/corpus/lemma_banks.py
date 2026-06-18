@@ -262,6 +262,13 @@ _SYNONYMS: dict[str, list[str]] = {
     "abstraction": ["simplification", "model"],
     "marinate": ["soak", "steep"],
     "biodiversity": ["variety of life", "species richness"],
+    "stream": ["broadcast live", "transmit", "flow", "feed"],
+    "podcast": ["audio show", "episodic series", "talk series"],
+    "emoji": ["emoticon", "reaction icon", "symbol"],
+    "sandbox": ["test environment", "isolated instance"],
+    "middleware": ["integration layer", "message broker"],
+    "hashtag": ["tag", "topic label"],
+    "devops": ["continuous delivery", "release automation"],
 }
 
 _USAGE: dict[str, str] = {
@@ -270,6 +277,13 @@ _USAGE: dict[str, str] = {
     "endurance": "Applies to mental tasks as well as physical sports.",
     "encryption": "Protects data in transit and at rest when implemented well.",
     "homeostasis": "Failure of homeostasis often signals illness.",
+    "stream": "To transmit or receive media continuously over the internet; also a flowing body of water.",
+    "podcast": "A digital audio series released in episodes for download or streaming.",
+    "emoji": "A small pictograph used in digital messages to express ideas or emotions.",
+    "sandbox": "An isolated environment for safely testing code or software.",
+    "middleware": "Software that connects applications to databases or other services.",
+    "hashtag": "A #tag that groups social posts by topic.",
+    "devops": "Practices that combine development and operations to ship software reliably.",
     "Moore's law": "Use cautiously; physical limits now complicate the trend.",
     "surveillance capitalism": "Term popularized by scholar Shoshana Zuboff.",
     "CRISPR": "Raises ethical questions about germline editing.",

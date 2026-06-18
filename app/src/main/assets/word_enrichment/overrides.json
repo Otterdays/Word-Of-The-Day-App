@@ -1,0 +1,182 @@
+{
+  "words": {
+    "stream": {
+      "pronunciation": "/striːm/",
+      "definition": "To send or receive audio, video, or data continuously over the internet in real time, without downloading the entire file first; also, a steady flow of water, information, or events.",
+      "example": "Fans across the country stream the concert live on their phones.",
+      "synonyms": ["broadcast live", "transmit", "feed", "flow"],
+      "usageNote": "Digital streaming took off with broadband; context tells you whether it means a creek or a live broadcast.",
+      "etymology": "From Old English strēam (flowing water); the media sense emerged in the 1990s–2000s."
+    },
+    "podcast": {
+      "pronunciation": "/ˈpɒdkɑːst/",
+      "definition": "A digital audio series released in episodes that listeners can download or stream on demand.",
+      "example": "She subscribed to a science podcast that drops every Tuesday morning.",
+      "synonyms": ["audio show", "episodic series", "talk series"],
+      "usageNote": "Coined from iPod + broadcast; most podcasts are free with optional paid tiers.",
+      "etymology": "Blend of iPod and broadcast, popularized around 2004."
+    },
+    "emoji": {
+      "definition": "A small digital icon or picture used in messages and social posts to express an idea, emotion, or reaction.",
+      "example": "He added a thumbs-up emoji to show he agreed with the plan.",
+      "synonyms": ["emoticon", "reaction icon", "symbol"],
+      "usageNote": "Tone can vary by platform and culture — the same emoji may read differently on different devices."
+    },
+    "hashtag": {
+      "definition": "A word or phrase preceded by # that groups public posts on social media around a topic or event.",
+      "example": "Students used #ScienceFair2026 to share project photos.",
+      "synonyms": ["tag", "topic label", "metadata tag"],
+      "usageNote": "Hashtags are searchable metadata, not part of the sentence grammar."
+    },
+    "sandbox": {
+      "definition": "An isolated testing environment where code or software can run safely without affecting production systems or real user data.",
+      "example": "Developers prototype new features in a sandbox before shipping them live.",
+      "synonyms": ["test environment", "isolated instance", "staging area"],
+      "usageNote": "Common in software security and game design (open-world sandboxes)."
+    },
+    "middleware": {
+      "definition": "Software that sits between applications and databases or services, handling routing, authentication, messaging, or other shared plumbing.",
+      "example": "Middleware translated the mobile app's requests into the legacy billing system.",
+      "synonyms": ["integration layer", "message broker", "application bridge"],
+      "usageNote": "You rarely notice middleware until it fails — then everything downstream breaks."
+    },
+    "devops": {
+      "definition": "A practice combining software development and IT operations to ship reliable software faster through automation, monitoring, and collaboration.",
+      "example": "Their DevOps pipeline runs tests automatically on every code commit.",
+      "synonyms": ["continuous delivery culture", "platform engineering", "release automation"],
+      "usageNote": "DevOps is a culture and toolchain, not a single job title or product."
+    },
+    "ci/cd": {
+      "definition": "Continuous Integration and Continuous Delivery — automated pipelines that build, test, and deploy code changes frequently and predictably.",
+      "example": "CI/CD caught the failing unit test before the bug reached production.",
+      "synonyms": ["delivery pipeline", "automated deployment", "build automation"],
+      "usageNote": "CI merges and tests often; CD extends that to staging or production releases."
+    },
+    "bookmark": {
+      "definition": "A saved link or marker that lets you return quickly to a webpage, document, or passage later.",
+      "example": "She bookmarked the dictionary entry to review before the quiz.",
+      "synonyms": ["saved link", "favorite page", "marker"],
+      "usageNote": "Browser bookmarks differ from social-media bookmarks, but the idea is the same."
+    },
+    "cloud": {
+      "definition": "Remote servers accessed over the internet where data and applications are stored and run instead of on a local device.",
+      "example": "Photos sync to the cloud so they survive a lost phone.",
+      "synonyms": ["remote hosting", "online storage", "distributed servers"],
+      "usageNote": "The cloud is physical data centers — not literally the sky."
+    },
+    "algorithm": {
+      "definition": "A step-by-step procedure for solving a problem or completing a task, especially one encoded for a computer.",
+      "example": "The recommendation algorithm surfaced words she had marked as hard.",
+      "synonyms": ["procedure", "method", "process"],
+      "usageNote": "Algorithms shape feeds, maps, and search — understanding inputs helps you interpret outputs."
+    },
+    "bandwidth": {
+      "definition": "The capacity of a network connection to carry data in a given time, or metaphorically, personal time and energy available for tasks.",
+      "example": "4K streaming needs more bandwidth than a voice call.",
+      "synonyms": ["throughput", "data capacity", "headroom"],
+      "usageNote": "Informally, I don't have the bandwidth means I'm too busy."
+    },
+    "cache": {
+      "definition": "A temporary store of data kept close to where it is needed so future requests load faster.",
+      "example": "The app cache made yesterday's word list appear instantly offline.",
+      "synonyms": ["buffer store", "temporary memory", "fast lookup"],
+      "usageNote": "Caches can show stale content until they refresh."
+    },
+    "debug": {
+      "definition": "To find and fix errors in code or a system, often using logs, breakpoints, or test cases.",
+      "example": "They debugged the crash by reproducing the steps on a test device.",
+      "synonyms": ["troubleshoot", "diagnose", "fix defects"],
+      "usageNote": "Good debug notes save hours the next time the bug appears."
+    },
+    "firewall": {
+      "definition": "A security system that monitors and filters network traffic according to rules, blocking unauthorized access.",
+      "example": "The school firewall blocked downloads from unknown app stores.",
+      "synonyms": ["network filter", "access control", "security barrier"],
+      "usageNote": "Firewalls can be hardware appliances or software on your laptop."
+    },
+    "metadata": {
+      "definition": "Data that describes other data — such as author, date, file size, or tags — making content easier to find and organize.",
+      "example": "Photo metadata recorded when and where the picture was taken.",
+      "synonyms": ["descriptor data", "catalog info", "tags"],
+      "usageNote": "Privacy settings may strip location metadata before you share an image."
+    },
+    "open source": {
+      "definition": "Software whose source code is publicly available to use, study, modify, and distribute under an approved license.",
+      "example": "The team chose an open-source dictionary tool they could customize legally.",
+      "synonyms": ["public code", "community software", "FOSS"],
+      "usageNote": "Open source still has licenses — read them before commercial use."
+    },
+    "phishing": {
+      "definition": "A fraudulent attempt to trick someone into revealing passwords or financial details, often through fake emails or websites.",
+      "example": "The phishing message mimicked the bank's logo but used a suspicious link.",
+      "synonyms": ["credential theft scam", "social engineering attack", "spoofing"],
+      "usageNote": "Verify senders out-of-band; never click urgent password links blindly."
+    },
+    "router": {
+      "definition": "A device that forwards data packets between networks, commonly connecting home devices to the internet.",
+      "example": "Restarting the router restored Wi‑Fi in the classroom.",
+      "synonyms": ["network gateway", "wireless hub", "packet forwarder"],
+      "usageNote": "Router and modem roles differ though one box may combine both."
+    },
+    "server": {
+      "definition": "A computer or program that provides data, files, or services to other computers called clients.",
+      "example": "The quiz scores sync to a server when you're back online.",
+      "synonyms": ["host", "backend machine", "server node"],
+      "usageNote": "Cloud servers scale up during traffic spikes."
+    },
+    "sync": {
+      "definition": "To keep data consistent across multiple devices or users by updating copies whenever changes occur.",
+      "example": "Favorites sync between her phone and tablet overnight.",
+      "synonyms": ["synchronize", "mirror", "align copies"],
+      "usageNote": "Sync conflicts happen when two devices edit the same note offline."
+    },
+    "upload": {
+      "definition": "To transfer a file from a local device to a remote server or cloud storage.",
+      "example": "Upload your sentence notes before switching phones.",
+      "synonyms": ["send file", "push to cloud", "transfer upstream"],
+      "usageNote": "Upload speed is often slower than download on home connections."
+    },
+    "username": {
+      "definition": "A unique name that identifies an account on a website or service, often paired with a password.",
+      "example": "Pick a username that doesn't reveal your full real name.",
+      "synonyms": ["handle", "login name", "account ID"],
+      "usageNote": "Usernames may be public even when passwords stay secret."
+    },
+    "wi-fi": {
+      "definition": "A wireless networking technology that connects devices to the internet or each other using radio waves.",
+      "example": "Guest Wi‑Fi let visitors download the app without using mobile data.",
+      "synonyms": ["wireless LAN", "WLAN", "wireless internet"],
+      "usageNote": "Wi‑Fi security (WPA3) matters on public networks."
+    },
+    "blockchain": {
+      "definition": "A distributed digital ledger where records are linked in blocks and secured by cryptography across many computers.",
+      "example": "The article explained how blockchain creates tamper-evident transaction history.",
+      "synonyms": ["distributed ledger", "chain of blocks", "cryptographic ledger"],
+      "usageNote": "Not every product labeled blockchain needs a blockchain."
+    },
+    "machine learning": {
+      "definition": "A branch of AI where systems improve at tasks by finding patterns in data rather than following only hand-written rules.",
+      "example": "Machine learning models can rank review words you struggle with most.",
+      "synonyms": ["statistical learning", "predictive modeling", "ML"],
+      "usageNote": "Models reflect biases present in training data."
+    },
+    "encryption": {
+      "definition": "The process of encoding information so only authorized parties with the correct key can read it.",
+      "example": "End-to-end encryption kept the message unreadable on the server.",
+      "synonyms": ["ciphering", "encoding", "cryptographic protection"],
+      "usageNote": "Encryption protects data in transit and at rest when implemented correctly."
+    },
+    "biomechanics": {
+      "definition": "The study of forces, motion, and structure in living bodies, especially how muscles and joints produce athletic movement.",
+      "example": "Coaches used biomechanics to refine her sprint start technique.",
+      "synonyms": ["movement science", "kinetics of sport", "mechanics of motion"],
+      "usageNote": "Biomechanics links physics with anatomy and training."
+    },
+    "doping": {
+      "definition": "The use of banned substances or methods to unfairly enhance athletic performance.",
+      "example": "Anti-doping tests aim to keep competition fair for all athletes.",
+      "synonyms": ["performance-enhancing drugs", "PED use", "cheating via substances"],
+      "usageNote": "Rules vary by sport and governing body."
+    }
+  }
+}

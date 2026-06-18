@@ -19,6 +19,7 @@ import androidx.compose.material3.Button
 import androidx.compose.material3.CenterAlignedTopAppBar
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.compose.material3.FilledTonalButton
 import androidx.compose.material3.Icon
 import androidx.compose.material3.IconButton
 import androidx.compose.material3.LinearProgressIndicator
@@ -37,6 +38,7 @@ import androidx.compose.ui.semantics.semantics
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import com.example.wordofday.data.model.QuizMode
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -78,10 +80,47 @@ fun QuizScreen(
             ) {
                 when (val s = state) {
                     is QuizUiState.Loading -> BoxCentered { CircularProgressIndicator() }
-                    is QuizUiState.Error -> ErrorContent(s.message, onRetry = viewModel::startSession)
+                    is QuizUiState.Error -> ErrorContent(s.message, onRetry = viewModel::prepareModeSelect)
+                    is QuizUiState.ModeSelect -> ModeSelectContent(s, viewModel::startMode)
                     is QuizUiState.InProgress -> QuizQuestionContent(s, viewModel::selectOption, viewModel::advance)
-                    is QuizUiState.Finished -> QuizResultsContent(s, onRetry = viewModel::startSession)
-                    is QuizUiState.Ready -> Unit
+                    is QuizUiState.Finished -> QuizResultsContent(s, onRetry = viewModel::prepareModeSelect)
+                }
+            }
+        }
+    }
+}
+
+@Composable
+private fun ModeSelectContent(
+    state: QuizUiState.ModeSelect,
+    onStart: (QuizMode) -> Unit,
+) {
+    Column(
+        modifier = Modifier
+            .fillMaxSize()
+            .verticalScroll(rememberScrollState()),
+        verticalArrangement = Arrangement.spacedBy(12.dp),
+    ) {
+        Text(
+            "Choose a quiz mode",
+            style = MaterialTheme.typography.titleLarge,
+            fontWeight = FontWeight.SemiBold,
+            modifier = Modifier.fillMaxWidth(),
+            textAlign = TextAlign.Center,
+        )
+        Text(
+            "Lifetime accuracy: ${state.stats.accuracyPercent}% · Best streak ${state.stats.bestStreak}",
+            style = MaterialTheme.typography.bodyMedium,
+            color = MaterialTheme.colorScheme.onSurfaceVariant,
+            textAlign = TextAlign.Center,
+            modifier = Modifier.fillMaxWidth(),
+        )
+        Spacer(Modifier.height(8.dp))
+        QuizMode.entries.forEach { mode ->
+            FilledTonalButton(onClick = { onStart(mode) }, modifier = Modifier.fillMaxWidth()) {
+                Column {
+                    Text(mode.displayLabel, fontWeight = FontWeight.SemiBold)
+                    Text(mode.description, style = MaterialTheme.typography.bodySmall)
                 }
             }
         }
@@ -120,31 +159,34 @@ private fun QuizQuestionContent(
     val progress = (state.index + 1).toFloat() / state.questions.size
     Column(Modifier.fillMaxSize()) {
         LinearProgressIndicator(progress = { progress }, modifier = Modifier.fillMaxWidth())
+        state.secondsLeft?.let { left ->
+            Spacer(Modifier.height(8.dp))
+            Text(
+                text = "⏱ $left s",
+                style = MaterialTheme.typography.titleMedium,
+                color = MaterialTheme.colorScheme.error,
+                textAlign = TextAlign.Center,
+                modifier = Modifier.fillMaxWidth(),
+            )
+        }
         Spacer(Modifier.height(8.dp))
         Text(
-            text = "Question ${state.index + 1} of ${state.questions.size}",
+            text = "Question ${state.index + 1} of ${state.questions.size} · ${state.mode.displayLabel}",
             style = MaterialTheme.typography.labelLarge,
-            color = MaterialTheme.colorScheme.onSurfaceVariant,
-            textAlign = TextAlign.Center,
-            modifier = Modifier.fillMaxWidth(),
-        )
-        Text(
-            text = "Lifetime accuracy: ${state.stats.accuracyPercent}%",
-            style = MaterialTheme.typography.bodySmall,
             color = MaterialTheme.colorScheme.onSurfaceVariant,
             textAlign = TextAlign.Center,
             modifier = Modifier.fillMaxWidth(),
         )
         Spacer(Modifier.height(24.dp))
         Text(
-            text = "What does this word mean?",
+            text = state.current.promptCaption,
             style = MaterialTheme.typography.titleMedium,
             textAlign = TextAlign.Center,
             modifier = Modifier.fillMaxWidth(),
         )
         Spacer(Modifier.height(12.dp))
         Text(
-            text = state.current.promptWord.word,
+            text = state.current.promptText,
             style = MaterialTheme.typography.displaySmall,
             fontWeight = FontWeight.Bold,
             textAlign = TextAlign.Center,
@@ -152,13 +194,15 @@ private fun QuizQuestionContent(
                 .fillMaxWidth()
                 .semantics { heading() },
         )
-        Text(
-            text = state.current.promptWord.partOfSpeech,
-            style = MaterialTheme.typography.bodyLarge,
-            color = MaterialTheme.colorScheme.primary,
-            textAlign = TextAlign.Center,
-            modifier = Modifier.fillMaxWidth(),
-        )
+        if (state.mode != QuizMode.REVERSE) {
+            Text(
+                text = state.current.promptWord.partOfSpeech,
+                style = MaterialTheme.typography.bodyLarge,
+                color = MaterialTheme.colorScheme.primary,
+                textAlign = TextAlign.Center,
+                modifier = Modifier.fillMaxWidth(),
+            )
+        }
         Spacer(Modifier.height(24.dp))
         Column(
             modifier = Modifier
@@ -189,9 +233,14 @@ private fun QuizQuestionContent(
             }
         }
         if (state.answered) {
-            val correct = state.selectedIndex == state.current.correctIndex
+            val timedOut = state.selectedIndex == -1
+            val correct = !timedOut && state.selectedIndex == state.current.correctIndex
             Text(
-                text = if (correct) "Correct!" else "The right answer is highlighted.",
+                text = when {
+                    correct -> "Correct!"
+                    timedOut -> "Time's up!"
+                    else -> "The right answer is highlighted."
+                },
                 color = if (correct) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.error,
                 fontWeight = FontWeight.SemiBold,
                 modifier = Modifier.padding(vertical = 8.dp),
@@ -216,7 +265,7 @@ private fun QuizResultsContent(
         verticalArrangement = Arrangement.Center,
         horizontalAlignment = Alignment.CenterHorizontally,
     ) {
-        Text("Session complete", style = MaterialTheme.typography.headlineSmall)
+        Text("${state.mode.displayLabel} complete", style = MaterialTheme.typography.headlineSmall)
         Spacer(Modifier.height(16.dp))
         Text(
             text = "${state.sessionCorrect} / ${state.totalQuestions} correct",
