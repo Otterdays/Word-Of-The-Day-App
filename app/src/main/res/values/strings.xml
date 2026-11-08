@@ -6,4 +6,7 @@
     <string name="notification_daily_title">Word of the Day</string>
     <string name="notification_test_title">Word of the Day (test)</string>
     <string name="notification_daily_body">%1$s — %2$s</string>
+    <string name="widget_description">Today\'s word and definition on your home screen</string>
+    <string name="widget_open_app">Open the app to load today\'s word</string>
+    <string name="widget_content_description">Word of the day: %1$s. %2$s</string>
 </resources>

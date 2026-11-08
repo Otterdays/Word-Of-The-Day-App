@@ -69,10 +69,14 @@ object WordNotificationHelper {
             .setPriority(NotificationCompat.PRIORITY_DEFAULT)
             .build()
 
-        NotificationManagerCompat.from(appContext).notify(
-            if (isTest) TEST_NOTIFICATION_ID else DAILY_NOTIFICATION_ID,
-            notification,
-        )
+        try {
+            NotificationManagerCompat.from(appContext).notify(
+                if (isTest) TEST_NOTIFICATION_ID else DAILY_NOTIFICATION_ID,
+                notification,
+            )
+        } catch (_: SecurityException) {
+            // Permission revoked between the check above and posting — skip silently.
+        }
     }
 
     private fun openAppPendingIntent(context: Context): PendingIntent {

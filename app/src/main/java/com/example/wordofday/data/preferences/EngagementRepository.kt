@@ -61,13 +61,18 @@ class EngagementRepository(private val context: Context) {
         context.engagementDataStore.edit { prefs ->
             val last = prefs[EngagementKeys.lastOpenDate]
             val current = prefs[EngagementKeys.streakCount] ?: 0
+            val lastDate = last?.let { runCatching { LocalDate.parse(it) }.getOrNull() }
             updated = when {
                 last == iso -> current
+                // Clock moved backwards (travel / manual change): keep the streak, don't reset.
+                lastDate != null && lastDate.isAfter(today) -> current.coerceAtLeast(1)
                 last == today.minusDays(1).toString() -> current + 1
                 else -> 1
             }
             prefs[EngagementKeys.streakCount] = updated
-            prefs[EngagementKeys.lastOpenDate] = iso
+            if (lastDate == null || !lastDate.isAfter(today)) {
+                prefs[EngagementKeys.lastOpenDate] = iso
+            }
         }
         return updated
     }
@@ -136,15 +141,26 @@ class EngagementRepository(private val context: Context) {
             gradeLevel: GradeLevel,
         ): String = "${date}|$wordKey|$word|${gradeLevel.name}"
 
+        /**
+         * Format: `date|wordKey|word|GRADE`. The wordKey itself contains `|`
+         * (`GRADE|lemma`), so parse from both ends instead of a fixed split.
+         */
         fun decodeHistoryRecord(raw: String): WordHistoryEntry? {
-            val parts = raw.split("|", limit = 4)
-            if (parts.size < 4) return null
-            val date = runCatching { LocalDate.parse(parts[0]) }.getOrNull() ?: return null
-            val grade = runCatching { GradeLevel.valueOf(parts[3]) }.getOrNull() ?: return null
+            val first = raw.indexOf('|')
+            val last = raw.lastIndexOf('|')
+            if (first <= 0 || last <= first) return null
+            val date = runCatching { LocalDate.parse(raw.substring(0, first)) }.getOrNull() ?: return null
+            val grade = runCatching { GradeLevel.valueOf(raw.substring(last + 1)) }.getOrNull() ?: return null
+            val middle = raw.substring(first + 1, last)
+            val wordSep = middle.lastIndexOf('|')
+            if (wordSep <= 0) return null
+            val wordKey = middle.substring(0, wordSep)
+            val word = middle.substring(wordSep + 1)
+            if (word.isBlank()) return null
             return WordHistoryEntry(
                 date = date,
-                wordKey = parts[1],
-                word = parts[2],
+                wordKey = wordKey,
+                word = word,
                 gradeLevel = grade,
             )
         }

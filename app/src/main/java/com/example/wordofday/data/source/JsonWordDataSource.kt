@@ -19,16 +19,21 @@ class JsonWordDataSource(private val context: Context) {
 
     private val json = Json { ignoreUnknownKeys = true }
     private val coreCache = ConcurrentHashMap<GradeLevel, List<WordEntry>>()
-    private val mergedCache = ConcurrentHashMap<String, List<WordEntry>>()
+    /** Bounded LRU: big lexicon grades are several MB each; keep only a handful in memory. */
+    private val mergedCache = object : LinkedHashMap<String, List<WordEntry>>(16, 0.75f, true) {
+        override fun removeEldestEntry(eldest: MutableMap.MutableEntry<String, List<WordEntry>>?): Boolean =
+            size > MAX_CACHED_GRADES
+    }
 
     fun loadWordsForGrade(
         grade: GradeLevel,
         lexicon: LexiconPreferences = LexiconPreferences(),
     ): List<WordEntry> {
         val cacheKey = "${grade.name}|${lexiconCacheKey(lexicon)}"
-        return mergedCache.getOrPut(cacheKey) {
-            mergeDistinct(loadCore(grade), loadSupplemental(grade, lexicon))
-        }
+        synchronized(mergedCache) { mergedCache[cacheKey] }?.let { return it }
+        val merged = mergeDistinct(loadCore(grade), loadSupplemental(grade, lexicon))
+        synchronized(mergedCache) { mergedCache[cacheKey] = merged }
+        return merged
     }
 
     private fun loadCore(grade: GradeLevel): List<WordEntry> =
@@ -48,6 +53,9 @@ class JsonWordDataSource(private val context: Context) {
         }
         if (lexicon.includeLiteraryHistorical) {
             out += loadPackFiltered("lexicon/packs/literary_historical.json", grade)
+        }
+        if (lexicon.includeVintage) {
+            out += loadFromAsset("lexicon/vintage/${grade.wordsAssetBaseName}.json", grade)
         }
         return out
     }
@@ -96,9 +104,12 @@ class JsonWordDataSource(private val context: Context) {
             append(if (lexicon.includeMythology) 'm' else '-')
             append(if (lexicon.includeSacredReference) 's' else '-')
             append(if (lexicon.includeLiteraryHistorical) 'l' else '-')
+            append(if (lexicon.includeVintage) 'v' else '-')
         }
 
     companion object {
+        private const val MAX_CACHED_GRADES = 6
+
         fun maxContentRatingForGrade(grade: GradeLevel): ContentRating = when (grade) {
             GradeLevel.PRE_K,
             GradeLevel.KINDERGARTEN,

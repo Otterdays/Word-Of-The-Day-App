@@ -43,6 +43,9 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
     private var refreshOffset = 0
     private var loadJob: Job? = null
     private var tts: TextToSpeech? = null
+    private var ttsReady = false
+    private var pendingSpeech: String? = null
+    private var loadedDate: LocalDate? = null
 
     init {
         viewModelScope.launch {
@@ -57,6 +60,18 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                     refreshOffset = 0
                     loadWord(prefs, showFullLoading = true)
                 }
+        }
+    }
+
+    /** Called on every resume: if the calendar day changed while the app sat open, roll over. */
+    fun onResume() {
+        val loaded = loadedDate ?: return
+        if (loaded == LocalDate.now()) return
+        viewModelScope.launch {
+            val prefs = preferencesRepository.preferences.first()
+            sessionGradeOffset = 0
+            refreshOffset = 0
+            loadWord(prefs, showFullLoading = false)
         }
     }
 
@@ -120,16 +135,29 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
 
     fun speakCurrentWord() {
         val state = _uiState.value as? HomeUiState.Success ?: return
-        val app = getApplication<Application>()
-        if (tts == null) {
-            tts = TextToSpeech(app) { status ->
-                if (status == TextToSpeech.SUCCESS) {
-                    tts?.language = Locale.getDefault()
-                    tts?.speak(state.word.word, TextToSpeech.QUEUE_FLUSH, null, "word")
-                }
+        val text = state.word.word
+        val engine = tts
+        if (engine != null && ttsReady) {
+            engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "word")
+            return
+        }
+        pendingSpeech = text
+        if (engine != null) return // still initialising; will speak on ready
+        tts = TextToSpeech(getApplication<Application>()) { status ->
+            val t = tts ?: return@TextToSpeech
+            if (status != TextToSpeech.SUCCESS) {
+                tts = null
+                return@TextToSpeech
             }
-        } else {
-            tts?.speak(state.word.word, TextToSpeech.QUEUE_FLUSH, null, "word")
+            // Corpus is English: prefer US English, fall back to any English, then default.
+            val result = t.setLanguage(Locale.US)
+            if (result == TextToSpeech.LANG_MISSING_DATA || result == TextToSpeech.LANG_NOT_SUPPORTED) {
+                t.setLanguage(Locale.ENGLISH)
+            }
+            t.setSpeechRate(0.9f)
+            ttsReady = true
+            pendingSpeech?.let { t.speak(it, TextToSpeech.QUEUE_FLUSH, null, "word") }
+            pendingSpeech = null
         }
     }
 
@@ -203,6 +231,8 @@ class HomeViewModel(application: Application) : AndroidViewModel(application) {
                 val dashboard = learningRepository.loadDashboard()
                 learningRepository.ensureMasterySeed(repository.favoriteKey(activeWord))
                 learningRepository.checkAchievements()
+                loadedDate = today
+                com.example.wordofday.widget.WordWidgetProvider.requestUpdate(getApplication())
                 val formatted = today.format(
                     DateTimeFormatter.ofPattern("EEEE, MMMM d, yyyy", Locale.getDefault()),
                 )

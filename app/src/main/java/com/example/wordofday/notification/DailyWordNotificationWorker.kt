@@ -22,6 +22,7 @@ class DailyWordNotificationWorker(
         val userPrefs = UserPreferencesRepository(applicationContext).preferences.first()
         val word = WordRepository(applicationContext).getWordForDate(preferences = userPrefs)
         WordNotificationHelper.showDailyWord(applicationContext, word)
+        com.example.wordofday.widget.WordWidgetProvider.requestUpdate(applicationContext)
         DailyNotificationScheduler.scheduleNext(
             applicationContext,
             notificationPrefs.hour,

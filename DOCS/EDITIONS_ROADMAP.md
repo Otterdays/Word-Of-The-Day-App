@@ -4,7 +4,11 @@
 
 Multi-edition master plan for **huge update waves**. This doc complements [ROADMAP.md](./ROADMAP.md) (engineering checklist) with **product editions**, release themes, success metrics, and dependency ordering.
 
-**Current app version:** `0.3.5` (versionCode **12**) — **Daily Habit** start: opt-in daily notifications + debug test button.
+**Current app version:** `0.4.0` (versionCode **14**) — **Mega Lexicon**: 97k-word open dictionary + 20k vintage words (opt-in).
+
+`[AMENDED 2026-11-04]:` Previous line: `0.3.6` (versionCode **13**) — **Daily Habit**: home screen widget + history/rollover/streak/TTS fixes.
+
+`[AMENDED 2026-11-03]:` Previous line: `0.3.5` (versionCode **12**) — **Daily Habit** start: opt-in daily notifications + debug test button.
 
 `[AMENDED 2026-06-18]:` Was `0.3.4` (versionCode **11**) after More words refresh fix.
 `[AMENDED 2026-06-17]:` Was `0.2.4` (versionCode **6**) after Zen UI; prior `0.2.3` (versionCode **5**) after open lexicon.

@@ -89,3 +89,7 @@
 
 - `[AMENDED 2026-03-30]:` Root project has been converted from Java app to Android multi-module parent. Old `src/main/java/com/example/App.java` is now orphaned (not in any module) — can be deleted.
 - `[AMENDED 2026-03-31]:` ~~Root project is still a **Java application** module; Android migration is a discrete future task.~~ Superseded — `:app` is the Android module; root is Gradle parent only.
+
+`[2026-11-03]` **0.3.6 (vc 13):** Added home screen widget (`widget/`). Fixed history decode (pipe in wordKey), day rollover on resume, epoch-day selection, streak on backwards clock, TTS English/init race. Note: `gradle.properties` pins a Windows `org.gradle.java.home`; on Linux build with `-Dorg.gradle.java.home=<jbr>`.
+
+`[2026-11-04]` **0.4.0 (vc 14) Mega Lexicon:** `scripts/build_mega_lexicon.py` → 97,592 open-dictionary + 19,903 vintage words. Sources cached at `~/.cache/wotd-lexicon/` (not committed, ~580 MB). Release APK 10.2 MB. Not device-tested (user asked: no emulator). Next: consider filtering multi-word phrases from young grades.

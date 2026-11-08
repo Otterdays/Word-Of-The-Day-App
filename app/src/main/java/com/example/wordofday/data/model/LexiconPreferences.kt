@@ -6,7 +6,8 @@ data class LexiconPreferences(
     val includeMythology: Boolean = false,
     val includeSacredReference: Boolean = false,
     val includeLiteraryHistorical: Boolean = false,
+    val includeVintage: Boolean = false,
 ) {
     fun anyEnabled(): Boolean =
-        includeWordNet || includeMythology || includeSacredReference || includeLiteraryHistorical
+        includeWordNet || includeMythology || includeSacredReference || includeLiteraryHistorical || includeVintage
 }

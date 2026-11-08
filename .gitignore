@@ -44,3 +44,4 @@ captures/
 # IDEs
 .idea/
 .vscode/
+.venv-lexicon/

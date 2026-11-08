@@ -12,6 +12,39 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 
 ### Changed
 
+## [0.4.0] - 2026-11-04
+
+### Added
+
+- **Open dictionary (mega lexicon)** — `lexicon/wordnet/` rebuilt by new `scripts/build_mega_lexicon.py`: **97,592** words from Open English WordNet 2024 (CC BY 4.0), enriched with Wiktionary (kaikki.org, CC BY-SA 4.0) pronunciation, etymology and examples, CMU Pronouncing Dictionary (BSD) fallback; OEWN `lexfile` mapped to categories (animals, food, emotions, …).
+- **Vintage words pack** — `lexicon/vintage/`: **19,903** rare/obsolete words from Webster's Revised Unabridged 1913 (public domain); new Settings toggle, `ContentSource.VINTAGE`, `LexiconPreferences.includeVintage`.
+- Source credits line in Settings → Extended sources; `DOCS/licenses/CMUDICT_LICENSE.txt`.
+
+### Changed
+
+- Grade level for lexicon words comes from wordfreq commonness (build-time only) instead of word/definition length.
+- Safety: Wiktionary vulgar/offensive/slur first senses dropped (548 words); other flagged or mature-topic words rated `ADULT` and kept to 9th grade and up.
+- `JsonWordDataSource` merged cache is a bounded LRU (6 grades); search walks grades nearest-first and stops early; browse covers the nearest 3 grades — keeps memory flat with 117k+ words.
+- `import_open_lexicon.py` no longer overwrites `lexicon/wordnet/` unless `--legacy-wordnet`.
+- Release APK: **10.2 MB**.
+
+## [0.3.6] - 2026-11-03
+
+### Added
+
+- **Home screen widget** (`WordWidgetProvider` + `WordWidgetWorker`) — today's word, part of speech, pronunciation and definition; light/dark colors; refreshes on word load, daily notification, timezone/time/locale change, and a WorkManager job just after local midnight.
+- `HistoryRecordCodecTest` regression tests.
+
+### Fixed
+
+- **Word history never decoded** — `wordKey` (`GRADE|lemma`) contains `|`, so the fixed `split(limit = 4)` rejected every record; Library history/calendar and history-based progress were empty. Decoder now parses from both ends (existing stored records recover automatically).
+- **Day rollover** — Home reloads on resume when the calendar date changed while the app stayed open.
+- **Annual repeats** — `selectionIndex` keyed on epoch day instead of day-of-year.
+- **Streak reset on clock change** — clock moving backwards no longer resets the streak to 1.
+- **Notification crash** — posting no longer throws if notification permission is revoked mid-delivery (also clears the `MissingPermission` lint error that failed CI).
+- **Build** — Gradle wrapper moved off a deleted 9.6.0 snapshot to stable **9.8.2**.
+- **Pronunciation** — TTS speaks in English (corpus language), first tap no longer races engine init, failed init can retry.
+
 ## [0.3.5] - 2026-06-18
 
 ### Added

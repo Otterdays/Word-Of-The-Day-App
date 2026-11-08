@@ -344,14 +344,20 @@ def write_json(path: Path, data: list[dict]) -> None:
 
 
 def main() -> None:
-    ensure_nltk_wordnet()
-    print("Building WordNet per-grade files…")
-    wordnet = build_wordnet_entries()
+    # [AMENDED 2026-11-04]: lexicon/wordnet/ is now built by scripts/build_mega_lexicon.py
+    # (Open English WordNet + Wiktionary + CMU). Pass --legacy-wordnet to regenerate the old
+    # capped Princeton files instead (this overwrites the big lexicon).
     wn_total = 0
-    for stem, rows in wordnet.items():
-        write_json(WORDNET_DIR / f"{stem}.json", rows)
-        wn_total += len(rows)
-        print(f"  wordnet/{stem}.json — {len(rows)} rows")
+    if "--legacy-wordnet" in sys.argv:
+        ensure_nltk_wordnet()
+        print("Building legacy Princeton WordNet per-grade files…")
+        wordnet = build_wordnet_entries()
+        for stem, rows in wordnet.items():
+            write_json(WORDNET_DIR / f"{stem}.json", rows)
+            wn_total += len(rows)
+            print(f"  wordnet/{stem}.json — {len(rows)} rows")
+    else:
+        print("Skipping WordNet (built by build_mega_lexicon.py).")
 
     myth = expand_mythology_pack()
     sacred = expand_sacred_pack()

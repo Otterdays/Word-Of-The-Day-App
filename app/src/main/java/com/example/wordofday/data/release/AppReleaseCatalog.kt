@@ -13,6 +13,30 @@ object AppReleaseCatalog {
     /** Newest first. Add a row for every shipped user-facing release. */
     val releases: List<AppRelease> = listOf(
         AppRelease(
+            versionCode = 14,
+            versionName = "0.4.0",
+            editionName = "Mega Lexicon",
+            highlights = listOf(
+                "Open dictionary now has almost 100,000 words, up from about 10,000 (turn it on in Settings, Extended sources)",
+                "Most words now include a pronunciation, a short word history and an example sentence",
+                "New Vintage words pack: about 20,000 forgotten gems from Webster's 1913 dictionary",
+                "Grade levels now follow how common a word really is, and mature words stay out of kids' grades",
+                "Search puts exact and starts-with matches first and stays fast with huge word lists",
+            ),
+        ),
+        AppRelease(
+            versionCode = 13,
+            versionName = "0.3.6",
+            editionName = "Daily Habit",
+            highlights = listOf(
+                "New home screen widget shows today's word and definition, and rolls over at midnight",
+                "Your word history and calendar in Library now fill in properly",
+                "Leaving the app open overnight now brings in the new day's word when you return",
+                "Each calendar date gets a fresh word every year instead of repeating",
+                "Pronunciation now speaks words in English and works on the first tap",
+            ),
+        ),
+        AppRelease(
             versionCode = 12,
             versionName = "0.3.5",
             editionName = "Daily Habit",

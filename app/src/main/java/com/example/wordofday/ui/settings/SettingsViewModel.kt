@@ -125,6 +125,7 @@ class SettingsViewModel(application: Application) : AndroidViewModel(application
     fun setLexiconSacred(enabled: Boolean) = updateLexicon { it.copy(includeSacredReference = enabled) }
 
     fun setLexiconLiterary(enabled: Boolean) = updateLexicon { it.copy(includeLiteraryHistorical = enabled) }
+    fun setLexiconVintage(enabled: Boolean) = updateLexicon { it.copy(includeVintage = enabled) }
 
     private fun updateLexicon(transform: (LexiconPreferences) -> LexiconPreferences) {
         viewModelScope.launch {

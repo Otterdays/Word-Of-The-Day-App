@@ -273,8 +273,8 @@ fun SettingsScreen(
                 )
                 Spacer(modifier = Modifier.height(12.dp))
                 LexiconToggle(
-                    title = "WordNet dictionary",
-                    subtitle = "Princeton WordNet definitions + synonyms",
+                    title = "Open dictionary",
+                    subtitle = "100k+ words with pronunciations, origins and examples",
                     checked = prefs.lexicon.includeWordNet,
                     onCheckedChange = viewModel::setLexiconWordNet,
                 )
@@ -295,6 +295,20 @@ fun SettingsScreen(
                     subtitle = "Philosophy, grey history, mature themes",
                     checked = prefs.lexicon.includeLiteraryHistorical,
                     onCheckedChange = viewModel::setLexiconLiterary,
+                )
+                LexiconToggle(
+                    title = "Vintage words",
+                    subtitle = "Forgotten gems from Webster's 1913 dictionary",
+                    checked = prefs.lexicon.includeVintage,
+                    onCheckedChange = viewModel::setLexiconVintage,
+                )
+                Spacer(modifier = Modifier.height(12.dp))
+                Text(
+                    text = "Word sources: Open English WordNet (CC BY 4.0) · Wiktionary via kaikki.org " +
+                        "(CC BY-SA 4.0) · CMU Pronouncing Dictionary (BSD) · Webster's 1913 (public domain) · " +
+                        "wordfreq (grade levels).",
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
                 )
                 Spacer(modifier = Modifier.height(24.dp))
                 Text(

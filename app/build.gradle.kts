@@ -13,8 +13,8 @@ android {
         applicationId = "com.example.wordofday"
         minSdk = 26
         targetSdk = 36
-        versionCode = 12
-        versionName = "0.3.5"
+        versionCode = 14
+        versionName = "0.4.0"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }

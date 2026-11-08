@@ -162,7 +162,7 @@ Checklist-style plan from **current Gradle sample** to a **successful** phone + 
 
 ## 7. Post-v1 (backlog ideas)
 
-- [ ] Home screen **widget** showing today’s word.
+- [x] Home screen **widget** showing today’s word. `[AMENDED 2026-11-03]:` Shipped in **0.3.6** (`widget/WordWidgetProvider.kt`).
 - [ ] **Daily notification** (user opt-in) via WorkManager.
 - [ ] **Offline history** with Room.
 - [ ] **Localization** of UI strings (word content may stay English-only depending on source).

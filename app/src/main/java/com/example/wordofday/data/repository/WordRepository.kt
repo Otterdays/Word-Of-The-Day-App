@@ -36,7 +36,7 @@ class WordRepository(context: Context) {
             val pool = words.filterForPreferencesInGrade(preferences)
             if (pool.isNotEmpty()) {
                 val index = selectionIndex(
-                    dayOfYear = date.dayOfYear,
+                    dayKey = date.toEpochDay().toInt(),
                     rotationOffset = rotationOffset,
                     poolSize = pool.size,
                     salt = categorySalt,
@@ -140,15 +140,39 @@ class WordRepository(context: Context) {
     ): List<WordEntry> = withContext(Dispatchers.IO) {
         val q = query.trim().lowercase()
         if (q.isEmpty()) return@withContext browseWords(preferences, limit)
-        expandedPool(preferences).filter { entry ->
-            entry.word.lowercase().contains(q) ||
-                entry.definition.lowercase().contains(q) ||
-                entry.synonyms.any { it.lowercase().contains(q) }
-        }.take(limit).presentAll()
+        // Walk grades nearest-first and stop once we have enough hits, so a 100k+ lexicon
+        // never has to be loaded into memory all at once.
+        val seen = HashSet<String>()
+        val wordHits = mutableListOf<WordEntry>()
+        val otherHits = mutableListOf<WordEntry>()
+        for (grade in gradeSearchOrder(preferences.gradeLevel)) {
+            for (entry in dataSource.loadWordsForGrade(grade, preferences.lexicon)) {
+                val key = entry.word.lowercase()
+                if (key in seen) continue
+                when {
+                    key.contains(q) -> { seen += key; wordHits += entry }
+                    otherHits.size < limit && (
+                        entry.definition.lowercase().contains(q) ||
+                            entry.synonyms.any { it.lowercase().contains(q) }
+                        ) -> { seen += key; otherHits += entry }
+                }
+            }
+            if (wordHits.size >= limit) break
+        }
+        // Exact match first, then prefix matches, then other lemma hits, then definition hits.
+        wordHits.sortedWith(
+            compareBy<WordEntry>(
+                { it.word.lowercase() != q },
+                { !it.word.lowercase().startsWith(q) },
+                { it.word.length },
+            ),
+        ).plus(otherHits).take(limit).presentAll()
     }
 
     private suspend fun expandedPool(preferences: UserPreferences): List<WordEntry> {
+        // Nearest grades only — enough for browsing without loading the whole lexicon.
         val merged = gradeSearchOrder(preferences.gradeLevel)
+            .take(BROWSE_GRADE_SPAN)
             .flatMap { dataSource.loadWordsForGrade(it, preferences.lexicon) }
             .distinctBy { it.word.lowercase() }
         val filtered = merged.filterForPreferencesInGrade(preferences)
@@ -160,11 +184,13 @@ class WordRepository(context: Context) {
     private suspend fun List<WordEntry>.presentAll(): List<WordEntry> = map { it.present() }
 
     companion object {
+        private const val BROWSE_GRADE_SPAN = 3
         private fun preferencesLexiconAll() = LexiconPreferences(
             includeWordNet = true,
             includeMythology = true,
             includeSacredReference = true,
             includeLiteraryHistorical = true,
+            includeVintage = true,
         )
         private val FALLBACK_WORD = WordEntry(
             word = "Serendipity",
@@ -178,14 +204,18 @@ class WordRepository(context: Context) {
     }
 }
 
+/**
+ * Deterministic pick. Keyed on epoch day (not day-of-year) so the same calendar
+ * date gets a different word each year instead of repeating annually.
+ */
 internal fun selectionIndex(
-    dayOfYear: Int,
+    dayKey: Int,
     rotationOffset: Int,
     poolSize: Int,
     salt: Int = 0,
 ): Int {
     if (poolSize <= 0) return 0
-    var hash = dayOfYear xor
+    var hash = dayKey xor
         (rotationOffset * 0x9E3779B9.toInt()) xor
         (salt * 0x85EBCA6B.toInt())
     hash = hash xor (hash shl 16)

@@ -10,8 +10,10 @@ enum class ContentSource(val displayLabel: String, val attribution: String) {
         attribution = "Original Word of the Day editorial corpus.",
     ),
     WORDNET(
-        displayLabel = "WordNet",
-        attribution = "Princeton WordNet © Princeton University. WordNet License.",
+        displayLabel = "Open Dictionary",
+        attribution = "Open English WordNet (CC BY 4.0), derived from Princeton WordNet © Princeton University. " +
+            "Pronunciations, etymologies and examples from Wiktionary (CC BY-SA 4.0) via kaikki.org; " +
+            "pronunciation fallback from the CMU Pronouncing Dictionary (BSD).",
     ),
     MYTHOLOGY(
         displayLabel = "Myth & Lore",
@@ -24,6 +26,10 @@ enum class ContentSource(val displayLabel: String, val attribution: String) {
     LITERARY_HISTORICAL(
         displayLabel = "Literary & Historical",
         attribution = "Public-domain literature and historical vocabulary references.",
+    ),
+    VINTAGE(
+        displayLabel = "Webster 1913",
+        attribution = "Webster's Revised Unabridged Dictionary (1913), public domain via Project Gutenberg.",
     ),
 }
 

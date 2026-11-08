@@ -27,6 +27,7 @@ private object Keys {
     val lexiconMythology = booleanPreferencesKey("lexicon_mythology")
     val lexiconSacred = booleanPreferencesKey("lexicon_sacred")
     val lexiconLiterary = booleanPreferencesKey("lexicon_literary")
+    val lexiconVintage = booleanPreferencesKey("lexicon_vintage")
 }
 
 class UserPreferencesRepository(private val context: Context) {
@@ -54,6 +55,7 @@ class UserPreferencesRepository(private val context: Context) {
             m[Keys.lexiconMythology] = lexicon.includeMythology
             m[Keys.lexiconSacred] = lexicon.includeSacredReference
             m[Keys.lexiconLiterary] = lexicon.includeLiteraryHistorical
+            m[Keys.lexiconVintage] = lexicon.includeVintage
         }
     }
 
@@ -75,6 +77,7 @@ class UserPreferencesRepository(private val context: Context) {
             m[Keys.lexiconMythology] = defaults.lexicon.includeMythology
             m[Keys.lexiconSacred] = defaults.lexicon.includeSacredReference
             m[Keys.lexiconLiterary] = defaults.lexicon.includeLiteraryHistorical
+            m[Keys.lexiconVintage] = defaults.lexicon.includeVintage
         }
     }
 
@@ -94,6 +97,7 @@ class UserPreferencesRepository(private val context: Context) {
                 includeMythology = this[Keys.lexiconMythology] ?: false,
                 includeSacredReference = this[Keys.lexiconSacred] ?: false,
                 includeLiteraryHistorical = this[Keys.lexiconLiterary] ?: false,
+                includeVintage = this[Keys.lexiconVintage] ?: false,
             ),
         )
     }

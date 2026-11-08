@@ -1,6 +1,7 @@
 package com.example.wordofday.ui.home
 
 import androidx.activity.compose.LocalActivity
+import androidx.lifecycle.compose.LifecycleResumeEffect
 import androidx.compose.animation.AnimatedVisibility
 import androidx.compose.animation.fadeIn
 import androidx.compose.animation.slideInVertically
@@ -103,6 +104,10 @@ fun HomeScreen(
 ) {
     val uiState by viewModel.uiState.collectAsState()
     val quickSwitchVisible by viewModel.quickSwitchVisible.collectAsState()
+    LifecycleResumeEffect(viewModel) {
+        viewModel.onResume()
+        onPauseOrDispose { }
+    }
     val isRefreshing = when (val state = uiState) {
         HomeUiState.Loading -> true
         is HomeUiState.Success -> state.isRefreshing
